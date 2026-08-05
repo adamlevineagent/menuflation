@@ -1,0 +1,14 @@
+{
+  "cities": [
+    {"name": "roseburg", "query": "roseburg oregon", "state": "OR"},
+    {"name": "ashland", "query": "ashland oregon", "state": "OR"},
+    {"name": "bend", "query": "bend oregon", "state": "OR"},
+    {"name": "klamath-falls", "query": "klamath falls oregon", "state": "OR"},
+    {"name": "redding", "query": "redding california", "state": "CA"},
+    {"name": "santa-rosa", "query": "santa rosa california", "state": "CA"}
+  ],
+  "chains": [
+    "mcdonalds", "wendys", "burger king", "jack in the box",
+    "taco bell", "in-n-out burger", "five guys", "dairy queen"
+  ]
+}
