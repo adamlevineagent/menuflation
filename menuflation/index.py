@@ -21,7 +21,7 @@ def price_series(conn, canonical_id=None, place_id=None):
     canonical+size so price movements compare like-for-like — a $3.99 corn
     dog variant must not masquerade as inflation of the $2.99 corn dog.
     """
-    q = ("SELECT ci.name, pl.name, COALESCE(m.size, '') sz, m.observed_on, "
+    q = ("SELECT ci.name, pl.name, pl.id, COALESCE(m.size, '') sz, m.observed_on, "
          "m.price, m.date_source src, m.id "
          "FROM menu_lines m "
          "JOIN canonical_items ci ON ci.id=m.canonical_id "
@@ -36,12 +36,13 @@ def price_series(conn, canonical_id=None, place_id=None):
         args.append(place_id)
     q += " ORDER BY m.observed_on"
     buckets = defaultdict(list)
-    for canon, place, sz, obs, price, src, _ in conn.execute(q, args):
-        buckets[(canon, place, sz, obs)].append((price, src))
+    for canon, place, place_id_v, sz, obs, price, src, _ in conn.execute(q, args):
+        buckets[(canon, place, place_id_v, sz, obs)].append((price, src))
     out = []
-    for (canon, place, sz, obs), vals in sorted(buckets.items()):
+    for (canon, place, place_id_v, sz, obs), vals in sorted(buckets.items()):
         prices = [v[0] for v in vals]
         out.append({"item": canon, "size": sz or None, "place": place,
+                    "place_id": place_id_v,
                     "observed_on": obs, "date_source": vals[0][1],
                     "median": round(statistics.median(prices), 2),
                     "n": len(prices)})
@@ -52,7 +53,7 @@ def yoy_change(series, lookback_days=365):
     """For each (item, size, place): pct change latest vs ~1y-earlier median."""
     by_key = defaultdict(list)
     for s in series:
-        by_key[(s["item"], s["size"], s["place"])].append(s)
+        by_key[(s["item"], s["size"], s.get("place_id", s["place"]))].append(s)
     out = []
     for (item, size, place), pts in by_key.items():
         if len(pts) < 2:
@@ -174,13 +175,13 @@ def tier_rates(conn):
 
     The tier-divergence view: fancy vs fast-food inflate differently.
     """
-    tiers = {r["name"]: r["tier"] or "unknown"
-             for r in conn.execute("SELECT name, tier FROM places")}
+    tiers = {r["id"]: r["tier"] or "unknown"
+             for r in conn.execute("SELECT id, tier FROM places")}
     by_key = defaultdict(list)
     for s in price_series(conn):
         if s.get("date_source") == "fallback":
             continue
-        by_key[(s["item"], s["size"], s["place"])].append(s)
+        by_key[(s["item"], s["size"], s.get("place_id", s["place"]))].append(s)
     by_tier = defaultdict(list)
     for key, pts in by_key.items():
         pts.sort(key=lambda x: x["observed_on"])
@@ -224,7 +225,7 @@ def aggregate_index(conn, min_gap_days=180):
     for s in series:
         if s["date_source"] == "fallback":
             continue
-        by_key[(s["item"], s["size"], s["place"])].append(s)
+        by_key[(s["item"], s["size"], s.get("place_id", s["place"]))].append(s)
     pairs = []  # (month, ratio, item, size, place)
     for key, pts in by_key.items():
         pts.sort(key=lambda x: x["observed_on"])
@@ -239,7 +240,7 @@ def aggregate_index(conn, min_gap_days=180):
             if gap < min_gap_days:
                 continue
             pairs.append((b["observed_on"][:7], b["median"] / a["median"],
-                          key[0], key[2], key[1]))
+                          key[0], b["place"], key[1]))
     months = defaultdict(list)
     for month, r, item, place, size in pairs:
         months[month].append({"ratio": r, "item": item, "place": place,
