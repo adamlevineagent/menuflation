@@ -97,11 +97,12 @@ def ingest(conn, extractions_dir="data/extractions",
         n_menus += 1
         cur = result.get("currency_iso")
         hints = json.dumps(result.get("date_hints") or [], ensure_ascii=False)
-        # Date: explicit DOM-label date > EXIF capture date > fallback
+        # Date: explicit override (carries its own source) > EXIF > fallback
         obs_override = payload.get("observed_on")
         ref_key = os.path.basename(payload.get("src") or name).rsplit(".", 1)[0][:40]
         if obs_override:
-            obs, date_source = obs_override, "dom"
+            obs = obs_override
+            date_source = payload.get("date_source") or "dom"
         else:
             obs = date_by_ref.get(ref_key)
             date_source = "exif" if obs else "fallback"

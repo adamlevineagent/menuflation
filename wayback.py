@@ -112,7 +112,8 @@ def discover_menu_urls(base_url):
     return found[:10]
 
 
-def extract_and_store(ts, url, content, place_id, out_dir="data/extractions/wayback"):
+def extract_and_store(ts, url, content, place_id, out_dir="data/extractions/wayback",
+                      date_source="wayback"):
     """Extract prices from a snapshot and write a dated extraction JSON."""
     if is_pdf(content):
         text = pdf_to_text(content)
@@ -124,14 +125,42 @@ def extract_and_store(ts, url, content, place_id, out_dir="data/extractions/wayb
     obs = f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}"
     payload = {"photo": f"wb/{ts}/{url}", "place_id": place_id,
                "src": f"{WEB}{ts}/{url}", "observed_on": obs,
+               "date_source": date_source,
                "result": res["data"], "cost_usd": res["cost_usd"],
                "wayback_ts": ts}
     outdir = os.path.join(out_dir, place_id or "unknown")
     os.makedirs(outdir, exist_ok=True)
     fname = re.sub(r"[^a-z0-9]+", "_", url.split("//")[-1])[:40] + f"_{ts}.json"
-    with open(os.path.join(outdir, fname), "w", encoding="utf-8") as f:
+    dest = os.path.join(outdir, fname)
+    if os.path.exists(dest):  # idempotent: don't re-spend on re-runs
+        return None
+    with open(dest, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=1, ensure_ascii=False)
     return payload
+
+
+def harvest_pdf(url, place_id=None, observed_on=None):
+    """Download a live PDF menu, extract, store as a dated observation.
+
+    Versioned menu PDFs (e.g. Long Meadow Ranch's Main_Menu_2026_06.pdf)
+    carry their menu date in the filename — pass it as observed_on
+    (YYYY-MM-DD). date_source='pdf'.
+    """
+    r = _get(url, timeout=90)
+    if not r or not is_pdf(r.content):
+        print(f"{url}: not a PDF or fetch failed")
+        return None
+    if not observed_on:
+        m = re.search(r"(\d{4})[_-]?(\d{2})", url)
+        observed_on = f"{m.group(1)}-{m.group(2)}-15" if m else None
+    if not observed_on:
+        print(f"{url}: no date in filename — skipping (undated PDFs aren't "
+              f"observations)")
+        return None
+    ts = observed_on.replace("-", "")
+    return extract_and_store(ts, url, r.content, place_id,
+                             out_dir="data/extractions/wayback",
+                             date_source="pdf")
 
 
 def harvest(url, place_id=None, max_snapshots=24):

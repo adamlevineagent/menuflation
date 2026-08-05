@@ -177,9 +177,18 @@ def extract_menu_text(menu_text, api_key=None, model=DEFAULT_MODEL, timeout=120)
         "temperature": 0,
         "response_format": {"type": "json_object"},
     }
-    r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=timeout)
+    last_err = None
+    for attempt in range(3):  # upstream 429s are transient — back off, retry
+        r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=timeout)
+        if r.status_code == 200:
+            break
+        last_err = f"extract_menu_text HTTP {r.status_code}: {r.text[:200]}"
+        if r.status_code in (429, 500, 502, 503):
+            time.sleep(3 + 4 * attempt)
+            continue
+        raise ExtractionError(last_err)
     if r.status_code != 200:
-        raise ExtractionError(f"extract_menu_text HTTP {r.status_code}: {r.text[:300]}")
+        raise ExtractionError(last_err)
     data = r.json()
     usage = data.get("usage", {})
     c, tin, tout = cost_usd(usage)

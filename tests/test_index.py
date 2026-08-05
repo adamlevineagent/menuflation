@@ -82,3 +82,30 @@ def test_write_report_csv_schema(conn, tmp_path):
     with open(tmp_path / "t_series.csv", encoding="utf-8") as f:
         header = next(iter(f)).strip()
     assert "date_source" in header and "size" in header, header
+
+
+def test_ingest_honors_date_source(tmp_path):
+    """db.ingest must honor an explicit observed_on + date_source override."""
+    import json as _json
+
+    from menuflation import db as _db
+
+    (tmp_path / "places").mkdir()
+    (tmp_path / "extractions" / "wb").mkdir(parents=True)
+    _json.dump({"query": "q", "slug": "s", "places": [
+        {"id": "P1", "name": "Farmstead", "photos": [
+            {"name": "places/P1/photos/X", "file": "x"}]}]},
+        open(tmp_path / "places" / "s.json", "w"))
+    _json.dump({"photo": "wb/20260615/https://x/menu.pdf",
+                "place_id": "P1", "src": "https://x/menu.pdf",
+                "observed_on": "2026-06-15", "date_source": "pdf",
+                "result": {"is_menu": True, "currency_iso": "USD",
+                           "items": [{"name": "Burger", "price": 9.95}]}},
+        open(tmp_path / "extractions" / "wb" / "m.json", "w"))
+    conn = _db.connect(str(tmp_path / "t.db"))
+    _db.ingest(conn, extractions_dir=str(tmp_path / "extractions"),
+               places_dir=str(tmp_path / "places"), observed_on="2026-08-05")
+    row = conn.execute(
+        "SELECT observed_on, date_source FROM menu_lines").fetchone()
+    assert row["observed_on"] == "2026-06-15", dict(row)
+    assert row["date_source"] == "pdf", dict(row)
