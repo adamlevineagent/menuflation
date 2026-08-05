@@ -13,6 +13,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+from menuflation import index  # noqa: E402
 from menuflation.extract.qwen_vision import check_key  # noqa: E402
 
 OUT = os.path.join("data", "reports", "dashboard.html")
@@ -83,6 +84,9 @@ def build(conn):
         "series": series,
         "lines": lines,
         "places": pstats,
+        "aggregate": index.aggregate_index(conn),
+        "coverage": index.coverage_matrix(conn),
+        "yoy": index.yoy_change(index.price_series(conn)),
     }
     html = TEMPLATE.replace("__DATA__", json.dumps(payload, ensure_ascii=False))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
@@ -146,8 +150,21 @@ td.px{font-family:var(--mono)} td.dim{color:var(--dim)} td.acc{color:var(--acc)}
 
 <div class="grid cards" id="cards"></div>
 
+<h2>Menuflation index <span class="n" id="aggN"></span></h2>
+<div class="panel">
+  <div id="aggEmpty" class="dim" style="display:none">No dated same-store pairs yet — the index needs 2+ dated observations of the same item at the same store (photos or Wayback).</div>
+  <canvas id="aggChart" style="max-height:220px;display:none"></canvas>
+  <table id="aggPairs" style="margin-top:14px"></table>
+</div>
+
 <h2>Dated price series <span class="n" id="seriesN"></span></h2>
 <div class="chartgrid" id="charts"></div>
+
+<h2>Same-store YoY <span class="n" id="yoyN"></span></h2>
+<div class="panel"><table id="yoy"></table></div>
+
+<h2>Dated coverage <span class="n" id="covN"></span></h2>
+<div class="panel"><table id="cov"></table></div>
 
 <h2>All priced lines <span class="n" id="linesN"></span></h2>
 <div class="panel"><table id="lines"></table></div>
@@ -171,6 +188,40 @@ const cards = [
 ];
 $("cards").innerHTML = cards.map(([k, v, cls, small]) =>
   `<div class="card"><div class="k">${k}</div><div class="v ${cls}">${v}<small>${small||""}</small></div></div>`).join("");
+
+// aggregate menuflation index
+const A = D.aggregate;
+if (A.overall) {
+  cards.unshift(["annualized rate", (A.overall.annualized*100).toFixed(1) + "%",
+    A.overall.annualized > 0.001 ? "acc" : "amb", " /yr · " + A.overall.n_pairs + " pairs"]);
+  $("cards").innerHTML = cards.map(([k, v, cls, small]) =>
+    `<div class="card"><div class="k">${k}</div><div class="v ${cls}">${v}<small>${small||""}</small></div></div>`).join("");
+}
+$("aggN").textContent = A.overall ? `(median ratio · ${A.overall.from} → ${A.overall.to})` : "";
+if (A.months.length) {
+  $("aggChart").style.display = "block";
+  new Chart($("aggChart"), {
+    type: "bar",
+    data: { labels: A.months.map(m => m.month),
+      datasets: [{ data: A.months.map(m => m.index),
+        backgroundColor: A.months.map(m => m.index >= 1 ? "rgba(231,76,60,.6)" : "rgba(88,214,141,.6)"),
+        borderRadius: 4 }]},
+    options: { plugins: { legend: { display: false },
+      tooltip: { callbacks: { label: c => (c.parsed.y*100).toFixed(1) + "% (n=" + A.months[c.dataIndex].n + ")" } } },
+      scales: { x: { ticks: { color: "#8b98a9" }, grid: { color: "#1e2a3a" } },
+                y: { ticks: { color: "#8b98a9", callback: v => (v*100).toFixed(0) + "%" },
+                     grid: { color: "#1e2a3a" } } } }
+  });
+  const pairs = [];
+  A.months.forEach(m => m.items.forEach(it => pairs.push(Object.assign({}, it, { month: m.month }))));
+  pairs.sort((a, b) => Math.abs(b.ratio - 1) - Math.abs(a.ratio - 1));
+  $("aggPairs").innerHTML = `<tr><th>month</th><th>change</th><th>item</th><th>size</th><th>store</th></tr>` +
+    pairs.map(p => `<tr><td class="px">${p.month}</td>
+      <td class="px ${p.ratio >= 1 ? 'acc' : 'dim'}">${((p.ratio - 1) * 100).toFixed(1)}%</td>
+      <td>${p.item}</td><td class="dim">${p.size || ""}</td><td>${p.place}</td></tr>`).join("");
+} else {
+  $("aggEmpty").style.display = "block";
+}
 
 // charts
 const charts = D.series;
@@ -200,6 +251,20 @@ for (const s of charts) {
                              grid: { color: "#1e2a3a" } } } }
   });
 }
+
+// same-store YoY
+$("yoyN").textContent = "(" + D.yoy.length + ")";
+$("yoy").innerHTML = `<tr><th>item</th><th>size</th><th>store</th><th>from</th><th>to</th><th>change</th></tr>` +
+  D.yoy.map(y => `<tr><td>${y.item}</td><td class="dim">${y.size || ""}</td><td>${y.place}</td>
+    <td class="px">${y.from} ${fmt(y.from_price)}</td><td class="px">${y.to} ${fmt(y.to_price)}</td>
+    <td class="px ${y.pct > 0.5 ? 'acc' : (y.pct < -0.5 ? 'dim' : '')}">${y.pct > 0 ? '+' : ''}${y.pct}%</td></tr>`).join("");
+
+// dated coverage matrix (places x years)
+const C = D.coverage;
+$("covN").textContent = "(" + Object.keys(C.matrix).length + " places)";
+$("cov").innerHTML = `<tr><th>place</th>${C.years.map(y => `<th>${y}</th>`).join("")}</tr>` +
+  Object.entries(C.matrix).map(([name, yrs]) =>
+    `<tr><td>${name}</td>${C.years.map(y => `<td class="px">${yrs[y] || "·"}</td>`).join("")}</tr>`).join("");
 
 // lines table
 $("linesN").textContent = "(" + D.lines.length + ")";

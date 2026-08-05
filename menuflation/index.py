@@ -21,7 +21,7 @@ def price_series(conn, canonical_id=None, place_id=None):
     dog variant must not masquerade as inflation of the $2.99 corn dog.
     """
     q = ("SELECT ci.name, pl.name, COALESCE(m.size, '') sz, m.observed_on, "
-         "m.price, m.id "
+         "m.price, m.date_source src, m.id "
          "FROM menu_lines m "
          "JOIN canonical_items ci ON ci.id=m.canonical_id "
          "JOIN places pl ON pl.id=m.place_id "
@@ -35,13 +35,15 @@ def price_series(conn, canonical_id=None, place_id=None):
         args.append(place_id)
     q += " ORDER BY m.observed_on"
     buckets = defaultdict(list)
-    for canon, place, sz, obs, price, _ in conn.execute(q, args):
-        buckets[(canon, place, sz, obs)].append(price)
+    for canon, place, sz, obs, price, src, _ in conn.execute(q, args):
+        buckets[(canon, place, sz, obs)].append((price, src))
     out = []
-    for (canon, place, sz, obs), prices in sorted(buckets.items()):
+    for (canon, place, sz, obs), vals in sorted(buckets.items()):
+        prices = [v[0] for v in vals]
         out.append({"item": canon, "size": sz or None, "place": place,
-                    "observed_on": obs,
-                    "median": round(statistics.median(prices), 2), "n": len(prices)})
+                    "observed_on": obs, "date_source": vals[0][1],
+                    "median": round(statistics.median(prices), 2),
+                    "n": len(prices)})
     return out
 
 
@@ -77,6 +79,81 @@ def yoy_change(series, lookback_days=365):
     return out
 
 
+def aggregate_index(conn, min_gap_days=180):
+    """Chained menuflation index from dated same-store same-item series.
+
+    Every (item, size, place) with 2+ dated observations contributes a price
+    ratio per consecutive pair (only pairs >= min_gap_days apart, so
+    same-day re-photographs don't masquerade as movement). Ratios are
+    bucketed by observation month and combined with the geometric mean —
+    a mini-CPI over our own menu data.
+
+    Returns {"months": [{month, n, index, items:[...]}], "overall": {...}}
+    (tier/city/source breakdowns are composed in the dashboard from the
+    same series — see dashboard.py).
+    """
+    import datetime as _dt
+
+    series = price_series(conn)
+    by_key = defaultdict(list)
+    for s in series:
+        if s["date_source"] == "fallback":
+            continue
+        by_key[(s["item"], s["size"], s["place"])].append(s)
+    pairs = []  # (month, ratio, item, size, place)
+    for key, pts in by_key.items():
+        pts.sort(key=lambda x: x["observed_on"])
+        for a, b in zip(pts, pts[1:]):
+            if not (a["median"] and b["median"]):
+                continue
+            try:
+                gap = (_dt.date.fromisoformat(b["observed_on"])
+                       - _dt.date.fromisoformat(a["observed_on"])).days
+            except ValueError:
+                gap = min_gap_days  # unparseable dates: count it
+            if gap < min_gap_days:
+                continue
+            pairs.append((b["observed_on"][:7], b["median"] / a["median"],
+                          key[0], key[2], key[1]))
+    months = defaultdict(list)
+    for month, r, item, place, size in pairs:
+        months[month].append({"ratio": r, "item": item, "place": place,
+                              "size": size})
+    out = []
+    for month in sorted(months):
+        rs = [m["ratio"] for m in months[month]]
+        # median ratio: robust — a single mismatched pair (e.g. a flavor
+        # variant read as a size change) must not move the aggregate.
+        out.append({"month": month, "n": len(rs),
+                    "index": round(statistics.median(rs), 4),
+                    "items": months[month]})
+    overall = None
+    if len(out) >= 2:
+        first, last = out[0], out[-1]
+        days = (_dt.date.fromisoformat(last["month"] + "-15")
+                - _dt.date.fromisoformat(first["month"] + "-15")).days
+        years = max(days / 365.25, 0.25)
+        overall = {"from": first["month"], "to": last["month"],
+                   "n_pairs": sum(m["n"] for m in out),
+                   "annualized": round((last["index"] / first["index"])
+                                       ** (1 / years) - 1, 4)}
+    return {"months": out, "overall": overall}
+
+
+def coverage_matrix(conn):
+    """places x year counts of DATED observations — the temporal-depth map."""
+    rows = conn.execute(
+        "SELECT pl.name, substr(m.observed_on,1,4) yr, COUNT(*) "
+        "FROM menu_lines m JOIN places pl ON pl.id=m.place_id "
+        "WHERE m.date_source IN ('exif','dom','wayback') "
+        "GROUP BY pl.name, yr").fetchall()
+    years = sorted({r[1] for r in rows})
+    matrix = {r[0]: {} for r in rows}
+    for name, yr, n in rows:
+        matrix[name][yr] = n
+    return {"years": years, "matrix": matrix}
+
+
 def cross_sectional(conn):
     """Median price per (canonical item, place) + place and chain stats."""
     series = price_series(conn)
@@ -102,9 +179,11 @@ def write_report(conn, out_dir="data/reports", name="report"):
     with open(os.path.join(out_dir, f"{name}_series.csv"), "w", newline="",
               encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["item", "size", "place",
-                                          "observed_on", "median", "n"])
+                                          "observed_on", "date_source",
+                                          "median", "n"])
         w.writeheader()
-        w.writerows(rep["series"])
+        # tolerant: only the declared columns, whatever else series carries
+        w.writerows({k: s.get(k) for k in w.fieldnames} for s in rep["series"])
     with open(os.path.join(out_dir, f"{name}_places.csv"), "w", newline="",
               encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["place", "items", "median_item_price"])
