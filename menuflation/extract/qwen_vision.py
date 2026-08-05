@@ -43,6 +43,7 @@ Rules:
 - If an item has no readable price, omit it.
 - Handwritten prices count. Discounts, happy-hour rows, and combos count — capture them with notes.
 - old_price is for struck-through or crossed-out prices — critical for inflation tracking.
+- Measurements and sizes go in size or unit, NEVER in the name: "1/2 lb Colossal Burger" -> name "Colossal Burger", size "1/2 lb". "Coffee 12 oz" -> name "Coffee", size "12 oz".
 - If is_menu is false, return {"is_menu": false, "items": []} and nothing else.
 """
 
