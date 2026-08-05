@@ -39,7 +39,7 @@ def series_for_charts(lines):
     """[(item, place, city, state, [(date, price)...])] for dated items."""
     buckets = {}
     for l in lines:
-        if l["src"] != "exif":
+        if l["src"] not in ("exif", "dom"):
             continue
         key = (l["item"], l["place"], l["city"], l["state"])
         buckets.setdefault(key, []).append((l["obs"], l["price"]))
@@ -59,7 +59,7 @@ def series_for_charts(lines):
 def build(conn):
     places, lines = load(conn)
     series = series_for_charts(lines)
-    n_exif = sum(1 for l in lines if l["src"] == "exif")
+    n_exif = sum(1 for l in lines if l["src"] in ("exif", "dom"))
     # place stats
     pstats = []
     for p in places:
