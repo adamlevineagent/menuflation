@@ -39,6 +39,7 @@ CREATE INDEX IF NOT EXISTS idx_lines_obs ON menu_lines(observed_on);
 def connect(path="data/menuflation.db"):
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     conn = sqlite3.connect(path)
+    conn.row_factory = sqlite3.Row  # keys() + positional indexing both work
     conn.executescript(SCHEMA)
     return conn
 

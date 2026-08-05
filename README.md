@@ -1,38 +1,55 @@
 # menuflation
 
-Reads menu photos from Google Maps listings, extracts item prices with a cheap
-vision model (qwen/qwen3.7-flash via OpenRouter, ~$0.0001/photo), and tracks
-real food-price inflation across places, cities, and countries over time.
+**Real food-price inflation, tracked from Google Maps menu photos.**
 
-## Why it works
+Restaurant menu photos on Google Maps are a decade-long global price
+time-series sitting in plain sight. menuflation collects them, reads the
+prices with a cheap vision model, and turns them into dated price series —
+per item, per place, per city.
 
-Google Maps menu photos carry upload dates. A photo of a menu board uploaded
-in 2019 is a price observation for 2019 — so a place's photo history is a
-price time-series, and the whole planet's is a global inflation dataset.
+## How it works
 
-## Pipeline
-
-1. **collect** — pull menu photos (upload dates included) for places on a
-   curated list. Backends: Google Maps, official Places API (needs a Google
-   key), or a local import folder.
-2. **extract** — qwen vision -> strict JSON (items, prices, currency,
-   struck-through old prices, size/unit/qty).
-3. **match** — normalize item names/units, match across photos -> canonical
-   items per place.
-4. **index** — FX to USD (ECB rates via Frankfurter), per-place and
-   per-country price series, YoY % change, basket indices.
-5. **report** — CSV export + HTML dashboard.
+1. **collect** — `collect.py` runs a place list (`places.json`) through the
+   official Google Places API (new): `searchText` → photo references →
+   photo downloads at 2048px. Resumable per-place manifests.
+2. **extract** — `extract.py` sends every photo to `qwen/qwen3.7-flash`
+   (OpenRouter) with a strict JSON schema: items, prices, struck-through
+   old prices, sizes, currency. ~$0.0001/photo; resumable, deduped by ref.
+3. **date** — `upgrade_menus.py` re-downloads menu photos at 2048px, which
+   preserves EXIF `DateTimeOriginal` on most contributor photos (the 1280px
+   re-encode strips it). That capture date anchors the observation on the
+   time axis. `date_source` keeps EXIF-dated rows honest vs fallbacks.
+4. **match** — `pipeline.py` ingests into SQLite, canonicalizes item names
+   with portion-aware token-set matching (`Double Cheeseburger` ≠
+   `Cheeseburger`; `cheese burger` = `cheeseburger`), converts FX to USD
+   (ECB via Frankfurter), and writes price series + YoY + CSVs.
+5. **dashboard** — `dashboard.py` emits a self-contained dark-theme HTML
+   dashboard: dated price-series charts, per-place stats, budget meter.
 
 ## Quickstart
 
 ```bash
 python -m venv .venv
 .venv/Scripts/python -m pip install -r requirements.txt
-cp .env.example .env   # or edit .env with your OPENROUTER_API_KEY
-.venv/Scripts/python spike.py some_menu_photo.jpg
+# .env: OPENROUTER_API_KEY, GOOGLE_API_KEY
+.venv/Scripts/python collect.py      # photos for places.json
+.venv/Scripts/python extract.py      # classify + extract (OpenRouter)
+.venv/Scripts/python upgrade_menus.py  # hi-res menu photos + EXIF dates
+.venv/Scripts/python pipeline.py     # DB, matching, series
+.venv/Scripts/python dashboard.py    # data/reports/dashboard.html
 ```
 
 ## Budget
 
-qwen/qwen3.7-flash: $0.03 in / $0.13 out per 1M tokens. One menu photo is
-roughly 1.5k in + 400 out tokens ≈ $0.0001. The $10 test key ≈ 100k photos.
+- qwen3.7-flash: $0.03 in / $0.13 out per 1M tokens ≈ **$0.0001/photo**
+  (578 photos cost $0.045).
+- Places API (new): free tier covers ~11k place calls/month.
+- FX: Frankfurter (ECB) — free.
+
+## Notes
+
+- Photo upload dates would be ideal; the API doesn't expose them. EXIF
+  capture dates are the best available proxy and work on most contributor
+  photos at 2048px.
+- Some networks blackhole specific `googleapis.com` IPs — `places_api.py`
+  pins a verified-good anycast IP (getaddrinfo shim).
