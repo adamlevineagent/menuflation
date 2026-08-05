@@ -129,30 +129,34 @@ def extract_menu_photo(photo_path, api_key=None, model=DEFAULT_MODEL, timeout=18
     ]
     payload = {"model": model, "messages": [{"role": "user", "content": content}], "temperature": 0}
     last_err = None
-    for attempt in range(2):  # try strict json mode, then plain
-        body = dict(payload)
-        if attempt == 0:
-            body["response_format"] = {"type": "json_object"}
-        try:
-            r = requests.post(ENDPOINT, headers=headers, json=body, timeout=timeout)
-            if r.status_code != 200:
-                last_err = f"HTTP {r.status_code}: {r.text[:300]}"
-                if r.status_code in (400, 404, 422):
-                    continue  # retry without response_format
-                break
-            data = r.json()
-            usage = data.get("usage", {})
-            c, tin, tout = cost_usd(usage)
-            msg = data["choices"][0]["message"]["content"]
+    for outer in range(3):  # transient 429/5xx — back off and retry
+        for attempt in range(2):  # try strict json mode, then plain
+            body = dict(payload)
+            if attempt == 0:
+                body["response_format"] = {"type": "json_object"}
             try:
-                parsed = _parse_response(msg)
-            except json.JSONDecodeError:
-                parsed = {"raw": msg}
-            return {"ok": True, "data": parsed, "usage": usage, "tokens_in": tin,
-                    "tokens_out": tout, "cost_usd": round(c, 6), "model": model}
-        except requests.RequestException as e:
-            last_err = str(e)
-            time.sleep(1)
+                r = requests.post(ENDPOINT, headers=headers, json=body, timeout=timeout)
+                if r.status_code != 200:
+                    last_err = f"HTTP {r.status_code}: {r.text[:300]}"
+                    if r.status_code in (429, 500, 502, 503):
+                        time.sleep(3 + 4 * outer)
+                        break  # transient: outer retry
+                    if r.status_code in (400, 404, 422):
+                        continue  # retry without response_format
+                    break
+                data = r.json()
+                usage = data.get("usage", {})
+                c, tin, tout = cost_usd(usage)
+                msg = data["choices"][0]["message"]["content"]
+                try:
+                    parsed = _parse_response(msg)
+                except json.JSONDecodeError:
+                    parsed = {"raw": msg}
+                return {"ok": True, "data": parsed, "usage": usage, "tokens_in": tin,
+                        "tokens_out": tout, "cost_usd": round(c, 6), "model": model}
+            except requests.RequestException as e:
+                last_err = str(e)
+                time.sleep(1)
     raise ExtractionError(f"extraction failed: {last_err}")
 
 

@@ -25,13 +25,22 @@ from menuflation.extract.qwen_vision import extract_menu_photo  # noqa: E402
 from menuflation.sources import places_api  # noqa: E402,F401  (installs IP-pin shim)
 
 CDN = "https://lh3.googleusercontent.com/gps-cs-s/{}={}"
+SIZES = ("s1600-k-no", "s800-k-no", "s640-k-no", "s500-k-no", "s320-k-no",
+         "s160-k-no")
 
 
-def download_lh(token, dest, size="s1600-k-no"):
-    r = requests.get(CDN.format(token, size), timeout=60)
-    r.raise_for_status()
-    with open(dest, "wb") as f:
-        f.write(r.content)
+def download_lh(token, dest, size=None):
+    """Download a gallery photo; fall back down the size ladder on 400
+    (small originals reject upscaling to s1600)."""
+    last = None
+    for s in (SIZES if size is None else (size,)):
+        r = requests.get(CDN.format(token, s), timeout=60)
+        if r.status_code == 200:
+            with open(dest, "wb") as f:
+                f.write(r.content)
+            return
+        last = r
+    last.raise_for_status()
 
 
 def main(slug, place_id, dates_json):
