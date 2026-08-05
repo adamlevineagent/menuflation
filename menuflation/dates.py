@@ -6,6 +6,7 @@ available proxy for "when this menu was in effect" — it's what anchors a price
 observation on the time axis. Photos without EXIF fall back to the ingestion
 date (undated flag), so cross-sectional stats stay honest.
 """
+import datetime
 import logging
 import os
 import re
@@ -13,6 +14,32 @@ import re
 import exifread
 
 logging.getLogger("exifread").setLevel(logging.CRITICAL)  # quiet the PNG spam
+
+_MONTHS = {m: i for i, m in enumerate(
+    ["jan", "feb", "mar", "apr", "may", "jun",
+     "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+
+
+def label_to_date(label):
+    """Maps UI date labels to an ISO date.
+
+    'Photo - Jan 2024' -> 2024-01-15 (mid-month: the label has month precision)
+    'Posted 3 years ago' -> approx date (today minus N units)
+    Returns None for anything unrecognized.
+    """
+    if not label:
+        return None
+    m = re.match(r"Photo - (\w{3}) (\d{4})", label.strip())
+    if m:
+        mo = _MONTHS.get(m.group(1).lower())
+        if mo:
+            return f"{int(m.group(2))}-{mo:02d}-15"
+    m = re.match(r"Posted (\d+) (year|month|week|day)s? ago", label.strip())
+    if m:
+        n, unit = int(m.group(1)), m.group(2)
+        days = {"year": 365, "month": 30, "week": 7, "day": 1}[unit] * n
+        return (datetime.date.today() - datetime.timedelta(days=days)).isoformat()
+    return None
 
 _ISO = re.compile(r"^\d{4}:\d{2}:\d{2}([ T]\d{2}:\d{2}(:\d{2})?)?$")
 _MDY = re.compile(r"^\d{1,2}/\d{1,2}/\d{4}$")

@@ -84,7 +84,7 @@ def ingest(conn, extractions_dir="data/extractions",
         except json.JSONDecodeError:
             continue
         name = payload.get("photo", "")
-        pid = _place_id_from_photo_name(name)
+        pid = payload.get("place_id") or _place_id_from_photo_name(name)
         result = payload.get("result") or {}
         conn.execute(
             "INSERT INTO photos(ref,place_id,file,extracted_at,cost_usd) "
@@ -97,12 +97,15 @@ def ingest(conn, extractions_dir="data/extractions",
         n_menus += 1
         cur = result.get("currency_iso")
         hints = json.dumps(result.get("date_hints") or [], ensure_ascii=False)
-        # EXIF capture date for this photo's file (ref = last path segment).
-        # os.path.basename: src paths may use \ (Windows) or / (POSIX).
+        # Date: explicit DOM-label date > EXIF capture date > fallback
+        obs_override = payload.get("observed_on")
         ref_key = os.path.basename(payload.get("src") or name).rsplit(".", 1)[0][:40]
-        obs = date_by_ref.get(ref_key)
-        date_source = "exif" if obs else "fallback"
-        obs = obs or observed_on
+        if obs_override:
+            obs, date_source = obs_override, "dom"
+        else:
+            obs = date_by_ref.get(ref_key)
+            date_source = "exif" if obs else "fallback"
+            obs = obs or observed_on
         for it in result.get("items") or []:
             price = it.get("price")
             if price is None:

@@ -21,7 +21,12 @@ BASE = "https://places.googleapis.com/v1"
 # searchText AND photo media — 142.251.215.219 passes the root test but
 # misroutes both (GCS NoSuchBucket / InvalidArgument).
 PINNED_IPS = ["142.251.153.119"]
-PINNED_HOSTS = {"places.googleapis.com": PINNED_IPS}
+PINNED_HOSTS = {
+    "places.googleapis.com": PINNED_IPS,
+    # lh3 CDN: DNS hands out 142.251.219.129 (blackholed here); the
+    # 142.251.219.33 anycast edge serves everything (verified via curl).
+    "lh3.googleusercontent.com": ["142.251.219.33"],
+}
 
 _real_getaddrinfo = socket.getaddrinfo
 _pin_index = 0
@@ -63,7 +68,7 @@ def _headers(field_mask):
 
 def search_places(text_query, page_size=20,
                   field_mask=("places.id,places.displayName,places.formattedAddress,"
-                              "places.location,places.photos")):
+                              "places.location,places.priceLevel,places.photos")):
     """Text search -> list of place dicts with .photos[].name references."""
     r = requests.post(f"{BASE}/places:searchText", headers=_headers(field_mask),
                       json={"textQuery": text_query, "pageSize": page_size,
