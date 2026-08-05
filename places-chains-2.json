@@ -1,0 +1,14 @@
+[
+  {"query": "mcdonalds medford oregon", "slug": "mcdonalds-medford", "city": "Medford", "state": "OR"},
+  {"query": "wendys medford oregon", "slug": "wendys-medford", "city": "Medford", "state": "OR"},
+  {"query": "burger king medford oregon", "slug": "burger-king-medford", "city": "Medford", "state": "OR"},
+  {"query": "in-n-out medford oregon", "slug": "in-n-out-medford", "city": "Medford", "state": "OR"},
+  {"query": "taco bell medford oregon", "slug": "taco-bell-medford", "city": "Medford", "state": "OR"},
+  {"query": "mcdonalds eugene oregon", "slug": "mcdonalds-eugene", "city": "Eugene", "state": "OR"},
+  {"query": "wendys eugene oregon", "slug": "wendys-eugene", "city": "Eugene", "state": "OR"},
+  {"query": "in-n-out eugene oregon", "slug": "in-n-out-eugene", "city": "Eugene", "state": "OR"},
+  {"query": "mcdonalds salem oregon", "slug": "mcdonalds-salem", "city": "Salem", "state": "OR"},
+  {"query": "jack in the box eugene oregon", "slug": "jack-in-the-box-eugene", "city": "Eugene", "state": "OR"},
+  {"query": "mcdonalds sonoma", "slug": "mcdonalds-sonoma", "city": "Sonoma", "state": "CA"},
+  {"query": "in-n-out sonoma", "slug": "in-n-out-sonoma", "city": "Sonoma", "state": "CA"}
+]
