@@ -1,10 +1,13 @@
 """sweep_pdf_sites.py — harvest versioned menu PDFs across the pool's sites.
 
 For each place with a website: discover menu/PDF URLs (homepage + sitemap),
-then harvest every dated PDF (date from filename, date_source='pdf').
+then harvest every PDF. Versioned PDFs are dated from their filename;
+with --include-undated, undated live PDFs are harvested as TODAY's
+observation (the price as experienced now — honest, auditable, source='pdf').
 
-Usage: python scripts/sweep_pdf_sites.py [--limit N]
+Usage: python scripts/sweep_pdf_sites.py [--limit N] [--include-undated]
 """
+import datetime
 import json
 import os
 import sqlite3
@@ -26,7 +29,10 @@ def main():
         limit = int(sys.argv[sys.argv.index("--limit") + 1])
     if limit:
         sites = sites[:limit]
-    print(f"scanning {len(sites)} sites")
+    include_undated = "--include-undated" in sys.argv
+    today = datetime.date.today().isoformat()
+    print(f"scanning {len(sites)} sites "
+          f"(include-undated={include_undated})")
     for (site,) in sites:
         try:
             cands = discover_menu_urls(site)
@@ -35,7 +41,7 @@ def main():
             continue
         for c in cands[:5]:
             if c.lower().endswith(".pdf"):
-                p = harvest_pdf(c)
+                p = harvest_pdf(c, observed_on=today if include_undated else None)
                 if p:
                     d = p["result"]
                     print(f"  PDF {p['observed_on']} {d.get('is_menu')} "

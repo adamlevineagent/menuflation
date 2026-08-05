@@ -15,6 +15,7 @@ Pipeline per menu URL:
 
 Politeness: single UA, ~1s between CDX/fetch calls, backoff on 429/503.
 """
+import datetime
 import html as htmlmod
 import json
 import os
@@ -143,19 +144,25 @@ def harvest_pdf(url, place_id=None, observed_on=None):
     """Download a live PDF menu, extract, store as a dated observation.
 
     Versioned menu PDFs (e.g. Long Meadow Ranch's Main_Menu_2026_06.pdf)
-    carry their menu date in the filename — pass it as observed_on
-    (YYYY-MM-DD). date_source='pdf'.
+    carry their menu date in the filename — that wins when present.
+    observed_on='today' is a sentinel: use today ONLY as a fallback for
+    undated live menus (the price as experienced now). date_source='pdf'.
     """
     r = _get(url, timeout=90)
     if not r or not is_pdf(r.content):
         print(f"{url}: not a PDF or fetch failed")
         return None
+    sentinel_today = observed_on == "today"
+    if sentinel_today:
+        observed_on = None
     if not observed_on:
         m = re.search(r"(\d{4})[_-]?(\d{2})", url)
         observed_on = f"{m.group(1)}-{m.group(2)}-15" if m else None
+    if not observed_on and sentinel_today:
+        observed_on = datetime.date.today().isoformat()
     if not observed_on:
         print(f"{url}: no date in filename — skipping (undated PDFs aren't "
-              f"observations)")
+              f"observations; pass observed_on='today' to date them now)")
         return None
     ts = observed_on.replace("-", "")
     return extract_and_store(ts, url, r.content, place_id,
