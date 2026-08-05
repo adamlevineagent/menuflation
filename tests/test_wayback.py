@@ -33,7 +33,7 @@ def test_find_pdfs_discovers_archived_pdfs(monkeypatch):
             ["20220101", "https://x.com/menus/2021-01.pdf", "200"],
             ["20210101", "https://x.com/uploads/Menu.pdf", "200"]]
     monkeypatch.setattr(wayback, "_get",
-                        lambda url, timeout=60, tries=3: _FakeResp(rows))
+                        lambda url, params=None, timeout=60, tries=3: _FakeResp(rows))
     pdfs = wayback_pdfs_find("x.com", limit=5)
     assert "https://x.com/menus/2021-01.pdf" in pdfs
     assert pdfs["https://x.com/menus/2021-01.pdf"] == ["20210101", "20220101"]
@@ -45,7 +45,11 @@ def test_harvest_pdf_derives_date_from_filename(monkeypatch, tmp_path):
     import fitz
 
     doc = fitz.open()
-    doc.new_page().insert_text((72, 72), "Cheeseburger $7.95")
+    pg = doc.new_page()
+    for i, line in enumerate(("BURGERS", "Cheeseburger $7.95",
+                              "Double Cheeseburger $10.95",
+                              "French Fries $3.49", "Small Shake $4.99")):
+        pg.insert_text((72, 72 + 20 * i), line)
     pdf_bytes = doc.tobytes()
 
     class _Get:
