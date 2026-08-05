@@ -14,8 +14,14 @@ from collections import defaultdict
 
 
 def price_series(conn, canonical_id=None, place_id=None):
-    """[(observed_on, median_price, n)] per (canonical, place), sorted by date."""
-    q = ("SELECT ci.name, pl.name, m.observed_on, m.price, m.id "
+    """[(observed_on, median_price, n)] per (canonical, place, size), sorted.
+
+    Size-aware: menu lines with a size (S/M/L, 12oz, 1/2lb...) are keyed by
+    canonical+size so price movements compare like-for-like — a $3.99 corn
+    dog variant must not masquerade as inflation of the $2.99 corn dog.
+    """
+    q = ("SELECT ci.name, pl.name, COALESCE(m.size, '') sz, m.observed_on, "
+         "m.price, m.id "
          "FROM menu_lines m "
          "JOIN canonical_items ci ON ci.id=m.canonical_id "
          "JOIN places pl ON pl.id=m.place_id "
@@ -29,22 +35,23 @@ def price_series(conn, canonical_id=None, place_id=None):
         args.append(place_id)
     q += " ORDER BY m.observed_on"
     buckets = defaultdict(list)
-    for canon, place, obs, price, _ in conn.execute(q, args):
-        buckets[(canon, place, obs)].append(price)
+    for canon, place, sz, obs, price, _ in conn.execute(q, args):
+        buckets[(canon, place, sz, obs)].append(price)
     out = []
-    for (canon, place, obs), prices in sorted(buckets.items()):
-        out.append({"item": canon, "place": place, "observed_on": obs,
+    for (canon, place, sz, obs), prices in sorted(buckets.items()):
+        out.append({"item": canon, "size": sz or None, "place": place,
+                    "observed_on": obs,
                     "median": round(statistics.median(prices), 2), "n": len(prices)})
     return out
 
 
 def yoy_change(series, lookback_days=365):
-    """For each (item, place): pct change between latest and ~1y-earlier median."""
+    """For each (item, size, place): pct change latest vs ~1y-earlier median."""
     by_key = defaultdict(list)
     for s in series:
-        by_key[(s["item"], s["place"])].append(s)
+        by_key[(s["item"], s["size"], s["place"])].append(s)
     out = []
-    for (item, place), pts in by_key.items():
+    for (item, size, place), pts in by_key.items():
         if len(pts) < 2:
             continue
         pts.sort(key=lambda x: x["observed_on"])
@@ -62,7 +69,7 @@ def yoy_change(series, lookback_days=365):
                 ref = p
                 break
         if ref and ref["median"]:
-            out.append({"item": item, "place": place,
+            out.append({"item": item, "size": size, "place": place,
                         "from": ref["observed_on"], "to": latest["observed_on"],
                         "from_price": ref["median"], "to_price": latest["median"],
                         "pct": round((latest["median"] / ref["median"] - 1) * 100, 1),
