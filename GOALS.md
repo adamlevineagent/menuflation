@@ -2,30 +2,44 @@
 
 ## The Goal (end state)
 
-> **menuflation is a living public record of what food actually costs people
-> in America, and how that cost moves — measured from primary evidence,
-> not from an institution with a conflict of interest.**
+> **menuflation is the people's CPI**: a living, public, provable record of
+> what food actually costs people in America, measured from primary evidence
+> — dated menu photos, gallery uploads, archived pages, menu PDFs — never
+> from an institution with a conflict of interest.
 
 When this goal is met:
 
-- **Anyone can see what a cheeseburger, french fries, or any tracked item
-  cost, in any covered city, in any year we hold evidence for** — and every
-  number traces to a dated artifact: a menu photo, a gallery upload, an
-  archived page, a menu PDF. Provable by construction, auditable by anyone.
-- **The menuflation rate exists** — an aggregate, defensible measure of price
-  movement as people experience it, computed from thousands of same-store,
-  same-item, dated observations, published alongside the official CPI so the
-  comparison is unavoidable.
+- **It reproduces reality.** The data shows what people actually experienced:
+  restaurant prices up **~30%+ since 2019**, moving in STEPS (restaurants
+  hold prices, then jump), varying by tier and city — captured honestly. The
+  measurement is the truth, checkable by anyone.
+- **It predicts.** Given any tracked restaurant's menu from a known date, the
+  system estimates what that same menu costs today; predictions landing within
+  a few percent of what the restaurant actually charges prove the measurement
+  correct. **Prediction is the proof of perfection.**
+- **It answers any question with evidence.** "What did a cheeseburger cost in
+  Grants Pass in 2021, and what now?" — answered with a dated artifact behind
+  every number. What the operator already knows to be true (Barney's, El
+  Charro — real increases over their real histories) appears in the data
+  without being told to the system.
 - **The groupings are emergent.** The cheeseburger average, the fries
   average, the Grants Pass index, the fast-food tier curve — they fall out of
-  the data itself once enough records exist. No fixed basket is imposed; the
-  fixed-basket methodology is the thing being replaced.
-- **It is self-sustaining.** Evidence keeps arriving — re-collection, new
-  places, new sources — and the pipeline runs unattended, every claim staying
-  auditable end-to-end.
-- **It answers the operator's questions with evidence.** When he asks what
-  happened to prices at any store he knows, the dashboard shows him what he
-  already knows is true — confirmed by data he can check himself.
+  the data once enough dated records exist. No fixed basket, no imposed
+  methodology.
+- **It is the counterweight.** The menuflation rate sits beside the official
+  CPI, from the same kind of observable evidence the CPI claims to use — with
+  full provenance — so the comparison is unavoidable and any discrepancy is
+  explainable.
+- **It is self-sustaining and scales without degrading.** Evidence keeps
+  arriving; the pipeline runs unattended; verification is automatic; every
+  number stays auditable end-to-end. From Oregon+Napa to the country to the
+  world, and the quality bar does not move as it grows.
+- **It's fun and it's ours.** The dashboard is the most satisfying version of
+  itself. Maximum fun, no grimness.
+
+**Acceptance test:** the operator asks it anything about prices, the answer
+confirms what he already knows, and its predictions come true. Then it's done
+— and not a moment before.
 
 ## Mission (operator-assigned, self-adopted)
 
