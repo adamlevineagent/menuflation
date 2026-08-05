@@ -25,10 +25,12 @@ def _row(r):
 
 def load(conn):
     places = [_row(r) for r in conn.execute(
-        "SELECT id, name, city, state, address, lat, lng FROM places")]
+        "SELECT id, name, city, state, address, lat, lng, tier, price_level "
+        "FROM places")]
     lines = [_row(r) for r in conn.execute(
         "SELECT ci.name item, pl.name place, pl.city, pl.state, "
-        "m.observed_on obs, m.price price, m.date_source src, m.notes, m.size "
+        "pl.tier tier, m.observed_on obs, m.price price, m.date_source src, "
+        "m.notes, m.size "
         "FROM menu_lines m "
         "JOIN canonical_items ci ON ci.id=m.canonical_id "
         "JOIN places pl ON pl.id=m.place_id "
@@ -36,13 +38,16 @@ def load(conn):
     return places, lines
 
 
+DATED_SOURCES = ("exif", "dom", "wayback", "pdf", "web")
+
+
 def series_for_charts(lines):
-    """[(item, place, city, state, [(date, price)...])] for dated items."""
+    """[(item, place, city, state, src, [(date, price)...])] for dated items."""
     buckets = {}
     for l in lines:
-        if l["src"] not in ("exif", "dom"):
+        if l["src"] not in DATED_SOURCES:
             continue
-        key = (l["item"], l["place"], l["city"], l["state"])
+        key = (l["item"], l["place"], l["city"], l["state"], l["src"])
         buckets.setdefault(key, []).append((l["obs"], l["price"]))
     out = []
     for key, pts in sorted(buckets.items()):
@@ -53,14 +58,14 @@ def series_for_charts(lines):
             agg.setdefault(d, []).append(p)
         series = [(d, round(statistics.median(v), 2)) for d, v in sorted(agg.items())]
         out.append({"item": key[0], "place": key[1], "city": key[2],
-                    "state": key[3], "points": series})
+                    "state": key[3], "src": key[4], "points": series})
     return out
 
 
 def build(conn):
     places, lines = load(conn)
     series = series_for_charts(lines)
-    n_exif = sum(1 for l in lines if l["src"] in ("exif", "dom"))
+    n_exif = sum(1 for l in lines if l["src"] in DATED_SOURCES)
     # place stats
     pstats = []
     for p in places:
@@ -152,6 +157,13 @@ td.px{font-family:var(--mono)} td.dim{color:var(--dim)} td.acc{color:var(--acc)}
 
 <div class="grid cards" id="cards"></div>
 
+<div class="panel" id="filters">
+  <label>City <select id="fCity"></select></label>
+  <label>Tier <select id="fTier"></select></label>
+  <label>Source <select id="fSrc"></select></label>
+  <button id="fReset">reset</button>
+</div>
+
 <h2>Menuflation index <span class="n" id="aggN"></span></h2>
 <div class="panel">
   <div id="aggEmpty" class="dim" style="display:none">No dated same-store pairs yet — the index needs 2+ dated observations of the same item at the same store (photos or Wayback).</div>
@@ -231,8 +243,33 @@ if (A.months.length) {
   $("aggEmpty").style.display = "block";
 }
 
+// --- filters (criterion 5): city / tier / source ---
+const F = { city: "all", tier: "all", src: "all" };
+const FKEYS = { fCity: "city", fTier: "tier", fSrc: "src" };
+function tierOf(place) { const p = D.places.find(x => x.name === place); return (p && p.tier) || "unknown"; }
+function matches(l) {
+  if (F.city !== "all" && l.city !== F.city) return false;
+  if (F.tier !== "all" && (l.tier || tierOf(l.place)) !== F.tier) return false;
+  if (F.src !== "all" && l.src !== F.src) return false;
+  return true;
+}
+function fill(sel, vals) { $(sel).innerHTML = `<option value="all">all</option>` + vals.map(v => `<option>${v}</option>`).join(""); }
+fill("fCity", [...new Set(D.lines.map(l => l.city).filter(Boolean))].sort());
+fill("fTier", [...new Set(D.lines.map(l => l.tier || "unknown"))].sort());
+fill("fSrc", [...new Set(D.lines.map(l => l.src))].sort());
+let chartInstances = [];
+function renderAll() {
+  chartInstances.forEach(c => c.destroy());
+  chartInstances = [];
+  $("charts").innerHTML = "";
+  renderCharts(D.series.filter(s => matches({ city: s.city, state: s.state, src: s.src, place: s.place, tier: tierOf(s.place) })));
+  renderLines(D.lines.filter(matches));
+}
+Object.keys(FKEYS).forEach(id => $(id).addEventListener("change", () => { F[FKEYS[id]] = $(id).value; renderAll(); }));
+$("fReset").addEventListener("click", () => { Object.keys(FKEYS).forEach(id => { $(id).value = "all"; F[FKEYS[id]] = "all"; }); renderAll(); });
+
 // charts
-const charts = D.series;
+function renderCharts(charts) {
 $("seriesN").textContent = "(" + charts.length + ")";
 const pal = ["#58d68d", "#f2c94c", "#5dade2", "#e74c3c", "#bb8fce", "#f0b27a"];
 let ci = 0;
@@ -247,7 +284,7 @@ for (const s of charts) {
     <div class="pl">${s.place} · ${s.city}, ${s.state}</div>
     <canvas></canvas>`;
   $("charts").appendChild(el);
-  new Chart(el.querySelector("canvas"), {
+  chartInstances.push(new Chart(el.querySelector("canvas"), {
     type: "line",
     data: { labels: s.points.map(p => p[0]),
             datasets: [{ data: s.points.map(p => p[1]), borderColor: pal[ci++ % pal.length],
@@ -257,8 +294,9 @@ for (const s of charts) {
               scales: { x: { ticks: { color: "#8b98a9" }, grid: { color: "#1e2a3a" } },
                         y: { ticks: { color: "#8b98a9", callback: v => "$" + v },
                              grid: { color: "#1e2a3a" } } } }
-  });
-}
+                        }));
+                        }
+}  // close renderCharts
 
 // universal averages (family level: any cheeseburger counts)
 $("famN").textContent = "(" + D.families.length + ")";
@@ -317,11 +355,14 @@ $("cov").innerHTML = `<tr><th>place</th>${C.years.map(y => `<th>${y}</th>`).join
     `<tr><td>${name}</td>${C.years.map(y => `<td class="px">${yrs[y] || "·"}</td>`).join("")}</tr>`).join("");
 
 // lines table
-$("linesN").textContent = "(" + D.lines.length + ")";
+function renderLines(rows) {
+$("linesN").textContent = "(" + rows.length + ")";
 $("lines").innerHTML = `<tr><th>item</th><th>place</th><th>city</th><th>observed</th><th>price</th><th>src</th><th>notes</th></tr>` +
-  D.lines.map(l => `<tr><td>${l.item}</td><td>${l.place}</td><td class="dim">${l.city}</td>
+  rows.map(l => `<tr><td>${l.item}</td><td>${l.place}</td><td class="dim">${l.city}</td>
     <td class="px">${l.obs}</td><td class="px acc">${fmt(l.price)}</td>
     <td><span class="tag ${l.src}">${l.src}</span></td><td class="dim">${l.notes||""} ${l.size||""}</td></tr>`).join("");
+}
+renderAll();
 
 // places
 $("placesN").textContent = "(" + D.places.length + ")";
