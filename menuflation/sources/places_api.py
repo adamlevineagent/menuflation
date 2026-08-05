@@ -74,8 +74,11 @@ def search_places(text_query, page_size=20,
     return r.json().get("places", [])
 
 
-def download_photo(photo_name, dest_path, max_width=1280):
+def download_photo(photo_name, dest_path, max_width=2048):
     """Fetch photo bytes for a photo reference like places/ChIJ.../photos/AU...
+
+    maxWidthPx=2048 preserves EXIF DateTimeOriginal on most contributor photos
+    (the 1280 re-encode strips it) — that EXIF date anchors the time axis.
 
     Note: the media endpoint takes the key as a QUERY PARAM — the
     X-Goog-Api-Key header gets misrouted to GCS and 404s (NoSuchBucket).

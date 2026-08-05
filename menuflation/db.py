@@ -27,7 +27,8 @@ CREATE TABLE IF NOT EXISTS menu_lines(
   size TEXT, qty INTEGER, unit TEXT, notes TEXT,
   currency_iso TEXT, confidence REAL,
   canonical_id INTEGER, price_usd REAL, fx_rate REAL, fx_date TEXT,
-  observed_on TEXT, date_hints TEXT
+  observed_on TEXT, date_source TEXT, date_hints TEXT,
+  UNIQUE(photo_ref, item_raw, price)
 );
 CREATE INDEX IF NOT EXISTS idx_lines_place ON menu_lines(place_id);
 CREATE INDEX IF NOT EXISTS idx_lines_canon ON menu_lines(canonical_id);
@@ -51,8 +52,14 @@ def ingest(conn, extractions_dir="data/extractions",
            places_dir="data/places", observed_on=None):
     """Load manifests into places; load extraction JSONs into photos+menu_lines.
 
-    Idempotent: upserts by key. Re-running after a resume re-covers everything.
+    Idempotent: places/photos upsert by key; menu_lines upsert on
+    (photo_ref, item_raw, price). observed_on per photo comes from EXIF
+    capture date when available (see menuflation.dates), else the passed
+    default (today).
     """
+    from menuflation import dates
+
+    date_by_ref = dates.photo_dates(places_dir)
     observed_on = observed_on or date.today().isoformat()
     # --- places from manifests ---
     for mf in sorted(glob.glob(os.path.join(places_dir, "*.json"))):
@@ -89,6 +96,12 @@ def ingest(conn, extractions_dir="data/extractions",
         n_menus += 1
         cur = result.get("currency_iso")
         hints = json.dumps(result.get("date_hints") or [], ensure_ascii=False)
+        # EXIF capture date for this photo's file (ref = last path segment).
+        # os.path.basename: src paths may use \ (Windows) or / (POSIX).
+        ref_key = os.path.basename(payload.get("src") or name).rsplit(".", 1)[0][:40]
+        obs = date_by_ref.get(ref_key)
+        date_source = "exif" if obs else "fallback"
+        obs = obs or observed_on
         for it in result.get("items") or []:
             price = it.get("price")
             if price is None:
@@ -96,11 +109,14 @@ def ingest(conn, extractions_dir="data/extractions",
             conn.execute(
                 "INSERT INTO menu_lines(photo_ref,place_id,item_raw,price,"
                 "old_price,size,qty,unit,notes,currency_iso,confidence,"
-                "observed_on,date_hints) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?)",
+                "observed_on,date_source,date_hints) "
+                "VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?) "
+                "ON CONFLICT(photo_ref,item_raw,price) DO UPDATE SET "
+                "observed_on=excluded.observed_on,date_source=excluded.date_source",
                 (name, pid, it.get("name"), price, it.get("old_price"),
                  it.get("size"), it.get("qty"), it.get("unit"),
                  it.get("notes"), cur, result.get("confidence"),
-                 observed_on, hints))
+                 obs, date_source, hints))
             n_lines += 1
     conn.commit()
     nplaces = conn.execute("SELECT COUNT(*) FROM places").fetchone()[0]
