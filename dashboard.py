@@ -88,6 +88,7 @@ def build(conn):
         "coverage": index.coverage_matrix(conn),
         "yoy": index.yoy_change(index.price_series(conn)),
         "averages": index.item_averages(conn, min_records=5),
+        "families": index.family_averages(conn, min_records=5),
     }
     html = TEMPLATE.replace("__DATA__", json.dumps(payload, ensure_ascii=False))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
@@ -160,6 +161,9 @@ td.px{font-family:var(--mono)} td.dim{color:var(--dim)} td.acc{color:var(--acc)}
 
 <h2>Dated price series <span class="n" id="seriesN"></span></h2>
 <div class="chartgrid" id="charts"></div>
+
+<h2>Universal averages — the cheeseburger average <span class="n" id="famN"></span></h2>
+<div class="chartgrid" id="fams"></div>
 
 <h2>Item averages — the emergent index <span class="n" id="avgN"></span></h2>
 <div class="chartgrid" id="avgs"></div>
@@ -253,6 +257,27 @@ for (const s of charts) {
               scales: { x: { ticks: { color: "#8b98a9" }, grid: { color: "#1e2a3a" } },
                         y: { ticks: { color: "#8b98a9", callback: v => "$" + v },
                              grid: { color: "#1e2a3a" } } } }
+  });
+}
+
+// universal averages (family level: any cheeseburger counts)
+$("famN").textContent = "(" + D.families.length + ")";
+for (const a of D.families) {
+  const el = document.createElement("div");
+  el.className = "chartcard";
+  el.innerHTML = `<h3>${a.family} <span class="tag exif">average</span></h3>
+    <div class="pl">${a.total} records · ${a.places} places · median price per year, all stores</div>
+    <canvas></canvas>`;
+  $("fams").appendChild(el);
+  new Chart(el.querySelector("canvas"), {
+    type: "line",
+    data: { labels: a.series.map(s => s.year),
+      datasets: [{ data: a.series.map(s => s.median), borderColor: pal[ci++ % pal.length],
+        backgroundColor: "transparent", tension: .25, pointRadius: 4, borderWidth: 2 }]},
+    options: { plugins: { legend: { display: false },
+      tooltip: { callbacks: { label: c => fmt(c.parsed.y) + " (n=" + a.series[c.dataIndex].n + ")" } } },
+      scales: { x: { ticks: { color: "#8b98a9" }, grid: { color: "#1e2a3a" } },
+                y: { ticks: { color: "#8b98a9", callback: v => "$" + v }, grid: { color: "#1e2a3a" } } } }
   });
 }
 

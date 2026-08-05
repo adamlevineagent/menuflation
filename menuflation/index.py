@@ -79,6 +79,58 @@ def yoy_change(series, lookback_days=365):
     return out
 
 
+# Universal-item families for the emergent averages. The cheeseburger average
+# counts ANY cheeseburger (grass-fed, bacon, whatever) — same-store discipline
+# still keys on exact canonicals, but the people's index is about the
+# experience: what did a cheeseburger cost this year?
+_FRIES_STOP = {"sweet", "loaded", "garlic", "curly", "poutine", "truffle",
+               "animal", "disco", "chili", "queso", "bbq", "buffalo", "cajun",
+               "zucchini", "cheese", "carnitas", "tater", "potato"}
+
+
+def item_family(name):
+    """Universal family for an item name: 'cheeseburger', 'french fries', etc."""
+    n = (name or "").lower()
+    if "cheeseburger" in n or "cheese burger" in n:
+        return "cheeseburger"
+    toks = n.split()
+    if toks and toks[-1] == "fries" and not any(s in n for s in _FRIES_STOP):
+        return "french fries"
+    return None
+
+
+def family_averages(conn, min_records=5):
+    """Emergent universal averages: per family per year, the median price
+    across ALL dated records (any store, any source). The cheeseburger
+    average. Groupings emerge; no basket is imposed."""
+    rows = conn.execute(
+        "SELECT ci.name, substr(m.observed_on,1,4) yr, m.price, pl.id "
+        "FROM menu_lines m "
+        "JOIN canonical_items ci ON ci.id=m.canonical_id "
+        "JOIN places pl ON pl.id=m.place_id "
+        "WHERE m.date_source IN ('exif','dom','wayback','pdf') "
+        "AND length(m.observed_on) >= 7").fetchall()
+    fam = defaultdict(lambda: defaultdict(list))
+    pids = defaultdict(set)
+    for name, yr, price, pid in rows:
+        f = item_family(name)
+        if not f:
+            continue
+        fam[f][yr].append(price)
+        pids[f].add(pid)
+    out = []
+    for f, years in fam.items():
+        total = sum(len(v) for v in years.values())
+        if total < min_records:
+            continue
+        series = [{"year": y, "median": round(statistics.median(v), 2),
+                   "n": len(v)} for y, v in sorted(years.items())]
+        out.append({"family": f, "total": total, "places": len(pids[f]),
+                    "series": series})
+    out.sort(key=lambda x: -x["total"])
+    return out
+
+
 def item_averages(conn, min_records=5):
     """Emergent 'cheeseburger average' series: per canonical item, the median
     price per year across ALL stores (dated observations only).
@@ -93,7 +145,7 @@ def item_averages(conn, min_records=5):
         "FROM menu_lines m "
         "JOIN canonical_items ci ON ci.id=m.canonical_id "
         "JOIN places pl ON pl.id=m.place_id "
-        "WHERE m.date_source IN ('exif','dom','wayback') "
+        "WHERE m.date_source IN ('exif','dom','wayback','pdf') "
         "AND length(m.observed_on) >= 7").fetchall()
     by_item = defaultdict(lambda: defaultdict(list))
     pids = defaultdict(set)
@@ -181,7 +233,7 @@ def coverage_matrix(conn):
     rows = conn.execute(
         "SELECT pl.name, substr(m.observed_on,1,4) yr, COUNT(*) "
         "FROM menu_lines m JOIN places pl ON pl.id=m.place_id "
-        "WHERE m.date_source IN ('exif','dom','wayback') "
+        "WHERE m.date_source IN ('exif','dom','wayback','pdf') "
         "GROUP BY pl.name, yr").fetchall()
     years = sorted({r[1] for r in rows})
     matrix = {r[0]: {} for r in rows}

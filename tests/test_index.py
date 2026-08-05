@@ -77,6 +77,30 @@ def test_item_averages_emergent(conn):
     assert cb["series"][1]["median"] == 7.99, cb  # median of 7.49,7.99,8.49
 
 
+def test_item_family():
+    """Universal families: any cheeseburger counts; fries minus variants."""
+    fam = index.item_family
+    assert fam("grass fed cheeseburger") == "cheeseburger"
+    assert fam("cheese burger") == "cheeseburger"
+    assert fam("bacon cheeseburger") == "cheeseburger"
+    assert fam("french fries") == "french fries"
+    assert fam("fries") == "french fries"
+    assert fam("sweet potato fries") is None
+    assert fam("carnitas fries") is None
+    assert fam("loaded fries") is None
+    assert fam("hamburger") is None
+
+
+def test_family_averages(conn):
+    """The cheeseburger average: cross-store, cross-year median."""
+    fa = index.family_averages(conn, min_records=5)
+    cb = next(a for a in fa if a["family"] == "cheeseburger")
+    assert cb["total"] == 6 and cb["places"] == 2, cb
+    assert [s["year"] for s in cb["series"]] == ["2024", "2025"], cb
+    assert cb["series"][0]["median"] == 7.45, cb
+    assert cb["series"][1]["median"] == 7.99, cb
+
+
 def test_write_report_csv_schema(conn, tmp_path):
     index.write_report(conn, out_dir=str(tmp_path), name="t")
     with open(tmp_path / "t_series.csv", encoding="utf-8") as f:
