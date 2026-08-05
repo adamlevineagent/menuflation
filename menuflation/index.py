@@ -101,8 +101,8 @@ def write_report(conn, out_dir="data/reports", name="report"):
                         encoding="utf-8"), indent=1, ensure_ascii=False)
     with open(os.path.join(out_dir, f"{name}_series.csv"), "w", newline="",
               encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["item", "place", "observed_on",
-                                          "median", "n"])
+        w = csv.DictWriter(f, fieldnames=["item", "size", "place",
+                                          "observed_on", "median", "n"])
         w.writeheader()
         w.writerows(rep["series"])
     with open(os.path.join(out_dir, f"{name}_places.csv"), "w", newline="",
