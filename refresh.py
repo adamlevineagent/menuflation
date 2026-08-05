@@ -19,6 +19,10 @@ from menuflation.sources.places_api import search_places  # noqa: E402
 
 LEVELS = {0: "free", 1: "inexpensive", 2: "moderate", 3: "expensive",
           4: "very expensive"}
+# Places API (New) returns priceLevel as a STRING enum — map to int first.
+PL2INT = {"PRICE_LEVEL_FREE": 0, "PRICE_LEVEL_INEXPENSIVE": 1,
+          "PRICE_LEVEL_MODERATE": 2, "PRICE_LEVEL_EXPENSIVE": 3,
+          "PRICE_LEVEL_VERY_EXPENSIVE": 4}
 
 
 def main():
@@ -36,7 +40,8 @@ def main():
             api = by_id.get(pl["id"], {})
             lvl = api.get("priceLevel")
             pl["priceLevel"] = lvl
-            pl["tier"] = pl.get("tier") or (LEVELS.get(lvl) if lvl is not None else None)
+            pl["tier"] = pl.get("tier") or (
+                LEVELS.get(PL2INT.get(lvl)) if lvl is not None else None)
             pl["website_uri"] = api.get("websiteUri")
             seen[pl["id"]] = pl
         json.dump(m, open(mf, "w", encoding="utf-8"), indent=2, ensure_ascii=False)

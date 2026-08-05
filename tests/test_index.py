@@ -101,6 +101,16 @@ def test_family_averages(conn):
     assert cb["series"][1]["median"] == 7.99, cb
 
 
+def test_tier_mapping():
+    """Places API priceLevel strings map to tiers (the int-key bug)."""
+    import refresh  # repo-root pipeline script (guarded main)
+
+    assert refresh.PL2INT["PRICE_LEVEL_INEXPENSIVE"] == 1
+    assert refresh.LEVELS[refresh.PL2INT["PRICE_LEVEL_INEXPENSIVE"]] == "inexpensive"
+    assert refresh.LEVELS[refresh.PL2INT["PRICE_LEVEL_EXPENSIVE"]] == "expensive"
+    assert refresh.PL2INT.get("PRICE_LEVEL_VERY_EXPENSIVE") == 4
+
+
 def test_write_report_csv_schema(conn, tmp_path):
     index.write_report(conn, out_dir=str(tmp_path), name="t")
     with open(tmp_path / "t_series.csv", encoding="utf-8") as f:
