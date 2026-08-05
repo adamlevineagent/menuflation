@@ -221,13 +221,16 @@ $("aggN").textContent = A.overall ? `(median ratio · ${A.overall.from} → ${A.
 if (A.months.length) {
   $("aggChart").style.display = "block";
   new Chart($("aggChart"), {
-    type: "bar",
     data: { labels: A.months.map(m => m.month),
-      datasets: [{ data: A.months.map(m => m.index),
-        backgroundColor: A.months.map(m => m.index >= 1 ? "rgba(231,76,60,.6)" : "rgba(88,214,141,.6)"),
-        borderRadius: 4 }]},
-    options: { plugins: { legend: { display: false },
-      tooltip: { callbacks: { label: c => (c.parsed.y*100).toFixed(1) + "% (n=" + A.months[c.dataIndex].n + ")" } } },
+      datasets: [
+        { type: "bar", data: A.months.map(m => m.index),
+          backgroundColor: A.months.map(m => m.index >= 1 ? "rgba(231,76,60,.6)" : "rgba(88,214,141,.6)"),
+          borderRadius: 4, label: "median ratio" },
+        { type: "line", data: A.months.map(m => m.geo), borderColor: "rgba(93,173,226,.95)",
+          backgroundColor: "transparent", borderDash: [4, 4], tension: 0, label: "geo mean" }
+      ]},
+    options: { plugins: { legend: { labels: { color: "#8b98a9" } },
+      tooltip: { callbacks: { label: c => c.dataset.label + ": " + (c.parsed.y*100).toFixed(1) + "% (n=" + A.months[c.dataIndex].n + ")" } } },
       scales: { x: { ticks: { color: "#8b98a9" }, grid: { color: "#1e2a3a" } },
                 y: { ticks: { color: "#8b98a9", callback: v => (v*100).toFixed(0) + "%" },
                      grid: { color: "#1e2a3a" } } } }

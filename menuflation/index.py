@@ -8,6 +8,7 @@ primary output, and the YoY machinery is built and tested against dated data.
 import csv
 import datetime
 import json
+import math
 import os
 import statistics
 from collections import defaultdict
@@ -212,8 +213,11 @@ def aggregate_index(conn, min_gap_days=180):
         rs = [m["ratio"] for m in months[month]]
         # median ratio: robust — a single mismatched pair (e.g. a flavor
         # variant read as a size change) must not move the aggregate.
+        geo = (math.exp(sum(math.log(r) for r in rs) / len(rs))
+               if all(r > 0 for r in rs) else None)
         out.append({"month": month, "n": len(rs),
                     "index": round(statistics.median(rs), 4),
+                    "geo": round(geo, 4) if geo else None,
                     "items": months[month]})
     overall = None
     if len(out) >= 2:
