@@ -93,7 +93,8 @@ def test_ingest_honors_date_source(tmp_path):
     (tmp_path / "places").mkdir()
     (tmp_path / "extractions" / "wb").mkdir(parents=True)
     _json.dump({"query": "q", "slug": "s", "places": [
-        {"id": "P1", "name": "Farmstead", "photos": [
+        {"id": "P1", "name": "Farmstead", "website_uri": "https://farmstead.example",
+         "photos": [
             {"name": "places/P1/photos/X", "file": "x"}]}]},
         open(tmp_path / "places" / "s.json", "w"))
     _json.dump({"photo": "wb/20260615/https://x/menu.pdf",
@@ -109,3 +110,7 @@ def test_ingest_honors_date_source(tmp_path):
         "SELECT observed_on, date_source FROM menu_lines").fetchone()
     assert row["observed_on"] == "2026-06-15", dict(row)
     assert row["date_source"] == "pdf", dict(row)
+    # places carry website_uri/tier through ingest (schema-drift fix)
+    pl = conn.execute(
+        "SELECT website_uri FROM places WHERE id='P1'").fetchone()
+    assert pl["website_uri"] == "https://farmstead.example", dict(pl)
