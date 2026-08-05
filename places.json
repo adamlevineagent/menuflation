@@ -1,0 +1,12 @@
+[
+  {"query": "restaurants in Grants Pass Oregon", "slug": "grants-pass", "city": "Grants Pass", "state": "OR", "limit": 10},
+  {"query": "Burgerville Oregon", "slug": "burgerville", "city": "statewide", "state": "OR", "limit": 10},
+  {"query": "Dutch Bros Coffee Grants Pass Oregon", "slug": "grants-pass-dutchbros", "city": "Grants Pass", "state": "OR", "limit": 5},
+  {"query": "restaurants in Napa California", "slug": "napa", "city": "Napa", "state": "CA", "limit": 10},
+  {"query": "diner breakfast Grants Pass Oregon", "slug": "grants-pass-diners", "city": "Grants Pass", "state": "OR", "limit": 10},
+  {"query": "Barney's Burgers Grants Pass Oregon", "slug": "grants-pass-barneys", "city": "Grants Pass", "state": "OR", "limit": 3},
+  {"query": "El Charro Viejo Grants Pass Oregon", "slug": "grants-pass-elcharro", "city": "Grants Pass", "state": "OR", "limit": 3},
+  {"query": "Gott's Roadside Napa California", "slug": "napa-gotts", "city": "Napa", "state": "CA", "limit": 3},
+  {"query": "Genova Delicatessen Napa California", "slug": "napa-genova", "city": "Napa", "state": "CA", "limit": 3},
+  {"query": "Chipotle Napa California", "slug": "napa-chipotle", "city": "Napa", "state": "CA", "limit": 3}
+]
