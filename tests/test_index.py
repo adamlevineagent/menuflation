@@ -111,6 +111,20 @@ def test_tier_mapping():
     assert refresh.PL2INT.get("PRICE_LEVEL_VERY_EXPENSIVE") == 4
 
 
+def test_tier_rates(conn):
+    """Same-store pairs bucket into tiers; median+geo ratios computed."""
+    conn.execute("UPDATE places SET tier='moderate' WHERE id='P1'")
+    conn.commit()
+    tr = index.tier_rates(conn)
+    mod = next(t for t in tr if t["tier"] == "moderate")
+    # drinks S/L + shake S (2024->2025) plus cheeseburger intra-year pairs
+    # (3 dates per store -> 2 pairs each at P1/P2's tiered stores... P2 is
+    # untiered so P1 carries: 3 drinks/shake + 2 cheeseburger = 5 pairs
+    assert mod["n_pairs"] == 5, mod
+    assert mod["median_ratio"] == 106.7, mod
+    assert abs(mod["geo_ratio"] - 107.8) < 0.2, mod
+
+
 def test_write_report_csv_schema(conn, tmp_path):
     index.write_report(conn, out_dir=str(tmp_path), name="t")
     with open(tmp_path / "t_series.csv", encoding="utf-8") as f:

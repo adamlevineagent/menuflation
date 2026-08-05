@@ -24,10 +24,31 @@ def _portion_only_diff(a, b):
     return bool(diff) and diff.issubset(PORTION_WORDS)
 
 
+def _strict_subset_ratio(a, b):
+    """If one token set is a strict subset of the other, return
+    len(shorter)/len(longer); otherwise None.  token_set_ratio gives 100
+    for any subset relationship (e.g. "burrata" ⊂ "gioia burrata"), which
+    merges a short fragment name into a longer, different dish — a false
+    canonical that corrupts the price series."""
+    sa, sb = set(a.split()), set(b.split())
+    if sa < sb:
+        return len(sa) / len(sb)
+    if sb < sa:
+        return len(sb) / len(sa)
+    return None
+
+
 def similarity(a, b):
     if _portion_only_diff(a, b):
         return 0.0
-    return fuzz.token_set_ratio(a, b)
+    score = fuzz.token_set_ratio(a, b)
+    ratio = _strict_subset_ratio(a, b)
+    if ratio is not None and ratio < 0.67:
+        # A short fragment that happens to be a token-subset of a much
+        # longer dish name is a different item.  Scale the score so a
+        # 1:3 subset (burrata / gioia burrata) scores 33, not 100.
+        score *= ratio
+    return score
 
 
 def canonicalize(names, threshold=DEFAULT_THRESHOLD):

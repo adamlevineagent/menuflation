@@ -168,6 +168,42 @@ def item_averages(conn, min_records=5):
     return out
 
 
+def tier_rates(conn):
+    """Per-tier price-movement summary: same-store pairs bucketed by the
+    place's tier (expensive/moderate/inexpensive). Median ratio + span.
+
+    The tier-divergence view: fancy vs fast-food inflate differently.
+    """
+    tiers = {r["name"]: r["tier"] or "unknown"
+             for r in conn.execute("SELECT name, tier FROM places")}
+    by_key = defaultdict(list)
+    for s in price_series(conn):
+        if s.get("date_source") == "fallback":
+            continue
+        by_key[(s["item"], s["size"], s["place"])].append(s)
+    by_tier = defaultdict(list)
+    for key, pts in by_key.items():
+        pts.sort(key=lambda x: x["observed_on"])
+        for a, b in zip(pts, pts[1:]):
+            if a["median"] and b["median"]:
+                by_tier[tiers.get(key[2], "unknown")].append(
+                    (b["observed_on"], b["median"] / a["median"]))
+    out = []
+    for tier in ("inexpensive", "moderate", "expensive", "unknown"):
+        pairs = by_tier.get(tier, [])
+        if len(pairs) < 3:
+            continue
+        ratios = [r for _, r in pairs]
+        med = round(statistics.median(ratios) * 100, 1)
+        geo = round(math.exp(sum(math.log(r) for r in ratios) / len(ratios)) * 100, 1)
+        span = (min(d for d, _ in pairs)[:7], max(d for d, _ in pairs)[:7])
+        out.append({"tier": tier, "n_pairs": len(pairs), "median_ratio": med,
+                    "geo_ratio": geo, "span": span})
+    order = {"inexpensive": 0, "moderate": 1, "expensive": 2, "unknown": 3}
+    out.sort(key=lambda t: order.get(t["tier"], 9))
+    return out
+
+
 def aggregate_index(conn, min_gap_days=180):
     """Chained menuflation index from dated same-store same-item series.
 

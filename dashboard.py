@@ -90,6 +90,7 @@ def build(conn):
         "lines": lines,
         "places": pstats,
         "aggregate": index.aggregate_index(conn),
+        "tierRates": index.tier_rates(conn),
         "coverage": index.coverage_matrix(conn),
         "yoy": index.yoy_change(index.price_series(conn)),
         "averages": index.item_averages(conn, min_records=5),
@@ -171,6 +172,9 @@ td.px{font-family:var(--mono)} td.dim{color:var(--dim)} td.acc{color:var(--acc)}
   <table id="aggPairs" style="margin-top:14px"></table>
 </div>
 
+<h3 style="margin-top:14px">Tier rates <span class="n" id="tierN"></span></h3>
+<div class="panel"><table id="tierRates"></table></div>
+
 <h2>Dated price series <span class="n" id="seriesN"></span></h2>
 <div class="chartgrid" id="charts"></div>
 
@@ -245,6 +249,13 @@ if (A.months.length) {
 } else {
   $("aggEmpty").style.display = "block";
 }
+
+// tier rates (tier-divergence view)
+$("tierN").textContent = "(" + D.tierRates.length + ")";
+$("tierRates").innerHTML = `<tr><th>tier</th><th>pairs</th><th>median ratio</th><th>geo mean</th><th>span</th></tr>` +
+  D.tierRates.map(t => `<tr><td>${t.tier}</td><td>${t.n_pairs}</td>
+    <td class="px ${t.median_ratio > 100.5 ? "acc" : (t.median_ratio < 99.5 ? "dim" : "")}">${t.median_ratio}%</td>
+    <td class="px dim">${t.geo_ratio}%</td><td class="px dim">${t.span[0]} → ${t.span[1]}</td></tr>`).join("");
 
 // --- filters (criterion 5): city / tier / source ---
 const F = { city: "all", tier: "all", src: "all" };
