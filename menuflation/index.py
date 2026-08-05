@@ -79,6 +79,43 @@ def yoy_change(series, lookback_days=365):
     return out
 
 
+def item_averages(conn, min_records=5):
+    """Emergent 'cheeseburger average' series: per canonical item, the median
+    price per year across ALL stores (dated observations only).
+
+    This is the LEVEL index — what a cheeseburger actually costs per year,
+    experienced by people — as opposed to the same-store inflation index.
+    Groupings emerge from the data: any item with enough records gets a
+    series; no fixed basket is imposed.
+    """
+    rows = conn.execute(
+        "SELECT ci.name, substr(m.observed_on,1,4) yr, m.price, "
+        "pl.city || ', ' || pl.state loc "
+        "FROM menu_lines m "
+        "JOIN canonical_items ci ON ci.id=m.canonical_id "
+        "JOIN places pl ON pl.id=m.place_id "
+        "WHERE m.date_source IN ('exif','dom','wayback') "
+        "AND length(m.observed_on) >= 7").fetchall()
+    by_item = defaultdict(lambda: defaultdict(list))
+    locs = defaultdict(set)
+    for name, yr, price, loc in rows:
+        by_item[name][yr].append(price)
+        locs[name].add(loc)
+    out = []
+    for name, years in by_item.items():
+        total = sum(len(v) for v in years.values())
+        if total < min_records:
+            continue
+        series = [{"year": y,
+                   "median": round(statistics.median(v), 2),
+                   "n": len(v)}
+                  for y, v in sorted(years.items())]
+        out.append({"item": name, "total": total, "places": len(locs[name]),
+                    "series": series})
+    out.sort(key=lambda x: -x["total"])
+    return out
+
+
 def aggregate_index(conn, min_gap_days=180):
     """Chained menuflation index from dated same-store same-item series.
 
