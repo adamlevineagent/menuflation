@@ -52,6 +52,42 @@ class ExtractionError(Exception):
     pass
 
 
+# Text-mode variant of the extraction prompt — same schema, no image. Used for
+# Wayback menu pages and PDF menus: clean text in, structured prices out.
+TEXT_EXTRACTION_PROMPT = """You are a menu-price extraction engine for a global food-inflation study. Below is the text of a restaurant menu. Return STRICT JSON only — no markdown, no commentary, no code fences.
+
+Schema:
+{
+  "is_menu": true|false,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+    {
+      "name": "Cheeseburger",
+      "price": 7.95,
+      "old_price": null,
+      "size": null,
+      "qty": null,
+      "unit": null,
+      "notes": null
+    }
+  ],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.9
+}
+
+Rules:
+- Extract every menu item that has a price. Skip items without prices.
+- Parse prices as numbers; ignore taxes, fees, and non-item text.
+- Measurements and sizes go in size or unit, NEVER in the name.
+- Multiple size variants of one item ("Small/Large Fries" or separate lines) are separate items with their size filled in.
+- If the text is not a menu, return {"is_menu": false, "items": []}.
+
+Menu text follows:
+"""
+
+
 def image_to_data_url(path):
     ext = path.rsplit(".", 1)[-1].lower()
     mime = {"jpg": "image/jpeg", "jpeg": "image/jpeg", "png": "image/png",
@@ -118,6 +154,41 @@ def extract_menu_photo(photo_path, api_key=None, model=DEFAULT_MODEL, timeout=18
             last_err = str(e)
             time.sleep(1)
     raise ExtractionError(f"extraction failed: {last_err}")
+
+
+def extract_menu_text(menu_text, api_key=None, model=DEFAULT_MODEL, timeout=120):
+    """Menu TEXT -> extraction dict (Wayback/PDF pipeline, no image tokens).
+
+    Returns {ok, data, usage, tokens_in, tokens_out, cost_usd, model}.
+    """
+    api_key = api_key or os.environ.get("OPENROUTER_API_KEY")
+    if not api_key:
+        raise ExtractionError("OPENROUTER_API_KEY not set")
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+        "HTTP-Referer": "https://github.com/adamlevineagent/menuflation",
+        "X-Title": "menuflation",
+    }
+    payload = {
+        "model": model,
+        "messages": [{"role": "user",
+                      "content": TEXT_EXTRACTION_PROMPT + menu_text[:12000]}],
+        "temperature": 0,
+        "response_format": {"type": "json_object"},
+    }
+    r = requests.post(ENDPOINT, headers=headers, json=payload, timeout=timeout)
+    if r.status_code != 200:
+        raise ExtractionError(f"extract_menu_text HTTP {r.status_code}: {r.text[:300]}")
+    data = r.json()
+    usage = data.get("usage", {})
+    c, tin, tout = cost_usd(usage)
+    try:
+        parsed = _parse_response(data["choices"][0]["message"]["content"])
+    except (json.JSONDecodeError, KeyError) as e:
+        raise ExtractionError(f"bad JSON from model: {e}") from e
+    return {"ok": True, "data": parsed, "usage": usage, "tokens_in": tin,
+            "tokens_out": tout, "cost_usd": round(c, 6), "model": model}
 
 
 def check_key(api_key=None):

@@ -1,2 +1,4 @@
 requests>=2.31
 rapidfuzz>=3.6
+exifread>=3.0
+pymupdf>=1.24

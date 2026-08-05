@@ -68,7 +68,8 @@ def _headers(field_mask):
 
 def search_places(text_query, page_size=20,
                   field_mask=("places.id,places.displayName,places.formattedAddress,"
-                              "places.location,places.priceLevel,places.photos")):
+                              "places.location,places.priceLevel,places.websiteUri,"
+                              "places.photos")):
     """Text search -> list of place dicts with .photos[].name references."""
     r = requests.post(f"{BASE}/places:searchText", headers=_headers(field_mask),
                       json={"textQuery": text_query, "pageSize": page_size,

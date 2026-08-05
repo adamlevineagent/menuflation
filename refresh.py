@@ -37,6 +37,7 @@ def main():
             lvl = api.get("priceLevel")
             pl["priceLevel"] = lvl
             pl["tier"] = pl.get("tier") or (LEVELS.get(lvl) if lvl is not None else None)
+            pl["website_uri"] = api.get("websiteUri")
             seen[pl["id"]] = pl
         json.dump(m, open(mf, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     print(f"manifests refreshed: {len(seen)} places")
@@ -47,14 +48,18 @@ def main():
     if "tier" not in cols:
         conn.execute("ALTER TABLE places ADD COLUMN tier TEXT")
         conn.execute("ALTER TABLE places ADD COLUMN price_level INTEGER")
+    if "website_uri" not in cols:
+        conn.execute("ALTER TABLE places ADD COLUMN website_uri TEXT")
     for pid, pl in seen.items():
-        conn.execute("UPDATE places SET tier=?, price_level=? WHERE id=?",
-                     (pl.get("tier"), pl.get("priceLevel"), pid))
+        conn.execute("UPDATE places SET tier=?, price_level=?, website_uri=? "
+                     "WHERE id=?",
+                     (pl.get("tier"), pl.get("priceLevel"), pl.get("website_uri"), pid))
     conn.commit()
-    print("\n== tiers ==")
+    print("\n== websites (places with one) ==")
     for row in conn.execute(
-            "SELECT name, city, tier, price_level FROM places ORDER BY tier"):
-        print(f"  {row[0][:36]:<38} {str(row[1]):<12} {str(row[2]):<16} {row[3]}")
+            "SELECT name, city, website_uri FROM places WHERE website_uri IS NOT NULL "
+            "ORDER BY name"):
+        print(f"  {row[0][:34]:<36} {str(row[1]):<12} {row[2]}")
 
 
 if __name__ == "__main__":
