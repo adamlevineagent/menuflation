@@ -32,8 +32,12 @@ def test_find_pdfs_discovers_archived_pdfs(monkeypatch):
             ["20210101", "https://x.com/menus/2021-01.pdf", "200"],
             ["20220101", "https://x.com/menus/2021-01.pdf", "200"],
             ["20210101", "https://x.com/uploads/Menu.pdf", "200"]]
-    monkeypatch.setattr(wayback, "_get",
-                        lambda url, params=None, timeout=60, tries=3: _FakeResp(rows))
+    def fake_get(url, params=None, timeout=60, tries=3):
+        if "wp-content" in (params or {}).get("url", ""):
+            return _FakeResp(rows)
+        return _FakeResp([["timestamp", "original", "statuscode"]])
+
+    monkeypatch.setattr(wayback, "_get", fake_get)
     pdfs = wayback_pdfs_find("x.com", limit=5)
     assert "https://x.com/menus/2021-01.pdf" in pdfs
     assert pdfs["https://x.com/menus/2021-01.pdf"] == ["20210101", "20220101"]
@@ -65,10 +69,12 @@ def test_harvest_pdf_derives_date_from_filename(monkeypatch, tmp_path):
                                           "price": 7.95}]},
                       "cost_usd": 0.0004})
     r = wayback.harvest_pdf(
-        "https://x.com/wp-content/uploads/2026/06/Main-Menus_2026-06.pdf", "P1")
+        "https://x.com/wp-content/uploads/2026/06/Main-Menus_2026-06.pdf",
+        "P1", out_dir=str(tmp_path))
     assert r and r["observed_on"] == "2026-06-15", r
     assert r["date_source"] == "pdf", r
-    assert wayback.harvest_pdf("https://x.com/uploads/Menu.pdf", "P1") is None
+    assert wayback.harvest_pdf("https://x.com/uploads/Menu.pdf", "P1",
+                               out_dir=str(tmp_path)) is None
 
 
 def wayback_pdfs_find(domain, limit=5):

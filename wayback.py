@@ -140,7 +140,8 @@ def extract_and_store(ts, url, content, place_id, out_dir="data/extractions/wayb
     return payload
 
 
-def harvest_pdf(url, place_id=None, observed_on=None):
+def harvest_pdf(url, place_id=None, observed_on=None,
+                out_dir="data/extractions/wayback"):
     """Download a live PDF menu, extract, store as a dated observation.
 
     Versioned menu PDFs (e.g. Long Meadow Ranch's Main_Menu_2026_06.pdf)
@@ -166,8 +167,7 @@ def harvest_pdf(url, place_id=None, observed_on=None):
         return None
     ts = observed_on.replace("-", "")
     return extract_and_store(ts, url, r.content, place_id,
-                             out_dir="data/extractions/wayback",
-                             date_source="pdf")
+                             out_dir=out_dir, date_source="pdf")
 
 
 def harvest(url, place_id=None, max_snapshots=24):
