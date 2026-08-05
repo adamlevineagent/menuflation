@@ -9,7 +9,8 @@ SCHEMA = """
 CREATE TABLE IF NOT EXISTS places(
   id TEXT PRIMARY KEY,
   name TEXT, address TEXT, lat REAL, lng REAL,
-  city TEXT, state TEXT, source TEXT
+  city TEXT, state TEXT, source TEXT,
+  price_level INTEGER, tier TEXT, website_uri TEXT
 );
 CREATE TABLE IF NOT EXISTS photos(
   ref TEXT PRIMARY KEY,
@@ -67,12 +68,15 @@ def ingest(conn, extractions_dir="data/extractions",
         m = json.load(open(mf, encoding="utf-8"))
         for p in m["places"]:
             conn.execute(
-                "INSERT INTO places(id,name,address,lat,lng,city,state,source) "
-                "VALUES(?,?,?,?,?,?,?,?) "
+                "INSERT INTO places(id,name,address,lat,lng,city,state,source,"
+                "price_level,tier,website_uri) VALUES(?,?,?,?,?,?,?,?,?,?,?) "
                 "ON CONFLICT(id) DO UPDATE SET name=excluded.name,"
-                "address=excluded.address,lat=excluded.lat,lng=excluded.lng",
+                "address=excluded.address,lat=excluded.lat,lng=excluded.lng,"
+                "tier=excluded.tier,price_level=excluded.price_level,"
+                "website_uri=excluded.website_uri",
                 (p["id"], p.get("name"), p.get("address"), p.get("lat"),
-                 p.get("lng"), m.get("city"), m.get("state"), "places-api"))
+                 p.get("lng"), m.get("city"), m.get("state"), "places-api",
+                 p.get("priceLevel"), p.get("tier"), p.get("website_uri")))
     # --- photos + menu lines from extractions ---
     n_photos = n_lines = n_menus = 0
     for jf in sorted(glob.glob(os.path.join(extractions_dir, "**", "*.json"),
