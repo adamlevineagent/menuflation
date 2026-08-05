@@ -89,18 +89,17 @@ def item_averages(conn, min_records=5):
     series; no fixed basket is imposed.
     """
     rows = conn.execute(
-        "SELECT ci.name, substr(m.observed_on,1,4) yr, m.price, "
-        "pl.city || ', ' || pl.state loc "
+        "SELECT ci.name, substr(m.observed_on,1,4) yr, m.price, pl.id "
         "FROM menu_lines m "
         "JOIN canonical_items ci ON ci.id=m.canonical_id "
         "JOIN places pl ON pl.id=m.place_id "
         "WHERE m.date_source IN ('exif','dom','wayback') "
         "AND length(m.observed_on) >= 7").fetchall()
     by_item = defaultdict(lambda: defaultdict(list))
-    locs = defaultdict(set)
-    for name, yr, price, loc in rows:
+    pids = defaultdict(set)
+    for name, yr, price, pid in rows:
         by_item[name][yr].append(price)
-        locs[name].add(loc)
+        pids[name].add(pid)
     out = []
     for name, years in by_item.items():
         total = sum(len(v) for v in years.values())
@@ -110,7 +109,7 @@ def item_averages(conn, min_records=5):
                    "median": round(statistics.median(v), 2),
                    "n": len(v)}
                   for y, v in sorted(years.items())]
-        out.append({"item": name, "total": total, "places": len(locs[name]),
+        out.append({"item": name, "total": total, "places": len(pids[name]),
                     "series": series})
     out.sort(key=lambda x: -x["total"])
     return out
