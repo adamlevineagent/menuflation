@@ -90,6 +90,8 @@ def ingest(conn, extractions_dir="data/extractions",
         name = payload.get("photo", "")
         pid = payload.get("place_id") or _place_id_from_photo_name(name)
         result = payload.get("result") or {}
+        if payload.get("exclude") or result.get("exclude"):
+            continue  # quality gate: marked bad by audit/consensus (JSON keeps the trail)
         conn.execute(
             "INSERT INTO photos(ref,place_id,file,extracted_at,cost_usd) "
             "VALUES(?,?,?,?,?) ON CONFLICT(ref) DO NOTHING",

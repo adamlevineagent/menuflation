@@ -151,13 +151,21 @@ def test_ingest_honors_date_source(tmp_path):
                 "result": {"is_menu": True, "currency_iso": "USD",
                            "items": [{"name": "Burger", "price": 9.95}]}},
         open(tmp_path / "extractions" / "wb" / "m.json", "w"))
+    _json.dump({"photo": "wb/20260615/https://x/bad.pdf",
+                "place_id": "P1", "src": "https://x/bad.pdf",
+                "observed_on": "2026-06-15", "date_source": "pdf", "exclude": True,
+                "exclude_reason": "audit: misread",
+                "result": {"is_menu": True, "currency_iso": "USD",
+                           "items": [{"name": "Burger", "price": 2.25}]}},
+        open(tmp_path / "extractions" / "wb" / "bad.json", "w"))
     conn = _db.connect(str(tmp_path / "t.db"))
     _db.ingest(conn, extractions_dir=str(tmp_path / "extractions"),
                places_dir=str(tmp_path / "places"), observed_on="2026-08-05")
-    row = conn.execute(
-        "SELECT observed_on, date_source FROM menu_lines").fetchone()
-    assert row["observed_on"] == "2026-06-15", dict(row)
-    assert row["date_source"] == "pdf", dict(row)
+    rows = conn.execute(
+        "SELECT observed_on, date_source, price FROM menu_lines").fetchall()
+    assert len(rows) == 1, [dict(r) for r in rows]  # excluded payload skipped
+    assert rows[0]["price"] == 9.95, dict(rows[0])
+    assert rows[0]["date_source"] == "pdf", dict(rows[0])
     # places carry website_uri/tier through ingest (schema-drift fix)
     pl = conn.execute(
         "SELECT website_uri FROM places WHERE id='P1'").fetchone()

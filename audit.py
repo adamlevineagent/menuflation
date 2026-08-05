@@ -12,6 +12,7 @@ Usage: python audit.py
 """
 import json
 import os
+import statistics
 import sys
 from collections import defaultdict
 
@@ -79,8 +80,6 @@ def main():
                 break
 
     # 3. price outliers vs place median (Python-side median)
-    import statistics
-
     places = {r["id"]: r["name"]
               for r in conn.execute("SELECT id, name FROM places")}
     place_prices = defaultdict(list)
@@ -95,6 +94,27 @@ def main():
             issues.append(("outlier", f"{places.get(pid, '?')[:22]} "
                                       f"'{name[:30]}' ${price} vs median ${med:.2f}"))
 
+    # 4. chain consensus: same item, same chain name, near-contemporaneous
+    #    reads (chain pricing is national; a >15% deviant read is suspect).
+    #    Catches the misread class (e.g. In-N-Out Napa $2.25 vs $4.10 consensus).
+    by_chain_item = defaultdict(list)
+    for r in conn.execute(
+            "SELECT pl.name, ci.name, m.observed_on, m.price "
+            "FROM menu_lines m JOIN canonical_items ci ON ci.id=m.canonical_id "
+            "JOIN places pl ON pl.id=m.place_id "
+            "WHERE m.date_source IN ('exif','dom','pdf','wayback','web') "
+            "AND m.observed_on >= date('now', '-180 days') AND m.price > 0"):
+        by_chain_item[(r[0], r[1])].append(r)
+    for (chain, item), rows in by_chain_item.items():
+        if len(rows) < 4:
+            continue
+        med = statistics.median(r[3] for r in rows)
+        for _, _, obs, price in rows:
+            if abs(price / med - 1) > 0.15:
+                issues.append(("chain-consensus",
+                               f"{chain[:20]} '{item[:22]}' {obs} ${price} "
+                               f"vs chain median ${med:.2f}"))
+
     # report
     counts = defaultdict(int)
     for kind, _ in issues:
@@ -102,7 +122,8 @@ def main():
     print(f"menus classified: {n_menus} | weak (<{MIN_ITEMS} items): {n_weak} "
           f"| no-currency: {n_nocur}")
     print("issue counts:", dict(counts))
-    for kind in ("jump", "weak-menu", "no-currency", "name", "size", "outlier"):
+    for kind in ("jump", "weak-menu", "no-currency", "name", "size",
+                 "outlier", "chain-consensus"):
         hits = [t for k, t in issues if k == kind]
         if hits:
             print(f"\n--- {kind} ({len(hits)}) ---")
