@@ -108,7 +108,7 @@ def family_averages(conn, min_records=5):
         "FROM menu_lines m "
         "JOIN canonical_items ci ON ci.id=m.canonical_id "
         "JOIN places pl ON pl.id=m.place_id "
-        "WHERE m.date_source IN ('exif','dom','wayback','pdf') "
+        "WHERE m.date_source IN ('exif','dom','wayback','pdf','web') "
         "AND length(m.observed_on) >= 7").fetchall()
     fam = defaultdict(lambda: defaultdict(list))
     pids = defaultdict(set)
@@ -145,7 +145,7 @@ def item_averages(conn, min_records=5):
         "FROM menu_lines m "
         "JOIN canonical_items ci ON ci.id=m.canonical_id "
         "JOIN places pl ON pl.id=m.place_id "
-        "WHERE m.date_source IN ('exif','dom','wayback','pdf') "
+        "WHERE m.date_source IN ('exif','dom','wayback','pdf','web') "
         "AND length(m.observed_on) >= 7").fetchall()
     by_item = defaultdict(lambda: defaultdict(list))
     pids = defaultdict(set)
@@ -233,7 +233,7 @@ def coverage_matrix(conn):
     rows = conn.execute(
         "SELECT pl.name, substr(m.observed_on,1,4) yr, COUNT(*) "
         "FROM menu_lines m JOIN places pl ON pl.id=m.place_id "
-        "WHERE m.date_source IN ('exif','dom','wayback','pdf') "
+        "WHERE m.date_source IN ('exif','dom','wayback','pdf','web') "
         "GROUP BY pl.name, yr").fetchall()
     years = sorted({r[1] for r in rows})
     matrix = {r[0]: {} for r in rows}
