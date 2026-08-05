@@ -1,0 +1,11 @@
+[
+  {"query": "mcdonalds grants pass", "slug": "mcdonalds-grants-pass", "city": "Grants Pass", "state": "OR"},
+  {"query": "wendys grants pass", "slug": "wendys-grants-pass", "city": "Grants Pass", "state": "OR"},
+  {"query": "burger king grants pass", "slug": "burger-king-grants-pass", "city": "Grants Pass", "state": "OR"},
+  {"query": "jack in the box grants pass", "slug": "jack-in-the-box-grants-pass", "city": "Grants Pass", "state": "OR"},
+  {"query": "taco bell grants pass", "slug": "taco-bell-grants-pass", "city": "Grants Pass", "state": "OR"},
+  {"query": "in-n-out burger grants pass", "slug": "in-n-out-grants-pass", "city": "Grants Pass", "state": "OR"},
+  {"query": "mcdonalds napa", "slug": "mcdonalds-napa", "city": "Napa", "state": "CA"},
+  {"query": "in-n-out napa", "slug": "in-n-out-napa", "city": "Napa", "state": "CA"},
+  {"query": "five guys grants pass", "slug": "five-guys-grants-pass", "city": "Grants Pass", "state": "OR"}
+]
