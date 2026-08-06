@@ -1,0 +1,262 @@
+{
+ "photo": "wb/20180417031455/http://www.angelerestaurant.com:80/SPRING_LUNCH_4-10.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20180417031455/http://www.angelerestaurant.com:80/SPRING_LUNCH_4-10.pdf",
+ "observed_on": "2018-04-17",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Classic French Onion Soup",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marinated Lucques Olives",
+    "price": 6,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Herbes de Provence Crème Fraïche, Pickled Shallots",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Artisan Cheeses of the Day, Chestnut Honey, Toasted Levain",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Baby Garden Lettuces, Red Wine Vinaigrette",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Baby Beet Salad, Goat Cheese, Candied Walnuts, Sherry Vinaigrette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Oysters on the Half Shell served with Champagne Mignonette",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "doz",
+    "notes": null
+   },
+   {
+    "name": "Escargots “Vol au Vent” Garlic, Parsley, Beurre Blanc",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté, Toasted Country Bread, Pickled Vegetables, Cornichons",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic Steak Tartare, Capers, Egg Yolk, Grated Horseradish, Toasted Baguette",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Veal Sweetbreads, Wild Mushrooms, Sunchoke Purée, Pickled Shallots",
+    "price": 19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Omelette du Jour, Little Gem Salad",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic Baguette Sandwich, Bayonne Ham, Cornichons, French Butter, Little Gem Salad",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Hamburger, French Fries",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Croque Monsieur” Parisian Ham, Gruyére, Toasted Levain, Bechamél Sauce",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Salade Lyonnaise” Frisée Salad, Du Puy Lentils, Poached Egg, Sherry Vinaigrette, Lardons",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Niçoise Salad, Tuna Conﬁt, Haricôt Vert, Niçoise Olives, Little Gems, Farm Egg",
+    "price": 20,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Emmer & Co Roasted Organic Half Chicken Salad, Spring Greens, Farro, Red Wine Vinaigrette",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Steak Frites” Roasted Garlic Aioli, Caramelized Onions, French Fries",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sole “Meunière” Roasted Potatoes, Lemon Caper Butter Sauce",
+    "price": 27,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Moules Frites” Steamed Mussels, White Wine, Rumi Spice Co. Saﬀron, French Fries",
+    "price": 29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sautéed Haricots Verts, Shallots, Garlic",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lentils, Sherry Vinaigrette, Lardons",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Garden Baby Carrots",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Macaroni and Cheese",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wine Bags",
+    "price": 25,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angeler Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000768,
+ "wayback_ts": "20180417031455"
+}

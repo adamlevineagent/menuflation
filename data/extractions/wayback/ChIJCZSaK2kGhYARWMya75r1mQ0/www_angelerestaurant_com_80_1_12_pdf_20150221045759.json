@@ -1,0 +1,289 @@
+{
+ "photo": "wb/20150221045759/http://www.angelerestaurant.com:80/LUNCH_1-12.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20150221045759/http://www.angelerestaurant.com:80/LUNCH_1-12.pdf",
+ "observed_on": "2015-02-21",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Pavé de Bœuf Haché",
+    "price": 15.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Croque Monsieur",
+    "price": 15.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Croque Monsieur",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Madame with Egg"
+   },
+   {
+    "name": "B.L.E.",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cassoulet",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Poisson-Frites",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade Niçoise",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Moules Marinière",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Petit Pomme de Terre",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Saumon Rôti",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Poulet Rôti",
+    "price": 26.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Frites",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Gratin de Macaroni",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Légumes D’Hiver",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pommes Frites",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Huîtres",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Soupe Gratinée à l’Oignon",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade Lyonnaise",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Gratin D’Escargots",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ricotta Maison",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Homard en Croute",
+    "price": 20.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Mousse de Foie de Canard",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade D’Hiver",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tartare de Bœuf",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tartare de Bœuf",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Paté Maison",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Petite Laitue",
+    "price": 10.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ris de Veau",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Risotto with Parmigiano Reggiano with Shaved Black Truffles from Perigord",
+    "price": 38.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Tagliatelle with Shaved Black Truffles from Perigord",
+    "price": 38.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001159,
+ "wayback_ts": "20150221045759"
+}

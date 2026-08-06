@@ -1,0 +1,271 @@
+{
+ "photo": "wb/20140124095549/http://www.angelerestaurant.com:80/LUNCH_1-11_1_.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20140124095549/http://www.angelerestaurant.com:80/LUNCH_1-11_1_.pdf",
+ "observed_on": "2014-01-24",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Pavé de Bœuf Haché - Classic Hamburger with French Fries",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Croque Monsieur - Tartine with Parisian Ham, Melted Gruyére, Toasted Levain, Bechamél Sauce (Madame with Egg)",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Croque Monsieur - Tartine with Parisian Ham, Melted Gruyére, Toasted Levain, Bechamél Sauce (Madame with Egg)",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Poisson-Frites - “Fish and Chips” Beer Battered Petrale Sole, Caper Remoulade, Charred Citrus, French Fries",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade Niçoise - Olive Oil Poached Tuna, Haricôt Vert, Niçoise Olives, Little Gem Lettuces, Marinated Peppers, Farm Egg",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Moules - Prince Edward Island Mussels, Fish Fumé, Fennel, Red Onions, Toasted Baguette",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pizzetta - Crispy Pizzetta, Caramelized Onions, Goat Cheese, Shaved Brussel Sprouts, Delicato Squash",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pappardelle - Housemade Papardelle, Braised Pork Shoulder, Mejool Dates, Broccolini, Hazelnuts, Rosemary Jus",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Saumon Rôti - Loch Duart Salmon, Roasted Marble Potatoes, Sautéed Spinach, Meyer Lemon Beurre Blanc",
+    "price": 27,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Poulet Rôti - Roasted Chicken Breast with a Ragôut of Quinoa and Winter Vegetables, Chicken Jus",
+    "price": 20,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Frites- Herb Roasted Petit Filet, French Fries, Wild Mushroom Madeira Sauce",
+    "price": 22,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Champignons - Sautéed Winter Mushrooms, Garlic, Parsley",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Gratin de Macaroni - Macaroni Gratin",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Choux de Bruxelles - Roasted Apples and Brussels Sprouts, Sautéed in Herbed Brown Butter",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pommes Frites - Angèle’s Famous French Fries",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pomme de Terre - Crushed Potatoes, Chive Crème Fraîche",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Huîtres - Oysters on the Half Shell, Mignonette",
+    "price": 3,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Huîtres - 6 Baked Oysters with Bacon, Parmesan, Arugula",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Soupe Gratinée à l’Oignon  - Classic French Onion Soup",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pâté de Campagne - Prosciutto Wrapped Country Pâté, Pickled Vegetables, Violet Mustard Vinaigrette",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade Lyonnaise - Frisée Salad, Warm De Puy Lentils, Carrots, Poached Egg, Sherry Walnut Vinaigrette, Lardons",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ris de Veau - Crispy Veal Sweetbreads, Parsnip Truffle Purée, Huckleberries, Black Trumpet Mushroom Tart, Veal Jus",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade de Pommes - Poached Apples, Roasted Chestnuts, Feta Cheese, Watercress, Champagne Vanilla Vinaigrette",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ventrêche de Porc - Crispy Skinned Pork Belly, Couscous, Crispy Duck Egg, Walnut Vinaigrette, Green Holandaise",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade de Betteraves - Baby Beets, Thumbelina Carrots, Burrata, Candied Pistachios, Yuzu Créme Fraîche, Carrot Chip",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Petite Laitue -  Salad of Little Gem Lettuce, Lollo Rosso Greens, Fines Herbs, Red Wine Vinaigrette",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tartare de Bœuf - Ribeye Steak Tartare, Dijon Mustard, Farm Egg Yolk, Frisée and Arugula Salad",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tartare de Bœuf - Ribeye Steak Tartare, Dijon Mustard, Farm Egg Yolk, Frisée and Arugula Salad",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001205,
+ "wayback_ts": "20140124095549"
+}

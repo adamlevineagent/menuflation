@@ -1,0 +1,208 @@
+{
+ "photo": "wb/20160804094645/http://www.angelerestaurant.com:80/menus/DINNER_7-8.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20160804094645/http://www.angelerestaurant.com:80/menus/DINNER_7-8.pdf",
+ "observed_on": "2016-08-04",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½doz",
+    "notes": null
+   },
+   {
+    "name": "Garden Lemon Cucumbers, Heirloom Tomatoes, Burrata Cheese, Red Wine Vinaigrette, Toasted Baguette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Crème Fraîche Mousse, Pickled Jalapeño",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Selection of Three Artisan Cheeses, Fruit Compote, Toasted Country Bread, Honey Brioche",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Veal Sweetbreads, Summer Squash, Figs, Lentils",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Melon Salad, Apricots, House Made Ricotta Cheese, Pine Nuts",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté “En Croute”, Pickled Vegetables, Mustard Vinaigrette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hamachi Crudo, Roasted Beets, Peaches, Radishes, Shaved Cucumbers, Avocado Mousse",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Green Tomatoes, Horseradish Aioli",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pork Belly Fritters, Boquerones, Lemon-Champagne Aioli",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Dijon Mustard, Farm Egg Yolk, Garden Greens",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Rabbit Stuﬀed Gnocchi, Veal Bolognese",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Halibut “Barigoule” Coco Beans, Cherry Tomatoes, Artichokes",
+    "price": 30,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Pot Pie, Shaved Baby Carrot Salad",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Branzino, Summer Bean Salad, Lemon Caper Butter Sauce",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Corn Agnolotti, Wild Mushrooms, Truﬄe Oil, Shaved Parmesan",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Duck Conﬁt, Marble Potatoes, Stone fruit, Duck Sauce",
+    "price": 32,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sautéed Mussels, White Wine, Garlic, Herbs, Toasted Baguette",
+    "price": 26,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Braised Summer Lamb Stew, Angèle Garden Vegetables",
+    "price": 30,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Thyme Roasted Rib-Eye, French Fries, Sauce Béarnaise, Truﬄed Potato Beignets",
+    "price": 49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000796,
+ "wayback_ts": "20160804094645"
+}

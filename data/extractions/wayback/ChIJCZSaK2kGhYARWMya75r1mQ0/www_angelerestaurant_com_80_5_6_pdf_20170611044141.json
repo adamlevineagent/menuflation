@@ -1,0 +1,208 @@
+{
+ "photo": "wb/20170611044141/http://www.angelerestaurant.com:80/LUNCH_5-6.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20170611044141/http://www.angelerestaurant.com:80/LUNCH_5-6.pdf",
+ "observed_on": "2017-06-11",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Fried Deviled Eggs, Crème Fraïche Mousse, Herbs de Provence, Pickled Shallots",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Artisan Cheeses of the Day, Local Honey, Toasted Levain",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Garden Baby Lettuces, Red Wine Vinaigrette",
+    "price": 11.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Beet Salad, Cara Cara Oranges, Arugula, Tarragon Vinaigrette",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chilled Asparagus “Mimosa”, Hard Boiled Egg, Mustard Vinaigrette, Serrano Ham",
+    "price": 15.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté, Cornichons, Mustard",
+    "price": 15.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Oysters on the Half Shell served with Cider Mignonette",
+    "price": 36.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "doz",
+    "notes": null
+   },
+   {
+    "name": "Escargots “Vol au Vent” Garlic, Parsley, Beurre Blanc",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic Steak Tartare, Capers, Egg Yolk, Toasted Baguette",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Veal Sweetbreads, Fava Beans, Peas, Morel Mushrooms, Hazelnuts, Pea Purée",
+    "price": 19.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Omelette du Jour",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Salade Lyonnaise” Frisée Salad, Du Puy Lentils, Poached Egg, Sherry Vinaigrette, Lardons",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Niçoise Salad, Tuna Confit, Haricôt Vert, Niçoise Olives, Little Gems, Farm Egg",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Chicken Breast, Spring Greens and Farro, Red Wine Vinaigrette",
+    "price": 19.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Hamburger, Red Onion, French Fries",
+    "price": 17.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "(Add Fried Egg $2, Avocado $2 Cheese $1, Bacon $2)"
+   },
+   {
+    "name": "“Croque Monsieur” Parisian Ham, Gruyére, Toasted Levain, Bechamél Sauce",
+    "price": 17.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "(add Farm Egg $2)"
+   },
+   {
+    "name": "Spring Pea Tartine, Burrata, Hazelnuts, Pea Shoots, Toasted Country Bread",
+    "price": 17.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Egg Tartine, Herb Butter, Shaved Garden Radishes, Toasted Levain",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Moules Frites” Steamed Mussels, White Wine, Saffron, French Fries",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bavette Steak, French Fries, Sauce Bordelaise",
+    "price": 26.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angele Wine Bags",
+    "price": 25.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000714,
+ "wayback_ts": "20170611044141"
+}

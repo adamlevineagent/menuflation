@@ -4,7 +4,7 @@ item,size,place,observed_on,date_source,median,n
 21st amendment black ipa,,Gott's Napa,2013-02-28,wayback,4.5,2
 21st amendment extra pale ale,,Gott's Napa,2013-02-28,wayback,4.5,2
 3 dollar sized pancakes and 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
-3 way leaf,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+3 way leaf,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 4 bacon,,The Depot Eatery,2026-08-05,web,18.0,1
 4 links or 2 patties,,The Depot Eatery,2026-08-05,web,18.0,1
 4 pc chicken mcnuggets,,McDonald's,2022-04-16,exif,4.42,4
@@ -103,7 +103,7 @@ alabama bbq chicken,,Gott's Napa,2016-02-07,wayback,10.99,1
 alabama bbq chicken,,Gott's Napa,2017-07-22,wayback,10.99,2
 alambic brandy osocalis,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
 all beef hot dog,,Five Guys,2023-11-27,exif,5.6,1
-all extras,,Genova Delicatessen,2026-08-05,fallback,1.5,1
+all extras,,Genova Delicatessen,2026-08-06,fallback,1.5,1
 all the way,,Five Guys,2023-11-27,exif,1.9,1
 allegash white ale,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
 allegash white ale,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
@@ -154,16 +154,24 @@ andrew murray 14 syrah santa ynez valley,,Gott's Napa,2015-11-23,wayback,8.0,1
 andrew murray 14 syrah santa ynez valley,Bottle,Gott's Napa,2015-11-23,wayback,24.0,1
 ang le bloody mary,,Angele Restaurant & Bar,2015-02-25,wayback,12.0,1
 ang le bloody mary a classic bloody mary with vodka tomato juice spicy horseradish fresh lemon,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
+ang le french fries caramelized onion aioli,,Angele Restaurant & Bar,2016-10-19,wayback,8.0,1
+ang le garden lettuces cherry tomatoes radishes pickled shallots avocado mousse tarragon aioli,,Angele Restaurant & Bar,2016-10-19,wayback,12.0,1
 ang le garden lettuces heirloom tomatoes lemon cucumbers avocado mousse,,Angele Restaurant & Bar,2016-09-10,wayback,12.0,1
 ang le garden tomatoes fresh ricotta whey granita basil champagne vinaigrette,,Angele Restaurant & Bar,2016-08-06,wayback,16.0,1
 ang le garden tomatoes fresh ricotta whey granita basil champagne vinaigrette,,Angele Restaurant & Bar,2016-09-10,wayback,16.0,1
+ang le hamburger with french fries,,Angele Restaurant & Bar,2014-01-24,wayback,14.0,1
+ang le hamburger with french fries,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
 ang le hamburger with french fries,,Angele Restaurant & Bar,2015-02-25,wayback,15.0,1
 ang le hamburger with french fries,,Angele Restaurant & Bar,2015-03-05,wayback,15.0,1
 ang le hamburger with french fries,,Angele Restaurant & Bar,2015-11-06,wayback,15.0,1
 ang le hamburger with french fries,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
 ang le hamburger with french fries,,Angele Restaurant & Bar,2016-05-08,wayback,16.0,1
+ang le hamburger with french fries,,Angele Restaurant & Bar,2017-06-11,wayback,17.0,1
+ang le hamburger with french fries,,Angele Restaurant & Bar,2018-04-17,wayback,17.0,1
 ang le lemon drop,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 angele wine bags,,Angele Restaurant & Bar,2016-09-10,wayback,25.0,1
+angele wine bags,,Angele Restaurant & Bar,2016-10-19,wayback,25.0,1
+angele wine bags,,Angele Restaurant & Bar,2017-06-11,wayback,25.0,1
 angele wine bags,,Angele Restaurant & Bar,2017-08-29,wayback,25.0,1
 angele wine bags,,Angele Restaurant & Bar,2018-06-19,wayback,25.0,1
 antica by antinori,,Bistro Don Giovanni,2020-09-21,wayback,64.0,2
@@ -226,11 +234,14 @@ art house pinot noir,,Bistro Don Giovanni,2021-01-27,wayback,15.0,1
 art house pinot noir napa valley,,Bistro Don Giovanni,2020-09-21,wayback,15.0,1
 artesa,,Bistro Don Giovanni,2020-09-21,wayback,42.0,1
 artichaut au vin blanc,,Angele Restaurant & Bar,2013-05-12,wayback,16.0,1
-artichaut au vin blanc,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,1
+artichaut au vin blanc,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,2
 artichaut au vin blanc,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
 artisan cheeses of the day,,Angele Restaurant & Bar,2015-11-06,wayback,16.0,1
 artisan cheeses of the day,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
 artisan cheeses of the day,,Angele Restaurant & Bar,2017-08-29,wayback,18.0,1
+artisan cheeses of the day chestnut honey toasted levain,,Angele Restaurant & Bar,2016-10-19,wayback,18.0,1
+artisan cheeses of the day chestnut honey toasted levain,,Angele Restaurant & Bar,2017-06-11,wayback,18.0,1
+artisan cheeses of the day chestnut honey toasted levain,,Angele Restaurant & Bar,2018-04-17,wayback,18.0,1
 artisan cheeses of the day chestnut honey toasted levain,,Angele Restaurant & Bar,2018-06-19,wayback,18.0,1
 asatsuyu by kenzo estate,,Bistro Don Giovanni,2020-09-21,wayback,158.0,1
 ashes diamonds,,Bistro Don Giovanni,2020-09-21,wayback,96.0,1
@@ -240,7 +251,7 @@ assorted pastries,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,3.5,1
 assorted pastries,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,3.5,1
 averna amaro,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 aviation,,Bistro Don Giovanni,2020-03-27,wayback,14.0,1
-avocado,,Genova Delicatessen,2026-08-05,fallback,2.0,1
+avocado,,Genova Delicatessen,2026-08-06,fallback,2.0,1
 avocado benedict,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 avocado benedict veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,15.0,1
 avocado chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
@@ -251,7 +262,7 @@ avocado tacos,,Gott's Napa,2021-01-17,wayback,11.99,1
 avocado tacos,3 tacos,Gott's Napa,2020-07-02,wayback,11.99,1
 avocado toast,,Code 4 Taphouse,2025-11-15,exif,12.95,2
 avocado toast gf veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,11.0,1
-b l e,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
+b l e,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,2
 b l t,,Bistro Don Giovanni,2020-09-21,wayback,23.0,1
 b l t,,Bistro Don Giovanni,2023-12-05,wayback,26.0,1
 b nardini amaro,,Angele Restaurant & Bar,2014-09-20,wayback,11.0,1
@@ -259,6 +270,8 @@ b uf bourgignon,,Angele Restaurant & Bar,2012-04-09,wayback,26.0,1
 b uf bourgignon,,Angele Restaurant & Bar,2013-03-19,wayback,28.0,2
 b uf bourgignon,,Angele Restaurant & Bar,2013-05-12,wayback,28.0,1
 b uf bourgignon,,Angele Restaurant & Bar,2013-06-26,wayback,28.0,1
+baby garden lettuces red wine vinaigrette,,Angele Restaurant & Bar,2017-06-11,wayback,11.0,1
+baby garden lettuces red wine vinaigrette,,Angele Restaurant & Bar,2018-04-17,wayback,12.0,1
 baby garden lettuces sherry vinaigrette shaved parmigiano reggiano,,Angele Restaurant & Bar,2018-06-19,wayback,12.0,1
 bacon,,Five Guys,2023-11-27,exif,0.8,1
 bacon,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
@@ -287,14 +300,14 @@ bacon egg,,Bistro Don Giovanni,2023-04-01,wayback,26.0,1
 bacon mcdouble,,McDonald's,2022-04-16,exif,4.15,1
 bacon onion,,Bistro Don Giovanni,2022-01-20,wayback,23.0,1
 bacon swiss buttery smashed jack combo,,Jack in the Box,2025-08-11,exif,10.49,2
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,half,Angele Restaurant & Bar,2015-07-14,wayback,28.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,half,Angele Restaurant & Bar,2015-08-07,wayback,28.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,half,Angele Restaurant & Bar,2015-09-22,wayback,28.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,half,Angele Restaurant & Bar,2015-11-06,wayback,28.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,whole,Angele Restaurant & Bar,2015-07-14,wayback,48.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,whole,Angele Restaurant & Bar,2015-08-07,wayback,56.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,whole,Angele Restaurant & Bar,2015-09-22,wayback,56.0,1
-bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg,whole,Angele Restaurant & Bar,2015-11-06,wayback,56.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,half,Angele Restaurant & Bar,2015-07-14,wayback,28.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,half,Angele Restaurant & Bar,2015-08-07,wayback,28.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,half,Angele Restaurant & Bar,2015-09-22,wayback,28.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,half,Angele Restaurant & Bar,2015-11-06,wayback,28.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,whole,Angele Restaurant & Bar,2015-07-14,wayback,48.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,whole,Angele Restaurant & Bar,2015-08-07,wayback,56.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,whole,Angele Restaurant & Bar,2015-09-22,wayback,56.0,1
+bacon wrapped roasted chicken mushrooms and baguette stu ng farm egg,whole,Angele Restaurant & Bar,2015-11-06,wayback,56.0,1
 bad apple,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 bad apple,,Bistro Don Giovanni,2022-01-20,wayback,15.0,1
 badia a coltibuono vin santo chianti toscana,,Bistro Don Giovanni,2022-01-20,wayback,16.0,1
@@ -308,8 +321,8 @@ baguette sandwich with french brie and figs little gem lettuces,,Angele Restaura
 baguette sandwich with mortadella stonefruit arugula parmesan whole grain mustard french fries,,Angele Restaurant & Bar,2015-11-06,wayback,17.0,1
 baja fish tacos,,Gott's Napa,2021-01-17,wayback,13.99,1
 baja fish tacos,2 tacos,Gott's Napa,2020-07-02,wayback,13.99,1
-baked ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-baked turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+baked ham,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+baked turkey,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 ballast point sculpin ipa,,Gott's Napa,2014-12-22,wayback,6.0,1
 ballast point sculpin ipa,,Gott's Napa,2015-05-13,wayback,6.0,1
 ballast point sculpin ipa,,Gott's Napa,2015-07-24,wayback,6.0,1
@@ -376,8 +389,10 @@ beet haricot verts,,Bistro Don Giovanni,2022-01-20,wayback,17.0,1
 beet haricot verts,,Bistro Don Giovanni,2022-05-27,wayback,17.0,1
 beet haricot verts,,Bistro Don Giovanni,2023-04-01,wayback,18.0,1
 beet haricot verts,,Bistro Don Giovanni,2023-12-05,wayback,18.0,2
+beet salad burrata cheese baby garden greens red wine beet vinaigrette orange oil,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
 beet salad burrata cheese baby garden greens red wine beet vinaigrette orange oil,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
 beet salad burrata cheese baby garden greens red wine beet vinaigrette orange oil,,Angele Restaurant & Bar,2016-05-08,wayback,16.0,1
+beet salad cara cara oranges arugula tarragon vinaigrette,,Angele Restaurant & Bar,2017-06-11,wayback,14.0,1
 belgian waffle,,The Depot Eatery,2026-08-05,web,8.0,1
 bella union by far niente cabernet sauvignon,,Bistro Don Giovanni,2020-03-27,wayback,20.0,1
 bella union by far niente cabernet sauvignon,,Bistro Don Giovanni,2020-09-21,wayback,20.0,3
@@ -552,8 +567,8 @@ blue moon belgian style wheat ale,Canned (12oz),Gott's Napa,2014-12-22,wayback,4
 blue moon belgian style wheat ale,Canned Beer/Cider,Gott's Napa,2016-02-07,wayback,4.5,1
 blueberry banana french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,11.49,1
 blueberry banana pancakes,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,8.14,2
-boiled ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-bologna,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+boiled ham,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+bologna,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 bonal aperitif des montaignes,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 bone in chicken wings,10,The Depot Eatery,2026-08-05,web,20.0,1
 bone in chicken wings,6,The Depot Eatery,2026-08-05,web,14.0,1
@@ -581,6 +596,7 @@ braised rancho gordo beans with salsa verde,,Farmstead at Long Meadow Ranch,2021
 braised rancho gordo beans with salsa verde,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,7.0,1
 braised rancho gordo beans with salsa verde,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
 braised summer lamb stew ang le garden vegetables,,Angele Restaurant & Bar,2016-07-05,wayback,30.0,1
+braised summer lamb stew ang le garden vegetables,,Angele Restaurant & Bar,2016-08-04,wayback,30.0,1
 breakfast,,Gott's Napa,2013-02-28,wayback,1750.0,1
 breakfast burger,,Burgerville,2026-04-26,exif,6.99,1
 breakfast combo,,The Depot Eatery,2026-08-05,web,16.0,1
@@ -635,7 +651,7 @@ buehler 10 zinfandel napa valley,Glass,Gott's Napa,2012-06-17,wayback,9.0,1
 buehler vineyards chardonnay,,Gott's Napa,2015-02-13,wayback,18.0,2
 buehler zinfandel,Bottle,Gott's Napa,2012-06-17,wayback,27.0,1
 buehler zinfandel,Glass,Gott's Napa,2012-06-17,wayback,9.0,1
-buffalo chicken,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+buffalo chicken,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 bundaberg blood orange soda,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 bundaberg pink grapefruit soda,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 burger patty,,Barney's Burgers,2024-01-15,dom,8.0,1
@@ -724,10 +740,10 @@ campstove skillet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.49
 canard,,Angele Restaurant & Bar,2012-01-05,wayback,29.0,1
 canard,,Angele Restaurant & Bar,2012-01-31,wayback,29.0,1
 canard,,Angele Restaurant & Bar,2012-04-09,wayback,29.0,1
-canard r tie,,Angele Restaurant & Bar,2013-03-19,wayback,28.0,2
-canard r tie,,Angele Restaurant & Bar,2013-05-12,wayback,28.0,1
-canard r tie,,Angele Restaurant & Bar,2013-06-26,wayback,28.0,2
-canard r tie,,Angele Restaurant & Bar,2015-02-21,wayback,35.0,1
+canard r ti,,Angele Restaurant & Bar,2013-03-19,wayback,28.0,2
+canard r ti,,Angele Restaurant & Bar,2013-05-12,wayback,28.0,1
+canard r ti,,Angele Restaurant & Bar,2013-06-26,wayback,28.0,2
+canard r ti,,Angele Restaurant & Bar,2015-02-21,wayback,35.0,1
 canned soda,,Gott's Napa,2013-02-28,wayback,2.0,2
 cantina puiatti friulano,,Bistro Don Giovanni,2023-12-05,wayback,15.0,2
 cappuccini absolut vodka coffee liqueur and baileys irish cream shaken with a shot of espresso and topped with whipped cream,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,7.5,1
@@ -751,9 +767,11 @@ carpaccio,,Bistro Don Giovanni,2023-12-05,wayback,19.0,2
 carpano antica,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 casa lapostolle 10 sauvignon blanc chile,Bottle,Gott's Napa,2011-03-22,wayback,21.0,1
 casa lapostolle 10 sauvignon blanc chile,Glass,Gott's Napa,2011-03-22,wayback,7.0,1
+cassoulet,,Angele Restaurant & Bar,2015-02-21,wayback,28.0,1
 ch teau de briat armagnac,,Angele Restaurant & Bar,2014-09-20,wayback,16.0,1
 ch teau de laubade aoc floc de goscogne,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 ch teau du busca 15 yr armagnac,,Angele Restaurant & Bar,2014-09-20,wayback,18.0,1
+champignons saut ed winter mushrooms garlic parsley,,Angele Restaurant & Bar,2014-01-24,wayback,8.0,1
 chapman crafted pilsner,,Bistro Don Giovanni,2020-03-27,wayback,8.0,1
 chapman crafted pilsner,,Bistro Don Giovanni,2020-09-21,wayback,9.0,2
 chappellet 09 cabernet sauvignon napa valley,,Gott's Napa,2013-02-28,wayback,36.0,1
@@ -846,7 +864,7 @@ chicken caesar salad,,Gott's Napa,2016-02-07,wayback,10.99,1
 chicken club,,Gott's Napa,2011-03-22,wayback,9.99,2
 chicken club,,Gott's Napa,2012-05-15,wayback,10.99,2
 chicken drumettes,,Genova Delicatessen,2024-08-31,exif,15.95,1
-chicken drumettes,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+chicken drumettes,,Genova Delicatessen,2026-08-06,fallback,15.95,1
 chicken fettuccini alfredo,,The Depot Eatery,2026-08-05,web,18.0,1
 chicken fried steak,,The Depot Eatery,2026-08-05,web,19.0,1
 chicken house salad,,Gott's Napa,2012-06-17,wayback,10.99,2
@@ -860,11 +878,11 @@ chicken ortega on sourdough,,Barney's Burgers,2026-08-05,web,9.0,1
 chicken patty,,Barney's Burgers,2024-01-15,dom,8.99,1
 chicken philly,,Barney's Burgers,2026-08-05,web,9.95,1
 chicken queso,,Barney's Burgers,2024-01-15,dom,8.99,1
-chicken salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+chicken salad,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 chicken salad sandwich,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
 chicken salad sandwich,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
 chicken salad sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
-chicken salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+chicken salad w cheese,,Genova Delicatessen,2026-08-06,fallback,13.95,1
 chicken sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
 chicken schnitzel,,Gott's Napa,2020-07-02,wayback,13.99,1
 chicken schnitzel,,Gott's Napa,2021-01-17,wayback,13.99,1
@@ -945,6 +963,7 @@ chili cup,Small,Barney's Burgers,2024-01-15,dom,4.49,1
 chili dog,,Barney's Burgers,2026-08-05,web,9.95,1
 chili dog,Jumbo,Barney's Burgers,2026-08-05,web,13.75,1
 chili size,,The Depot Eatery,2026-08-05,web,19.0,1
+chilled asparagus mimosa hard boiled egg mustard vinaigrette serrano ham,,Angele Restaurant & Bar,2017-06-11,wayback,15.0,1
 chimay red label belgium,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 chimney rock elevage sauvignon blanc,,Bistro Don Giovanni,2020-09-21,wayback,72.0,1
 chinaco a ejo,,Angele Restaurant & Bar,2014-09-20,wayback,16.0,1
@@ -974,8 +993,9 @@ choux de bruxelles,,Angele Restaurant & Bar,2012-04-09,wayback,6.0,1
 choux de bruxelles,,Angele Restaurant & Bar,2013-03-19,wayback,8.0,2
 choux de bruxelles,,Angele Restaurant & Bar,2013-04-18,wayback,8.0,1
 choux de bruxelles,,Angele Restaurant & Bar,2013-05-12,wayback,8.0,1
-choux de bruxelles,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,2
+choux de bruxelles,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,3
 choux de bruxelles,,Angele Restaurant & Bar,2013-06-27,wayback,8.0,1
+choux de bruxelles roasted apples and brussels sprouts saut ed in herbed brown butter,,Angele Restaurant & Bar,2014-01-24,wayback,8.0,1
 ci ci merlettaie pecorino,,Bistro Don Giovanni,2020-09-21,wayback,42.0,1
 cinnamon roll,,The Depot Eatery,2026-08-05,web,8.0,1
 cinzano,,Bistro Don Giovanni,2017-01-10,wayback,6.5,1
@@ -995,16 +1015,19 @@ classic,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,55.0,1
 classic,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,55.0,1
 classic,,Gott's Napa,2013-02-28,wayback,2000.0,1
 classic,,Gott's Napa,2013-04-02,wayback,4.99,1
+classic baguette sandwich bayonne ham cornichons french butter little gem salad,,Angele Restaurant & Bar,2018-04-17,wayback,18.0,1
 classic bar,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,12.0,1
 classic bar,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,12.0,1
 classic bar,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,12.0,1
 classic buttermilk pancakes,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,4.99,1
+classic french onion soup,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,1
 classic french onion soup,,Angele Restaurant & Bar,2015-02-25,wayback,12.0,1
 classic french onion soup,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 classic french onion soup,,Angele Restaurant & Bar,2015-03-19,wayback,12.0,1
 classic french onion soup,,Angele Restaurant & Bar,2015-11-06,wayback,12.0,1
 classic french onion soup,,Angele Restaurant & Bar,2016-03-27,wayback,12.0,1
 classic french onion soup,,Angele Restaurant & Bar,2016-04-12,wayback,12.0,1
+classic french onion soup,,Angele Restaurant & Bar,2018-04-17,wayback,14.0,1
 classic french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.49,1
 classic grilled cheese,,Gott's Napa,2011-03-22,wayback,3.99,2
 classic grilled cheese,,Gott's Napa,2012-05-15,wayback,3.99,2
@@ -1013,8 +1036,11 @@ classic seafood,,Gott's Napa,2013-02-28,wayback,2250.0,1
 classic smashed jack burger,,Jack in the Box,2025-08-11,exif,7.99,1
 classic smashed jack combo,,Jack in the Box,2025-08-11,exif,10.99,1
 classic steak tartare,,Angele Restaurant & Bar,2017-08-29,wayback,16.0,1
+classic steak tartare capers egg yolk grated horseradish toasted baguette,,Angele Restaurant & Bar,2017-06-11,wayback,16.0,1
+classic steak tartare capers egg yolk grated horseradish toasted baguette,,Angele Restaurant & Bar,2018-04-17,wayback,17.0,1
 classic steak tartare capers egg yolk grated horseradish toasted baguette,,Angele Restaurant & Bar,2018-06-19,wayback,17.0,1
 classic steak tartare cornichons capers lardo toasted baguette,,Angele Restaurant & Bar,2016-09-10,wayback,16.0,1
+classic steak tartare cornichons capers lardo toasted baguette,,Angele Restaurant & Bar,2016-10-19,wayback,16.0,1
 classic tuna melt,,Gott's Napa,2011-03-22,wayback,9.49,2
 classic tuna melt,,Gott's Napa,2012-05-15,wayback,9.49,2
 classic tuna melt,,Gott's Napa,2012-06-17,wayback,9.49,2
@@ -1055,6 +1081,7 @@ coffee,,In-N-Out Burger,2025-02-25,exif,1.35,1
 coffee,,In-N-Out Burger,2026-06-11,exif,1.65,1
 coffee shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
 coffee shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
+coho salmon crudo avocado seaweed cucumber consomm tarragon oil,,Angele Restaurant & Bar,2016-10-19,wayback,18.0,1
 coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,3.0,1
 coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,3.0,1
 coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,3.0,1
@@ -1064,6 +1091,7 @@ coke float,,Gott's Napa,2021-01-17,wayback,4.99,1
 coleslaw,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,7.0,1
 combo 1,,In-N-Out Burger,2026-06-25,exif,10.5,1
 combo 2,,In-N-Out Burger,2026-06-25,exif,8.7,1
+comt cheese and chanterelle mushroom souffl,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,1
 comt cheese and chanterelle mushroom souffl,,Angele Restaurant & Bar,2016-03-27,wayback,12.0,1
 cone,,McDonald's,2022-04-16,exif,1.99,1
 cookies cream shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
@@ -1073,7 +1101,7 @@ cookies cream shake,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
 coors light,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
 coors light,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
 coors light,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,5.0,1
-coppa,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+coppa,,Genova Delicatessen,2026-08-06,fallback,14.95,1
 coq au vin,,Angele Restaurant & Bar,2015-02-21,wayback,28.0,1
 coq au vin red wine braised chicken lardons mushrooms garden carrots baby potatoes,,Angele Restaurant & Bar,2016-03-27,wayback,28.0,1
 coq au vin red wine braised chicken leg and thigh red wine farro thumbelina carrots parsnips bacon,,Angele Restaurant & Bar,2015-03-19,wayback,28.0,1
@@ -1085,7 +1113,7 @@ corn dog,,Barney's Burgers,2026-08-05,web,3.0,1
 corn dog,Jumbo,Barney's Burgers,2025-08-18,exif,3.99,1
 corn dog,Reg,Barney's Burgers,2025-08-18,exif,2.99,1
 corn pancakes,,Code 4 Taphouse,2025-11-15,exif,6.95,2
-corned beef,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+corned beef,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 corned beef hash,,Boon Fly Café,2026-07-04,exif,23.0,1
 corned beef hash,,The Depot Eatery,2026-08-05,web,16.0,1
 corona,,Gott's Napa,2011-03-22,wayback,4.5,2
@@ -1109,23 +1137,27 @@ corona lager mexico,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 corpse reviver,,Bistro Don Giovanni,2017-01-10,wayback,14.0,1
 country fried steak,,The Depot Eatery,2026-08-05,web,17.0,1
 country ham 3 eggs,,Code 4 Taphouse,2025-11-15,exif,19.95,2
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2015-08-07,wayback,16.0,1
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2015-11-06,wayback,16.0,2
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,1
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2016-05-08,wayback,16.0,1
-country pat en croute pickled beans mustard vinaigrette,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
-country pat pickled vegetables mustard toasted bread,,Angele Restaurant & Bar,2015-07-14,wayback,16.0,1
-country pat pickled vegetables mustard toasted bread,,Angele Restaurant & Bar,2018-06-19,wayback,17.0,1
+country pat cornichons mustard,,Angele Restaurant & Bar,2017-06-11,wayback,15.0,1
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2015-11-06,wayback,16.0,2
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,1
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2016-05-08,wayback,16.0,1
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
+country pat en croute pickled fall beans mustard vinaigrette,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
+country pat en croute summer beans berries mustard vinaigrette,,Angele Restaurant & Bar,2015-08-07,wayback,16.0,1
+country pat en croute summer beans berries mustard vinaigrette,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
+country pat toasted country bread pickled vegetables cornichons,,Angele Restaurant & Bar,2015-07-14,wayback,16.0,1
+country pat toasted country bread pickled vegetables cornichons,,Angele Restaurant & Bar,2018-04-17,wayback,17.0,1
+country pat toasted country bread pickled vegetables cornichons,,Angele Restaurant & Bar,2018-06-19,wayback,17.0,1
 courges d et,,Angele Restaurant & Bar,2012-10-21,wayback,8.0,1
 cowboy fries,,The Depot Eatery,2026-08-05,web,9.0,1
 cowboy fries w chipotle holly sauce bacon cheese,,The Depot Eatery,2026-08-05,web,10.0,1
 cr me brul e cinnamon spice cr me brul e,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 crab cake,,The Depot Eatery,2026-08-05,web,18.0,1
 crab cake w spicy aioli,,The Depot Eatery,2026-08-05,web,11.0,2
-crab salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-crab salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+crab salad,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+crab salad w cheese,,Genova Delicatessen,2026-08-06,fallback,13.95,1
 craggy range 14 sauvignon blanc new zealand,,Gott's Napa,2015-11-23,wayback,9.0,1
 craggy range 14 sauvignon blanc new zealand,Bottle,Gott's Napa,2015-11-23,wayback,27.0,1
 craggy range 14 sauvignon blanc new zealand,Bottle,Gott's Napa,2016-02-07,wayback,27.0,1
@@ -1135,16 +1167,19 @@ crevettes a la plancha,,Angele Restaurant & Bar,2013-05-12,wayback,16.0,1
 crevettes a la plancha,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,2
 crispy and pickled cauli ower kale sprouts vadouvan aioli brown butter almonds,,Angele Restaurant & Bar,2016-08-06,wayback,14.0,1
 crispy and pickled cauli ower kale sprouts vadouvan aioli brown butter almonds,,Angele Restaurant & Bar,2016-09-10,wayback,15.0,1
+crispy and pickled cauli ower kale sprouts vadouvan aioli brown butter almonds,,Angele Restaurant & Bar,2016-10-19,wayback,15.0,1
 crispy ang le garden squash blossoms stuffed with goat cheese and basil quinoa salad,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
 crispy chicken,,Gott's Napa,2014-08-11,wayback,10.99,2
 crispy chicken,,Gott's Napa,2014-10-29,wayback,10.99,1
 crispy chicken caeser,,Barney's Burgers,2024-01-15,dom,10.99,1
 crispy chicken po boy,,Gott's Napa,2014-12-22,wayback,7.99,2
 crispy chicken po boy,,Gott's Napa,2015-02-06,wayback,7.99,2
+crispy chicken roulade wild mushrooms black kale charred alliums elderberry,,Angele Restaurant & Bar,2016-10-19,wayback,28.0,1
 crispy chicken salad,,Barney's Burgers,2026-08-05,web,14.5,1
 crispy chicken sandwich,,McDonald's,2022-04-16,exif,8.49,3
 crispy duck con t warm du puy lentils lardons sherry vinaigrette,,Angele Restaurant & Bar,2018-06-19,wayback,32.0,1
 crispy duck confit marble potatoes stonefruit duck sauce,,Angele Restaurant & Bar,2016-07-05,wayback,32.0,1
+crispy duck confit marble potatoes stonefruit duck sauce,,Angele Restaurant & Bar,2016-08-04,wayback,32.0,1
 crispy fried quail roasted potatoes arugula pickled ramps,,Angele Restaurant & Bar,2015-07-14,wayback,34.0,1
 crispy herb fried potatoes,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
 crispy jalape o chicken,,Gott's Napa,2014-12-22,wayback,10.99,2
@@ -1157,6 +1192,7 @@ crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-07-2
 crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
 crispy rabbit stuffed gnocchi veal bolognese,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,1
 crispy rabbit stuffed gnocchi veal bolognese,,Angele Restaurant & Bar,2016-07-05,wayback,28.0,1
+crispy rabbit stuffed gnocchi veal bolognese,,Angele Restaurant & Bar,2016-08-04,wayback,28.0,1
 crispy scramble burrito with sausage or bacon,,Burgerville,2026-04-26,exif,5.99,2
 crispy skinned salmon winter greens and farro salad heirloom pears gribiche banyuls vinaigrette,,Angele Restaurant & Bar,2015-02-25,wayback,26.0,1
 crispy skinned salmon winter greens and farro salad heirloom pears gribiche banyuls vinaigrette,,Angele Restaurant & Bar,2015-03-05,wayback,26.0,1
@@ -1168,25 +1204,35 @@ crispy teriyaki chicken,,Gott's Napa,2017-07-22,wayback,11.99,2
 crispy teriyaki chicken,,Gott's Napa,2020-07-02,wayback,12.99,1
 crispy teriyaki chicken,,Gott's Napa,2021-01-17,wayback,12.99,1
 crispy veal sweetbreads,,Angele Restaurant & Bar,2017-08-29,wayback,19.0,1
-crispy veal sweetbreads cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-03-19,wayback,17.0,1
-crispy veal sweetbreads cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-07-14,wayback,19.0,1
-crispy veal sweetbreads cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-08-07,wayback,19.0,1
-crispy veal sweetbreads cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-09-22,wayback,19.0,1
-crispy veal sweetbreads cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-11-06,wayback,19.0,1
-crispy veal sweetbreads cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2016-03-27,wayback,19.0,1
+crispy veal sweetbreads cauli ower polenta con t lemons pickled carrots,,Angele Restaurant & Bar,2015-08-07,wayback,19.0,1
+crispy veal sweetbreads cauli ower polenta con t lemons pickled carrots,,Angele Restaurant & Bar,2015-09-22,wayback,19.0,1
+crispy veal sweetbreads cauli ower polenta con t lemons pickled carrots,,Angele Restaurant & Bar,2015-11-06,wayback,19.0,1
+crispy veal sweetbreads cauli ower polenta con t lemons pickled carrots,,Angele Restaurant & Bar,2016-03-27,wayback,19.0,1
 crispy veal sweetbreads chanterelle mushrooms fava beans celeriac bacon glaze,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
+crispy veal sweetbreads chanterelle mushrooms fava beans celeriac bacon glaze,,Angele Restaurant & Bar,2016-10-19,wayback,18.0,1
+crispy veal sweetbreads fava beans peas morel mushrooms hazelnuts pea pur e,,Angele Restaurant & Bar,2017-06-11,wayback,19.0,1
 crispy veal sweetbreads morel mushrooms madeira veal jus herbed polenta,,Angele Restaurant & Bar,2018-06-19,wayback,19.0,1
 crispy veal sweetbreads summer squash figs lentils,,Angele Restaurant & Bar,2016-07-05,wayback,18.0,1
+crispy veal sweetbreads summer squash figs lentils,,Angele Restaurant & Bar,2016-08-04,wayback,18.0,1
+crispy veal sweetbreads veal scallopini cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-03-19,wayback,17.0,1
+crispy veal sweetbreads veal scallopini cauliflower polenta pickled carrots,,Angele Restaurant & Bar,2015-07-14,wayback,19.0,1
+crispy veal sweetbreads wild mushrooms sunchoke pur e pickled shallots,,Angele Restaurant & Bar,2018-04-17,wayback,19.0,1
 crocker starr,,Bistro Don Giovanni,2020-09-21,wayback,48.0,1
 croissant sandwich,,The Depot Eatery,2026-08-05,web,16.0,1
-croissants,,Genova Delicatessen,2026-08-05,fallback,2.0,1
+croissants,,Genova Delicatessen,2026-08-06,fallback,2.0,1
 croque monsieur,,Angele Restaurant & Bar,2013-04-18,wayback,14.0,1
 croque monsieur,,Angele Restaurant & Bar,2013-06-27,wayback,14.0,1
-croque monsieur,,Angele Restaurant & Bar,2015-02-21,wayback,15.0,1
-croque monsieur madame with egg,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
+croque monsieur,,Angele Restaurant & Bar,2015-02-21,wayback,15.5,4
+croque monsieur madame with egg,,Angele Restaurant & Bar,2015-02-21,wayback,16.5,2
 croque monsieur parisian ham melted gruyere toasted levain bechamel sauce,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
-croque monsieur parisian ham melted gruyere toasted levain bechamel sauce,,Angele Restaurant & Bar,2016-05-08,wayback,17.0,1
 croque monsieur parisian ham melted gruyere toasted levain bechamel sauce,Madame,Angele Restaurant & Bar,2016-04-12,wayback,17.0,1
+croque monsieur parisien,,Angele Restaurant & Bar,2013-06-26,wayback,14.0,1
+croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2014-01-24,wayback,15.5,2
+croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2015-02-25,wayback,15.5,2
+croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2015-03-05,wayback,15.5,2
+croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2016-05-08,wayback,17.5,2
+croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2017-06-11,wayback,17.0,1
+croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2018-04-17,wayback,18.0,1
 crostini three,,Perez Kitchen & Bar,2026-08-05,pdf,12.0,1
 crunch breakfast biscuit with sausage or bacon,,Burgerville,2026-04-26,exif,5.89,2
 cuban sandwich,,The Depot Eatery,2026-08-05,web,19.0,1
@@ -1261,7 +1307,7 @@ domaine ott by ott ros c tes de provence france,,Bistro Don Giovanni,2022-01-20,
 domaine ott by ott ros c tes de provence france,,Bistro Don Giovanni,2023-04-01,wayback,15.0,1
 domaine tempier bandol ros,,Bistro Don Giovanni,2020-09-21,wayback,96.0,1
 domaine william f vre chablis,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,52.0,1
-domestic prosciutto,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+domestic prosciutto,,Genova Delicatessen,2026-08-06,fallback,14.95,1
 don manhattan,,Bistro Don Giovanni,2019-09-19,wayback,13.0,1
 don manhattan,,Bistro Don Giovanni,2020-03-27,wayback,13.0,1
 don manhattan,,Bistro Don Giovanni,2020-09-21,wayback,14.0,2
@@ -1337,6 +1383,7 @@ duck confit,,Angele Restaurant & Bar,2017-08-29,wayback,30.0,1
 duck liver mousse cr me fra che gel e fruit compote country toast,,Angele Restaurant & Bar,2015-02-25,wayback,14.0,1
 duck liver mousse cr me fra che gel e fruit compote country toast,,Angele Restaurant & Bar,2015-03-05,wayback,14.0,1
 duck liver mousse cr me fra che gel e fruit compote country toast,,Angele Restaurant & Bar,2015-03-19,wayback,14.0,1
+duck rillette mission fig jam seasonal pickled vegetables,,Angele Restaurant & Bar,2016-10-19,wayback,16.0,1
 duckhorn,,Bistro Don Giovanni,2020-09-21,wayback,82.0,2
 duckhorn 13 sauvignon blanc,,Gott's Napa,2012-06-17,wayback,17.0,1
 duckhorn 13 sauvignon blanc,,Gott's Napa,2014-12-22,wayback,17.0,1
@@ -1372,11 +1419,11 @@ edel,,Bistro Don Giovanni,2023-12-05,wayback,16.0,2
 edizione pennino by francis ford coppola,,Bistro Don Giovanni,2020-09-21,wayback,110.0,1
 edl,,Bistro Don Giovanni,2022-05-27,wayback,16.0,1
 egg and cheese,,Code 4 Taphouse,2025-11-15,exif,15.95,1
-egg salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-egg salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+egg salad,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+egg salad w cheese,,Genova Delicatessen,2026-08-06,fallback,13.95,1
 egg white omelet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
 eggplant,,Genova Delicatessen,2024-08-31,exif,15.95,1
-eggplant,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+eggplant,,Genova Delicatessen,2026-08-06,fallback,15.95,1
 eggs benedict parisian ham model bakery english mu n hollandaise saut ed greens,,Angele Restaurant & Bar,2016-05-08,wayback,22.0,1
 egyptian chamomile select botanical caffeine free,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
 einst k icelandic white ale,,Gott's Napa,2020-07-02,wayback,5.5,1
@@ -1385,6 +1432,8 @@ einst k white ale iceland,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 el bandito,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 el dorado 15 yr special reserve fine demerara,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,2
 elijah,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
+emmer co roasted organic half chicken salad spring greens farro red wine vinaigrette,,Angele Restaurant & Bar,2017-06-11,wayback,19.0,1
+emmer co roasted organic half chicken salad spring greens farro red wine vinaigrette,,Angele Restaurant & Bar,2018-04-17,wayback,28.0,1
 enroute les pommiers,,Bistro Don Giovanni,2020-09-21,wayback,120.0,1
 erdinger,,Bistro Don Giovanni,2019-09-19,wayback,5.0,1
 erdinger,,Bistro Don Giovanni,2020-03-27,wayback,5.0,1
@@ -1395,6 +1444,8 @@ erdinger n a,,Bistro Don Giovanni,2022-05-27,wayback,6.0,1
 erdinger n a,,Bistro Don Giovanni,2023-04-01,wayback,6.0,1
 erdinger n a,,Bistro Don Giovanni,2023-12-05,wayback,6.5,2
 escargots vol au vent,,Angele Restaurant & Bar,2017-08-29,wayback,16.0,1
+escargots vol au vent garlic parsley beurre blanc,,Angele Restaurant & Bar,2017-06-11,wayback,16.0,1
+escargots vol au vent garlic parsley beurre blanc,,Angele Restaurant & Bar,2018-04-17,wayback,17.0,1
 escargots vol au vent garlic parsley beurre blanc,,Angele Restaurant & Bar,2018-06-19,wayback,17.0,1
 escolar,,Angele Restaurant & Bar,2012-01-05,wayback,24.0,1
 espresso,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,1.99,1
@@ -1474,7 +1525,7 @@ faux filet,,Angele Restaurant & Bar,2012-04-09,wayback,32.0,1
 faux filet,,Angele Restaurant & Bar,2013-11-02,wayback,36.0,1
 fava bean salad fava leaves baby romaine candied almonds manchego cheese,,Angele Restaurant & Bar,2015-07-14,wayback,14.0,1
 fava tortellini,,Angele Restaurant & Bar,2013-05-12,wayback,22.0,1
-fava tortellini,,Angele Restaurant & Bar,2013-06-26,wayback,22.0,2
+fava tortellini,,Angele Restaurant & Bar,2013-06-26,wayback,22.0,3
 fava tortellini,,Angele Restaurant & Bar,2013-06-27,wayback,22.0,1
 fernet branca,,Angele Restaurant & Bar,2014-09-20,wayback,9.0,1
 ferrari brut ros,,Bistro Don Giovanni,2020-09-21,wayback,65.0,1
@@ -1573,6 +1624,7 @@ foie gras au torchon,,Angele Restaurant & Bar,2018-06-19,wayback,22.0,1
 foie gras silverado strawberry gel e candied pistachios petite brioche,,Angele Restaurant & Bar,2015-07-14,wayback,22.0,1
 foie gras silverado strawberry gel e candied pistachios petite brioche,,Angele Restaurant & Bar,2015-08-07,wayback,22.0,1
 foie gras silverado strawberry gel e candied pistachios petite brioche,,Angele Restaurant & Bar,2015-09-22,wayback,22.0,1
+foie gras terrine green apples calvados candied pecans juniper honey glazed brioche,,Angele Restaurant & Bar,2016-10-19,wayback,22.0,1
 foie gras terrine mirabelle plums elder ower candied pistachios toasted brioche,,Angele Restaurant & Bar,2016-08-06,wayback,22.0,1
 foie gras terrine nectarines elderflower candied pistachios toasted brioche,,Angele Restaurant & Bar,2016-09-10,wayback,22.0,1
 fort point ksa,,Gott's Napa,2020-07-02,wayback,8.0,1
@@ -1623,6 +1675,7 @@ frank family zinfandel napa valley,,Bistro Don Giovanni,2022-01-20,wayback,16.0,
 frank family zinfandel napa valley,,Bistro Don Giovanni,2023-04-01,wayback,16.0,1
 fratelli abrigo barbera d alba superiore,,Bistro Don Giovanni,2023-12-05,wayback,16.0,2
 freestone by joseph phelps,,Bistro Don Giovanni,2020-09-21,wayback,104.0,1
+french fries,,Angele Restaurant & Bar,2015-02-21,wayback,7.0,1
 french fries,,Angele Restaurant & Bar,2015-02-25,wayback,8.0,1
 french fries,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 french fries,,Angele Restaurant & Bar,2015-03-19,wayback,7.0,1
@@ -1633,7 +1686,9 @@ french fries,,Angele Restaurant & Bar,2015-11-06,wayback,9.0,1
 french fries,,Angele Restaurant & Bar,2016-04-12,wayback,7.0,1
 french fries,,Angele Restaurant & Bar,2016-05-08,wayback,8.0,1
 french fries,,Angele Restaurant & Bar,2016-07-05,wayback,8.0,1
+french fries,,Angele Restaurant & Bar,2016-08-04,wayback,8.0,1
 french fries,,Angele Restaurant & Bar,2017-08-29,wayback,9.0,1
+french fries,,Angele Restaurant & Bar,2018-04-17,wayback,11.0,1
 french fries,,Angele Restaurant & Bar,2018-06-19,wayback,11.0,1
 french fries,Large,Barney's Burgers,2024-01-15,dom,3.99,1
 french fries,Large,Barney's Burgers,2026-08-05,web,4.0,1
@@ -1705,13 +1760,19 @@ fried deviled eggs,,Angele Restaurant & Bar,2017-08-29,wayback,12.0,1
 fried deviled eggs avocado mousse pickled shallots,,Angele Restaurant & Bar,2015-07-14,wayback,8.0,1
 fried deviled eggs avocado mousse pickled shallots,,Angele Restaurant & Bar,2015-08-07,wayback,11.0,1
 fried deviled eggs avocado mousse pickled shallots,,Angele Restaurant & Bar,2015-09-22,wayback,11.0,1
+fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
 fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele Restaurant & Bar,2015-11-06,wayback,11.0,2
 fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele Restaurant & Bar,2016-04-12,wayback,18.0,1
 fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele Restaurant & Bar,2016-05-08,wayback,14.0,1
 fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele Restaurant & Bar,2016-07-05,wayback,14.0,1
+fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele Restaurant & Bar,2016-08-04,wayback,14.0,1
+fried deviled eggs herbes de provence cr me fra che pickled shallots,,Angele Restaurant & Bar,2017-06-11,wayback,12.0,1
+fried deviled eggs herbes de provence cr me fra che pickled shallots,,Angele Restaurant & Bar,2018-04-17,wayback,14.0,1
 fried deviled eggs herbes de provence cr me fra che pickled shallots,,Angele Restaurant & Bar,2018-06-19,wayback,14.0,1
 fried egg biscuit sandwich with sausage or bacon,,Burgerville,2026-04-26,exif,3.99,1
+fried egg tartine herb butter shaved garden radishes toasted levain,,Angele Restaurant & Bar,2017-06-11,wayback,16.0,1
 fried green tomatoes horseradish ailoi,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
+fried green tomatoes horseradish ailoi,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
 fried shrimp basket,,The Depot Eatery,2026-08-05,web,16.0,1
 fries large,Large,Five Guys,2023-11-27,exif,6.25,1
 fries little,Little,Five Guys,2023-11-27,exif,4.35,1
@@ -1748,8 +1809,6 @@ fromages du jour,,Angele Restaurant & Bar,2012-01-05,wayback,12.0,1
 fromages du jour,,Angele Restaurant & Bar,2012-01-31,wayback,12.0,1
 fromages du jour,,Angele Restaurant & Bar,2012-04-09,wayback,12.0,1
 fromages du jour,,Angele Restaurant & Bar,2012-10-21,wayback,12.0,1
-fromages du jour artisan cheeses of the day,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
-fromages du jour artisan cheeses of the day,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
 fruit yogurt granola,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,5.99,1
 fruits de mer,,Angele Restaurant & Bar,2012-01-05,wayback,16.0,1
 fruits de mer,,Angele Restaurant & Bar,2012-01-31,wayback,16.0,1
@@ -1763,6 +1822,7 @@ garden baby lettuces,,Angele Restaurant & Bar,2017-08-29,wayback,12.0,1
 garden beet salad,,Angele Restaurant & Bar,2017-08-29,wayback,14.0,1
 garden greens garlic lemon,,Bistro Don Giovanni,2020-03-27,wayback,8.0,1
 garden lemon cucumber salad,,Angele Restaurant & Bar,2017-08-29,wayback,15.0,1
+garden lemon cucumbers heirloom tomatoes burrata cheese red wine vinaigrette toasted baguette,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
 garden veggie,,The Depot Eatery,2026-08-05,web,18.0,1
 garlic fries,,Gott's Napa,2011-03-22,wayback,3.99,2
 garlic fries,,Gott's Napa,2012-05-15,wayback,3.99,2
@@ -1780,9 +1840,9 @@ garlic fries,,Gott's Napa,2020-07-02,wayback,3.99,1
 garlic fries,,Gott's Napa,2021-01-17,wayback,3.99,1
 gateau aux chocolat chocolate roulade toasted almonds almond anglaise with strawberry syrup,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 gazpacho,,Bistro Don Giovanni,2020-09-21,wayback,12.0,2
-genitina,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-genoa salami,,Genova Delicatessen,2026-08-05,fallback,14.95,1
-genova vegi,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+genitina,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+genoa salami,,Genova Delicatessen,2026-08-06,fallback,14.95,1
+genova vegi,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 germain robin xo brandy,,Angele Restaurant & Bar,2014-09-20,wayback,22.0,1
 gianluigi lano barbera e freisa,,Bistro Don Giovanni,2022-05-27,wayback,15.0,1
 gift cards,,In-N-Out Burger,2026-06-25,exif,20.0,2
@@ -1818,12 +1878,12 @@ gold peak drink,,Five Guys,2023-11-27,exif,4.2,1
 golden state cider mighty dry,,Gott's Napa,2020-07-02,wayback,6.5,1
 golden state cider mighty dry,,Gott's Napa,2021-01-17,wayback,6.5,1
 goldeneye by duckhorn pinot noir,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,54.0,1
-gougeonettes de sole,,Angele Restaurant & Bar,2013-03-19,wayback,25.0,2
-gougeonettes de sole,,Angele Restaurant & Bar,2013-04-18,wayback,25.0,1
-gougeonettes de sole,,Angele Restaurant & Bar,2013-05-12,wayback,25.0,1
-gougeonettes de sole,,Angele Restaurant & Bar,2013-06-26,wayback,25.0,2
-gougeonettes de sole,,Angele Restaurant & Bar,2013-06-27,wayback,25.0,1
 gougonettes de st pierre,,Angele Restaurant & Bar,2012-04-09,wayback,24.0,1
+gougonettes du sole,,Angele Restaurant & Bar,2013-03-19,wayback,25.0,2
+gougonettes du sole,,Angele Restaurant & Bar,2013-04-18,wayback,25.0,1
+gougonettes du sole,,Angele Restaurant & Bar,2013-05-12,wayback,25.0,1
+gougonettes du sole,,Angele Restaurant & Bar,2013-06-26,wayback,25.0,3
+gougonettes du sole,,Angele Restaurant & Bar,2013-06-27,wayback,25.0,1
 gr ner veltliner loimer lois,Bottle,Gott's Napa,2017-07-22,wayback,24.0,1
 gr ner veltliner loimer lois,Glass,Gott's Napa,2017-07-22,wayback,8.0,1
 gr ner veltliner loimer lois kamptal austria 2015,Bottle,Gott's Napa,2017-07-22,wayback,24.0,1
@@ -1844,7 +1904,7 @@ grass fed meatballs,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
 grass fed meatballs,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
 grass fed meatballs,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,2
 grass fed meatballs,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
-gratin d escargots,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,1
+gratin d escargots,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,2
 gratin d escargots,,Angele Restaurant & Bar,2015-02-25,wayback,12.0,1
 gratin d escargots,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 gratin d escargots,,Angele Restaurant & Bar,2015-03-19,wayback,8.0,1
@@ -1855,10 +1915,11 @@ gratin de macaroni,,Angele Restaurant & Bar,2012-10-21,wayback,10.0,1
 gratin de macaroni,,Angele Restaurant & Bar,2013-03-19,wayback,8.0,2
 gratin de macaroni,,Angele Restaurant & Bar,2013-04-18,wayback,8.0,1
 gratin de macaroni,,Angele Restaurant & Bar,2013-05-12,wayback,8.0,1
-gratin de macaroni,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,2
+gratin de macaroni,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,3
 gratin de macaroni,,Angele Restaurant & Bar,2013-06-27,wayback,8.0,1
 gratin de macaroni,,Angele Restaurant & Bar,2013-11-02,wayback,8.0,1
-gratin de macaroni,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,1
+gratin de macaroni,,Angele Restaurant & Bar,2014-01-24,wayback,8.0,1
+gratin de macaroni,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,2
 gratin la banane banana gratin almond crust vanilla bean ice cream,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 green chile cheeseburger,,Gott's Napa,2012-06-17,wayback,8.99,2
 green chile cheeseburger,,Gott's Napa,2014-08-11,wayback,9.99,2
@@ -1977,10 +2038,12 @@ ham sandwiches,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
 ham sandwiches,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
 ham sandwiches,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,2
 ham sandwiches,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
+hamachi crudo black rice cracker avocado mousse,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
 hamachi crudo black rice cracker avocado mousse,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
 hamachi crudo black rice cracker avocado mousse,,Angele Restaurant & Bar,2016-05-08,wayback,16.0,1
 hamachi crudo black rice cracker avocado mousse,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
 hamachi crudo cassoulet bean hummus shaved radishes,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,1
+hamachi crudo roasted beets peaches radishes shaved cucumbers avocado mousse,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
 hamachi crudo watercress market cherries quinoa,,Angele Restaurant & Bar,2015-07-14,wayback,16.0,1
 hamachi crudo watercress market cherries quinoa,,Angele Restaurant & Bar,2015-08-07,wayback,16.0,1
 hamachi crudo watercress mission figs quinoa,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
@@ -2014,7 +2077,7 @@ hashbrowns,LARGE,Burgerville,2026-04-26,exif,3.19,1
 hashbrowns,SMALL,Burgerville,2026-04-26,exif,1.89,1
 hawaiian,,Barney's Burgers,2024-01-15,dom,10.99,1
 hawaiian,,Barney's Burgers,2026-08-05,web,9.45,1
-headcheese,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+headcheese,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 hearty nw oatmeal,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,5.49,1
 heirloom roasted peppers,,Bistro Don Giovanni,2023-12-05,wayback,16.0,1
 heirloom tomatoes,,Bistro Don Giovanni,2020-09-21,wayback,18.0,1
@@ -2043,7 +2106,7 @@ hess collection chardonnay su skol,,Bistro Don Giovanni,2022-05-27,wayback,13.0,
 hess collection chardonnay su skol,,Bistro Don Giovanni,2023-04-01,wayback,14.0,1
 hess collection chardonnay su skol,,Bistro Don Giovanni,2023-12-05,wayback,16.0,2
 hollys veggie,,The Depot Eatery,2026-08-05,web,17.0,1
-homard en croute,,Angele Restaurant & Bar,2015-02-21,wayback,20.0,2
+homard en croute,,Angele Restaurant & Bar,2015-02-21,wayback,20.0,3
 homeade chili,Bowl,The Depot Eatery,2026-08-05,web,10.0,1
 homeade chili,Bread Bowl,The Depot Eatery,2026-08-05,web,12.0,1
 homeade chili,Cup,The Depot Eatery,2026-08-05,web,7.0,1
@@ -2052,7 +2115,7 @@ homemade lemonade orange juice grapefruit juice,,Farmstead at Long Meadow Ranch,
 homemade lemonade orange juice grapefruit juice,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
 homemade lemonade orange juice grapefruit juice,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,5.0,1
 honey cured ham,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,6.64,2
-honey turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+honey turkey,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 honig,,Bistro Don Giovanni,2020-09-21,wayback,36.0,1
 hot chocolate,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,2.39,1
 hot chocolate,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,4.0,1
@@ -2078,7 +2141,7 @@ hot italian,,Bistro Don Giovanni,2020-09-21,wayback,23.0,1
 hot italian,,Bistro Don Giovanni,2021-01-27,wayback,23.0,1
 hot italian,,Bistro Don Giovanni,2023-04-01,wayback,26.0,1
 hot italian,,Bistro Don Giovanni,2023-12-05,wayback,26.0,1
-hot salami,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+hot salami,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 hot sauce,,Five Guys,2023-11-27,exif,0.05,1
 hot sicilian,,Bistro Don Giovanni,2022-01-20,wayback,24.0,1
 hot sicilian sausage,,Bistro Don Giovanni,2020-09-21,wayback,23.0,1
@@ -2091,8 +2154,6 @@ house made chili cheddar cheese extra,,Gott's Napa,2014-12-22,wayback,3.0,1
 house made chili cheddar cheese extra,,Gott's Napa,2017-07-22,wayback,3.0,1
 house made condiments,,Gott's Napa,2026-05-25,exif,4.99,1
 house made cookies,,Gott's Napa,2026-05-25,exif,3.99,1
-house made corn agnolotti wild mushrooms tru e oil shaved parmesan,,Angele Restaurant & Bar,2016-07-05,wayback,28.0,1
-house made corn agnolotti wild mushrooms tru e oil shaved parmesan,,Angele Restaurant & Bar,2016-08-06,wayback,28.0,1
 house made lemonade,,Gott's Napa,2016-02-07,wayback,2.74,2
 house made lemonade,16oz,Gott's Napa,2015-05-13,wayback,2.49,2
 house made lemonade,16oz,Gott's Napa,2015-11-23,wayback,2.49,1
@@ -2112,17 +2173,23 @@ house made lemonade,Small,Gott's Napa,2015-02-06,wayback,2.25,2
 house made meatloaf,,The Depot Eatery,2026-08-05,web,18.0,1
 house made pot roast,,The Depot Eatery,2026-08-05,web,18.0,1
 house made tagliatelle shaved summer truffles wild mushrooms corn parmesan,,Angele Restaurant & Bar,2016-09-10,wayback,38.0,1
+house made tagliatelle shaved summer truffles wild mushrooms corn parmesan,,Angele Restaurant & Bar,2016-10-19,wayback,38.0,1
 house salad,,Gott's Napa,2011-03-22,wayback,6.99,2
 house salad,,Gott's Napa,2012-05-15,wayback,6.99,2
 house salad,lrg,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
 house salad,sm,Perez Kitchen & Bar,2026-08-05,pdf,8.0,1
 house specialty breakfast,,Code 4 Taphouse,2025-11-15,exif,19.95,2
+housemade agnolotti with fava beans black trumpets artichokes sunchokes,,Angele Restaurant & Bar,2015-02-21,wayback,15.0,1
 housemade chicken sausage braised cabbage and apples whole grain mustard sauce poached eggs,,Angele Restaurant & Bar,2015-02-25,wayback,20.0,1
 housemade chicken sausage braised cabbage and apples whole grain mustard sauce poached eggs,,Angele Restaurant & Bar,2015-03-05,wayback,20.0,1
+housemade corn agnolotti wild mushrooms truffle oil shaved parmesan,,Angele Restaurant & Bar,2016-07-05,wayback,28.0,1
+housemade corn agnolotti wild mushrooms truffle oil shaved parmesan,,Angele Restaurant & Bar,2016-08-04,wayback,28.0,1
+housemade corn agnolotti wild mushrooms truffle oil shaved parmesan,,Angele Restaurant & Bar,2016-08-06,wayback,28.0,1
 housemade lemonade,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
 housemade pappardelle,,Angele Restaurant & Bar,2017-08-29,wayback,28.0,1
 housemade pasta garden asparagus favas green garlic parmigiano reggiano,,Angele Restaurant & Bar,2018-06-19,wayback,29.0,1
 housemade ricotta,,Angele Restaurant & Bar,2017-08-29,wayback,15.0,1
+housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
 housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2015-02-25,wayback,14.0,1
 housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2015-03-05,wayback,14.0,1
 housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2015-03-19,wayback,14.0,1
@@ -2131,10 +2198,11 @@ housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant 
 housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2015-11-06,wayback,16.0,1
 housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2016-04-12,wayback,16.0,1
 housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant & Bar,2016-05-08,wayback,16.0,1
-housemade tagliatelle with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-02-21,wayback,38.0,1
+housemade tagliatelle with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-02-21,wayback,38.0,2
 housemade wild mushroom and pumpkin agnolotti fresh ricotta almonds,,Angele Restaurant & Bar,2015-11-06,wayback,15.0,1
 housemade wild mushroom and pumpkin agnolotti fresh ricotta almonds,,Angele Restaurant & Bar,2016-03-27,wayback,15.0,1
-hu tres,,Angele Restaurant & Bar,2015-02-21,wayback,3.0,2
+hu tres,,Angele Restaurant & Bar,2015-02-21,wayback,3.0,3
+hu tres 6 baked oysters with bacon parmesan arugula,,Angele Restaurant & Bar,2014-01-24,wayback,18.0,1
 i ll have another,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 i m isabel mondavi ros,,Bistro Don Giovanni,2020-09-21,wayback,34.0,1
 ice cream or sorbet in a cup,Large,Gott's Napa,2012-05-15,wayback,4.49,2
@@ -2203,7 +2271,7 @@ isabela,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
 isole e olena chianti classico,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,34.0,1
 italian blood orange caffeine free,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
 italian breakfast sandwich,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
-italian combo,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+italian combo,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 italian greyhound,,Bistro Don Giovanni,2017-01-10,wayback,11.0,1
 italian greyhound,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
 italian greyhound,,Bistro Don Giovanni,2020-03-27,wayback,12.0,1
@@ -2310,7 +2378,7 @@ kung fu girl 13 riesling columbia valley washington,Bottle,Gott's Napa,2014-12-2
 kung fu girl 13 riesling columbia valley washington,Glass,Gott's Napa,2014-12-22,wayback,7.0,1
 l garnier chartreuse green v e p,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
 l gumes d automne,,Angele Restaurant & Bar,2012-01-05,wayback,18.0,1
-l gumes d hiver,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,1
+l gumes d hiver,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,2
 la coume maury lt harvest grenache 07,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
 la follette 10 pinot noir,,Gott's Napa,2013-02-28,wayback,33.0,2
 la follette 10 pinot noir,Bottle,Gott's Napa,2012-06-17,wayback,33.0,2
@@ -2372,13 +2440,14 @@ lapin a la moutarde rabbit stew with mustard cr me fra che tarragon noodles,,Ang
 lapin brais,,Angele Restaurant & Bar,2012-10-21,wayback,27.0,1
 large drink,32 fl oz,Five Guys,2023-11-27,exif,3.15,1
 lasagna,,Genova Delicatessen,2024-08-31,exif,15.95,1
-lasagna,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+lasagna,,Genova Delicatessen,2026-08-06,fallback,15.95,1
 lasagna bolognese,,Bistro Don Giovanni,2021-01-27,wayback,26.0,1
 lasagna bolognese,,Bistro Don Giovanni,2022-01-20,wayback,29.0,1
 latt,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,3.29,1
 latte,,McDonald's,2022-04-16,exif,3.55,1
 lavender honey glazed duck breast mustard greens stone fruit duck sauce,,Angele Restaurant & Bar,2016-08-06,wayback,32.0,1
 lavender honey glazed duck breast white figs ryan s peaches black walnuts port wine reduction,,Angele Restaurant & Bar,2016-09-10,wayback,32.0,1
+lavender honey glazed duck breast white figs ryan s peaches black walnuts port wine reduction,,Angele Restaurant & Bar,2016-10-19,wayback,32.0,1
 le cassematte peloro grillo e carricante,,Bistro Don Giovanni,2019-09-19,wayback,14.0,1
 le cassematte peloro grillo e carricante,,Bistro Don Giovanni,2020-03-27,wayback,14.0,1
 le chiuse brunello di montalcino,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,78.0,1
@@ -2401,9 +2470,12 @@ lemorton reserve deux calvados,,Angele Restaurant & Bar,2014-09-20,wayback,13.0,
 lentilles aux lardons,,Angele Restaurant & Bar,2013-03-19,wayback,8.0,2
 lentilles aux lardons,,Angele Restaurant & Bar,2013-04-18,wayback,8.0,1
 lentilles aux lardons,,Angele Restaurant & Bar,2013-05-12,wayback,8.0,1
-lentilles aux lardons,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,2
+lentilles aux lardons,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,3
 lentilles aux lardons,,Angele Restaurant & Bar,2013-06-27,wayback,8.0,1
 lentils,,Angele Restaurant & Bar,2017-08-29,wayback,9.0,1
+lentils sherry vinaigrette lardons,,Angele Restaurant & Bar,2018-04-17,wayback,11.0,1
+les fromages du jour hand selected cheeses of the day honey local figs toasted levain,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
+les fromages du jour hand selected cheeses of the day honey local figs toasted levain,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
 let s be frank hot dog,,Gott's Napa,2012-05-15,wayback,5.99,2
 let s be frank hot dog,,Gott's Napa,2012-06-17,wayback,6.99,1
 lettuce,,Five Guys,2023-11-27,exif,0.05,1
@@ -2423,20 +2495,20 @@ lillet ros,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 little bacon burger,,Five Guys,2023-11-27,exif,8.3,1
 little bacon cheeseburger,,Five Guys,2023-11-27,exif,9.05,1
 little cheeseburger,,Five Guys,2023-11-27,exif,8.05,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-02-25,wayback,10.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-03-19,wayback,10.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-07-14,wayback,12.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-08-07,wayback,12.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-09-22,wayback,12.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-11-06,wayback,12.0,2
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-03-27,wayback,12.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-04-12,wayback,12.0,1
-little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-05-08,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2014-01-24,wayback,9.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-07-14,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-08-07,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-09-22,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-11-06,wayback,12.0,2
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-03-27,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-04-12,wayback,12.0,1
+little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-05-08,wayback,12.0,1
 little gem salad,,Gott's Napa,2014-10-29,wayback,9.99,1
 little hamburger,,Five Guys,2023-11-27,exif,7.05,1
 little neck clams pork belly crepinette parsley butter rhone white wine toasted baguette,,Angele Restaurant & Bar,2016-08-06,wayback,28.0,1
 little neck clams pork belly crepinette parsley butter rhone white wine toasted baguette,,Angele Restaurant & Bar,2016-09-10,wayback,26.0,1
+little neck clams pork belly crepinette parsley butter rhone white wine toasted baguette,,Angele Restaurant & Bar,2016-10-19,wayback,26.0,1
 littorai mays canyon,,Bistro Don Giovanni,2020-09-21,wayback,164.0,1
 littorai the haven vineyard,,Bistro Don Giovanni,2020-09-21,wayback,180.0,1
 livio felluga pinot grigio,,Bistro Don Giovanni,2020-09-21,wayback,52.0,1
@@ -2450,6 +2522,7 @@ lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,15.0,2
 lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,15.0,1
 lobster and black truffle pot pie shaved baby carrot salad,,Angele Restaurant & Bar,2016-03-27,wayback,30.0,1
 lobster and black truffle pot pie shaved baby carrot salad,,Angele Restaurant & Bar,2016-07-05,wayback,30.0,1
+lobster and black truffle pot pie shaved baby carrot salad,,Angele Restaurant & Bar,2016-08-04,wayback,28.0,1
 loco moco,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,16.0,1
 longe de porc,,Angele Restaurant & Bar,2012-01-05,wayback,28.0,1
 longe de porc,,Angele Restaurant & Bar,2012-01-31,wayback,28.0,1
@@ -2486,7 +2559,9 @@ mac and cheese with sonoma cheddar,,Farmstead at Long Meadow Ranch,2021-07-28,wa
 mac and cheese with sonoma cheddar,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,8.0,1
 macallan 12 yr,,Angele Restaurant & Bar,2014-09-20,wayback,11.0,1
 macaroni and cheese,,Angele Restaurant & Bar,2017-08-29,wayback,10.0,1
+macaroni and cheese,,Angele Restaurant & Bar,2018-04-17,wayback,11.0,1
 macaroni and cheese,,Angele Restaurant & Bar,2018-06-19,wayback,11.0,1
+macaroni gratin,,Angele Restaurant & Bar,2015-02-21,wayback,9.0,1
 macaroni gratin,,Angele Restaurant & Bar,2015-02-25,wayback,8.0,1
 macaroni gratin,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 macaroni gratin,,Angele Restaurant & Bar,2015-03-19,wayback,7.0,1
@@ -2546,6 +2621,7 @@ margherita,,Bistro Don Giovanni,2022-01-20,wayback,23.0,1
 margherita,,Bistro Don Giovanni,2022-05-27,wayback,23.0,1
 margherita,,Bistro Don Giovanni,2023-04-01,wayback,25.0,1
 margherita,,Bistro Don Giovanni,2023-12-05,wayback,25.0,2
+marinated lucques olives,,Angele Restaurant & Bar,2018-04-17,wayback,6.0,1
 marinated lucques olives,,Angele Restaurant & Bar,2018-06-19,wayback,6.0,1
 marinated olives,,Angele Restaurant & Bar,2015-11-06,wayback,6.0,1
 marinated olives,,Angele Restaurant & Bar,2016-04-12,wayback,7.0,1
@@ -2589,20 +2665,23 @@ massican annia,,Bistro Don Giovanni,2020-09-21,wayback,68.0,1
 mayo,,Five Guys,2023-11-27,exif,1.1,1
 mazzei fonterutoli chianti classico,,Bistro Don Giovanni,2023-12-05,wayback,17.0,1
 mcflurry,,McDonald's,2022-04-16,exif,3.99,1
-meat ball or sausage,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+meat ball or sausage,,Genova Delicatessen,2026-08-06,fallback,13.95,1
 meat ball or sausage sandwich w sauted onions peppers,,Genova Delicatessen,2024-08-31,exif,13.95,1
 meat lovers,,The Depot Eatery,2026-08-05,web,18.0,1
 meat n eggs,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,10.0,2
 meatball panini,,Bistro Don Giovanni,2021-01-27,wayback,16.0,1
 meatloaf sandwich,,River's Edge Restaurant,2026-07-16,exif,20.0,1
 meatloaf sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
+mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
 mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restaurant & Bar,2015-02-25,wayback,18.0,1
 mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restaurant & Bar,2015-03-05,wayback,18.0,1
 mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
+mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restaurant & Bar,2016-08-04,wayback,26.0,1
 meiomi 10 pinot noir california,Bottle,Gott's Napa,2012-05-15,wayback,27.0,2
 meiomi 10 pinot noir california,Glass,Gott's Napa,2012-05-15,wayback,9.0,2
 melon and heirloom tomato salad black pepper yogurt vinaigrette mozzarella,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
 melon salad apricots cucumbers house made ricotta cheese pine nuts,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
+melon salad apricots cucumbers house made ricotta cheese pine nuts,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
 merryvale starmont 11 cabernet sauvignon,,Gott's Napa,2012-05-15,wayback,14.0,2
 merryvale starmont 11 cabernet sauvignon,,Gott's Napa,2012-06-17,wayback,15.0,2
 merryvale starmont 11 cabernet sauvignon,,Gott's Napa,2014-12-22,wayback,18.0,2
@@ -2652,7 +2731,7 @@ mighty leaf hot teas,,Bistro Don Giovanni,2022-05-27,wayback,4.0,1
 mighty leaf hot teas,,Bistro Don Giovanni,2023-04-01,wayback,4.0,1
 mighty leaf hot teas,,Bistro Don Giovanni,2023-12-05,wayback,4.0,2
 mike s cowboy burger,,The Depot Eatery,2026-08-05,web,19.0,1
-mild cheese,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+mild cheese,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 milk,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,2.19,1
 milk,,In-N-Out Burger,2026-06-25,exif,1.25,4
 milk,,In-N-Out Burger,2025-02-25,exif,0.95,1
@@ -2753,7 +2832,7 @@ monticelli brothers rolando rosso red blend,,Bistro Don Giovanni,2022-05-27,wayb
 monticelli brothers rolando rosso red blend,,Bistro Don Giovanni,2023-04-01,wayback,15.0,1
 monticelli brothers rolando rosso red blend,,Bistro Don Giovanni,2023-12-05,wayback,15.0,2
 moroccan mint green tea low caffeine,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
-mortadella,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+mortadella,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 moscow mule,,Bistro Don Giovanni,2017-01-10,wayback,12.0,1
 moscow mule,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
 moscow mule,,Bistro Don Giovanni,2020-03-27,wayback,12.0,1
@@ -2761,11 +2840,14 @@ moscow mule,,Bistro Don Giovanni,2020-09-21,wayback,13.0,2
 moscow mule,,Bistro Don Giovanni,2021-01-27,wayback,13.0,1
 moscow mule,,Bistro Don Giovanni,2022-01-20,wayback,13.0,1
 moules frites,,Angele Restaurant & Bar,2017-08-29,wayback,28.0,1
+moules frites steamed mussels white wine rumi spice co sa ron french fries,,Angele Restaurant & Bar,2017-06-11,wayback,28.0,1
+moules frites steamed mussels white wine rumi spice co sa ron french fries,,Angele Restaurant & Bar,2018-04-17,wayback,29.0,1
 moules frites steamed mussels white wine rumi spice co sa ron french fries,,Angele Restaurant & Bar,2018-06-19,wayback,32.0,1
-moules marini re,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
+moules marini re,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,2
+moules prince edward island mussels fish fum fennel red onions toasted baguette,,Angele Restaurant & Bar,2014-01-24,wayback,18.0,1
 mountain valley spring water,,Gott's Napa,2017-07-22,wayback,2.99,4
 mountain valley spring water,,Gott's Napa,2021-01-17,wayback,3.29,1
-mousse de foie de canard,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,2
+mousse de foie de canard,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,3
 mozzarella di bufala e prosciutto,,Bistro Don Giovanni,2017-01-10,wayback,17.0,1
 mozzarella sticks,,The Depot Eatery,2026-08-05,web,7.5,2
 murphy goode sauvignon blanc,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,24.0,1
@@ -2814,13 +2896,20 @@ nathan s small hot dogs,,Gott's Napa,2012-05-15,wayback,5.99,1
 nathan s small hot dogs,small,Gott's Napa,2012-05-15,wayback,5.99,1
 neige cidre de glace apple ice wine,,Angele Restaurant & Bar,2014-09-20,wayback,11.0,1
 new york steak,,Code 4 Taphouse,2025-11-15,exif,23.95,1
+new york steak french fries sauce bordelaise,,Angele Restaurant & Bar,2015-02-21,wayback,28.0,1
+new york steak french fries sauce bordelaise,,Angele Restaurant & Bar,2017-06-11,wayback,26.0,1
+new york steak french fries sauce bordelaise,,Angele Restaurant & Bar,2018-06-19,wayback,39.0,1
 new york steak sunny side up egg french fries sauce bordelaise,,Angele Restaurant & Bar,2016-05-08,wayback,29.0,1
 neyers unoaked chardonnay,,Gott's Napa,2015-02-13,wayback,22.0,2
+ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2014-01-24,wayback,16.0,1
+ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2015-02-21,wayback,20.0,1
 ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2015-02-25,wayback,18.0,1
 ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2015-03-05,wayback,18.0,1
 ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2015-11-06,wayback,20.0,1
 ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2016-04-12,wayback,20.0,1
 ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2016-05-08,wayback,20.0,1
+ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2017-06-11,wayback,18.0,1
+ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2018-04-17,wayback,20.0,1
 nicchi,,Angele Restaurant & Bar,2012-01-31,wayback,18.0,1
 nicholas jay,,Bistro Don Giovanni,2020-09-21,wayback,120.0,1
 nickel nickel harris ranch,,Bistro Don Giovanni,2020-09-21,wayback,98.0,1
@@ -2857,8 +2946,11 @@ old fashioned shakes malts,Medium,Barney's Burgers,2025-08-18,exif,6.49,1
 old fashioned shakes malts,Small,Barney's Burgers,2025-08-18,exif,4.99,1
 olivia brion,,Bistro Don Giovanni,2020-09-21,wayback,78.0,1
 omelette du jour,,Angele Restaurant & Bar,2013-04-18,wayback,15.0,1
+omelette du jour,,Angele Restaurant & Bar,2017-06-11,wayback,18.0,1
+omelette du jour little gem salad,,Angele Restaurant & Bar,2018-04-17,wayback,18.0,1
 one 4 the girls,,Bistro Don Giovanni,2017-01-10,wayback,14.0,1
 onglet,,Angele Restaurant & Bar,2013-04-18,wayback,18.0,1
+onglet,,Angele Restaurant & Bar,2013-06-26,wayback,18.0,1
 onglet,,Angele Restaurant & Bar,2013-06-27,wayback,18.0,1
 onion rings,,Barney's Burgers,2024-01-15,dom,6.0,1
 onion rings,,Barney's Burgers,2026-08-05,web,7.0,1
@@ -2924,6 +3016,8 @@ organic ice cream in a cup,Small,Gott's Napa,2021-01-17,wayback,3.99,1
 ortega chicken,,Barney's Burgers,2026-08-05,web,9.0,1
 ortega jack,,Barney's Burgers,2026-08-05,web,9.45,1
 oysters on the half shell,,Angele Restaurant & Bar,2017-08-29,wayback,36.0,1
+oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2014-01-24,wayback,3.0,1
+oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2015-02-25,wayback,3.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2015-07-14,wayback,18.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2015-08-07,wayback,18.0,1
@@ -2933,8 +3027,12 @@ oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-0
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-04-12,wayback,18.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-07-05,wayback,18.0,1
+oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-08-04,wayback,18.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-08-06,wayback,18.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
+oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2016-10-19,wayback,18.0,1
+oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2017-06-11,wayback,36.0,1
+oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2018-04-17,wayback,36.0,1
 oysters on the half shell served with mignonette,,Angele Restaurant & Bar,2018-06-19,wayback,36.0,1
 oysters on the half shell served with mignonette,1/2 doz,Angele Restaurant & Bar,2015-03-05,wayback,18.0,1
 oysters on the half shell served with mignonette,1/2 doz,Angele Restaurant & Bar,2015-03-19,wayback,18.0,1
@@ -2947,9 +3045,10 @@ p t de campagne,,Angele Restaurant & Bar,2012-10-21,wayback,12.0,1
 p t de campagne,,Angele Restaurant & Bar,2013-03-19,wayback,12.0,2
 p t de campagne,,Angele Restaurant & Bar,2013-04-18,wayback,12.0,1
 p t de campagne,,Angele Restaurant & Bar,2013-05-12,wayback,12.0,1
-p t de campagne,,Angele Restaurant & Bar,2013-06-26,wayback,12.0,2
+p t de campagne,,Angele Restaurant & Bar,2013-06-26,wayback,12.0,3
 p t de campagne,,Angele Restaurant & Bar,2013-06-27,wayback,12.0,1
 p t de campagne,,Angele Restaurant & Bar,2013-11-02,wayback,14.0,1
+p t de campagne prosciutto wrapped country p t pickled vegetables violet mustard vinaigrette,,Angele Restaurant & Bar,2014-01-24,wayback,14.0,1
 p tes proven al,,Angele Restaurant & Bar,2012-10-21,wayback,25.0,1
 pabst blue ribbon,,Gott's Napa,2014-12-22,wayback,3.5,1
 pabst blue ribbon,,Gott's Napa,2015-02-13,wayback,3.5,1
@@ -3008,6 +3107,7 @@ paolo cali violino nero d avola siciliana italy,,Bistro Don Giovanni,2022-01-20,
 paper plane,,Bistro Don Giovanni,2020-09-21,wayback,14.0,2
 paper plane,,Bistro Don Giovanni,2021-01-27,wayback,14.0,1
 paper planes ros,,Bistro Don Giovanni,2020-09-21,wayback,52.0,1
+pappardelle housemade papardelle braised pork shoulder mejool dates broccolini hazelnuts rosemary jus,,Angele Restaurant & Bar,2014-01-24,wayback,28.0,1
 paradigm,,Bistro Don Giovanni,2020-09-21,wayback,98.0,1
 parfait,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
 parfait,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
@@ -3032,8 +3132,8 @@ pasta per bambini no green stuff,,Bistro Don Giovanni,2023-04-01,wayback,8.0,1
 pasta per bambini no green stuff,,Bistro Don Giovanni,2023-12-05,wayback,9.0,1
 pastis,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 pastis mauresque tomate perroquet,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
-pastrami,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-pat maison,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,2
+pastrami,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+pat maison,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,3
 patty melt,,Barney's Burgers,2024-01-15,dom,10.99,1
 patty melt,,Barney's Burgers,2026-08-05,web,9.45,1
 patty melt,,Gott's Napa,2011-03-22,wayback,7.99,2
@@ -3052,8 +3152,9 @@ paul mas r serve picpoul de pinet languedoc france,,Bistro Don Giovanni,2022-01-
 paula kornell blanc de noir mitsuko s vineyard,,Bistro Don Giovanni,2020-09-21,wayback,95.0,1
 paule de porc,,Angele Restaurant & Bar,2012-10-21,wayback,28.0,1
 pav de b uf hach,,Angele Restaurant & Bar,2013-04-18,wayback,14.0,1
+pav de b uf hach,,Angele Restaurant & Bar,2013-06-26,wayback,14.0,1
 pav de b uf hach,,Angele Restaurant & Bar,2013-06-27,wayback,14.0,1
-pav de b uf hach,,Angele Restaurant & Bar,2015-02-21,wayback,15.0,1
+pav de b uf hach,,Angele Restaurant & Bar,2015-02-21,wayback,15.0,2
 pbr,,Gott's Napa,2013-02-28,wayback,3.5,2
 peanut butter,,Five Guys,2023-11-27,exif,0.9,1
 peanut butter chocolate shake,12oz,Gott's Napa,2021-01-17,wayback,6.99,1
@@ -3068,8 +3169,8 @@ pellegrino,500ml,Bistro Don Giovanni,2017-01-10,wayback,4.0,1
 pellegrino,750ml,Bistro Don Giovanni,2017-01-10,wayback,7.0,1
 penne amatriciana,,Bistro Don Giovanni,2023-12-05,wayback,34.0,1
 pepper crusted filet mignon crispy potato galette beef belly en cro te wild mushrooms salsify,,Angele Restaurant & Bar,2015-03-19,wayback,38.0,1
-pepper salami,,Genova Delicatessen,2026-08-05,fallback,14.95,1
-pepper turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+pepper salami,,Genova Delicatessen,2026-08-06,fallback,14.95,1
+pepper turkey,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 peppercorn chicken caesar wrap,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
 perez club,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
 pernod,,Bistro Don Giovanni,2017-01-10,wayback,8.5,1
@@ -3089,7 +3190,7 @@ peroni,,Bistro Don Giovanni,2023-12-05,wayback,7.5,2
 petit filet,,Angele Restaurant & Bar,2013-06-26,wayback,36.0,1
 petit gem de laitue,,Angele Restaurant & Bar,2012-04-09,wayback,10.0,1
 petit pomme de terre,,Angele Restaurant & Bar,2013-11-02,wayback,8.0,1
-petit pomme de terre,,Angele Restaurant & Bar,2015-02-21,wayback,15.0,2
+petit pomme de terre,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,3
 petit sal,,Angele Restaurant & Bar,2012-01-05,wayback,16.0,1
 petit sal,,Angele Restaurant & Bar,2012-01-31,wayback,16.0,1
 petit sal,,Angele Restaurant & Bar,2012-04-09,wayback,16.0,1
@@ -3097,11 +3198,11 @@ petite laitue,,Angele Restaurant & Bar,2012-10-21,wayback,10.0,1
 petite laitue,,Angele Restaurant & Bar,2013-03-19,wayback,10.0,2
 petite laitue,,Angele Restaurant & Bar,2013-04-18,wayback,10.0,1
 petite laitue,,Angele Restaurant & Bar,2013-05-12,wayback,10.0,1
-petite laitue,,Angele Restaurant & Bar,2013-06-26,wayback,10.0,2
+petite laitue,,Angele Restaurant & Bar,2013-06-26,wayback,10.0,3
 petite laitue,,Angele Restaurant & Bar,2013-06-27,wayback,10.0,1
 petite laitue,,Angele Restaurant & Bar,2013-11-02,wayback,9.0,1
-petite laitue,,Angele Restaurant & Bar,2015-02-21,wayback,10.0,2
-petite quiche with spring vegetables little gem salad,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
+petite laitue,,Angele Restaurant & Bar,2015-02-21,wayback,10.0,3
+petrale sole capers citrus persillade citrus segments potato pur e,,Angele Restaurant & Bar,2015-02-21,wayback,26.0,1
 petrale sole capers citrus persillade citrus segments potato pur e,,Angele Restaurant & Bar,2015-02-25,wayback,26.0,1
 petrale sole capers citrus persillade citrus segments potato pur e,,Angele Restaurant & Bar,2015-03-05,wayback,26.0,1
 petrale sole capers citrus persillade citrus segments potato pur e,,Angele Restaurant & Bar,2016-05-08,wayback,26.0,1
@@ -3146,7 +3247,9 @@ pintade,,Angele Restaurant & Bar,2012-01-05,wayback,28.0,1
 pintade,,Angele Restaurant & Bar,2012-01-31,wayback,28.0,1
 pintade,,Angele Restaurant & Bar,2012-04-09,wayback,28.0,1
 piperade basquaise,,Angele Restaurant & Bar,2013-04-18,wayback,16.0,1
+pissaladi re,,Angele Restaurant & Bar,2013-06-26,wayback,14.0,1
 pissaladi re,,Angele Restaurant & Bar,2013-06-27,wayback,14.0,1
+pizzetta crispy pizzetta caramelized onions goat cheese shaved brussel sprouts delicato squash,,Angele Restaurant & Bar,2014-01-24,wayback,14.0,1
 plain burger,,Gott's Napa,2014-08-11,wayback,6.99,2
 plain burger,,Gott's Napa,2014-10-29,wayback,6.99,1
 plain burger,,Gott's Napa,2014-12-22,wayback,6.99,1
@@ -3157,10 +3260,11 @@ pliny the elder,,Gott's Napa,2020-07-02,wayback,9.0,1
 pliny the elder,,Gott's Napa,2021-01-17,wayback,9.0,1
 po l e de saumon,,Angele Restaurant & Bar,2012-10-21,wayback,27.0,1
 poisson cru,,Angele Restaurant & Bar,2012-01-05,wayback,16.0,1
-poisson frites,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
+poisson frites,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,2
+poisson frites fish and chips beer battered petrale sole caper remoulade charred citrus french fries,,Angele Restaurant & Bar,2014-01-24,wayback,18.0,1
 poitrine de veau farci,,Angele Restaurant & Bar,2012-10-21,wayback,29.0,1
 polenta,,Genova Delicatessen,2024-08-31,exif,15.95,1
-polenta,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+polenta,,Genova Delicatessen,2026-08-06,fallback,15.95,1
 pollo alla diavola,,Bistro Don Giovanni,2017-01-10,wayback,27.0,1
 pollo alla diavola,,Bistro Don Giovanni,2019-09-19,wayback,28.0,1
 pollo alla diavola,,Bistro Don Giovanni,2020-03-27,wayback,28.0,1
@@ -3172,6 +3276,7 @@ pollo alla diavola,,Bistro Don Giovanni,2023-04-01,wayback,35.0,1
 pollo alla diavola,,Bistro Don Giovanni,2023-12-05,wayback,35.0,1
 pollo alla diavola,Half Chicken,Bistro Don Giovanni,2023-12-05,wayback,36.0,1
 pom pom cosmo,,Bistro Don Giovanni,2017-01-10,wayback,13.0,1
+pomme de terre crushed potatoes chive cr me fra che,,Angele Restaurant & Bar,2014-01-24,wayback,8.0,1
 pomme pur e,,Angele Restaurant & Bar,2013-03-19,wayback,8.0,2
 pomme pur e,,Angele Restaurant & Bar,2013-04-18,wayback,8.0,1
 pomme pur e,,Angele Restaurant & Bar,2013-05-12,wayback,8.0,1
@@ -3184,15 +3289,17 @@ pommes frites,,Angele Restaurant & Bar,2012-10-21,wayback,8.0,1
 pommes frites,,Angele Restaurant & Bar,2013-03-19,wayback,8.0,2
 pommes frites,,Angele Restaurant & Bar,2013-04-18,wayback,8.0,1
 pommes frites,,Angele Restaurant & Bar,2013-05-12,wayback,8.0,1
-pommes frites,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,2
+pommes frites,,Angele Restaurant & Bar,2013-06-26,wayback,8.0,3
 pommes frites,,Angele Restaurant & Bar,2013-06-27,wayback,8.0,1
 pommes frites,,Angele Restaurant & Bar,2013-11-02,wayback,8.0,1
-pommes frites,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,1
+pommes frites,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,2
+pommes frites ang le s famous french fries,,Angele Restaurant & Bar,2014-01-24,wayback,8.0,1
 pommes frites caramelized onion aioli,,Angele Restaurant & Bar,2016-08-06,wayback,8.0,1
 pommes frites caramelized onion aioli,,Angele Restaurant & Bar,2016-09-10,wayback,8.0,1
 porcini,,Bistro Don Giovanni,2021-01-27,wayback,24.0,1
 pork belly fritters boquerones lemon champagne aioli,,Angele Restaurant & Bar,2016-05-08,wayback,14.0,1
 pork belly fritters boquerones lemon champagne aioli,,Angele Restaurant & Bar,2016-07-05,wayback,14.0,1
+pork belly fritters boquerones lemon champagne aioli,,Angele Restaurant & Bar,2016-08-04,wayback,14.0,1
 pork chop milanese,,Bistro Don Giovanni,2021-01-27,wayback,31.0,1
 pork rillette cabernet franc gel e pickled mustard seed,,Angele Restaurant & Bar,2016-08-06,wayback,16.0,1
 pork rillette cabernet franc gel e pickled mustard seed,,Angele Restaurant & Bar,2016-09-10,wayback,16.0,1
@@ -3207,7 +3314,10 @@ poulet en crepinette,,Angele Restaurant & Bar,2013-06-26,wayback,26.0,2
 poulet farci,,Angele Restaurant & Bar,2013-11-02,wayback,26.0,1
 poulet grand m re,,Angele Restaurant & Bar,2012-10-21,wayback,26.0,1
 poulet pan,,Angele Restaurant & Bar,2013-04-18,wayback,20.0,1
+poulet pan,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,1
 poulet pan,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
+poulet r ti,,Angele Restaurant & Bar,2015-02-21,wayback,26.0,1
+poulet r ti roasted chicken breast with a rag ut of quinoa and winter vegetables chicken jus,,Angele Restaurant & Bar,2014-01-24,wayback,20.0,1
 poulpe brais e,,Angele Restaurant & Bar,2013-11-02,wayback,14.0,1
 pride,,Bistro Don Giovanni,2020-09-21,wayback,114.0,1
 prime new york steak crispy potato galette bone marrow beef belly stuffed heirloom tomatoes,,Angele Restaurant & Bar,2015-07-14,wayback,39.0,1
@@ -3219,8 +3329,8 @@ prime rib,,The Depot Eatery,2026-08-05,web,25.0,1
 prosciutto and kale wrapped monkfish forbidden black rice apple velout charred leeks,,Angele Restaurant & Bar,2015-03-19,wayback,28.0,1
 prosciutto di parma,,Bistro Don Giovanni,2020-03-27,wayback,18.0,1
 prosciutto di parma,,Bistro Don Giovanni,2022-05-27,wayback,24.0,1
-prosciutto diparma,,Genova Delicatessen,2026-08-05,fallback,16.95,1
-prosciutto diparma w cheese,,Genova Delicatessen,2026-08-05,fallback,17.45,1
+prosciutto diparma,,Genova Delicatessen,2026-08-06,fallback,16.95,1
+prosciutto diparma w cheese,,Genova Delicatessen,2026-08-06,fallback,17.45,1
 prosciutto fig sandwich,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
 prosciutto fig sandwich,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
 prosciutto figs,,Bistro Don Giovanni,2019-09-19,wayback,18.0,1
@@ -3244,6 +3354,7 @@ querciabella chianti classico toscana italy,,Bistro Don Giovanni,2023-04-01,wayb
 qupe 09 syrah,Half Bottle,Gott's Napa,2011-03-22,wayback,12.0,1
 r my martin xo cognac,,Angele Restaurant & Bar,2014-09-20,wayback,26.0,1
 rabbit loin wrapped in bayonne ham farro verde green garlic ravigotte,,Angele Restaurant & Bar,2018-06-19,wayback,18.0,1
+rabbit meatballs saut ed parisienne gnocchi young carrots wild arugula,,Angele Restaurant & Bar,2016-10-19,wayback,28.0,1
 racer 5 ipa,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
 racer 5 ipa,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
 racer 5 ipa,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,6.0,1
@@ -3261,7 +3372,7 @@ ravioli,,Bistro Don Giovanni,2023-04-01,wayback,30.0,1
 ravioli,,Bistro Don Giovanni,2023-12-05,wayback,31.0,2
 ravioli di zucca,,Bistro Don Giovanni,2017-01-10,wayback,18.0,1
 ravioli tortellini,,Genova Delicatessen,2024-08-31,exif,15.95,1
-ravioli tortellini,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+ravioli tortellini,,Genova Delicatessen,2026-08-06,fallback,15.95,1
 raw scallop garden cucumbers avocado mousse lime sea greens,,Angele Restaurant & Bar,2016-08-06,wayback,18.0,1
 raw scallop garden cucumbers avocado mousse lime sea greens,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
 raymond vineyard signature select,,Bistro Don Giovanni,2020-09-21,wayback,40.0,1
@@ -3276,7 +3387,7 @@ rickshaw pinot noir california,,Gott's Napa,2015-05-13,wayback,9.0,1
 rickshaw pinot noir california,,Gott's Napa,2015-07-24,wayback,9.0,1
 rickshaw pinot noir california,Bottle,Gott's Napa,2015-05-13,wayback,27.0,2
 rickshaw pinot noir california,Glass,Gott's Napa,2015-05-13,wayback,9.0,1
-ricotta maison,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,2
+ricotta maison,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,3
 ridge 10 zinfandel,Half Bottle,Gott's Napa,2014-08-11,wayback,21.0,1
 ridge 10 zinfandel,Half bottle,Gott's Napa,2014-08-11,wayback,21.0,1
 ridge ponzo,,Bistro Don Giovanni,2020-09-21,wayback,70.0,1
@@ -3290,10 +3401,11 @@ ris de veau,,Angele Restaurant & Bar,2012-10-21,wayback,16.0,1
 ris de veau,,Angele Restaurant & Bar,2013-03-19,wayback,16.0,2
 ris de veau,,Angele Restaurant & Bar,2013-04-18,wayback,16.0,1
 ris de veau,,Angele Restaurant & Bar,2013-05-12,wayback,16.0,1
-ris de veau,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,2
+ris de veau,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,3
 ris de veau,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
 ris de veau,,Angele Restaurant & Bar,2013-11-02,wayback,16.0,1
-ris de veau,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
+ris de veau,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,2
+ris de veau crispy veal sweetbreads parsnip truffle pur e huckleberries black trumpet mushroom tart veal jus,,Angele Restaurant & Bar,2014-01-24,wayback,16.0,1
 risotto,,Bistro Don Giovanni,2017-01-10,wayback,26.0,1
 risotto,,Bistro Don Giovanni,2020-03-27,wayback,32.0,1
 risotto,,Bistro Don Giovanni,2020-09-21,wayback,30.0,1
@@ -3302,21 +3414,26 @@ risotto,,Bistro Don Giovanni,2022-01-20,wayback,34.0,1
 risotto,,Bistro Don Giovanni,2022-05-27,wayback,36.0,1
 risotto,,Bistro Don Giovanni,2023-04-01,wayback,34.0,1
 risotto,,Bistro Don Giovanni,2023-12-05,wayback,38.0,2
-risotto with parmigiano reggiano with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-02-21,wayback,38.0,1
+risotto with parmigiano reggiano with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-02-21,wayback,38.0,2
 risotto with parmigiano reggiano with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-03-19,wayback,38.0,1
-roast beef,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-roasted baby carrots,,Angele Restaurant & Bar,2017-08-29,wayback,9.0,1
+roast beef,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+roasted baby beet salad goat cheese candied walnuts sherry vinaigrette,,Angele Restaurant & Bar,2018-04-17,wayback,16.0,1
 roasted beets buckwheat cracker caraway goat cheese citrus red watercress,,Angele Restaurant & Bar,2015-02-25,wayback,16.0,1
 roasted beets buckwheat cracker caraway goat cheese citrus red watercress,,Angele Restaurant & Bar,2015-03-05,wayback,16.0,1
 roasted beets buckwheat cracker caraway goat cheese citrus red watercress,,Angele Restaurant & Bar,2015-03-19,wayback,14.0,1
 roasted bone marrow wild mushroom marmalade crispy garlic red onion glaze,,Angele Restaurant & Bar,2016-08-06,wayback,18.0,1
 roasted bone marrow wild mushroom marmalade crispy garlic red onion glaze,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
+roasted bone marrow wild mushroom marmalade crispy garlic red onion glaze,,Angele Restaurant & Bar,2016-10-19,wayback,18.0,1
 roasted brussels sprouts,,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
 roasted cauliflower lentil,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
 roasted chicken breast crispy boudin blanc winter vegetables wild mushroom and parsnip pur e,,Angele Restaurant & Bar,2015-02-25,wayback,26.0,1
 roasted chicken breast crispy boudin blanc winter vegetables wild mushroom and parsnip pur e,,Angele Restaurant & Bar,2015-03-05,wayback,26.0,1
 roasted chicken salad butter lettuce citrus farro sherry vinaigrette,,Angele Restaurant & Bar,2016-05-08,wayback,22.0,1
+roasted chicken salad spinach radicchio fris e farro sauce verte,,Angele Restaurant & Bar,2015-02-21,wayback,20.0,1
+roasted garden baby carrots,,Angele Restaurant & Bar,2017-08-29,wayback,9.0,1
+roasted garden baby carrots,,Angele Restaurant & Bar,2018-04-17,wayback,11.0,1
 roasted halibut,,Angele Restaurant & Bar,2017-08-29,wayback,30.0,1
+roasted halibut barigoule coco beans cherry tomatoes artichokes,,Angele Restaurant & Bar,2016-08-04,wayback,30.0,1
 roasted heritage chicken fresh herbs garlic roasted potatoes,,Angele Restaurant & Bar,2018-06-19,wayback,32.0,1
 roasted padrons lemon salt,,Angele Restaurant & Bar,2015-07-14,wayback,8.0,1
 roasted padrons lemon salt,,Angele Restaurant & Bar,2015-08-07,wayback,9.0,1
@@ -3331,6 +3448,7 @@ roasted quail stu ed with country bread and corn ratatouille tomato marmalade,,A
 roasted quail stu ed with country bread and corn ratatouille tomato marmalade,,Angele Restaurant & Bar,2015-09-22,wayback,34.0,1
 roasted turbot farro summer black tru es hen of the woods mushrooms,,Angele Restaurant & Bar,2016-08-06,wayback,32.0,1
 roasted turbot farro summer black tru es hen of the woods mushrooms,,Angele Restaurant & Bar,2016-09-10,wayback,32.0,1
+roasted turbot farro truffles almond vinaigrette wild mushrooms,,Angele Restaurant & Bar,2016-10-19,wayback,32.0,1
 roasted veal chop,,Angele Restaurant & Bar,2017-08-29,wayback,36.0,1
 roasted veal loin forbidden rice winter apples wild mustard greens,,Angele Restaurant & Bar,2016-03-27,wayback,34.0,1
 rochioli,,Bistro Don Giovanni,2020-09-21,wayback,168.0,1
@@ -3381,7 +3499,7 @@ rootbeer float,,Gott's Napa,2012-06-17,wayback,4.99,1
 rootbeer float,,Gott's Napa,2014-10-29,wayback,4.99,1
 rootbeer float,,Gott's Napa,2015-02-13,wayback,4.99,1
 rootbeer float with vanilla bean ice cream,,Gott's Napa,2012-06-17,wayback,4.99,1
-rosemary ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+rosemary ham,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 rosemary potato pancakes eggs,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2017-01-10,wayback,7.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2019-09-19,wayback,8.0,1
@@ -3391,7 +3509,7 @@ rosemary roasted potatoes,,Bistro Don Giovanni,2021-01-27,wayback,8.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2022-01-20,wayback,8.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2022-05-27,wayback,8.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2023-04-01,wayback,8.0,1
-rotisserie chicken,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+rotisserie chicken,,Genova Delicatessen,2026-08-06,fallback,15.95,1
 rotisserie chicken,1/2,Genova Delicatessen,2024-08-31,exif,15.95,1
 roulade de saumon,,Angele Restaurant & Bar,2012-04-09,wayback,27.0,1
 round pond estate,,Bistro Don Giovanni,2020-09-21,wayback,62.0,1
@@ -3425,42 +3543,53 @@ saint archer white ale,Draft,Gott's Napa,2016-02-07,wayback,6.5,1
 saintsbury,,Bistro Don Giovanni,2020-09-21,wayback,74.0,1
 salad of garden lettuce,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
 salad of lacinato kale,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,17.0,1
+salad of little gem lettuces lollo rosso greens fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-02-25,wayback,10.0,1
+salad of little gem lettuces lollo rosso greens fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
+salad of little gem lettuces lollo rosso greens fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-03-19,wayback,10.0,1
 salade d automne,,Angele Restaurant & Bar,2012-01-05,wayback,12.0,1
 salade d automne,,Angele Restaurant & Bar,2012-01-31,wayback,12.0,1
 salade d et,,Angele Restaurant & Bar,2012-10-21,wayback,16.0,1
-salade d hiver,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,2
+salade d hiver,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,3
 salade de betteraves,,Angele Restaurant & Bar,2012-01-05,wayback,12.0,1
 salade de betteraves,,Angele Restaurant & Bar,2012-01-31,wayback,12.0,1
 salade de betteraves,,Angele Restaurant & Bar,2012-04-09,wayback,12.0,1
 salade de betteraves,,Angele Restaurant & Bar,2012-10-21,wayback,12.0,1
+salade de betteraves baby beets thumbelina carrots burrata candied pistachios yuzu cr me fra che carrot chip,,Angele Restaurant & Bar,2014-01-24,wayback,14.0,1
 salade de concombres,,Angele Restaurant & Bar,2013-11-02,wayback,14.0,1
 salade de lapin,,Angele Restaurant & Bar,2013-03-19,wayback,12.0,2
 salade de lapin,,Angele Restaurant & Bar,2013-04-18,wayback,12.0,1
 salade de lapin,,Angele Restaurant & Bar,2013-05-12,wayback,12.0,1
-salade de lapin,,Angele Restaurant & Bar,2013-06-26,wayback,12.0,2
+salade de lapin,,Angele Restaurant & Bar,2013-06-26,wayback,12.0,3
 salade de lapin,,Angele Restaurant & Bar,2013-06-27,wayback,12.0,1
 salade de legumes,,Angele Restaurant & Bar,2012-04-09,wayback,12.0,1
 salade de melon,,Angele Restaurant & Bar,2013-11-02,wayback,12.0,1
 salade de pissenlit,,Angele Restaurant & Bar,2013-04-18,wayback,16.0,1
+salade de pissenlit,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,1
 salade de pissenlit,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
+salade de pommes poached apples roasted chestnuts feta cheese watercress champagne vanilla vinaigrette,,Angele Restaurant & Bar,2014-01-24,wayback,14.0,1
 salade de tomates,,Angele Restaurant & Bar,2013-06-26,wayback,14.0,1
-salade lyonnaise,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
+salade lyonnaise,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,2
 salade lyonnaise duck con t crispy potatoes lardons coddled egg red wine vinaigrette,,Angele Restaurant & Bar,2016-08-06,wayback,16.0,1
+salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2014-01-24,wayback,14.0,1
+salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2015-02-21,wayback,20.0,1
 salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2015-02-25,wayback,16.0,1
 salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2015-03-05,wayback,16.0,1
 salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2015-11-06,wayback,20.0,1
 salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2016-04-12,wayback,20.0,1
 salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2016-05-08,wayback,20.0,1
+salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2017-06-11,wayback,16.0,1
+salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2018-04-17,wayback,18.0,1
 salade lyonnaise fris e salad warm de puy lentils poached egg sherry walnut vinaigrette lardons,,Angele Restaurant & Bar,2018-06-19,wayback,11.0,1
 salade ni oise,,Angele Restaurant & Bar,2013-04-18,wayback,16.0,1
+salade ni oise,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,1
 salade ni oise,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
-salade ni oise,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
+salade ni oise,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,2
 salade verte,,Angele Restaurant & Bar,2012-01-05,wayback,9.0,1
 salade verte,,Angele Restaurant & Bar,2012-01-31,wayback,9.0,1
 salame toscano,,Bistro Don Giovanni,2020-03-27,wayback,23.0,1
 salami,,Bistro Don Giovanni,2017-01-10,wayback,19.0,1
-salami,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-salami cotto,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+salami,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+salami cotto,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 salanova lettuce,,Boon Fly Café,2026-07-04,exif,18.0,1
 salmon chowder,,Bistro Don Giovanni,2017-01-10,wayback,10.0,1
 salsa macha shrimp,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
@@ -3484,8 +3613,8 @@ san pellegrino sparkling water,500ml,Bistro Don Giovanni,2020-09-21,wayback,4.0,
 san pellegrino sparkling water,500ml,Bistro Don Giovanni,2021-01-27,wayback,5.0,1
 sandra,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
 sandwich,,Code 4 Taphouse,2025-11-15,exif,14.75,1
-sandwich reg,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-sandwich w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+sandwich reg,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+sandwich w cheese,,Genova Delicatessen,2026-08-06,fallback,13.95,1
 santa margherita pinot grigio,,Bistro Don Giovanni,2020-03-27,wayback,13.0,1
 santa margherita pinot grigio,,Bistro Don Giovanni,2020-09-21,wayback,14.0,3
 santa margherita pinot grigio,,Bistro Don Giovanni,2021-01-27,wayback,14.0,1
@@ -3499,7 +3628,8 @@ sassy rita,,Bistro Don Giovanni,2022-01-20,wayback,14.0,1
 sassy rita,,Bistro Don Giovanni,2022-05-27,wayback,14.0,1
 sassy rita,,Bistro Don Giovanni,2023-04-01,wayback,15.0,1
 saumon r ti,,Angele Restaurant & Bar,2013-11-02,wayback,27.0,1
-saumon r ti,,Angele Restaurant & Bar,2015-02-21,wayback,28.0,1
+saumon r ti,,Angele Restaurant & Bar,2015-02-21,wayback,28.0,2
+saumon r ti loch duart salmon roasted marble potatoes saut ed spinach meyer lemon beurre blanc,,Angele Restaurant & Bar,2014-01-24,wayback,27.0,1
 saut ed brussels sprouts,,Bistro Don Giovanni,2017-01-10,wayback,8.0,1
 saut ed garden greens,,Bistro Don Giovanni,2021-01-27,wayback,8.0,1
 saut ed garden greens,,Bistro Don Giovanni,2022-01-20,wayback,8.0,1
@@ -3508,6 +3638,7 @@ saut ed garden greens,,Bistro Don Giovanni,2023-04-01,wayback,8.0,1
 saut ed garden greens,,Bistro Don Giovanni,2023-12-05,wayback,8.5,2
 saut ed garden greens garlic lemon,,Bistro Don Giovanni,2019-09-19,wayback,8.0,1
 saut ed garden greens garlic lemon,,Bistro Don Giovanni,2020-09-21,wayback,8.0,2
+saut ed haricots verts shallots garlic,,Angele Restaurant & Bar,2018-04-17,wayback,11.0,1
 saut ed haricots verts shallots garlic,,Angele Restaurant & Bar,2018-06-19,wayback,11.0,1
 saut ed spinach,,Bistro Don Giovanni,2017-01-10,wayback,7.0,1
 saut ed winter greens sherry and quince vinaigrette,,Angele Restaurant & Bar,2015-02-25,wayback,8.0,1
@@ -3599,6 +3730,7 @@ select two,Small,Gott's Napa,2015-09-05,wayback,4.99,1
 select two,Small,Gott's Napa,2016-01-08,wayback,4.99,1
 selection of three artisan cheeses fruit compote toasted country bread honey brioche,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
 selection of three artisan cheeses fruit compote toasted country bread honey brioche,,Angele Restaurant & Bar,2016-07-05,wayback,18.0,1
+selection of three artisan cheeses fruit compote toasted country bread honey brioche,,Angele Restaurant & Bar,2016-08-04,wayback,18.0,1
 shafer 11 cabernet sauvignon,,Gott's Napa,2012-05-15,wayback,38.0,2
 shafer 11 cabernet sauvignon,,Gott's Napa,2012-06-17,wayback,50.0,2
 shafer 11 cabernet sauvignon,,Gott's Napa,2014-12-22,wayback,50.0,1
@@ -3716,7 +3848,7 @@ smoked chicken egg,,Gott's Napa,2013-04-02,wayback,4.99,1
 smoked chicken po boy,,Gott's Napa,2012-05-15,wayback,10.99,2
 smoked chicken wings,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
 smoked pork hash,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
-smoked turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+smoked turkey,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 smoky bacon bloody mary,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,10.0,1
 snake river pork tenderloin braised red cabbage farro roasted chestnuts celery root,,Angele Restaurant & Bar,2015-11-06,wayback,32.0,1
 snake river pork tenderloin crispy pork belly peaches eggplant tarragon farro,,Angele Restaurant & Bar,2015-09-22,wayback,32.0,1
@@ -3730,6 +3862,7 @@ soft drinks,,McDonald's,2022-04-16,exif,1.0,1
 soft drinks tea and coffee,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
 soft serve,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,4.0,1
 soft shell crab sandwich,,Gott's Napa,2026-05-25,exif,14.99,1
+sole meuni re roasted potatoes lemon caper butter sauce,,Angele Restaurant & Bar,2018-04-17,wayback,27.0,1
 solomon,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
 sonoma cutrer 13 chardonnay,Bottle,Gott's Napa,2016-02-07,wayback,33.0,1
 sonoma cutrer 13 chardonnay,Glass,Gott's Napa,2016-02-07,wayback,11.0,1
@@ -3744,23 +3877,25 @@ sonoma duck breast guanciale roulade jasmine rice with duck confit crispy spinac
 sonoma duck leg con t roasted baby potatoes fall pears,,Angele Restaurant & Bar,2015-11-06,wayback,34.0,1
 sonoma duck leg confit french lentil gooseberries watercress puree,,Angele Restaurant & Bar,2016-03-27,wayback,29.0,1
 soppressata,,Bistro Don Giovanni,2022-05-27,wayback,24.0,1
-sopressata,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+sopressata,,Genova Delicatessen,2026-08-06,fallback,14.95,1
 sorbet du jour,,Angele Restaurant & Bar,2014-09-20,wayback,7.0,1
 soup of the day,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
 soup of the day,,Bistro Don Giovanni,2022-05-27,wayback,16.0,1
 soupe a l ail vert,,Angele Restaurant & Bar,2013-05-12,wayback,9.0,1
-soupe a l ail vert,,Angele Restaurant & Bar,2013-06-26,wayback,9.0,1
+soupe a l ail vert,,Angele Restaurant & Bar,2013-06-26,wayback,9.0,2
 soupe a l ail vert,,Angele Restaurant & Bar,2013-06-27,wayback,9.0,1
 soupe de lentilles,,Angele Restaurant & Bar,2013-03-19,wayback,9.0,2
 soupe de lentilles,,Angele Restaurant & Bar,2013-04-18,wayback,9.0,1
 soupe de mais blanc,,Angele Restaurant & Bar,2013-06-26,wayback,9.0,1
 soupe de potiron,,Angele Restaurant & Bar,2013-11-02,wayback,11.0,1
 soupe du jour,,Angele Restaurant & Bar,2012-10-21,wayback,9.0,1
+soupe du jour,,Angele Restaurant & Bar,2016-10-19,wayback,10.0,1
 soupe du jour,,Angele Restaurant & Bar,2018-06-19,wayback,12.0,1
 soupe gratin e l oignon,,Angele Restaurant & Bar,2012-01-05,wayback,9.0,1
 soupe gratin e l oignon,,Angele Restaurant & Bar,2012-01-31,wayback,9.0,1
 soupe gratin e l oignon,,Angele Restaurant & Bar,2012-04-09,wayback,9.0,1
-soupe gratin e l oignon,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,2
+soupe gratin e l oignon,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,3
+soupe gratin e l oignon classic french onion soup,,Angele Restaurant & Bar,2014-01-24,wayback,12.0,1
 sourdough jack burger,,Jack in the Box,2025-08-11,exif,7.89,1
 sourdough jack combo,,Jack in the Box,2025-08-11,exif,12.19,1
 southern,,Gott's Napa,2013-04-02,wayback,5.99,1
@@ -3834,6 +3969,7 @@ spicy tomato soup,Cup,Gott's Napa,2017-07-22,wayback,4.99,2
 spicy tomato soup,Cup,Gott's Napa,2020-07-02,wayback,4.99,1
 spicy tomato soup,Cup,Gott's Napa,2021-01-17,wayback,4.99,1
 spottswoode,,Bistro Don Giovanni,2020-09-21,wayback,76.0,1
+spring pea tartine burrata hazelnuts pea shoots toasted country bread,,Angele Restaurant & Bar,2017-06-11,wayback,17.0,1
 spring sparkling water,,Gott's Napa,2013-02-28,wayback,3.0,2
 spring sparkling water,,Gott's Napa,2021-01-17,wayback,3.29,1
 spring water,,Gott's Napa,2011-03-22,wayback,2.49,2
@@ -3846,7 +3982,7 @@ spring water,,Gott's Napa,2015-02-06,wayback,2.69,2
 spring water,,Gott's Napa,2015-02-13,wayback,2.69,1
 spring water,,Gott's Napa,2020-07-02,wayback,3.29,1
 springbank 10 yr,,Angele Restaurant & Bar,2014-09-20,wayback,13.0,1
-sriracha chicken,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+sriracha chicken,,Genova Delicatessen,2026-08-06,fallback,12.95,1
 st germaine,,Bistro Don Giovanni,2017-01-10,wayback,9.0,1
 st germaine,,Bistro Don Giovanni,2019-09-19,wayback,9.0,1
 st germaine,,Bistro Don Giovanni,2020-03-27,wayback,9.0,1
@@ -3875,7 +4011,7 @@ steak,,Code 4 Taphouse,2025-11-15,exif,19.95,3
 steak,,Taqueria El Charro Viejo,2022-12-07,exif,8.95,1
 steak and frites,,Perez Kitchen & Bar,2026-08-05,pdf,28.0,1
 steak bordelaise,,Angele Restaurant & Bar,2015-02-21,wayback,32.0,1
-steak frites,,Angele Restaurant & Bar,2015-02-21,wayback,27.0,1
+steak frites,,Angele Restaurant & Bar,2015-02-21,wayback,27.0,2
 steak frites,,Angele Restaurant & Bar,2017-08-29,wayback,38.0,1
 steak frites,,Bistro Don Giovanni,2017-01-10,wayback,45.0,1
 steak frites,,Bistro Don Giovanni,2019-09-19,wayback,45.0,1
@@ -3884,19 +4020,22 @@ steak frites,,Bistro Don Giovanni,2020-09-21,wayback,47.0,2
 steak frites,,Bistro Don Giovanni,2021-01-27,wayback,47.0,1
 steak frites,,Bistro Don Giovanni,2022-01-20,wayback,49.0,1
 steak frites,,Bistro Don Giovanni,2022-05-27,wayback,49.0,1
-steak frites prime new york steak french fries bordelaise sauce,,Angele Restaurant & Bar,2018-06-19,wayback,39.0,1
+steak frites herb roasted petit filet french fries wild mushroom madeira sauce,,Angele Restaurant & Bar,2014-01-24,wayback,22.0,1
+steak frites roasted garlic aioli caramelized onions french fries,,Angele Restaurant & Bar,2018-04-17,wayback,28.0,1
 steak tartare charred scallion lardo horseradish grilled baguette,,Angele Restaurant & Bar,2016-08-06,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-02-25,wayback,21.0,2
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-03-05,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-03-19,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-07-14,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-08-07,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2015-11-06,wayback,17.0,2
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2016-04-12,wayback,18.0,1
-steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-02-25,wayback,21.0,2
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-03-05,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-03-19,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-07-14,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-08-07,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2015-11-06,wayback,17.0,2
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2016-04-12,wayback,18.0,1
+steak tartare dijon mustard farm egg yolk arugula salad,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
 steak tartare dijon mustard farm egg yolk garden greens,,Angele Restaurant & Bar,2016-07-05,wayback,16.0,1
+steak tartare dijon mustard farm egg yolk garden greens,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
 steak with egg and cheese,,Code 4 Taphouse,2025-11-15,exif,14.75,1
 steak with poached eggs,,Code 4 Taphouse,2025-11-15,exif,15.95,1
 stella artois,,Bistro Don Giovanni,2017-01-10,wayback,5.0,1
@@ -3997,13 +4136,11 @@ tannery hero juicy paul,,Gott's Napa,2026-05-25,exif,14.99,1
 taprock s benedict,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 taprock s benedict,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,15.0,1
 tartare de b uf,,Angele Restaurant & Bar,2013-11-02,wayback,21.0,2
-tartare de b uf,,Angele Restaurant & Bar,2015-02-21,wayback,21.0,4
+tartare de b uf,,Angele Restaurant & Bar,2015-02-21,wayback,21.0,6
+tartare de b uf ribeye steak tartare dijon mustard farm egg yolk fris e and arugula salad,,Angele Restaurant & Bar,2014-01-24,wayback,21.0,2
 tarte d automne quince tart tatin cr me fr iche,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 tartine fromage blanc caramelized stone fruit watercress toasted country bread ice wine,,Angele Restaurant & Bar,2016-08-06,wayback,16.0,1
 tartine fromage blanc caramelized stone fruit watercress toasted country bread ice wine,,Angele Restaurant & Bar,2016-09-10,wayback,16.0,1
-tartine with parisian ham melted gruy re toasted levain becham l sauce,,Angele Restaurant & Bar,2015-02-25,wayback,15.5,2
-tartine with parisian ham melted gruy re toasted levain becham l sauce,,Angele Restaurant & Bar,2015-03-05,wayback,15.5,2
-tartine with parisian ham melted gruy re toasted levain becham l sauce,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
 tascante buonora etna bianco,,Bistro Don Giovanni,2022-05-27,wayback,16.0,1
 tascante buonora etna bianco carricante sicilia italy,,Bistro Don Giovanni,2022-01-20,wayback,16.0,1
 tascante buonora etna bianco carricante sicilia italy,,Bistro Don Giovanni,2023-04-01,wayback,17.0,1
@@ -4035,7 +4172,7 @@ terre stregate svelato falanghina campania italy,,Bistro Don Giovanni,2020-09-21
 terrine de betteraves,,Angele Restaurant & Bar,2013-03-19,wayback,12.0,2
 terrine de betteraves,,Angele Restaurant & Bar,2013-04-18,wayback,12.0,1
 terrine de betteraves,,Angele Restaurant & Bar,2013-05-12,wayback,12.0,1
-terrine de betteraves,,Angele Restaurant & Bar,2013-06-26,wayback,12.0,2
+terrine de betteraves,,Angele Restaurant & Bar,2013-06-26,wayback,12.0,3
 terrine de betteraves,,Angele Restaurant & Bar,2013-06-27,wayback,12.0,1
 texas avocado burger,,Gott's Napa,2014-08-11,wayback,10.99,2
 texas avocado burger,,Gott's Napa,2014-12-22,wayback,10.99,2
@@ -4056,7 +4193,7 @@ the bradford,,Bistro Don Giovanni,2023-12-05,wayback,14.0,1
 the bradford beefeater gin tonic lime,,Bistro Don Giovanni,2023-04-01,wayback,14.0,1
 the brunch burger,,The Depot Eatery,2026-08-05,web,17.0,1
 the chili,,The Depot Eatery,2026-08-05,web,17.0,1
-the colossal burger,1/2 lb,Burgerville,2026-08-05,fallback,7.99,1
+the colossal burger,1/2 lb,Burgerville,2026-08-06,fallback,7.99,1
 the don manhattan,,Bistro Don Giovanni,2017-01-10,wayback,13.0,1
 the grand lodge,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.69,1
 the last straw,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
@@ -4073,13 +4210,16 @@ the wise guy,,Bistro Don Giovanni,2023-12-05,wayback,17.0,1
 thyme roasted ono tomato stewed spanish octopus pickled cherry peppers toasted levain,,Angele Restaurant & Bar,2015-09-22,wayback,18.0,1
 thyme roasted ono tomato stewed spanish octopus pickled cherry peppers toasted levain,,Angele Restaurant & Bar,2015-11-06,wayback,18.0,1
 thyme roasted rib eye french fries sauce b arnaise truffled potato beignets,,Angele Restaurant & Bar,2016-07-05,wayback,49.0,1
+thyme roasted rib eye french fries sauce b arnaise truffled potato beignets,,Angele Restaurant & Bar,2016-08-04,wayback,49.0,1
 thyme roasted rib eye pommes frites sauce b arnaise tru ed potato beignets,,Angele Restaurant & Bar,2016-08-06,wayback,49.0,1
 thyme roasted rib eye pommes frites sauce b arnaise tru ed potato beignets,,Angele Restaurant & Bar,2016-09-10,wayback,49.0,1
+thyme roasted rib eye pommes frites sauce b arnaise tru ed potato beignets,,Angele Restaurant & Bar,2016-10-19,wayback,49.0,1
 til tip salad,,Barney's Burgers,2024-01-15,dom,10.99,1
 til tip salad,,Barney's Burgers,2026-08-05,web,16.5,1
 toasted baguette with gala apple and black currant jam,,Angele Restaurant & Bar,2016-05-08,wayback,8.0,1
 today s soup,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,14.0,1
 tomatoes,,Five Guys,2023-11-27,exif,0.05,1
+tomatoes from our garden fromage blanc whey granita basil champagne vinaigrette,,Angele Restaurant & Bar,2016-10-19,wayback,16.0,1
 tony bourdain breakfast sandwich,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
 topaz sauvignon blanc semillon california,,Bistro Don Giovanni,2022-01-20,wayback,19.0,1
 topaz sauvignon blanc semillon california,,Bistro Don Giovanni,2022-05-27,wayback,19.0,1
@@ -4091,7 +4231,7 @@ toppings,Small,Gott's Napa,2015-09-05,wayback,3.79,1
 toppings,Small,Gott's Napa,2016-01-08,wayback,3.79,1
 tormaresca rosato calafuria by antinori,,Bistro Don Giovanni,2020-09-21,wayback,36.0,1
 tortellini,,Angele Restaurant & Bar,2013-11-02,wayback,23.0,1
-toscano salami,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+toscano salami,,Genova Delicatessen,2026-08-06,fallback,14.95,1
 tossed cobb salad,,Gott's Napa,2011-03-22,wayback,10.99,2
 tossed cobb salad,,Gott's Napa,2012-05-15,wayback,11.99,2
 tossed cobb salad,,Gott's Napa,2012-06-17,wayback,11.99,2
@@ -4135,8 +4275,8 @@ trumer pilsner,Draft (16oz),Gott's Napa,2014-08-11,wayback,6.0,1
 trumer pilsner,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
 trumer pilsner draft,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
 tuaca,,Angele Restaurant & Bar,2014-09-20,wayback,9.0,1
-tuna albacore,,Genova Delicatessen,2026-08-05,fallback,12.95,1
-tuna albacore w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+tuna albacore,,Genova Delicatessen,2026-08-06,fallback,12.95,1
+tuna albacore w cheese,,Genova Delicatessen,2026-08-06,fallback,13.95,1
 tuna melt,,The Depot Eatery,2026-08-05,web,17.0,1
 turkey blt a sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
 turkey burger,,Gott's Napa,2011-03-22,wayback,9.99,2
@@ -4195,9 +4335,10 @@ venica venica friuliano,,Bistro Don Giovanni,2020-09-21,wayback,52.0,1
 ventr che de porc,,Angele Restaurant & Bar,2013-03-19,wayback,16.0,2
 ventr che de porc,,Angele Restaurant & Bar,2013-04-18,wayback,16.0,1
 ventr che de porc,,Angele Restaurant & Bar,2013-05-12,wayback,16.0,1
-ventr che de porc,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,2
+ventr che de porc,,Angele Restaurant & Bar,2013-06-26,wayback,16.0,3
 ventr che de porc,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
 ventr che de porc,,Angele Restaurant & Bar,2013-11-02,wayback,16.0,1
+ventr che de porc crispy skinned pork belly couscous crispy duck egg walnut vinaigrette green holandaise,,Angele Restaurant & Bar,2014-01-24,wayback,16.0,1
 ventreche du porc,,Angele Restaurant & Bar,2012-10-21,wayback,16.0,1
 veuve clicquot yellow label,,Bistro Don Giovanni,2020-09-21,wayback,130.0,1
 veuve clicquot yellow label,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,68.0,1
@@ -4220,9 +4361,9 @@ waffles,Plain,Code 4 Taphouse,2025-11-15,exif,10.95,2
 wake up call,,Angele Restaurant & Bar,2015-02-25,wayback,12.0,1
 wake up call amaretto scotch with hot co ee and topped with fresh whipped cream,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 warm cinnamon roll,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
-warm ricotta custard shaved summer black tru es wild mushrooms parmesan toasted country bread,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
-warm ricotta custard shaved summer black tru es wild mushrooms parmesan toasted country bread,,Angele Restaurant & Bar,2015-11-06,wayback,18.0,1
-warm ricotta custard shaved summer black tru es wild mushrooms parmesan toasted country bread,,Angele Restaurant & Bar,2016-03-27,wayback,18.0,1
+warm ricotta custard shaved black tru es wild mushrooms parmesan,,Angele Restaurant & Bar,2015-09-22,wayback,16.0,1
+warm ricotta custard shaved black tru es wild mushrooms parmesan,,Angele Restaurant & Bar,2015-11-06,wayback,18.0,1
+warm ricotta custard shaved black tru es wild mushrooms parmesan,,Angele Restaurant & Bar,2016-03-27,wayback,18.0,1
 well breakfast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,5.99,1
 west coast crab roll,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,42.0,1
 western bacon blue ring,,Gott's Napa,2011-03-22,wayback,9.99,2
@@ -4266,19 +4407,26 @@ whitehall lane sauvignon blanc,,Bistro Don Giovanni,2020-09-21,wayback,12.0,2
 whitehall lane sauvignon blanc,,Bistro Don Giovanni,2021-01-27,wayback,12.0,1
 whitehall lane sauvignon blanc,,Bistro Don Giovanni,2022-05-27,wayback,13.0,1
 whitehall lane sauvignon blanc,,Bistro Don Giovanni,2023-12-05,wayback,14.0,2
+whole roasted branzino quince salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-07-14,wayback,35.0,1
+whole roasted branzino quince salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-08-07,wayback,36.0,1
+whole roasted branzino quince salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-09-22,wayback,36.0,1
+whole roasted branzino quince salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-11-06,wayback,36.0,1
+whole roasted branzino quince salad lemon caper butter sauce,,Angele Restaurant & Bar,2016-07-05,wayback,36.0,1
+whole roasted branzino quince salad lemon caper butter sauce,,Angele Restaurant & Bar,2016-08-04,wayback,36.0,1
 whole roasted branzino scallop mousseline english pea risotto petite herb salad,,Angele Restaurant & Bar,2018-06-19,wayback,36.0,1
-whole roasted branzino stone fruit salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-07-14,wayback,35.0,1
-whole roasted branzino stone fruit salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-08-07,wayback,36.0,1
-whole roasted branzino stone fruit salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-09-22,wayback,36.0,1
-whole roasted branzino stone fruit salad lemon caper butter sauce,,Angele Restaurant & Bar,2015-11-06,wayback,36.0,1
-whole roasted branzino stone fruit salad lemon caper butter sauce,,Angele Restaurant & Bar,2016-07-05,wayback,36.0,1
 whole roasted branzino winter citrus lemon caper butter sauce,,Angele Restaurant & Bar,2016-03-27,wayback,36.0,1
 whole roasted wild striped bass stu ed squash blossoms summer squash charred lemon,,Angele Restaurant & Bar,2016-08-06,wayback,38.0,1
 whole roasted wild striped bass stu ed squash blossoms summer squash charred lemon,,Angele Restaurant & Bar,2016-09-10,wayback,39.0,1
+whole roasted wild striped bass stu ed squash blossoms summer squash charred lemon,,Angele Restaurant & Bar,2016-10-19,wayback,39.0,1
+whole wheat petite quiche with spring vegetables little gem salad,,Angele Restaurant & Bar,2015-02-21,wayback,17.0,1
+whole wheat petite quiche with spring vegetables little gem salad,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
+wild mushroom and fava bean tartine parmesan cheese french fries,,Angele Restaurant & Bar,2015-02-21,wayback,17.0,1
 wild mushroom omelette gruy re cheese little gem salad,,Angele Restaurant & Bar,2016-05-08,wayback,22.0,1
 wild mushroom risotto black tru e butter parmigiano reggiano,,Angele Restaurant & Bar,2015-11-06,wayback,28.0,1
 wild mushroom risotto black tru e butter parmigiano reggiano,,Angele Restaurant & Bar,2016-03-27,wayback,28.0,1
+wild mushroom tartine fromage blanc purslane black garlic toasted country bread,,Angele Restaurant & Bar,2016-10-19,wayback,19.0,1
 wild mushroom tartlette morels chanterelle comt fondue sauce vert,,Angele Restaurant & Bar,2018-06-19,wayback,18.0,1
+wine bags,,Angele Restaurant & Bar,2018-04-17,wayback,25.0,1
 wine pairing,,Angele Restaurant & Bar,2013-03-19,wayback,105.0,2
 wine pairing,,Angele Restaurant & Bar,2013-05-12,wayback,105.0,1
 wine pairing,,Angele Restaurant & Bar,2013-06-26,wayback,105.0,1
