@@ -221,12 +221,32 @@
    "n": 1
   },
   {
+   "item": "a siciliana aranciata",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
    "item": "a siciliana limonata",
    "size": null,
    "place": "Bistro Don Giovanni",
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2023-12-05",
    "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "a siciliana limonata",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
    "median": 8.0,
    "n": 1
   },
@@ -648,6 +668,16 @@
    "observed_on": "2016-01-08",
    "date_source": "wayback",
    "median": 0.99,
+   "n": 1
+  },
+  {
+   "item": "aequitas chardonnay",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
    "n": 1
   },
   {
@@ -1138,6 +1168,86 @@
    "observed_on": "2021-01-27",
    "date_source": "wayback",
    "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "amaro alpino braulio lombardy",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "amaro averna sicily",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "amaro dell etna sicily",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "amaro lucano basilicata",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "amaro montenegro emilia romagna",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "amaro nonino friuli venezia giulia",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "amaro rucolino ischia",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "amaro sibilla varnelli marche",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 15.0,
    "n": 1
   },
   {
@@ -2631,6 +2741,16 @@
    "n": 1
   },
   {
+   "item": "attilio ghisolofi bussia nebbiolo",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 25.0,
+   "n": 1
+  },
+  {
    "item": "averna amaro",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -2808,6 +2928,16 @@
    "observed_on": "2023-12-05",
    "date_source": "wayback",
    "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "b l t",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 28.0,
    "n": 1
   },
   {
@@ -3331,6 +3461,26 @@
    "n": 1
   },
   {
+   "item": "badia a coltibuono vin santo chianti toscana",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "badia a coltibuono vin santo e biscotti",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
    "item": "badia coltibuono vin santo",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -3691,6 +3841,16 @@
    "n": 2
   },
   {
+   "item": "bambini",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 28.0,
+   "n": 1
+  },
+  {
    "item": "banana",
    "size": null,
    "place": "Five Guys",
@@ -3879,6 +4039,16 @@
    "date_source": "wayback",
    "median": 9.0,
    "n": 2
+  },
+  {
+   "item": "barrel brothers por qu no amber lager",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
   },
   {
    "item": "basil hayden 8yr kentucky straight bourbon",
@@ -4161,6 +4331,16 @@
    "n": 2
   },
   {
+   "item": "beet haricot verts",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "beet salad burrata cheese baby garden greens red wine beet vinaigrette orange oil",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -4309,6 +4489,16 @@
    "date_source": "wayback",
    "median": 20.0,
    "n": 2
+  },
+  {
+   "item": "bella union by far niente cabernet sauvignon",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
   },
   {
    "item": "bellifolli nero d avola",
@@ -4538,6 +4728,16 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 94.0,
+   "n": 1
+  },
+  {
+   "item": "biale vineyards black chicken",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
    "n": 1
   },
   {
@@ -4821,6 +5021,16 @@
    "n": 2
   },
   {
+   "item": "birra friuli lager",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
+  },
+  {
    "item": "bis or tris",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -5081,6 +5291,16 @@
    "n": 2
   },
   {
+   "item": "bistro don giovanni cabernet sauvignon reserve",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
    "item": "bistro don giovanni chardonnay",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -5169,6 +5389,16 @@
    "date_source": "wayback",
    "median": 12.0,
    "n": 2
+  },
+  {
+   "item": "bistro don giovanni chardonnay",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
   },
   {
    "item": "bistro fig",
@@ -5298,6 +5528,16 @@
    "observed_on": "2021-01-27",
    "date_source": "wayback",
    "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "bistro vieux carr",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -6001,6 +6241,16 @@
    "n": 2
   },
   {
+   "item": "bodegas hidalgo manzanilla palomino fino spain nv",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 10.0,
+   "n": 1
+  },
+  {
    "item": "boiled ham",
    "size": null,
    "place": "Genova Delicatessen",
@@ -6101,6 +6351,16 @@
    "n": 1
   },
   {
+   "item": "bostini trifle",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
    "item": "bottled beers",
    "size": null,
    "place": "Gott's Napa",
@@ -6178,6 +6438,16 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "braida bricco dell uccellone 2012 grappa di barbera d asti",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 25.0,
    "n": 1
   },
   {
@@ -6338,6 +6608,16 @@
    "observed_on": "2016-08-04",
    "date_source": "wayback",
    "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "branca menta milan",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 11.0,
    "n": 1
   },
   {
@@ -6549,6 +6829,16 @@
    "date_source": "wayback",
    "median": 19.0,
    "n": 2
+  },
+  {
+   "item": "bruno giacosa roero arneis",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
   },
   {
    "item": "bruno giacosa roero arneis piemonte italy",
@@ -6958,6 +7248,16 @@
    "observed_on": "2024-01-15",
    "date_source": "dom",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "burrata",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 24.0,
    "n": 1
   },
   {
@@ -7881,6 +8181,16 @@
    "n": 1
   },
   {
+   "item": "candolini grappa",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
    "item": "candolini italy",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -8139,6 +8449,16 @@
    "date_source": "wayback",
    "median": 19.0,
    "n": 2
+  },
+  {
+   "item": "carpaccio",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 21.0,
+   "n": 1
   },
   {
    "item": "carpano antica",
@@ -10431,6 +10751,16 @@
    "n": 1
   },
   {
+   "item": "chocolate martini",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "chocolate shake",
    "size": "12oz",
    "place": "Gott's Napa",
@@ -10828,6 +11158,16 @@
    "observed_on": "2014-08-01",
    "date_source": "wayback",
    "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "classic caesar",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
    "n": 1
   },
   {
@@ -12401,6 +12741,16 @@
    "n": 1
   },
   {
+   "item": "crema di limoncello",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "crevettes a la plancha",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -13451,6 +13801,16 @@
    "n": 1
   },
   {
+   "item": "dammann fr res hot teas",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 4.0,
+   "n": 1
+  },
+  {
    "item": "darioush",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -13961,6 +14321,16 @@
    "n": 1
   },
   {
+   "item": "domaine durand sancerre",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
    "item": "domaine la tour vieille rimage banyuls 11",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -14049,6 +14419,16 @@
    "date_source": "wayback",
    "median": 16.0,
    "n": 2
+  },
+  {
+   "item": "domaine ott by ott ros",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
   },
   {
    "item": "domaine ott by ott ros c tes de provence france",
@@ -14297,6 +14677,16 @@
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2023-12-05",
    "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "donnafugata ben ry zibibbo sicilia",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
    "median": 16.0,
    "n": 1
   },
@@ -14648,6 +15038,16 @@
    "observed_on": "2012-04-16",
    "date_source": "wayback",
    "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "dow s 20 years old tawny port nv",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 30.0,
    "n": 1
   },
   {
@@ -15361,6 +15761,16 @@
    "n": 2
   },
   {
+   "item": "edel gray whale gin",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "edizione pennino by francis ford coppola",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -15641,6 +16051,16 @@
    "n": 2
   },
   {
+   "item": "erdinger n a",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
    "item": "escargots vol au vent",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -15738,6 +16158,16 @@
    "observed_on": "2022-04-16",
    "date_source": "exif",
    "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "espresso martini",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -16071,6 +16501,16 @@
    "n": 1
   },
   {
+   "item": "failla pinot noir",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
    "item": "failla pinot noir sonoma coast",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -16221,6 +16661,16 @@
    "n": 1
   },
   {
+   "item": "far niente dolce napa valley",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 24.0,
+   "n": 1
+  },
+  {
    "item": "farm fresh eggs",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -16237,6 +16687,16 @@
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2023-12-05",
    "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "farmer s light lager",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
    "median": 8.0,
    "n": 1
   },
@@ -16581,6 +17041,16 @@
    "n": 1
   },
   {
+   "item": "fernet branca milan",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 11.0,
+   "n": 1
+  },
+  {
    "item": "ferrari brut ros",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -16697,6 +17167,16 @@
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2023-12-05",
    "date_source": "wayback",
+   "median": 4.0,
+   "n": 2
+  },
+  {
+   "item": "fever tree ginger beer",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
    "median": 4.0,
    "n": 2
   },
@@ -17458,6 +17938,16 @@
    "observed_on": "2015-07-24",
    "date_source": "wayback",
    "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "flourless cabernet chocolate cake",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
    "n": 1
   },
   {
@@ -18891,6 +19381,16 @@
    "n": 2
   },
   {
+   "item": "fresh lemonade",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 5.0,
+   "n": 1
+  },
+  {
    "item": "fresh seasonal fruit",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -19329,6 +19829,16 @@
    "date_source": "wayback",
    "median": 19.0,
    "n": 2
+  },
+  {
+   "item": "fritto misto",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
   },
   {
    "item": "frog s leap",
@@ -19921,6 +20431,16 @@
    "n": 2
   },
   {
+   "item": "gazpacho",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "gelato e sorbetto",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -19928,6 +20448,16 @@
    "observed_on": "2012-04-16",
    "date_source": "wayback",
    "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "gelato e sorbetto",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 10.0,
    "n": 1
   },
   {
@@ -20001,6 +20531,16 @@
    "n": 2
   },
   {
+   "item": "gin uinely blue",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "gina gallo",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -20027,6 +20567,16 @@
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2017-01-10",
    "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "gio red by sean larkin",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
    "median": 18.0,
    "n": 1
   },
@@ -20138,6 +20688,16 @@
    "observed_on": "2026-06-15",
    "date_source": "pdf",
    "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "giunco vermentino",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -20299,6 +20859,16 @@
    "date_source": "wayback",
    "median": 32.5,
    "n": 2
+  },
+  {
+   "item": "gnocchetti",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 35.0,
+   "n": 1
   },
   {
    "item": "gnocchetti al rag d agnello",
@@ -20488,6 +21058,26 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 45.0,
+   "n": 1
+  },
+  {
+   "item": "graham s 20 year tawny port nv",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "graham s late bottled vintage port 2018",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -21151,6 +21741,16 @@
    "n": 2
   },
   {
+   "item": "grilled branzino",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 40.0,
+   "n": 1
+  },
+  {
    "item": "grilled cheese",
    "size": null,
    "place": "Barney's Burgers",
@@ -21471,6 +22071,16 @@
    "n": 2
   },
   {
+   "item": "grilled octopus",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
    "item": "grilled onions",
    "size": null,
    "place": "Five Guys",
@@ -21571,6 +22181,16 @@
    "n": 2
   },
   {
+   "item": "grilled pork chop",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 38.0,
+   "n": 1
+  },
+  {
    "item": "grilled reuben",
    "size": null,
    "place": "The Depot Eatery",
@@ -21588,6 +22208,16 @@
    "observed_on": "2026-08-05",
    "date_source": "pdf",
    "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "grilled sliced creekstone prime new york steak",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 58.0,
    "n": 1
   },
   {
@@ -21699,6 +22329,16 @@
    "date_source": "wayback",
    "median": 18.0,
    "n": 2
+  },
+  {
+   "item": "groth sauvignon blanc",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
   },
   {
    "item": "groth sauvignon blanc napa valley",
@@ -22571,6 +23211,16 @@
    "n": 1
   },
   {
+   "item": "hen house ipa",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
    "item": "henhouse best life blonde ale",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -23158,6 +23808,16 @@
    "observed_on": "2023-12-05",
    "date_source": "wayback",
    "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "hot italian",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 28.0,
    "n": 1
   },
   {
@@ -24113,6 +24773,16 @@
   {
    "item": "iced tea",
    "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2013-02-28",
@@ -24431,6 +25101,16 @@
    "n": 1
   },
   {
+   "item": "il convento limoncello",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 11.0,
+   "n": 1
+  },
+  {
    "item": "impossible burger patty",
    "size": null,
    "place": "Gott's Napa",
@@ -24519,6 +25199,16 @@
    "date_source": "wayback",
    "median": 17.5,
    "n": 2
+  },
+  {
+   "item": "insalata mist",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
   },
   {
    "item": "international bar fly",
@@ -24741,12 +25431,32 @@
    "n": 1
   },
   {
+   "item": "jacopo poli merlot grappa",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
    "item": "jacopo poli merlot italy",
    "size": null,
    "place": "Bistro Don Giovanni",
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2012-04-16",
    "date_source": "wayback",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "jacopo poli po di poli morbida moscato fior d arancio",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
    "median": 20.0,
    "n": 1
   },
@@ -25149,6 +25859,16 @@
    "date_source": "wayback",
    "median": 6.0,
    "n": 2
+  },
+  {
+   "item": "juices",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 6.0,
+   "n": 1
   },
   {
    "item": "juices",
@@ -26011,6 +26731,16 @@
    "n": 2
   },
   {
+   "item": "la maschera prosecco extra dry veneto italy",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "la pitchoune english hill vineyard",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -26169,6 +26899,16 @@
    "date_source": "wayback",
    "median": 7.5,
    "n": 2
+  },
+  {
+   "item": "lagunitas ipa",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
   },
   {
    "item": "lagunitas ipa",
@@ -28251,6 +28991,16 @@
    "n": 2
   },
   {
+   "item": "mamma concetta s meatballs",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "mandilli",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -28341,6 +29091,16 @@
    "n": 2
   },
   {
+   "item": "mandilli",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 33.0,
+   "n": 1
+  },
+  {
    "item": "manifesto cabernet sauvignon",
    "size": "Bottle",
    "place": "Gott's Napa",
@@ -28429,6 +29189,16 @@
    "date_source": "wayback",
    "median": 9.0,
    "n": 2
+  },
+  {
+   "item": "mare island survivor s tale pale ale",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
   },
   {
    "item": "margherita",
@@ -28531,6 +29301,16 @@
    "n": 2
   },
   {
+   "item": "margherita",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 26.0,
+   "n": 1
+  },
+  {
    "item": "marinara",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -28621,6 +29401,26 @@
    "n": 1
   },
   {
+   "item": "marolo 12 year barolo grappa italy",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "marolo barolo chinato",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "marolo chamomile grappa italy",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -28628,6 +29428,16 @@
    "observed_on": "2012-04-16",
    "date_source": "wayback",
    "median": 11.5,
+   "n": 1
+  },
+  {
+   "item": "marolo chamomile grappa italy",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
    "n": 1
   },
   {
@@ -29601,6 +30411,16 @@
    "n": 1
   },
   {
+   "item": "michelina",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "mighty leaf hot teas",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -29981,6 +30801,16 @@
    "n": 2
   },
   {
+   "item": "miner sangiovese gibson ranch mendocino",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "minestrone",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -30351,6 +31181,16 @@
    "n": 1
   },
   {
+   "item": "molino teorema barbaresco",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
    "item": "monte cristo",
    "size": null,
    "place": "The Depot Eatery",
@@ -30608,6 +31448,16 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "monticelli brothers rolando rosso",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 15.0,
    "n": 1
   },
   {
@@ -31311,6 +32161,16 @@
    "n": 1
   },
   {
+   "item": "napa lamb meatballs",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 38.0,
+   "n": 1
+  },
+  {
    "item": "napa palisades pacific plate",
    "size": null,
    "place": "Gott's Napa",
@@ -31821,12 +32681,32 @@
    "n": 1
   },
   {
+   "item": "nonino chardonnay monovitigno italy",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
    "item": "nonino moscato monovitigno italy",
    "size": null,
    "place": "Bistro Don Giovanni",
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2012-04-16",
    "date_source": "wayback",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "nonino moscato monovitigno italy",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
    "median": 20.0,
    "n": 1
   },
@@ -32008,6 +32888,16 @@
    "observed_on": "2025-08-18",
    "date_source": "exif",
    "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "olive fritte",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -33582,6 +34472,16 @@
   },
   {
    "item": "panna still water",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "panna still water",
    "size": "1ltr",
    "place": "Bistro Don Giovanni",
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
@@ -33821,6 +34721,16 @@
    "n": 1
   },
   {
+   "item": "passione fumosa",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "pasta al amatriciana",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -33978,6 +34888,16 @@
    "observed_on": "2012-04-16",
    "date_source": "wayback",
    "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "pasticcini",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
    "n": 1
   },
   {
@@ -34579,6 +35499,16 @@
    "date_source": "wayback",
    "median": 7.5,
    "n": 2
+  },
+  {
+   "item": "peroni",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
   },
   {
    "item": "petit filet",
@@ -35552,6 +36482,16 @@
   },
   {
    "item": "pollo alla diavola",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 38.0,
+   "n": 1
+  },
+  {
+   "item": "pollo alla diavola",
    "size": "Half Chicken",
    "place": "Bistro Don Giovanni",
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
@@ -35568,6 +36508,16 @@
    "observed_on": "2017-01-10",
    "date_source": "wayback",
    "median": 13.0,
+   "n": 1
+  },
+  {
+   "item": "pom to table grey goose",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -36651,6 +37601,16 @@
    "n": 2
   },
   {
+   "item": "ravioli",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 34.0,
+   "n": 1
+  },
+  {
    "item": "ravioli di zucca",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -36728,6 +37688,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 1.5,
+   "n": 1
+  },
+  {
+   "item": "reggiano dates",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 15.0,
    "n": 1
   },
   {
@@ -36888,6 +37858,16 @@
    "observed_on": "2023-12-05",
    "date_source": "wayback",
    "median": 32.0,
+   "n": 1
+  },
+  {
+   "item": "rigatoni bolognese",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 34.0,
    "n": 1
   },
   {
@@ -37659,6 +38639,16 @@
    "date_source": "wayback",
    "median": 18.0,
    "n": 2
+  },
+  {
+   "item": "roederer estate brut ros",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
   },
   {
    "item": "rogue dead guy ale",
@@ -39191,6 +40181,16 @@
    "n": 2
   },
   {
+   "item": "salumi",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 23.0,
+   "n": 1
+  },
+  {
    "item": "salus by staglin family chardonnay",
    "size": "Half Bottle",
    "place": "Bistro Don Giovanni",
@@ -39259,6 +40259,16 @@
    "date_source": "wayback",
    "median": 11.0,
    "n": 2
+  },
+  {
+   "item": "san pellegrino sparkling water",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
   },
   {
    "item": "san pellegrino sparkling water",
@@ -39498,6 +40508,16 @@
    "observed_on": "2023-04-01",
    "date_source": "wayback",
    "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "sassy rita",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
    "n": 1
   },
   {
@@ -39981,6 +41001,16 @@
    "n": 2
   },
   {
+   "item": "scarpone montepulciano d abruzzo",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "schramsberg 09 blanc de blancs",
    "size": null,
    "place": "Gott's Napa",
@@ -40211,6 +41241,16 @@
    "n": 2
   },
   {
+   "item": "schramsberg brut ros",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 24.0,
+   "n": 1
+  },
+  {
    "item": "schramsberg brut ros north coast",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -40267,6 +41307,16 @@
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2023-12-05",
    "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "scrimshaw pilsner",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
    "median": 8.0,
    "n": 1
   },
@@ -40479,6 +41529,16 @@
    "date_source": "wayback",
    "median": 38.0,
    "n": 2
+  },
+  {
+   "item": "seared scottish salmon",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 42.0,
+   "n": 1
   },
   {
    "item": "seared wild king salmon filet",
@@ -41341,6 +42401,16 @@
    "n": 1
   },
   {
+   "item": "sicilian vodka soda",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "side of cheese sauce",
    "size": null,
    "place": "Gott's Napa",
@@ -41589,6 +42659,16 @@
    "date_source": "wayback",
    "median": 7.5,
    "n": 2
+  },
+  {
+   "item": "sierra nevada pale ale",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
   },
   {
    "item": "sierra nevada pale ale",
@@ -42589,6 +43669,16 @@
    "date_source": "wayback",
    "median": 33.5,
    "n": 2
+  },
+  {
+   "item": "spaghetti clams",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 36.0,
+   "n": 1
   },
   {
    "item": "spanish omlet",
@@ -44371,6 +45461,16 @@
    "n": 2
   },
   {
+   "item": "strawberry acqua fresca",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
    "item": "strawberry daiquiri",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -45161,6 +46261,16 @@
    "n": 1
   },
   {
+   "item": "taylor fladgate 10 year old tawny port",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
    "item": "tea",
    "size": null,
    "place": "Gott's Napa",
@@ -45281,6 +46391,16 @@
    "n": 1
   },
   {
+   "item": "tenuta olim bauda la villa barbera d asti",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "tenuta regaleali cavallo delle fate",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -45347,6 +46467,16 @@
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2023-12-05",
    "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "terre stregate svelato falanghina",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
    "median": 16.0,
    "n": 1
   },
@@ -45578,6 +46708,16 @@
    "observed_on": "2023-12-05",
    "date_source": "wayback",
    "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "the bradford",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -45861,6 +47001,16 @@
    "n": 1
   },
   {
+   "item": "tiramisu",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "toasted baguette with gala apple and black currant jam",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -45951,6 +47101,16 @@
    "n": 1
   },
   {
+   "item": "top shelf butterscotch pudding",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "topaz late harvest napa valley 2003",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -45999,6 +47159,16 @@
    "date_source": "wayback",
    "median": 19.0,
    "n": 2
+  },
+  {
+   "item": "topaz sauvignon blanc semillon california",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
   },
   {
    "item": "toppings",
@@ -46851,6 +48021,16 @@
    "n": 1
   },
   {
+   "item": "vanilla cr me br l e",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-05-14",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
    "item": "vanilla flavor extra",
    "size": null,
    "place": "Gott's Napa",
@@ -46899,6 +48079,16 @@
    "date_source": "wayback",
    "median": 45.0,
    "n": 2
+  },
+  {
+   "item": "veal parmigiana",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 45.0,
+   "n": 1
   },
   {
    "item": "vegetable sticks",
@@ -47308,6 +48498,16 @@
    "observed_on": "2016-02-07",
    "date_source": "wayback",
    "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "villa a sesta chianti classico il palei",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
    "n": 1
   },
   {
@@ -47821,6 +49021,16 @@
    "n": 2
   },
   {
+   "item": "whitehall lane merlot",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "whitehall lane merlot napa valley",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -47919,6 +49129,16 @@
    "date_source": "wayback",
    "median": 14.0,
    "n": 2
+  },
+  {
+   "item": "whitehall lane sauvignon blanc",
+   "size": null,
+   "place": "Bistro Don Giovanni",
+   "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
+   "observed_on": "2025-07-23",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
   },
   {
    "item": "whole roasted bacon wrapped chicken veal sausage stu ng fava beans",
@@ -48624,7 +49844,7 @@
   },
   {
    "place": "Bistro Don Giovanni",
-   "items": 1201,
+   "items": 1323,
    "median_item_price": 15.0
   },
   {
