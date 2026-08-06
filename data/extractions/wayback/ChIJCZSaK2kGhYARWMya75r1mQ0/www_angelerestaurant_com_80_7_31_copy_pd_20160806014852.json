@@ -1,0 +1,183 @@
+{
+ "photo": "wb/20160806014852/http://www.angelerestaurant.com:80/DINNER_7-31_copy.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20160806014852/http://www.angelerestaurant.com:80/DINNER_7-31_copy.pdf",
+ "observed_on": "2016-08-06",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Yuzu Mignonette",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½ doz",
+    "notes": null
+   },
+   {
+    "name": "Tartine, Fromage Blanc, Caramelized Stone Fruit, Watercress, Toasted Country Bread, Ice Wine",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Raw Scallop, Garden Cucumbers, Avocado Mousse, Lime, Sea Greens",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Charred Scallion, Lardo, Horseradish, Grilled Baguette",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Foie Gras Terrine, Mirabelle Plums, Elderﬂower, Candied Pistachios, Toasted Brioche",
+    "price": 22.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pork Rillette, Cabernet Franc Gelée, Pickled Mustard Seed",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade Lyonnaise, Duck Conﬁt, Crispy Potatoes, Lardons, Coddled Egg, Red Wine Vinaigrette",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy and Pickled Cauliﬂower, Kale Sprouts, Vadouvan Aioli, Brown Butter Almonds",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Bone Marrow, Wild Mushroom Marmalade, Crispy Garlic, Red Onion Glaze",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Garden Tomatoes, Fresh Ricotta, Whey Granita, Basil, Champagne Vinaigrette",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pommes Frites, Caramelized Onion Aioli",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "House-Made Corn Agnolotti, Wild Mushrooms, Truﬄe Oil, Shaved Parmesan",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Braised Chicken “Pot Au Feu” Charred Alliums, Roasted Carrot, Madeira Broth",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Little Neck Clams, Pork Belly Crepinette, Parsley Butter, Rhone White Wine, Toasted Baguette",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Turbot, Farro, Summer Black Truﬄes, Hen of the Woods Mushrooms",
+    "price": 32.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Wild Striped Bass, Stuﬀed Squash Blossoms, Summer Squash, Charred Lemon",
+    "price": 38.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lavender Honey Glazed Duck Breast, Mustard Greens, Stone Fruit, Duck Sauce",
+    "price": 32.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Thyme Roasted Rib-Eye, Pommes Frites, Sauce Béarnaise, Truﬄed Potato Beignets",
+    "price": 49.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [
+   "Summer"
+  ],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000849,
+ "wayback_ts": "20160806014852"
+}

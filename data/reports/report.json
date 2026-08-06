@@ -1551,6 +1551,16 @@
    "n": 1
   },
   {
+   "item": "ang le garden tomatoes fresh ricotta whey granita basil champagne vinaigrette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "ang le hamburger with french fries",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -2215,6 +2225,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "artichaut au vin blanc",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 16.0,
@@ -2496,6 +2516,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "b uf bourgignon",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 28.0,
    "n": 1
@@ -2792,6 +2822,16 @@
   },
   {
    "item": "bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg",
+   "size": "half",
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg",
    "size": "whole",
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
@@ -2806,6 +2846,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 56.0,
+   "n": 1
+  },
+  {
+   "item": "bacon wrapped roasted chicken cherries mushrooms and baguette stuffing farm egg",
+   "size": "whole",
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 56.0,
    "n": 1
@@ -5511,6 +5561,16 @@
    "n": 1
   },
   {
+   "item": "braised chicken pot au feu charred alliums roasted carrot madeira broth",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
    "item": "braised lamb shank",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -6351,6 +6411,16 @@
    "n": 1
   },
   {
+   "item": "c telette d agneau",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 36.0,
+   "n": 1
+  },
+  {
    "item": "c ur d agneau",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -6598,6 +6668,16 @@
    "observed_on": "2013-11-02",
    "date_source": "wayback",
    "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "caille r ti",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 26.0,
    "n": 1
   },
   {
@@ -6975,6 +7055,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 29.0,
+   "n": 1
+  },
+  {
+   "item": "canard",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 29.0,
@@ -6986,6 +7076,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "canard r tie",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 28.0,
    "n": 1
@@ -9395,6 +9495,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "choux de bruxelles",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 6.0,
@@ -9416,6 +9526,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "choux de bruxelles",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 8.0,
    "n": 1
@@ -9676,6 +9796,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-03-05",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "classic french onion soup",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
    "date_source": "wayback",
    "median": 12.0,
    "n": 1
@@ -10351,6 +10481,16 @@
    "n": 1
   },
   {
+   "item": "coq au vin red wine braised chicken leg and thigh red wine farro thumbelina carrots parsnips bacon",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
    "item": "coquilles saint jacques",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -10685,6 +10825,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "country pat en croute pickled beans mustard vinaigrette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-11-06",
    "date_source": "wayback",
    "median": 16.0,
@@ -10848,6 +10998,26 @@
    "observed_on": "2026-06-15",
    "date_source": "pdf",
    "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "crevettes a la plancha",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "crispy and pickled cauli ower kale sprouts vadouvan aioli brown butter almonds",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 14.0,
    "n": 1
   },
   {
@@ -11135,6 +11305,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "crispy veal sweetbreads cauliflower polenta pickled carrots",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-07-14",
    "date_source": "wayback",
    "median": 19.0,
@@ -11146,6 +11326,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "crispy veal sweetbreads cauliflower polenta pickled carrots",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 19.0,
    "n": 1
@@ -11486,6 +11676,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "dayboat scallops red wine fregola peas carrot emulsion pea tendrils sauce verte",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 30.0,
    "n": 1
@@ -12711,6 +12911,16 @@
    "n": 1
   },
   {
+   "item": "duck liver mousse cr me fra che gel e fruit compote country toast",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "duckhorn",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -12956,6 +13166,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 39.0,
+   "n": 1
+  },
+  {
+   "item": "duo du boeuf",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 39.0,
    "n": 1
@@ -13271,6 +13491,16 @@
    "n": 1
   },
   {
+   "item": "escolar",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
    "item": "espresso",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -13296,6 +13526,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "esturgeon aux lardons",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 27.0,
    "n": 1
@@ -13955,6 +14195,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
+   "item": "faux filet",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 32.0,
@@ -13978,6 +14228,16 @@
    "observed_on": "2015-07-14",
    "date_source": "wayback",
    "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "fava tortellini",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 22.0,
    "n": 1
   },
   {
@@ -14631,6 +14891,26 @@
    "n": 1
   },
   {
+   "item": "five course",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 80.0,
+   "n": 1
+  },
+  {
+   "item": "five course",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 95.0,
+   "n": 1
+  },
+  {
    "item": "five course tasting menu",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -14775,6 +15055,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "foie gras au torchon",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 18.0,
@@ -14796,6 +15086,26 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "foie gras silverado strawberry gel e candied pistachios petite brioche",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "foie gras terrine mirabelle plums elder ower candied pistachios toasted brioche",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
    "date_source": "wayback",
    "median": 22.0,
    "n": 1
@@ -15305,6 +15615,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-07-14",
    "date_source": "wayback",
    "median": 8.0,
@@ -15316,6 +15636,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 10.0,
    "n": 1
@@ -16031,6 +16361,16 @@
    "n": 1
   },
   {
+   "item": "fried deviled eggs avocado mousse pickled shallots",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
    "item": "fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -16395,6 +16735,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "fromages du jour",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 12.0,
@@ -16428,6 +16778,16 @@
    "observed_on": "2014-08-01",
    "date_source": "wayback",
    "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "fruits de mer",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -17105,6 +17465,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "gougeonettes de sole",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 25.0,
@@ -17351,6 +17721,26 @@
    "n": 1
   },
   {
+   "item": "gratin d escargots",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "gratin de macaroni",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
    "item": "gratin de macaroni",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -17386,6 +17776,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "gratin de macaroni",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 8.0,
    "n": 1
@@ -18641,6 +19041,16 @@
    "n": 1
   },
   {
+   "item": "hamachi crudo watercress mission figs quinoa",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "hamachi crudo watercress persimmons quinoa fleur de sel cracker",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -18848,6 +19258,16 @@
    "observed_on": "2014-10-29",
    "date_source": "wayback",
    "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "hand rolled tortellini summer vegetable bolognese cherry tomatoes parmigiano reggiano",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 28.0,
    "n": 1
   },
   {
@@ -19701,6 +20121,16 @@
    "n": 1
   },
   {
+   "item": "house made corn agnolotti wild mushrooms tru e oil shaved parmesan",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
    "item": "house made lemonade",
    "size": null,
    "place": "Gott's Napa",
@@ -19996,6 +20426,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-03-05",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "housemade ricotta stonefruit marmalade toasted country bread",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
    "date_source": "wayback",
    "median": 14.0,
    "n": 1
@@ -21781,6 +22221,16 @@
    "n": 1
   },
   {
+   "item": "l gumes d automne",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "l gumes d hiver",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -22431,6 +22881,16 @@
    "n": 1
   },
   {
+   "item": "lavender honey glazed duck breast mustard greens stone fruit duck sauce",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
    "item": "le cassematte peloro grillo e carricante",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -22645,6 +23105,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "lentilles aux lardons",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 8.0,
@@ -22715,6 +23185,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "levain crusted lobster and shrimp boudin israeli couscous broccolini lobster sauce",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-07-14",
    "date_source": "wayback",
    "median": 18.0,
@@ -22726,6 +23206,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "levain crusted lobster and shrimp boudin israeli couscous broccolini lobster sauce",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 18.0,
    "n": 1
@@ -22855,6 +23345,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "little gem lettuces fine herbs red wine vinaigrette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-07-14",
    "date_source": "wayback",
    "median": 12.0,
@@ -22866,6 +23366,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "little gem lettuces fine herbs red wine vinaigrette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 12.0,
    "n": 1
@@ -22918,6 +23428,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 7.05,
+   "n": 1
+  },
+  {
+   "item": "little neck clams pork belly crepinette parsley butter rhone white wine toasted baguette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 28.0,
    "n": 1
   },
   {
@@ -23038,6 +23558,16 @@
    "observed_on": "2023-06-10",
    "date_source": "wayback",
    "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "longe de porc",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 28.0,
    "n": 1
   },
   {
@@ -23368,6 +23898,16 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "macaroni gratin",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 7.0,
    "n": 1
   },
   {
@@ -24469,6 +25009,16 @@
    "date_source": "wayback",
    "median": 9.0,
    "n": 2
+  },
+  {
+   "item": "melon and heirloom tomato salad black pepper yogurt vinaigrette mozzarella",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
   },
   {
    "item": "merryvale starmont 11 cabernet sauvignon",
@@ -27191,6 +27741,16 @@
    "n": 1
   },
   {
+   "item": "opah",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
    "item": "open range 10 sauvignon blanc california",
    "size": "Bottle",
    "place": "Gott's Napa",
@@ -27685,6 +28245,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "oysters on the half shell served with mignonette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-11-06",
    "date_source": "wayback",
    "median": 18.0,
@@ -27712,10 +28282,30 @@
   },
   {
    "item": "oysters on the half shell served with mignonette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "oysters on the half shell served with mignonette",
    "size": "1/2 doz",
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-03-05",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "oysters on the half shell served with mignonette",
+   "size": "1/2 doz",
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
    "date_source": "wayback",
    "median": 18.0,
    "n": 1
@@ -27739,6 +28329,16 @@
    "date_source": "wayback",
    "median": 3.0,
    "n": 2
+  },
+  {
+   "item": "p t de campagne",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
   },
   {
    "item": "p t de campagne",
@@ -27776,6 +28376,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "p t de campagne",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 12.0,
    "n": 1
@@ -28168,6 +28778,16 @@
    "observed_on": "2017-01-10",
    "date_source": "wayback",
    "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "pan seared steelhead salmon french lentils confit shallots garlic emulsion rainbow carrots",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 26.0,
    "n": 1
   },
   {
@@ -28961,6 +29581,16 @@
    "n": 1
   },
   {
+   "item": "pepper crusted filet mignon crispy potato galette beef belly en cro te wild mushrooms salsify",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 38.0,
+   "n": 1
+  },
+  {
    "item": "pepper salami",
    "size": null,
    "place": "Genova Delicatessen",
@@ -29175,6 +29805,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "petit sal",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 16.0,
@@ -29206,6 +29846,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "petite laitue",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 10.0,
    "n": 1
@@ -29655,6 +30305,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "pintade",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 28.0,
@@ -29768,6 +30428,16 @@
    "observed_on": "2012-10-21",
    "date_source": "wayback",
    "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "poisson cru",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -29945,9 +30615,29 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "pomme pur e",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "pommes frites",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 6.0,
    "n": 1
   },
   {
@@ -29995,6 +30685,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "pommes frites",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 8.0,
@@ -30016,6 +30716,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-02-21",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "pommes frites caramelized onion aioli",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
    "date_source": "wayback",
    "median": 8.0,
    "n": 1
@@ -30048,6 +30758,16 @@
    "observed_on": "2021-01-27",
    "date_source": "wayback",
    "median": 31.0,
+   "n": 1
+  },
+  {
+   "item": "pork rillette cabernet franc gel e pickled mustard seed",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 16.0,
    "n": 1
   },
   {
@@ -30106,6 +30826,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "poulet en crepinette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 26.0,
    "n": 1
@@ -30191,6 +30921,16 @@
    "n": 1
   },
   {
+   "item": "prime new york steak crispy potato galette bone marrow beef belly stuffed heirloom tomatoes",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 39.0,
+   "n": 1
+  },
+  {
    "item": "prime rib",
    "size": null,
    "place": "The Depot Eatery",
@@ -30198,6 +30938,16 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "prosciutto and kale wrapped monkfish forbidden black rice apple velout charred leeks",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 28.0,
    "n": 1
   },
   {
@@ -30641,6 +31391,16 @@
    "n": 1
   },
   {
+   "item": "raw scallop garden cucumbers avocado mousse lime sea greens",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "raymond vineyard signature select",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -30835,6 +31595,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "ris de veau",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 14.0,
@@ -30866,6 +31636,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "ris de veau",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 16.0,
    "n": 1
@@ -30971,6 +31751,16 @@
    "n": 2
   },
   {
+   "item": "risotto with parmigiano reggiano with shaved black truffles from perigord",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 38.0,
+   "n": 1
+  },
+  {
    "item": "roast beef",
    "size": null,
    "place": "Genova Delicatessen",
@@ -31008,6 +31798,26 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "roasted beets buckwheat cracker caraway goat cheese citrus red watercress",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "roasted bone marrow wild mushroom marmalade crispy garlic red onion glaze",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 18.0,
    "n": 1
   },
   {
@@ -31148,6 +31958,26 @@
    "observed_on": "2015-08-07",
    "date_source": "wayback",
    "median": 34.0,
+   "n": 1
+  },
+  {
+   "item": "roasted quail stu ed with country bread and corn ratatouille tomato marmalade",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 34.0,
+   "n": 1
+  },
+  {
+   "item": "roasted turbot farro summer black tru es hen of the woods mushrooms",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 32.0,
    "n": 1
   },
   {
@@ -32081,6 +32911,16 @@
    "n": 1
   },
   {
+   "item": "salade d automne",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
    "item": "salade d et",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -32098,6 +32938,16 @@
    "observed_on": "2015-02-21",
    "date_source": "wayback",
    "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "salade de betteraves",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 12.0,
    "n": 1
   },
   {
@@ -32146,6 +32996,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "salade de lapin",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 12.0,
    "n": 1
@@ -32206,6 +33066,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-02-21",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "salade lyonnaise duck con t crispy potatoes lardons coddled egg red wine vinaigrette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
    "date_source": "wayback",
    "median": 16.0,
    "n": 1
@@ -32288,6 +33158,16 @@
    "observed_on": "2015-02-21",
    "date_source": "wayback",
    "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "salade verte",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
+   "date_source": "wayback",
+   "median": 9.0,
    "n": 1
   },
   {
@@ -32828,6 +33708,16 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "saut ed winter greens sherry and quince vinaigrette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 7.0,
    "n": 1
   },
   {
@@ -33408,6 +34298,16 @@
    "observed_on": "2016-02-07",
    "date_source": "wayback",
    "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "seared dayboat scallops braised red cabbage cabbage crisp truffled veal jus",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 17.0,
    "n": 1
   },
   {
@@ -34851,6 +35751,16 @@
    "n": 1
   },
   {
+   "item": "snake river pork tenderloin crispy pork belly peaches eggplant tarragon farro",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
    "item": "soda",
    "size": "12oz",
    "place": "Barney's Burgers",
@@ -35041,6 +35951,26 @@
    "n": 1
   },
   {
+   "item": "sonoma duck breast guanciale roulade black forbidden rice corn corn marmalade figs",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 34.0,
+   "n": 1
+  },
+  {
+   "item": "sonoma duck breast guanciale roulade jasmine rice with duck confit crispy spinach pink lady apples",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
    "item": "soppressata",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -35095,6 +36025,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "soupe a l ail vert",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 9.0,
@@ -35136,6 +36076,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2012-10-21",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "soupe gratin e l oignon",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2012-01-05",
    "date_source": "wayback",
    "median": 9.0,
    "n": 1
@@ -36381,6 +37331,16 @@
    "n": 1
   },
   {
+   "item": "steak tartare charred scallion lardo horseradish grilled baguette",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "steak tartare dijon mustard farm egg yolk fris e and arugula salad",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -36405,6 +37365,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "steak tartare dijon mustard farm egg yolk fris e and arugula salad",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-07-14",
    "date_source": "wayback",
    "median": 16.0,
@@ -36416,6 +37386,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2015-08-07",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "steak tartare dijon mustard farm egg yolk fris e and arugula salad",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
    "date_source": "wayback",
    "median": 16.0,
    "n": 1
@@ -36981,6 +37961,16 @@
    "n": 1
   },
   {
+   "item": "suckling pig crispy pork belly brussel sprouts red anson mills polenta rosemary pork jus",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
    "item": "suckling pig loin crispy pork belly anson mills polenta peaches baby zucchini rosemary pork jus",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -37461,6 +38451,16 @@
    "n": 1
   },
   {
+   "item": "tartine fromage blanc caramelized stone fruit watercress toasted country bread ice wine",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "tartine with parisian ham melted gruy re toasted levain becham l sauce",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -37786,6 +38786,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-04-18",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "terrine de betteraves",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 12.0,
    "n": 1
@@ -38128,6 +39138,26 @@
    "observed_on": "2023-12-05",
    "date_source": "wayback",
    "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "thyme roasted ono tomato stewed spanish octopus pickled cherry peppers toasted levain",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "thyme roasted rib eye pommes frites sauce b arnaise tru ed potato beignets",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 49.0,
    "n": 1
   },
   {
@@ -38486,6 +39516,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 29.0,
+   "n": 1
+  },
+  {
+   "item": "trio de veau",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 29.0,
    "n": 1
@@ -39305,6 +40345,16 @@
    "size": null,
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "ventr che de porc",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 16.0,
@@ -39541,6 +40591,16 @@
    "n": 1
   },
   {
+   "item": "warm ricotta custard shaved summer black tru es wild mushrooms parmesan toasted country bread",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 16.0,
+   "n": 1
+  },
+  {
    "item": "well breakfast",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -39698,6 +40758,16 @@
    "observed_on": "2021-01-17",
    "date_source": "wayback",
    "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "white bean cassoulet bacon wrapped roasted quail quail boudin tarragon quail egg",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-03-19",
+   "date_source": "wayback",
+   "median": 32.0,
    "n": 1
   },
   {
@@ -39981,6 +41051,26 @@
    "n": 1
   },
   {
+   "item": "whole roasted branzino stone fruit salad lemon caper butter sauce",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2015-09-22",
+   "date_source": "wayback",
+   "median": 36.0,
+   "n": 1
+  },
+  {
+   "item": "whole roasted wild striped bass stu ed squash blossoms summer squash charred lemon",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2016-08-06",
+   "date_source": "wayback",
+   "median": 38.0,
+   "n": 1
+  },
+  {
    "item": "wild mushroom omelette gruy re cheese little gem salad",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -39996,6 +41086,16 @@
    "place": "Angele Restaurant & Bar",
    "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
    "observed_on": "2013-03-19",
+   "date_source": "wayback",
+   "median": 105.0,
+   "n": 1
+  },
+  {
+   "item": "wine pairing",
+   "size": null,
+   "place": "Angele Restaurant & Bar",
+   "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+   "observed_on": "2013-05-12",
    "date_source": "wayback",
    "median": 105.0,
    "n": 1
@@ -40399,8 +41499,8 @@
   },
   {
    "place": "Angele Restaurant & Bar",
-   "items": 455,
-   "median_item_price": 15.0
+   "items": 565,
+   "median_item_price": 16.0
   },
   {
    "place": "The Depot Eatery",
