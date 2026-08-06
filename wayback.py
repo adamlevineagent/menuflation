@@ -157,8 +157,8 @@ def harvest_pdf(url, place_id=None, observed_on=None,
     if sentinel_today:
         observed_on = None
     if not observed_on:
-        m = re.search(r"(\d{4})[_-]?(\d{2})", url)
-        observed_on = f"{m.group(1)}-{m.group(2)}-15" if m else None
+        m = re.search(r"20(\d{2})[_-]?(\d{2})", url)
+        observed_on = f"20{m.group(1)}-{m.group(2)}-15" if m else None
     if not observed_on and sentinel_today:
         observed_on = datetime.date.today().isoformat()
     if not observed_on:

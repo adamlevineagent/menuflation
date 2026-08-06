@@ -1,33 +1,45 @@
 item,size,place,observed_on,date_source,median,n
 1 pancake 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
 12 piece chicken nuggets,,Barney's Burgers,2024-01-15,dom,6.99,1
-21st amendment black ipa,,Gott's Napa,2013-02-28,wayback,4.5,1
-21st amendment extra pale ale,,Gott's Napa,2013-02-28,wayback,4.5,1
+21st amendment black ipa,,Gott's Napa,2013-02-28,wayback,4.5,2
+21st amendment extra pale ale,,Gott's Napa,2013-02-28,wayback,4.5,2
 3 dollar sized pancakes and 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
 3 way leaf,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 4 bacon,,The Depot Eatery,2026-08-05,web,18.0,1
 4 links or 2 patties,,The Depot Eatery,2026-08-05,web,18.0,1
 4 pc chicken mcnuggets,,McDonald's,2022-04-16,exif,4.42,4
 a 1 steak sauce,,Five Guys,2023-11-27,exif,0.15,1
+a b l t,,Gott's Napa,2011-03-22,wayback,7.99,2
+a b l t,,Gott's Napa,2012-05-15,wayback,7.99,2
+a b l t,,Gott's Napa,2014-12-22,wayback,10.99,2
+a b l t,,Gott's Napa,2015-02-06,wayback,10.99,1
+a b l t,,Gott's Napa,2015-05-13,wayback,10.99,1
+a b l t,,Gott's Napa,2017-07-22,wayback,10.99,1
+a blt,,Gott's Napa,2014-08-11,wayback,10.99,1
 a siciliana aranciata,,Bistro Don Giovanni,2023-12-05,wayback,8.0,1
 a siciliana limonata,,Bistro Don Giovanni,2023-12-05,wayback,8.0,1
 acqua fresca,,Bistro Don Giovanni,2017-01-10,wayback,6.0,1
 acqua fresca,,Bistro Don Giovanni,2019-09-19,wayback,6.0,1
+add a patty to any burger,,Gott's Napa,2014-10-29,wayback,3.0,1
 add additional salad,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,7.0,1
 add additional side,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,7.0,1
 add avocado,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,4.0,1
 add bacon,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,4.0,1
+add cheddar cheese,,Gott's Napa,2014-12-22,wayback,1.0,1
 add cheddar cheese,,Gott's Napa,2017-07-22,wayback,1.0,1
 add chicken,,Gott's Napa,2017-07-22,wayback,4.0,1
 add chocolate syrup malt oreos,,Gott's Napa,2012-05-15,wayback,1.25,1
+add chocolate syrup malt oreos,,Gott's Napa,2014-12-22,wayback,1.25,1
 add chocolate syrup malt oreos,,Gott's Napa,2017-07-22,wayback,1.25,1
 add chocolate syrup malt oreos,,Gott's Napa,2021-01-17,wayback,1.25,1
 add chorizo,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,3.0,1
+add flavor to fountain soda,,Gott's Napa,2014-10-29,wayback,0.99,1
 add flavors vanilla cherry,,Gott's Napa,2017-07-22,wayback,0.99,1
 add grey goose vodka,,Bistro Don Giovanni,2020-09-21,wayback,13.0,1
 add grey goose vodka,,Bistro Don Giovanni,2022-01-20,wayback,13.0,1
 add grey goose vodka,,Bistro Don Giovanni,2023-04-01,wayback,13.0,1
 add grey goose vodka,,Bistro Don Giovanni,2023-12-05,wayback,13.0,2
+add point reyes crumbled blue cheese,,Gott's Napa,2014-10-29,wayback,3.0,1
 add pulled chicken,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,7.0,1
 add pulled chicken,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
 add pulled chicken,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,9.0,1
@@ -48,19 +60,26 @@ additional side,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,2
 ahi burger,,Gott's Napa,2011-03-22,wayback,14.99,2
 ahi burger,,Gott's Napa,2012-05-15,wayback,14.99,2
 ahi burger,,Gott's Napa,2012-06-17,wayback,14.99,2
-ahi burger,,Gott's Napa,2014-12-22,wayback,15.99,1
+ahi burger,,Gott's Napa,2014-08-11,wayback,15.99,1
+ahi burger,,Gott's Napa,2014-10-29,wayback,14.99,1
+ahi burger,,Gott's Napa,2014-12-22,wayback,15.99,2
+ahi burger,,Gott's Napa,2015-02-06,wayback,15.99,1
 ahi burger,,Gott's Napa,2015-05-13,wayback,15.99,1
 ahi burger,,Gott's Napa,2017-07-22,wayback,15.99,1
 ahi burger,,Gott's Napa,2021-01-17,wayback,16.99,1
 ahi poke crispy tacos,,Gott's Napa,2011-03-22,wayback,13.99,1
 ahi poke crispy tacos,,Gott's Napa,2012-05-15,wayback,13.99,2
 ahi poke crispy tacos,,Gott's Napa,2012-06-17,wayback,13.99,2
-ahi poke crispy tacos,,Gott's Napa,2014-12-22,wayback,14.99,1
+ahi poke crispy tacos,,Gott's Napa,2014-08-11,wayback,14.99,1
+ahi poke crispy tacos,,Gott's Napa,2014-10-29,wayback,13.99,1
+ahi poke crispy tacos,,Gott's Napa,2014-12-22,wayback,14.99,2
+ahi poke crispy tacos,,Gott's Napa,2015-02-06,wayback,14.99,1
 ahi poke crispy tacos,,Gott's Napa,2015-05-13,wayback,14.99,1
 ahi poke crispy tacos,,Gott's Napa,2017-07-22,wayback,14.99,1
 ahi poke crispy tacos,,Gott's Napa,2021-01-17,wayback,15.99,1
 ahi poke crispy tacos,3 tacos,Gott's Napa,2011-03-22,wayback,13.99,1
 airmail,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
+alabama bbq chicken,,Gott's Napa,2015-02-06,wayback,10.99,1
 alabama bbq chicken,,Gott's Napa,2015-05-13,wayback,10.99,1
 alabama bbq chicken,,Gott's Napa,2017-07-22,wayback,10.99,1
 alambic brandy osocalis,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
@@ -82,16 +101,24 @@ amstel light,,Bistro Don Giovanni,2020-09-21,wayback,7.0,2
 amstel light,,Bistro Don Giovanni,2021-01-27,wayback,7.0,1
 amstel light,,Bistro Don Giovanni,2022-01-20,wayback,7.0,1
 amstel light,,Bistro Don Giovanni,2022-05-27,wayback,7.0,1
+anchor lager,12oz,Gott's Napa,2014-10-29,wayback,4.5,1
 anchor steam,,Bistro Don Giovanni,2017-01-10,wayback,5.0,1
 anchor steam,,Gott's Napa,2015-05-13,wayback,6.0,1
 anchor steam,,Gott's Napa,2017-07-22,wayback,7.0,1
 anchor steam,,Gott's Napa,2021-01-17,wayback,7.0,1
+anchor steam,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+anchor steam,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 anchor steam,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
+anchor steam draft,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
 anderson valley blood orange gose,,Gott's Napa,2017-07-22,wayback,5.5,1
+anderson valley boont amber ale,,Gott's Napa,2014-12-22,wayback,5.0,1
 anderson valley boont amber ale,,Gott's Napa,2015-05-13,wayback,5.0,1
+anderson valley boont amber ale,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+anderson valley boont amber ale,12oz,Gott's Napa,2014-10-29,wayback,4.5,1
+anderson valley boont amber ale,12oz,Gott's Napa,2015-02-06,wayback,5.0,1
 anderson valley boont amber ale,Canned (12oz),Gott's Napa,2014-12-22,wayback,5.0,1
 anderson valley boont amber ale booneville ca,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
-anderson valley seasonal ale,,Gott's Napa,2013-02-28,wayback,4.5,1
+anderson valley seasonal ale,,Gott's Napa,2013-02-28,wayback,4.5,2
 andretti,,Bistro Don Giovanni,2020-09-21,wayback,38.0,1
 ang le bloody mary,,Angele Restaurant & Bar,2015-02-25,wayback,12.0,1
 ang le bloody mary a classic bloody mary with vodka tomato juice spicy horseradish fresh lemon,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
@@ -127,7 +154,10 @@ apple farm apple juice,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,5.0,1
 apple juice,,Gott's Napa,2011-03-22,wayback,2.99,2
 apple juice,,Gott's Napa,2012-05-15,wayback,2.99,2
 apple juice,,Gott's Napa,2012-06-17,wayback,2.99,2
-apple juice,,Gott's Napa,2014-12-22,wayback,2.99,1
+apple juice,,Gott's Napa,2014-08-11,wayback,2.99,1
+apple juice,,Gott's Napa,2014-10-29,wayback,2.99,1
+apple juice,,Gott's Napa,2014-12-22,wayback,2.99,2
+apple juice,,Gott's Napa,2015-02-06,wayback,2.99,1
 apple juice mountain valley,,Gott's Napa,2021-01-17,wayback,3.29,1
 apple juice revive kombucha,,Gott's Napa,2017-07-22,wayback,4.99,1
 arnaldo caprai grecante grechetto,,Bistro Don Giovanni,2020-09-21,wayback,44.0,1
@@ -136,8 +166,12 @@ arnold palmer,16oz,Gott's Napa,2017-07-22,wayback,2.69,1
 arnold palmer,16oz,Gott's Napa,2021-01-17,wayback,2.99,1
 arnold palmer,24oz,Gott's Napa,2017-07-22,wayback,2.99,1
 arnold palmer,24oz,Gott's Napa,2021-01-17,wayback,3.29,1
-arnold palmer,Regular,Gott's Napa,2014-12-22,wayback,2.99,1
-arnold palmer,Small,Gott's Napa,2014-12-22,wayback,2.25,1
+arnold palmer,Regular,Gott's Napa,2014-08-11,wayback,2.99,1
+arnold palmer,Regular,Gott's Napa,2014-12-22,wayback,2.99,2
+arnold palmer,Regular,Gott's Napa,2015-02-06,wayback,2.99,1
+arnold palmer,Small,Gott's Napa,2014-08-11,wayback,2.25,1
+arnold palmer,Small,Gott's Napa,2014-12-22,wayback,2.25,2
+arnold palmer,Small,Gott's Napa,2015-02-06,wayback,2.25,1
 art house,,Bistro Don Giovanni,2020-09-21,wayback,60.0,1
 art house pinot gris,,Bistro Don Giovanni,2020-09-21,wayback,46.0,1
 art house pinot noir,,Bistro Don Giovanni,2020-03-27,wayback,14.0,1
@@ -170,11 +204,6 @@ avocado toast gf veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,11
 b l e,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
 b l t,,Bistro Don Giovanni,2020-09-21,wayback,23.0,1
 b l t,,Bistro Don Giovanni,2023-12-05,wayback,26.0,1
-b l t,,Gott's Napa,2011-03-22,wayback,7.99,2
-b l t,,Gott's Napa,2012-05-15,wayback,7.99,2
-b l t,,Gott's Napa,2014-12-22,wayback,10.99,1
-b l t,,Gott's Napa,2015-05-13,wayback,10.99,1
-b l t,,Gott's Napa,2017-07-22,wayback,10.99,1
 b nardini amaro,,Angele Restaurant & Bar,2014-09-20,wayback,11.0,1
 b uf bourgignon,,Angele Restaurant & Bar,2012-04-09,wayback,26.0,1
 bacon,,Five Guys,2023-11-27,exif,0.8,1
@@ -187,7 +216,10 @@ bacon cheeseburger,,Five Guys,2023-11-27,exif,10.9,1
 bacon cheeseburger,,Gott's Napa,2011-03-22,wayback,8.99,2
 bacon cheeseburger,,Gott's Napa,2012-05-15,wayback,8.99,2
 bacon cheeseburger,,Gott's Napa,2012-06-17,wayback,9.99,2
-bacon cheeseburger,,Gott's Napa,2014-12-22,wayback,9.99,1
+bacon cheeseburger,,Gott's Napa,2014-08-11,wayback,9.99,1
+bacon cheeseburger,,Gott's Napa,2014-10-29,wayback,9.99,1
+bacon cheeseburger,,Gott's Napa,2014-12-22,wayback,9.99,2
+bacon cheeseburger,,Gott's Napa,2015-02-06,wayback,9.99,1
 bacon cheeseburger,,Gott's Napa,2015-05-13,wayback,9.99,1
 bacon cheeseburger,,Gott's Napa,2017-07-22,wayback,10.49,1
 bacon cheeseburger,,Gott's Napa,2021-01-17,wayback,10.99,1
@@ -211,9 +243,12 @@ baguette sandwich with mortadella stonefruit arugula parmesan whole grain mustar
 baja fish tacos,,Gott's Napa,2021-01-17,wayback,13.99,1
 baked ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 baked turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+ballast point sculpin ipa,,Gott's Napa,2014-12-22,wayback,6.0,1
 ballast point sculpin ipa,,Gott's Napa,2015-05-13,wayback,6.0,1
 ballast point sculpin ipa,,Gott's Napa,2017-07-22,wayback,7.0,1
 ballast point sculpin ipa,,Gott's Napa,2021-01-17,wayback,8.0,1
+ballast point sculpin ipa,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+ballast point sculpin ipa,12oz,Gott's Napa,2015-02-06,wayback,6.0,1
 ballast point sculpin ipa,Canned (12oz),Gott's Napa,2014-12-22,wayback,6.0,1
 balvenie 12 yr,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
 bambini,,Bistro Don Giovanni,2017-01-10,wayback,17.0,1
@@ -247,8 +282,11 @@ bbq bacon cheese,,Barney's Burgers,2026-08-05,web,9.45,1
 bbq chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
 bbq chicken,,Barney's Burgers,2026-08-05,web,8.75,1
 bbq chicken,,Gott's Napa,2012-06-17,wayback,10.99,2
+bbq chicken,,Gott's Napa,2014-10-29,wayback,10.99,1
 bear republic racer 5 india pale ale healdsburg ca,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 beck s premier light st louis mo,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
+bedrock zinfandel,Bottle,Gott's Napa,2015-02-06,wayback,27.0,1
+bedrock zinfandel,Glass,Gott's Napa,2015-02-06,wayback,9.0,1
 bedrock zinfandel california,Bottle,Gott's Napa,2015-05-13,wayback,27.0,1
 bedrock zinfandel california,Glass,Gott's Napa,2015-05-13,wayback,9.0,1
 bee s knees,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
@@ -296,21 +334,24 @@ beverages,SM,In-N-Out Burger,2026-06-11,exif,2.2,1
 beverages,X-LG,In-N-Out Burger,2026-06-11,exif,2.75,1
 biale vineyards black chicken,,Bistro Don Giovanni,2020-09-21,wayback,94.0,1
 biale vineyards moore vineyard,,Bistro Don Giovanni,2020-09-21,wayback,112.0,1
-bieler p re et fils 11 ros,,Gott's Napa,2013-02-28,wayback,21.0,1
-bieler p re et fils 11 ros,Bottle,Gott's Napa,2012-06-17,wayback,21.0,2
-bieler p re et fils 11 ros,Bottle,Gott's Napa,2014-12-22,wayback,18.0,1
-bieler p re et fils 11 ros,Bottle,Gott's Napa,2015-05-13,wayback,21.0,1
-bieler p re et fils 11 ros,Bottle,Gott's Napa,2017-07-22,wayback,24.0,1
-bieler p re et fils 11 ros,Bottle,Gott's Napa,2021-01-17,wayback,32.0,1
-bieler p re et fils 11 ros,Glass,Gott's Napa,2012-06-17,wayback,7.0,2
-bieler p re et fils 11 ros,Glass,Gott's Napa,2014-12-22,wayback,6.0,1
-bieler p re et fils 11 ros,Glass,Gott's Napa,2015-05-13,wayback,7.0,1
-bieler p re et fils 11 ros,Glass,Gott's Napa,2017-07-22,wayback,8.0,1
-bieler p re et fils 11 ros,Glass,Gott's Napa,2021-01-17,wayback,8.0,1
+bieler 13 p re et fils ros,,Gott's Napa,2013-02-28,wayback,21.0,2
+bieler 13 p re et fils ros,Bottle,Gott's Napa,2012-06-17,wayback,21.0,2
+bieler 13 p re et fils ros,Bottle,Gott's Napa,2014-08-11,wayback,18.0,1
+bieler 13 p re et fils ros,Bottle,Gott's Napa,2014-12-22,wayback,18.0,2
+bieler 13 p re et fils ros,Bottle,Gott's Napa,2015-05-13,wayback,21.0,1
+bieler 13 p re et fils ros,Bottle,Gott's Napa,2017-07-22,wayback,24.0,1
+bieler 13 p re et fils ros,Bottle,Gott's Napa,2021-01-17,wayback,32.0,1
+bieler 13 p re et fils ros,Glass,Gott's Napa,2012-06-17,wayback,7.0,2
+bieler 13 p re et fils ros,Glass,Gott's Napa,2014-08-11,wayback,6.0,1
+bieler 13 p re et fils ros,Glass,Gott's Napa,2014-12-22,wayback,6.0,2
+bieler 13 p re et fils ros,Glass,Gott's Napa,2015-05-13,wayback,7.0,1
+bieler 13 p re et fils ros,Glass,Gott's Napa,2017-07-22,wayback,8.0,1
+bieler 13 p re et fils ros,Glass,Gott's Napa,2021-01-17,wayback,8.0,1
 big mac,,McDonald's,2022-04-16,exif,8.19,1
 billecart salmon brut ros,,Bistro Don Giovanni,2020-09-21,wayback,190.0,1
 billecart salmon brut ros,375 ml.,Bistro Don Giovanni,2020-09-21,wayback,95.0,1
-billecart salmon nv brut r serve,,Gott's Napa,2014-12-22,wayback,29.0,1
+billecart salmon nv brut r serve,,Gott's Napa,2014-12-22,wayback,29.0,2
+billecart salmon nv brut r serve,375ml,Gott's Napa,2014-08-11,wayback,32.0,1
 birra friuli lager,,Bistro Don Giovanni,2022-01-20,wayback,9.0,1
 birra friuli lager,,Bistro Don Giovanni,2023-04-01,wayback,9.0,1
 birra friuli lager,,Bistro Don Giovanni,2023-12-05,wayback,9.0,2
@@ -320,6 +361,8 @@ biscuits gravy,2,Code 4 Taphouse,2025-11-15,exif,10.95,2
 biscuits gravy,Large,The Depot Eatery,2026-08-05,web,9.0,1
 biscuits gravy,Small,The Depot Eatery,2026-08-05,web,7.0,1
 biscuits life everlasting sausage gravy,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,25.0,1
+bishop s peak pinot noir,Bottle,Gott's Napa,2015-02-06,wayback,27.0,1
+bishop s peak pinot noir,Glass,Gott's Napa,2015-02-06,wayback,9.0,1
 bistro blood orange negroni,,Bistro Don Giovanni,2020-03-27,wayback,14.0,1
 bistro caps,,Bistro Don Giovanni,2019-09-19,wayback,20.0,1
 bistro caps,,Bistro Don Giovanni,2020-03-27,wayback,20.0,1
@@ -356,11 +399,17 @@ bistro t shirts,,Bistro Don Giovanni,2019-09-19,wayback,30.0,1
 bistro t shirts,,Bistro Don Giovanni,2020-03-27,wayback,30.0,1
 bistro t shirts,,Bistro Don Giovanni,2020-09-21,wayback,30.0,2
 bistro t shirts,,Bistro Don Giovanni,2021-01-27,wayback,30.0,1
+bite hard cider,,Gott's Napa,2014-12-22,wayback,6.0,1
 bite hard cider,,Gott's Napa,2015-05-13,wayback,6.0,1
 bite hard cider,,Gott's Napa,2017-07-22,wayback,6.0,1
+bite hard cider,12oz,Gott's Napa,2014-08-11,wayback,6.0,1
+bite hard cider,12oz,Gott's Napa,2015-02-06,wayback,6.0,1
+bite hard cider,16oz,Gott's Napa,2014-10-29,wayback,6.0,1
 bite hard cider,Canned (12oz),Gott's Napa,2014-12-22,wayback,6.0,1
 black stallion,,Bistro Don Giovanni,2020-09-21,wayback,35.0,1
+black white shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
 black white shake,12oz,Gott's Napa,2021-01-17,wayback,6.99,1
+black white shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 black white shake,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
 blenheim ginger ale,,Bistro Don Giovanni,2017-01-10,wayback,4.5,1
 blenheim ginger ale,,Bistro Don Giovanni,2020-03-27,wayback,5.5,1
@@ -380,18 +429,26 @@ blt,,Barney's Burgers,2026-08-05,web,8.25,1
 blt,,Five Guys,2023-11-27,exif,6.6,1
 blue bottle new orleans,,Gott's Napa,2017-07-22,wayback,4.99,1
 blue bottle new orleans,,Gott's Napa,2021-01-17,wayback,4.99,1
-blue bottle new orleans iced coffee,,Gott's Napa,2014-12-22,wayback,3.99,1
+blue bottle new orleans iced coffee,,Gott's Napa,2014-12-22,wayback,3.99,2
+blue bottle new orleans iced coffee,,Gott's Napa,2015-02-06,wayback,3.99,1
 blue bottle new orleans iced coffee,,Gott's Napa,2015-05-13,wayback,3.99,1
 blue burger,,The Depot Eatery,2026-08-05,web,18.0,1
 blue cheese burger,,Gott's Napa,2011-03-22,wayback,8.99,2
 blue cheese burger,,Gott's Napa,2012-05-15,wayback,9.99,2
 blue cheese burger,,Gott's Napa,2012-06-17,wayback,9.99,2
-blue cheese burger,,Gott's Napa,2014-12-22,wayback,10.99,1
+blue cheese burger,,Gott's Napa,2014-08-11,wayback,10.99,1
+blue cheese burger,,Gott's Napa,2014-10-29,wayback,9.99,1
+blue cheese burger,,Gott's Napa,2014-12-22,wayback,10.99,2
+blue cheese burger,,Gott's Napa,2015-02-06,wayback,10.99,1
 blue cheese burger,,Gott's Napa,2015-05-13,wayback,10.99,1
 blue cheese burger,,Gott's Napa,2017-07-22,wayback,10.99,1
+blue moon belgian style wheat ale,,Gott's Napa,2014-12-22,wayback,4.5,1
 blue moon belgian style wheat ale,,Gott's Napa,2015-05-13,wayback,4.5,1
 blue moon belgian style wheat ale,,Gott's Napa,2017-07-22,wayback,4.5,1
 blue moon belgian style wheat ale,,Gott's Napa,2021-01-17,wayback,4.5,1
+blue moon belgian style wheat ale,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+blue moon belgian style wheat ale,12oz,Gott's Napa,2014-10-29,wayback,4.5,1
+blue moon belgian style wheat ale,12oz,Gott's Napa,2015-02-06,wayback,4.5,1
 blue moon belgian style wheat ale,Canned (12oz),Gott's Napa,2014-12-22,wayback,4.5,1
 blueberry banana french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,11.49,1
 blueberry banana pancakes,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,8.14,2
@@ -400,8 +457,9 @@ bologna,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 bonal aperitif des montaignes,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 bone in chicken wings,10,The Depot Eatery,2026-08-05,web,20.0,1
 bone in chicken wings,6,The Depot Eatery,2026-08-05,web,14.0,1
+bonny doon le cigare volant,Half Bottle,Gott's Napa,2014-10-29,wayback,24.0,1
 borreo by silverado vineyards sangiovese,,Bistro Don Giovanni,2022-05-27,wayback,16.0,1
-bottled beers,,Gott's Napa,2013-02-28,wayback,4.5,1
+bottled beers,,Gott's Napa,2013-02-28,wayback,4.5,2
 bottles to go,,Five Guys,2023-11-27,exif,3.25,1
 bouchard p re fils nuits saint georges,,Bistro Don Giovanni,2020-09-21,wayback,134.0,1
 boudin blanc,,Angele Restaurant & Bar,2015-02-21,wayback,20.0,1
@@ -451,6 +509,7 @@ bucatini bolognese,,Bistro Don Giovanni,2020-09-21,wayback,25.0,1
 bucatini cacio e pepe,,Bistro Don Giovanni,2020-03-27,wayback,23.0,1
 bud light,,Gott's Napa,2011-03-22,wayback,4.0,2
 bud light,,Gott's Napa,2012-05-15,wayback,4.0,2
+bud light long neck,12oz,Gott's Napa,2014-10-29,wayback,4.5,1
 budweiser,,Bistro Don Giovanni,2017-01-10,wayback,4.5,1
 budweiser,,Bistro Don Giovanni,2019-09-19,wayback,5.0,1
 budweiser,,Bistro Don Giovanni,2020-03-27,wayback,5.0,1
@@ -509,7 +568,10 @@ california burger,,Gott's Napa,2021-01-17,wayback,14.99,1
 california chicken,,Gott's Napa,2011-03-22,wayback,9.99,2
 california chicken,,Gott's Napa,2012-05-15,wayback,10.99,2
 california chicken,,Gott's Napa,2012-06-17,wayback,10.99,2
-california chicken,,Gott's Napa,2014-12-22,wayback,11.99,1
+california chicken,,Gott's Napa,2014-08-11,wayback,10.99,1
+california chicken,,Gott's Napa,2014-10-29,wayback,10.99,1
+california chicken,,Gott's Napa,2014-12-22,wayback,11.99,2
+california chicken,,Gott's Napa,2015-02-06,wayback,11.99,1
 california chicken,,Gott's Napa,2015-05-13,wayback,11.99,1
 california chicken,,Gott's Napa,2017-07-22,wayback,12.99,1
 california chicken,,Gott's Napa,2021-01-17,wayback,12.99,1
@@ -524,7 +586,7 @@ campari,,Bistro Don Giovanni,2020-09-21,wayback,10.0,2
 campari,,Bistro Don Giovanni,2021-01-27,wayback,10.0,1
 campstove skillet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.49,1
 canard,,Angele Restaurant & Bar,2012-04-09,wayback,29.0,1
-canned soda,,Gott's Napa,2013-02-28,wayback,2.0,1
+canned soda,,Gott's Napa,2013-02-28,wayback,2.0,2
 cantina puiatti friulano,,Bistro Don Giovanni,2023-12-05,wayback,15.0,2
 cappuccini absolut vodka coffee liqueur and baileys irish cream shaken with a shot of espresso and topped with whipped cream,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,7.5,1
 cappuccino,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,3.29,1
@@ -559,14 +621,21 @@ chappellet 09 cabernet sauvignon napa valley,Bottle,Gott's Napa,2012-06-17,wayba
 chappellet 09 cabernet sauvignon napa valley,Glass,Gott's Napa,2011-03-22,wayback,11.0,1
 chappellet 09 cabernet sauvignon napa valley,Glass,Gott's Napa,2012-05-15,wayback,11.0,2
 chappellet 09 cabernet sauvignon napa valley,Glass,Gott's Napa,2012-06-17,wayback,12.0,1
+chappellet cabernet sauvignon,,Gott's Napa,2013-02-28,wayback,36.0,1
 chappellet cabernet sauvignon,Bottle,Gott's Napa,2012-06-17,wayback,36.0,1
 chappellet cabernet sauvignon,Glass,Gott's Napa,2012-06-17,wayback,12.0,1
 chardonnay miner,Half Bottle,Gott's Napa,2021-01-17,wayback,26.0,1
-charles charles 13 cabernet blend,Bottle,Gott's Napa,2014-12-22,wayback,21.0,1
+charles charles 13 cabernet blend,Bottle,Gott's Napa,2014-08-11,wayback,18.0,1
+charles charles 13 cabernet blend,Bottle,Gott's Napa,2014-10-29,wayback,18.0,1
+charles charles 13 cabernet blend,Bottle,Gott's Napa,2014-12-22,wayback,21.0,2
+charles charles 13 cabernet blend,Bottle,Gott's Napa,2015-02-06,wayback,21.0,1
 charles charles 13 cabernet blend,Bottle,Gott's Napa,2015-05-13,wayback,21.0,1
 charles charles 13 cabernet blend,Bottle,Gott's Napa,2017-07-22,wayback,24.0,1
 charles charles 13 cabernet blend,Bottle,Gott's Napa,2021-01-17,wayback,32.0,1
-charles charles 13 cabernet blend,Glass,Gott's Napa,2014-12-22,wayback,7.0,1
+charles charles 13 cabernet blend,Glass,Gott's Napa,2014-08-11,wayback,6.0,1
+charles charles 13 cabernet blend,Glass,Gott's Napa,2014-10-29,wayback,6.0,1
+charles charles 13 cabernet blend,Glass,Gott's Napa,2014-12-22,wayback,7.0,2
+charles charles 13 cabernet blend,Glass,Gott's Napa,2015-02-06,wayback,7.0,1
 charles charles 13 cabernet blend,Glass,Gott's Napa,2015-05-13,wayback,7.0,1
 charles charles 13 cabernet blend,Glass,Gott's Napa,2017-07-22,wayback,8.0,1
 charles charles 13 cabernet blend,Glass,Gott's Napa,2021-01-17,wayback,8.0,1
@@ -583,7 +652,10 @@ cheese burger,,Five Guys,2023-11-27,exif,9.9,1
 cheese burger,,Gott's Napa,2011-03-22,wayback,7.99,2
 cheese burger,,Gott's Napa,2012-05-15,wayback,7.99,2
 cheese burger,,Gott's Napa,2012-06-17,wayback,7.99,2
-cheese burger,,Gott's Napa,2014-12-22,wayback,7.99,1
+cheese burger,,Gott's Napa,2014-08-11,wayback,7.99,1
+cheese burger,,Gott's Napa,2014-10-29,wayback,7.99,1
+cheese burger,,Gott's Napa,2014-12-22,wayback,7.99,2
+cheese burger,,Gott's Napa,2015-02-06,wayback,7.99,1
 cheese burger,,Gott's Napa,2015-05-13,wayback,7.99,1
 cheese burger,,Gott's Napa,2017-07-22,wayback,8.24,2
 cheese burger,,Gott's Napa,2021-01-17,wayback,8.49,2
@@ -604,7 +676,10 @@ chicken bacon ranch,,The Depot Eatery,2026-08-05,web,17.0,1
 chicken caesar salad,,Gott's Napa,2011-03-22,wayback,9.99,2
 chicken caesar salad,,Gott's Napa,2012-05-15,wayback,10.99,2
 chicken caesar salad,,Gott's Napa,2012-06-17,wayback,10.99,2
-chicken caesar salad,,Gott's Napa,2014-12-22,wayback,10.99,1
+chicken caesar salad,,Gott's Napa,2014-08-11,wayback,10.99,1
+chicken caesar salad,,Gott's Napa,2014-10-29,wayback,10.99,1
+chicken caesar salad,,Gott's Napa,2014-12-22,wayback,10.99,2
+chicken caesar salad,,Gott's Napa,2015-02-06,wayback,10.99,1
 chicken caesar salad,,Gott's Napa,2015-05-13,wayback,10.99,1
 chicken club,,Gott's Napa,2011-03-22,wayback,9.99,2
 chicken club,,Gott's Napa,2012-05-15,wayback,10.99,2
@@ -635,7 +710,10 @@ chicken strips basket,,The Depot Eatery,2026-08-05,web,16.0,1
 chicken tenders,,Gott's Napa,2011-03-22,wayback,5.99,2
 chicken tenders,,Gott's Napa,2012-05-15,wayback,5.99,2
 chicken tenders,,Gott's Napa,2012-06-17,wayback,6.99,2
-chicken tenders,,Gott's Napa,2014-12-22,wayback,7.99,1
+chicken tenders,,Gott's Napa,2014-08-11,wayback,7.49,2
+chicken tenders,,Gott's Napa,2014-10-29,wayback,7.49,2
+chicken tenders,,Gott's Napa,2014-12-22,wayback,7.99,3
+chicken tenders,,Gott's Napa,2015-02-06,wayback,7.49,2
 chicken tenders,,Gott's Napa,2015-05-13,wayback,7.99,1
 chicken tenders,,Gott's Napa,2017-07-22,wayback,8.49,2
 chicken tenders,,Gott's Napa,2021-01-17,wayback,8.49,2
@@ -645,14 +723,20 @@ chili,Small,Barney's Burgers,2026-08-05,web,5.0,1
 chili,Bowl,Gott's Napa,2011-03-22,wayback,7.99,2
 chili,Bowl,Gott's Napa,2012-05-15,wayback,7.99,2
 chili,Bowl,Gott's Napa,2012-06-17,wayback,7.99,2
-chili,Bowl,Gott's Napa,2014-12-22,wayback,7.99,1
+chili,Bowl,Gott's Napa,2014-08-11,wayback,7.99,1
+chili,Bowl,Gott's Napa,2014-10-29,wayback,7.99,1
+chili,Bowl,Gott's Napa,2014-12-22,wayback,7.99,2
+chili,Bowl,Gott's Napa,2015-02-06,wayback,7.99,1
 chili,Bowl,Gott's Napa,2015-05-13,wayback,7.99,1
 chili,Bowl,Gott's Napa,2017-07-22,wayback,7.99,1
 chili,Bowl,Gott's Napa,2021-01-17,wayback,8.99,1
 chili,Cup,Gott's Napa,2011-03-22,wayback,4.49,2
 chili,Cup,Gott's Napa,2012-05-15,wayback,4.49,2
 chili,Cup,Gott's Napa,2012-06-17,wayback,4.49,2
-chili,Cup,Gott's Napa,2014-12-22,wayback,4.99,1
+chili,Cup,Gott's Napa,2014-08-11,wayback,4.99,1
+chili,Cup,Gott's Napa,2014-10-29,wayback,4.49,1
+chili,Cup,Gott's Napa,2014-12-22,wayback,4.99,2
+chili,Cup,Gott's Napa,2015-02-06,wayback,4.99,1
 chili,Cup,Gott's Napa,2015-05-13,wayback,4.99,1
 chili,Cup,Gott's Napa,2017-07-22,wayback,5.99,1
 chili,Cup,Gott's Napa,2021-01-17,wayback,5.99,1
@@ -665,7 +749,10 @@ chili cheese fries,Small,Barney's Burgers,2026-08-05,web,5.95,1
 chili cheese fries,,Gott's Napa,2011-03-22,wayback,4.99,2
 chili cheese fries,,Gott's Napa,2012-05-15,wayback,4.99,2
 chili cheese fries,,Gott's Napa,2012-06-17,wayback,4.99,2
-chili cheese fries,,Gott's Napa,2014-12-22,wayback,5.99,1
+chili cheese fries,,Gott's Napa,2014-08-11,wayback,5.99,1
+chili cheese fries,,Gott's Napa,2014-10-29,wayback,5.89,1
+chili cheese fries,,Gott's Napa,2014-12-22,wayback,5.99,2
+chili cheese fries,,Gott's Napa,2015-02-06,wayback,5.99,1
 chili cheese fries,,Gott's Napa,2015-05-13,wayback,5.99,1
 chili cheese fries,,Gott's Napa,2017-07-22,wayback,5.99,1
 chili cheese fries,,Gott's Napa,2021-01-17,wayback,6.99,1
@@ -682,10 +769,15 @@ chinese chicken,,Gott's Napa,2017-07-22,wayback,11.99,1
 chinese chicken salad,,Gott's Napa,2011-03-22,wayback,9.99,2
 chinese chicken salad,,Gott's Napa,2012-05-15,wayback,10.99,2
 chinese chicken salad,,Gott's Napa,2012-06-17,wayback,10.99,2
-chinese chicken salad,,Gott's Napa,2014-12-22,wayback,10.99,1
+chinese chicken salad,,Gott's Napa,2014-08-11,wayback,10.99,1
+chinese chicken salad,,Gott's Napa,2014-10-29,wayback,10.99,1
+chinese chicken salad,,Gott's Napa,2014-12-22,wayback,10.99,2
+chinese chicken salad,,Gott's Napa,2015-02-06,wayback,10.99,1
 chinese chicken salad,,Gott's Napa,2015-05-13,wayback,10.99,1
 chips hummus,,Perez Kitchen & Bar,2026-08-05,pdf,9.0,1
 chocolate,,Five Guys,2023-11-27,exif,0.4,1
+chocolate shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
+chocolate shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 chocolate syrup extra,,Gott's Napa,2012-05-15,wayback,1.25,1
 chorizo,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
 chorizo breakfast burrito,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,15.0,1
@@ -710,6 +802,7 @@ classic,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,55.0,1
 classic,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,55.0,1
 classic,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,55.0,1
 classic,,Gott's Napa,2013-02-28,wayback,2000.0,1
+classic,,Gott's Napa,2013-04-02,wayback,4.99,1
 classic bar,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,12.0,1
 classic bar,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,12.0,1
 classic bar,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,12.0,1
@@ -745,26 +838,35 @@ cobb,,Gott's Napa,2021-01-17,wayback,14.99,1
 cobb jack hill vineyard,,Bistro Don Giovanni,2020-09-21,wayback,126.0,1
 cobb salad,,Barney's Burgers,2024-01-15,dom,10.99,1
 cobb salad,,Barney's Burgers,2026-08-05,web,14.5,1
-cobb salad,,Gott's Napa,2014-12-22,wayback,12.99,1
+cobb salad,,Gott's Napa,2014-08-11,wayback,11.99,1
+cobb salad,,Gott's Napa,2014-10-29,wayback,11.99,1
+cobb salad,,Gott's Napa,2014-12-22,wayback,12.99,2
+cobb salad,,Gott's Napa,2015-02-06,wayback,12.99,1
 cobb salad,,Gott's Napa,2015-05-13,wayback,12.99,1
 code 4 breakfast,,Code 4 Taphouse,2025-11-15,exif,4.95,2
 cody s pork belly hash,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,18.0,1
 coeur de lion calvados,,Angele Restaurant & Bar,2014-09-20,wayback,24.0,1
 coffee,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,2.49,1
-coffee,,Gott's Napa,2013-02-28,wayback,3.0,1
+coffee,,Gott's Napa,2013-02-28,wayback,3.0,2
+coffee,,Gott's Napa,2013-04-02,wayback,1.88,2
 coffee,,In-N-Out Burger,2026-06-25,exif,1.65,4
 coffee,,In-N-Out Burger,2025-02-25,exif,1.35,1
 coffee,,In-N-Out Burger,2026-06-11,exif,1.65,1
+coffee shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
+coffee shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,3.0,1
 coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,3.0,1
 coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,3.0,1
-coke float,,Gott's Napa,2014-12-22,wayback,4.99,1
+coke float,,Gott's Napa,2014-08-11,wayback,4.99,1
+coke float,,Gott's Napa,2014-12-22,wayback,4.99,2
 coke float,,Gott's Napa,2021-01-17,wayback,4.99,1
 coleslaw,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,7.0,1
 combo 1,,In-N-Out Burger,2026-06-25,exif,10.5,1
 combo 2,,In-N-Out Burger,2026-06-25,exif,8.7,1
 cone,,McDonald's,2022-04-16,exif,1.99,1
+cookies cream shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
 cookies cream shake,12oz,Gott's Napa,2021-01-17,wayback,6.99,1
+cookies cream shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 cookies cream shake,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
 coors light,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
 coors light,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
@@ -783,9 +885,13 @@ corned beef hash,,The Depot Eatery,2026-08-05,web,16.0,1
 corona,,Gott's Napa,2011-03-22,wayback,4.5,2
 corona,,Gott's Napa,2012-05-15,wayback,4.5,2
 corona,,Gott's Napa,2012-06-17,wayback,4.5,2
+corona,,Gott's Napa,2014-12-22,wayback,4.5,1
 corona,,Gott's Napa,2015-05-13,wayback,4.5,1
 corona,,Gott's Napa,2017-07-22,wayback,4.5,1
 corona,,Gott's Napa,2021-01-17,wayback,5.0,1
+corona,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+corona,12oz,Gott's Napa,2014-10-29,wayback,4.5,1
+corona,12oz,Gott's Napa,2015-02-06,wayback,4.5,1
 corona,Bottled (12oz),Gott's Napa,2014-12-22,wayback,4.5,1
 corona lager mexico,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 corpse reviver,,Bistro Don Giovanni,2017-01-10,wayback,14.0,1
@@ -802,12 +908,16 @@ crab cake w spicy aioli,,The Depot Eatery,2026-08-05,web,11.0,2
 crab salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 crab salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
 creamy grits,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,10.0,1
+crispy chicken,,Gott's Napa,2014-08-11,wayback,10.99,1
+crispy chicken,,Gott's Napa,2014-10-29,wayback,10.99,1
 crispy chicken caeser,,Barney's Burgers,2024-01-15,dom,10.99,1
-crispy chicken po boy,,Gott's Napa,2014-12-22,wayback,7.99,1
+crispy chicken po boy,,Gott's Napa,2014-12-22,wayback,7.99,2
+crispy chicken po boy,,Gott's Napa,2015-02-06,wayback,7.99,1
 crispy chicken salad,,Barney's Burgers,2026-08-05,web,14.5,1
 crispy chicken sandwich,,McDonald's,2022-04-16,exif,8.49,3
 crispy herb fried potatoes,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
-crispy jalape o chicken,,Gott's Napa,2014-12-22,wayback,10.99,1
+crispy jalape o chicken,,Gott's Napa,2014-12-22,wayback,10.99,2
+crispy jalape o chicken,,Gott's Napa,2015-02-06,wayback,10.99,1
 crispy jalape o chicken,,Gott's Napa,2015-05-13,wayback,10.99,1
 crispy potatoes,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,8.0,1
 crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
@@ -865,6 +975,8 @@ diane lane,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 dogfish head 90 minute ipa,,Gott's Napa,2015-05-13,wayback,7.5,1
 dogfish head 90 minute ipa,,Gott's Napa,2017-07-22,wayback,8.0,1
 dogfish head 90 minute ipa,,Gott's Napa,2021-01-17,wayback,8.5,1
+dogfish head 90 minute ipa,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+dogfish head 90 minute ipa,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 dogfish head 90 minute ipa,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
 dolce late harvest 07,,Angele Restaurant & Bar,2014-09-20,wayback,20.0,1
 dom p rignon,,Bistro Don Giovanni,2020-09-21,wayback,375.0,1
@@ -904,7 +1016,7 @@ don manhattan,,Bistro Don Giovanni,2022-01-20,wayback,14.0,1
 don manhattan,,Bistro Don Giovanni,2022-05-27,wayback,15.0,1
 don manhattan,,Bistro Don Giovanni,2023-04-01,wayback,15.0,1
 don manhattan,,Bistro Don Giovanni,2023-12-05,wayback,15.0,2
-dona paula 10 malbec,,Gott's Napa,2013-02-28,wayback,21.0,1
+dona paula 10 malbec,,Gott's Napa,2013-02-28,wayback,21.0,2
 dona paula 10 malbec,Bottle,Gott's Napa,2012-06-17,wayback,21.0,2
 dona paula 10 malbec,Glass,Gott's Napa,2012-06-17,wayback,7.0,2
 donnafugata anthilia cataratto,,Bistro Don Giovanni,2020-09-21,wayback,32.0,1
@@ -919,7 +1031,10 @@ double bacon cheddar,,Barney's Burgers,2026-08-05,web,11.45,1
 double cheeseburger,,Gott's Napa,2011-03-22,wayback,10.99,2
 double cheeseburger,,Gott's Napa,2012-05-15,wayback,10.99,2
 double cheeseburger,,Gott's Napa,2012-06-17,wayback,10.99,2
-double cheeseburger,,Gott's Napa,2014-12-22,wayback,10.99,1
+double cheeseburger,,Gott's Napa,2014-08-11,wayback,10.99,1
+double cheeseburger,,Gott's Napa,2014-10-29,wayback,10.99,1
+double cheeseburger,,Gott's Napa,2014-12-22,wayback,10.99,2
+double cheeseburger,,Gott's Napa,2015-02-06,wayback,10.99,1
 double cheeseburger,,Gott's Napa,2015-05-13,wayback,10.99,1
 double cheeseburger,,Gott's Napa,2017-07-22,wayback,11.49,1
 double cheeseburger,,Gott's Napa,2021-01-17,wayback,13.99,1
@@ -935,8 +1050,14 @@ double jack combo,,Jack in the Box,2025-08-11,exif,12.29,1
 double jack meal,,Jack in the Box,2025-08-11,exif,12.0,1
 double quarter pounder with cheese,,McDonald's,2022-04-16,exif,10.49,1
 double with cheese,,Barney's Burgers,2026-08-05,web,9.9,1
+dr loosen riesling,Half Bottle,Gott's Napa,2014-10-29,wayback,17.0,1
+draft beer,16oz,Gott's Napa,2014-10-29,wayback,5.5,1
 drafts,,Gott's Napa,2012-06-17,wayback,5.5,2
+drake s 1500 pale ale,,Gott's Napa,2014-12-22,wayback,4.5,1
 drake s 1500 pale ale,,Gott's Napa,2015-05-13,wayback,4.5,1
+drake s 1500 pale ale,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+drake s 1500 pale ale,12oz,Gott's Napa,2014-10-29,wayback,4.5,1
+drake s 1500 pale ale,12oz,Gott's Napa,2015-02-06,wayback,4.5,1
 drake s 1500 pale ale,Bottled (12oz),Gott's Napa,2014-12-22,wayback,4.5,1
 drake s pilsner,,Bistro Don Giovanni,2019-09-19,wayback,6.0,1
 drinks,Large,Barney's Burgers,2024-01-15,dom,2.99,1
@@ -950,15 +1071,19 @@ duck confit,,Angele Restaurant & Bar,2017-08-29,wayback,30.0,1
 duck liver mousse cr me fra che gel e fruit compote country toast,,Angele Restaurant & Bar,2015-02-25,wayback,14.0,1
 duck liver mousse cr me fra che gel e fruit compote country toast,,Angele Restaurant & Bar,2015-03-05,wayback,14.0,1
 duckhorn,,Bistro Don Giovanni,2020-09-21,wayback,82.0,2
-duckhorn 09 sauvignon blanc napa valley,,Gott's Napa,2012-05-15,wayback,17.0,2
-duckhorn 09 sauvignon blanc napa valley,,Gott's Napa,2012-06-17,wayback,17.0,1
-duckhorn 09 sauvignon blanc napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,17.0,1
-duckhorn 09 sauvignon blanc napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,17.0,1
+duckhorn 13 sauvignon blanc,,Gott's Napa,2012-06-17,wayback,17.0,1
+duckhorn 13 sauvignon blanc,,Gott's Napa,2014-12-22,wayback,17.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2011-03-22,wayback,17.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2014-08-11,wayback,17.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2014-10-29,wayback,17.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2015-02-06,wayback,17.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2015-05-13,wayback,17.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2017-07-22,wayback,19.0,1
+duckhorn 13 sauvignon blanc,Half Bottle,Gott's Napa,2021-01-17,wayback,23.0,1
+duckhorn 13 sauvignon blanc napa valley,,Gott's Napa,2012-05-15,wayback,17.0,2
+duckhorn 13 sauvignon blanc napa valley,,Gott's Napa,2012-06-17,wayback,17.0,1
+duckhorn 13 sauvignon blanc napa valley,,Gott's Napa,2014-12-22,wayback,17.0,1
 duckhorn sauvignon blanc,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,32.0,1
-duckhorn sauvignon blanc,,Gott's Napa,2012-06-17,wayback,17.0,1
-duckhorn sauvignon blanc,,Gott's Napa,2014-12-22,wayback,17.0,1
-duckhorn sauvignon blanc,Half Bottle,Gott's Napa,2017-07-22,wayback,19.0,1
-duckhorn sauvignon blanc,Half Bottle,Gott's Napa,2021-01-17,wayback,23.0,1
 dumol finn,,Bistro Don Giovanni,2020-09-21,wayback,188.0,1
 durban muscat beaumes de venise 09,,Angele Restaurant & Bar,2014-09-20,wayback,8.0,1
 earl grey cr me black tea fusion medium bold caffeine,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
@@ -993,8 +1118,13 @@ escargots vol au vent,,Angele Restaurant & Bar,2017-08-29,wayback,16.0,1
 espresso,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,1.99,1
 espresso,,McDonald's,2022-04-16,exif,3.55,1
 etude grace benoist ranch,,Bistro Don Giovanni,2020-09-21,wayback,76.0,1
+experience 11 cabernet sauvignon,Bottle,Gott's Napa,2014-08-11,wayback,30.0,1
 experience 11 cabernet sauvignon,Bottle,Gott's Napa,2014-12-22,wayback,30.0,1
+experience 11 cabernet sauvignon,Glass,Gott's Napa,2014-08-11,wayback,10.0,1
 experience 11 cabernet sauvignon,Glass,Gott's Napa,2014-12-22,wayback,10.0,1
+experience 11 cabernet sauvignon napa valley,,Gott's Napa,2014-12-22,wayback,50.0,1
+experience 11 cabernet sauvignon napa valley,Bottle,Gott's Napa,2014-12-22,wayback,30.0,1
+experience 11 cabernet sauvignon napa valley,Glass,Gott's Napa,2014-12-22,wayback,10.0,1
 expression 38 by william elana hill russian camp,,Bistro Don Giovanni,2020-09-21,wayback,58.0,1
 extra bbq,,Barney's Burgers,2024-01-15,dom,0.5,1
 extra bbq,,Barney's Burgers,2026-08-05,web,0.5,1
@@ -1039,9 +1169,11 @@ farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,4.0,1
 farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,4.0,1
 farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,4.0,2
 farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,4.0,1
+fat tire amber ale,,Gott's Napa,2014-12-22,wayback,4.5,1
 fat tire amber ale,,Gott's Napa,2015-05-13,wayback,4.5,1
 fat tire amber ale,,Gott's Napa,2017-07-22,wayback,5.0,1
 fat tire amber ale,,Gott's Napa,2021-01-17,wayback,5.5,1
+fat tire amber ale,12oz,Gott's Napa,2015-02-06,wayback,4.5,1
 fat tire amber ale,Bottled (12oz),Gott's Napa,2014-12-22,wayback,4.5,1
 faux filet,,Angele Restaurant & Bar,2012-04-09,wayback,32.0,1
 fava tortellini,,Angele Restaurant & Bar,2013-06-27,wayback,22.0,1
@@ -1079,21 +1211,29 @@ firestone mind haze hazy ipa,,Bistro Don Giovanni,2023-04-01,wayback,7.0,1
 firestone mind haze hazy ipa,,Bistro Don Giovanni,2023-12-05,wayback,7.0,1
 firestone walker 805 blonde ale,,Gott's Napa,2017-07-22,wayback,5.0,1
 firestone walker 805 blonde ale,,Gott's Napa,2021-01-17,wayback,5.0,1
+firestone walker double barrel ale,,Gott's Napa,2014-12-22,wayback,5.0,1
 firestone walker double barrel ale,,Gott's Napa,2015-05-13,wayback,5.0,1
+firestone walker double barrel ale,12oz,Gott's Napa,2014-08-11,wayback,5.0,1
+firestone walker double barrel ale,12oz,Gott's Napa,2014-10-29,wayback,5.0,1
+firestone walker double barrel ale,12oz,Gott's Napa,2015-02-06,wayback,5.0,1
 firestone walker double barrel ale,Bottled (12oz),Gott's Napa,2014-12-22,wayback,5.0,1
 fish and chips,,Gott's Napa,2011-03-22,wayback,15.99,2
-fish chips,,Gott's Napa,2014-12-22,wayback,16.99,1
+fish chips,,Gott's Napa,2014-08-11,wayback,16.99,1
+fish chips,,Gott's Napa,2014-12-22,wayback,16.99,2
+fish chips,,Gott's Napa,2015-02-06,wayback,16.99,1
 fish chips,,Gott's Napa,2015-05-13,wayback,16.99,1
 fish chips,,Gott's Napa,2017-07-22,wayback,16.99,1
 fish chips basket,,The Depot Eatery,2026-08-05,web,18.0,1
 fish tacos,,Gott's Napa,2011-03-22,wayback,12.99,1
 fish tacos,,Gott's Napa,2012-05-15,wayback,12.99,2
 fish tacos,,Gott's Napa,2012-06-17,wayback,12.99,2
+fish tacos,,Gott's Napa,2014-10-29,wayback,12.99,1
 fish tacos,2 tacos,Gott's Napa,2011-03-22,wayback,12.99,1
 fist full o dollars,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 five guys shake,,Five Guys,2023-11-27,exif,5.2,1
 flat iron steak bites,,The Depot Eatery,2026-08-05,web,12.0,1
 floats,24oz,Gott's Napa,2021-01-17,wayback,4.99,1
+floats with organic vanilla ice cream root beer,,Gott's Napa,2015-02-06,wayback,4.99,1
 floats with organic vanilla ice cream root beer,24oz,Gott's Napa,2015-05-13,wayback,4.99,3
 floats with organic vanilla ice cream root beer,24oz,Gott's Napa,2017-07-22,wayback,4.99,1
 flowers camp meeting ridge vineyard,,Bistro Don Giovanni,2020-09-21,wayback,178.0,1
@@ -1110,11 +1250,17 @@ fountain soda,24oz,Gott's Napa,2021-01-17,wayback,2.99,1
 fountain soda,Regular,Gott's Napa,2011-03-22,wayback,2.49,2
 fountain soda,Regular,Gott's Napa,2012-05-15,wayback,2.49,2
 fountain soda,Regular,Gott's Napa,2012-06-17,wayback,2.69,2
-fountain soda,Regular,Gott's Napa,2014-12-22,wayback,2.99,1
+fountain soda,Regular,Gott's Napa,2014-08-11,wayback,2.99,1
+fountain soda,Regular,Gott's Napa,2014-10-29,wayback,2.95,1
+fountain soda,Regular,Gott's Napa,2014-12-22,wayback,2.99,2
+fountain soda,Regular,Gott's Napa,2015-02-06,wayback,2.99,1
 fountain soda,Small,Gott's Napa,2011-03-22,wayback,1.99,2
 fountain soda,Small,Gott's Napa,2012-05-15,wayback,1.99,2
 fountain soda,Small,Gott's Napa,2012-06-17,wayback,1.99,2
-fountain soda,Small,Gott's Napa,2014-12-22,wayback,2.25,1
+fountain soda,Small,Gott's Napa,2014-08-11,wayback,2.25,1
+fountain soda,Small,Gott's Napa,2014-10-29,wayback,2.25,1
+fountain soda,Small,Gott's Napa,2014-12-22,wayback,2.25,2
+fountain soda,Small,Gott's Napa,2015-02-06,wayback,2.25,1
 frank family,,Bistro Don Giovanni,2020-09-21,wayback,68.0,1
 frank family petite sirah,,Bistro Don Giovanni,2017-01-10,wayback,14.0,1
 frank family zinfandel,,Bistro Don Giovanni,2020-03-27,wayback,15.0,1
@@ -1149,7 +1295,10 @@ french fries,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
 french fries,,Gott's Napa,2011-03-22,wayback,2.69,2
 french fries,,Gott's Napa,2012-05-15,wayback,2.69,2
 french fries,,Gott's Napa,2012-06-17,wayback,2.89,2
-french fries,,Gott's Napa,2014-12-22,wayback,2.99,1
+french fries,,Gott's Napa,2014-08-11,wayback,2.99,1
+french fries,,Gott's Napa,2014-10-29,wayback,2.89,1
+french fries,,Gott's Napa,2014-12-22,wayback,2.99,2
+french fries,,Gott's Napa,2015-02-06,wayback,2.99,1
 french fries,,Gott's Napa,2015-05-13,wayback,2.99,1
 french fries,,Gott's Napa,2017-07-22,wayback,3.49,1
 french fries,,Gott's Napa,2021-01-17,wayback,3.79,1
@@ -1170,6 +1319,7 @@ french spritz,,Angele Restaurant & Bar,2015-02-25,wayback,12.0,1
 french spritz aperol tangerine juice sparkling wine,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,5.99,1
 french toast,2 slices,Code 4 Taphouse,2025-11-15,exif,8.95,2
+french toast,,Gott's Napa,2013-04-02,wayback,5.49,1
 french toast bacon,,Code 4 Taphouse,2025-11-15,exif,7.95,2
 frescobaldi nipozzano vecchie viti chianti riserva toscana italy,,Bistro Don Giovanni,2022-01-20,wayback,15.0,1
 fresh juice,8oz,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
@@ -1207,14 +1357,16 @@ fritto misto,,Bistro Don Giovanni,2023-04-01,wayback,18.0,1
 fritto misto,,Bistro Don Giovanni,2023-12-05,wayback,19.0,2
 frog s leap,,Bistro Don Giovanni,2020-09-21,wayback,64.0,2
 frog s leap ros la grenouille rougante,,Bistro Don Giovanni,2020-09-21,wayback,46.0,1
-frogs leap 09 sauvignon blanc napa valley,,Gott's Napa,2012-05-15,wayback,12.0,2
-frogs leap 09 sauvignon blanc napa valley,,Gott's Napa,2012-06-17,wayback,14.0,1
-frogs leap 09 sauvignon blanc napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,12.0,1
-frogs leap 09 sauvignon blanc napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,14.0,1
-frogs leap sauvignon blanc,,Gott's Napa,2012-06-17,wayback,14.0,1
-frogs leap sauvignon blanc,,Gott's Napa,2014-12-22,wayback,14.0,1
-frogs leap sauvignon blanc,Half Bottle,Gott's Napa,2017-07-22,wayback,19.0,1
-frogs leap sauvignon blanc,Half Bottle,Gott's Napa,2021-01-17,wayback,21.0,1
+frogs leap 13 sauvignon blanc,,Gott's Napa,2012-05-15,wayback,12.0,2
+frogs leap 13 sauvignon blanc,,Gott's Napa,2012-06-17,wayback,14.0,2
+frogs leap 13 sauvignon blanc,,Gott's Napa,2014-12-22,wayback,14.0,2
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2011-03-22,wayback,12.0,1
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2014-08-11,wayback,14.0,1
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2014-10-29,wayback,14.0,1
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2015-02-06,wayback,14.0,1
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2015-05-13,wayback,14.0,1
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2017-07-22,wayback,19.0,1
+frogs leap 13 sauvignon blanc,Half Bottle,Gott's Napa,2021-01-17,wayback,21.0,1
 fromages du jour,,Angele Restaurant & Bar,2012-04-09,wayback,12.0,1
 fromages du jour artisan cheeses of the day,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
 fruit yogurt granola,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,5.99,1
@@ -1230,7 +1382,10 @@ garden veggie,,The Depot Eatery,2026-08-05,web,18.0,1
 garlic fries,,Gott's Napa,2011-03-22,wayback,3.99,2
 garlic fries,,Gott's Napa,2012-05-15,wayback,3.99,2
 garlic fries,,Gott's Napa,2012-06-17,wayback,3.99,2
-garlic fries,,Gott's Napa,2014-12-22,wayback,3.99,1
+garlic fries,,Gott's Napa,2014-08-11,wayback,3.99,1
+garlic fries,,Gott's Napa,2014-10-29,wayback,3.99,1
+garlic fries,,Gott's Napa,2014-12-22,wayback,3.99,2
+garlic fries,,Gott's Napa,2015-02-06,wayback,3.99,1
 garlic fries,,Gott's Napa,2015-05-13,wayback,3.99,1
 garlic fries,,Gott's Napa,2017-07-22,wayback,3.99,1
 garlic fries,,Gott's Napa,2021-01-17,wayback,3.99,1
@@ -1282,6 +1437,7 @@ graci etna rosato,,Bistro Don Giovanni,2020-09-21,wayback,45.0,1
 granola,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
 granola,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
 granola,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,6.0,1
+granola fruit yogurt parfait,,Gott's Napa,2013-04-02,wayback,6.99,1
 grass fed beef tartare,Large,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
 grass fed beef tartare,Regular,Farmstead at Long Meadow Ranch,2026-06-15,pdf,21.0,1
 grass fed cheeseburger,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,26.0,1
@@ -1302,7 +1458,10 @@ gratin de macaroni,,Angele Restaurant & Bar,2013-06-27,wayback,8.0,1
 gratin de macaroni,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,1
 gratin la banane banana gratin almond crust vanilla bean ice cream,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 green chile cheeseburger,,Gott's Napa,2012-06-17,wayback,8.99,2
-green chile cheeseburger,,Gott's Napa,2014-12-22,wayback,9.99,1
+green chile cheeseburger,,Gott's Napa,2014-08-11,wayback,9.99,1
+green chile cheeseburger,,Gott's Napa,2014-10-29,wayback,8.99,1
+green chile cheeseburger,,Gott's Napa,2014-12-22,wayback,9.99,2
+green chile cheeseburger,,Gott's Napa,2015-02-06,wayback,9.99,1
 green chile cheeseburger,,Gott's Napa,2015-05-13,wayback,9.99,1
 green chile cheeseburger,,Gott's Napa,2017-07-22,wayback,9.99,1
 green chile cheeseburger,,Gott's Napa,2021-01-17,wayback,10.99,1
@@ -1326,6 +1485,10 @@ grilled branzino,,Bistro Don Giovanni,2023-12-05,wayback,38.0,2
 grilled cheese,,Barney's Burgers,2024-01-15,dom,5.99,1
 grilled cheese,,Barney's Burgers,2026-08-05,web,6.0,1
 grilled cheese,,Five Guys,2023-11-27,exif,5.15,1
+grilled cheese,,Gott's Napa,2014-08-11,wayback,6.99,1
+grilled cheese,,Gott's Napa,2014-10-29,wayback,6.99,1
+grilled cheese,,Gott's Napa,2014-12-22,wayback,6.99,1
+grilled cheese,,Gott's Napa,2015-02-06,wayback,6.99,1
 grilled cheese,,Gott's Napa,2017-07-22,wayback,6.99,1
 grilled cheese,,Gott's Napa,2021-01-17,wayback,6.99,1
 grilled cheese ham,,Barney's Burgers,2024-01-15,dom,8.79,1
@@ -1387,7 +1550,7 @@ hahn pinot noir,,Bistro Don Giovanni,2017-01-10,wayback,16.0,1
 half benedict with fresh seasonal fruit,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,7.99,1
 half roasted chicken,,Angele Restaurant & Bar,2017-08-29,wayback,28.0,1
 hall,,Bistro Don Giovanni,2020-09-21,wayback,55.0,1
-hall 11 sauvignon blanc,,Gott's Napa,2013-02-28,wayback,24.0,1
+hall 11 sauvignon blanc,,Gott's Napa,2013-02-28,wayback,24.0,2
 hall 11 sauvignon blanc,Bottle,Gott's Napa,2012-06-17,wayback,24.0,1
 hall 11 sauvignon blanc,Glass,Gott's Napa,2012-06-17,wayback,8.0,1
 hall 11 sauvignon blanc,Half Bottle,Gott's Napa,2021-01-17,wayback,21.0,1
@@ -1412,7 +1575,10 @@ hamburger,,Five Guys,2023-11-27,exif,9.05,1
 hamburger,,Gott's Napa,2011-03-22,wayback,6.99,2
 hamburger,,Gott's Napa,2012-05-15,wayback,6.99,2
 hamburger,,Gott's Napa,2012-06-17,wayback,6.99,2
-hamburger,,Gott's Napa,2014-12-22,wayback,6.99,1
+hamburger,,Gott's Napa,2014-08-11,wayback,6.99,1
+hamburger,,Gott's Napa,2014-10-29,wayback,6.99,1
+hamburger,,Gott's Napa,2014-12-22,wayback,6.99,2
+hamburger,,Gott's Napa,2015-02-06,wayback,6.99,1
 hamburger,,Gott's Napa,2015-05-13,wayback,6.99,1
 hamburger,,Gott's Napa,2017-07-22,wayback,7.49,1
 hamburger,,Gott's Napa,2021-01-17,wayback,7.99,1
@@ -1420,8 +1586,10 @@ hamburger,,In-N-Out Burger,2026-06-25,exif,3.6,4
 hamburger,,In-N-Out Burger,2025-02-25,exif,3.5,1
 hamburger,,In-N-Out Burger,2026-06-11,exif,3.6,1
 hamburger,,McDonald's,2022-04-16,exif,4.49,1
+hamm s,12oz,Gott's Napa,2014-10-29,wayback,3.5,1
 harmless harvest,,Gott's Napa,2021-01-17,wayback,4.99,1
 hash,,Code 4 Taphouse,2025-11-15,exif,14.95,1
+hash browns,,Gott's Napa,2013-04-02,wayback,1.99,1
 hashbrowns,LARGE,Burgerville,2026-04-26,exif,3.19,1
 hashbrowns,SMALL,Burgerville,2026-04-26,exif,1.89,1
 hawaiian,,Barney's Burgers,2024-01-15,dom,10.99,1
@@ -1477,6 +1645,10 @@ hot dog,Jumbo,Barney's Burgers,2024-01-15,dom,7.79,1
 hot dog,Jumbo,Barney's Burgers,2026-08-05,web,10.75,1
 hot dog,Reg,Barney's Burgers,2024-01-15,dom,5.79,1
 hot dog,,Gott's Napa,2012-06-17,wayback,6.99,1
+hot dog,,Gott's Napa,2014-08-11,wayback,6.99,1
+hot dog,,Gott's Napa,2014-10-29,wayback,6.99,1
+hot dog,,Gott's Napa,2014-12-22,wayback,6.99,1
+hot dog,,Gott's Napa,2015-02-06,wayback,6.99,1
 hot dog,,Gott's Napa,2017-07-22,wayback,6.99,1
 hot dog,,Gott's Napa,2021-01-17,wayback,6.99,1
 hot herbal tea,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,2.49,1
@@ -1491,6 +1663,9 @@ hot sicilian,,Bistro Don Giovanni,2022-01-20,wayback,24.0,1
 hot sicilian sausage,,Bistro Don Giovanni,2020-09-21,wayback,23.0,1
 hot tea,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,3.9,1
 house made chili cheddar cheese extra,,Gott's Napa,2012-05-15,wayback,3.0,2
+house made chili cheddar cheese extra,,Gott's Napa,2014-08-11,wayback,3.0,1
+house made chili cheddar cheese extra,,Gott's Napa,2014-10-29,wayback,3.0,1
+house made chili cheddar cheese extra,,Gott's Napa,2014-12-22,wayback,3.0,1
 house made chili cheddar cheese extra,,Gott's Napa,2017-07-22,wayback,3.0,1
 house made condiments,,Gott's Napa,2026-05-25,exif,4.99,1
 house made cookies,,Gott's Napa,2026-05-25,exif,3.99,1
@@ -1499,8 +1674,10 @@ house made lemonade,16oz,Gott's Napa,2017-07-22,wayback,2.69,1
 house made lemonade,16oz,Gott's Napa,2021-01-17,wayback,2.99,1
 house made lemonade,24oz,Gott's Napa,2017-07-22,wayback,2.99,1
 house made lemonade,24oz,Gott's Napa,2021-01-17,wayback,3.29,1
-house made lemonade,Regular,Gott's Napa,2014-12-22,wayback,2.99,1
-house made lemonade,Small,Gott's Napa,2014-12-22,wayback,2.25,1
+house made lemonade,Regular,Gott's Napa,2014-12-22,wayback,2.99,2
+house made lemonade,Regular,Gott's Napa,2015-02-06,wayback,2.99,1
+house made lemonade,Small,Gott's Napa,2014-12-22,wayback,2.25,2
+house made lemonade,Small,Gott's Napa,2015-02-06,wayback,2.25,1
 house made meatloaf,,The Depot Eatery,2026-08-05,web,18.0,1
 house made pot roast,,The Depot Eatery,2026-08-05,web,18.0,1
 house salad,,Gott's Napa,2011-03-22,wayback,6.99,2
@@ -1521,13 +1698,8 @@ housemade ricotta stonefruit marmalade toasted country bread,,Angele Restaurant 
 hu tres,,Angele Restaurant & Bar,2015-02-21,wayback,3.0,1
 i ll have another,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 i m isabel mondavi ros,,Bistro Don Giovanni,2020-09-21,wayback,34.0,1
-ice cream or sorbet in a cup,,Gott's Napa,2013-02-28,wayback,5.0,1
-ice cream or sorbet in a cup,Large,Gott's Napa,2011-03-22,wayback,4.49,2
 ice cream or sorbet in a cup,Large,Gott's Napa,2012-05-15,wayback,4.49,2
-ice cream or sorbet in a cup,Large,Gott's Napa,2012-06-17,wayback,4.49,2
-ice cream or sorbet in a cup,Small,Gott's Napa,2011-03-22,wayback,2.99,2
 ice cream or sorbet in a cup,Small,Gott's Napa,2012-05-15,wayback,2.99,2
-ice cream or sorbet in a cup,Small,Gott's Napa,2012-06-17,wayback,2.99,2
 iced caramel macchiato,,McDonald's,2022-04-16,exif,3.55,1
 iced coffee,,Gott's Napa,2021-01-17,wayback,4.99,1
 iced coffee bernie s organic,,Gott's Napa,2017-07-22,wayback,3.99,1
@@ -1541,7 +1713,7 @@ iced tea,,Bistro Don Giovanni,2022-01-20,wayback,4.0,1
 iced tea,,Bistro Don Giovanni,2022-05-27,wayback,4.0,1
 iced tea,,Bistro Don Giovanni,2023-04-01,wayback,4.0,1
 iced tea,,Bistro Don Giovanni,2023-12-05,wayback,4.0,2
-iced tea,,Gott's Napa,2013-02-28,wayback,3.0,1
+iced tea,,Gott's Napa,2013-02-28,wayback,3.0,2
 iced tea,16oz,Gott's Napa,2015-05-13,wayback,2.49,1
 iced tea,16oz,Gott's Napa,2017-07-22,wayback,2.69,1
 iced tea,16oz,Gott's Napa,2021-01-17,wayback,2.69,1
@@ -1551,11 +1723,17 @@ iced tea,24oz,Gott's Napa,2021-01-17,wayback,2.99,1
 iced tea,Regular,Gott's Napa,2011-03-22,wayback,2.49,2
 iced tea,Regular,Gott's Napa,2012-05-15,wayback,2.49,2
 iced tea,Regular,Gott's Napa,2012-06-17,wayback,2.69,2
-iced tea,Regular,Gott's Napa,2014-12-22,wayback,2.99,1
+iced tea,Regular,Gott's Napa,2014-08-11,wayback,2.99,1
+iced tea,Regular,Gott's Napa,2014-10-29,wayback,2.95,1
+iced tea,Regular,Gott's Napa,2014-12-22,wayback,2.99,2
+iced tea,Regular,Gott's Napa,2015-02-06,wayback,2.99,1
 iced tea,Small,Gott's Napa,2011-03-22,wayback,1.99,2
 iced tea,Small,Gott's Napa,2012-05-15,wayback,1.99,2
 iced tea,Small,Gott's Napa,2012-06-17,wayback,1.99,2
-iced tea,Small,Gott's Napa,2014-12-22,wayback,2.25,1
+iced tea,Small,Gott's Napa,2014-08-11,wayback,2.25,1
+iced tea,Small,Gott's Napa,2014-10-29,wayback,2.25,1
+iced tea,Small,Gott's Napa,2014-12-22,wayback,2.25,2
+iced tea,Small,Gott's Napa,2015-02-06,wayback,2.25,1
 iced tea,,McDonald's,2022-04-16,exif,1.0,1
 il ballerino,,Bistro Don Giovanni,2023-12-05,wayback,15.0,1
 impossible burger patty,,Gott's Napa,2021-01-17,wayback,4.0,1
@@ -1590,10 +1768,16 @@ jalapeno peppers,,Five Guys,2023-11-27,exif,0.05,1
 jalapeno poppers,,The Depot Eatery,2026-08-05,web,7.5,2
 jameson orange mule,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,12.0,1
 japanese green tea medium caffeine,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
-jelly jar 10 zinfandel,,Gott's Napa,2013-02-28,wayback,27.0,1
-jelly jar 10 zinfandel,Bottle,Gott's Napa,2014-12-22,wayback,30.0,1
-jelly jar 10 zinfandel,Glass,Gott's Napa,2014-12-22,wayback,10.0,1
+jelly jar 11 zinfandel,,Gott's Napa,2013-02-28,wayback,27.0,2
+jelly jar 11 zinfandel,Bottle,Gott's Napa,2014-08-11,wayback,27.0,1
+jelly jar 11 zinfandel,Bottle,Gott's Napa,2014-10-29,wayback,27.0,1
+jelly jar 11 zinfandel,Bottle,Gott's Napa,2014-12-22,wayback,30.0,1
+jelly jar 11 zinfandel,Glass,Gott's Napa,2014-08-11,wayback,9.0,1
+jelly jar 11 zinfandel,Glass,Gott's Napa,2014-10-29,wayback,9.0,1
+jelly jar 11 zinfandel,Glass,Gott's Napa,2014-12-22,wayback,10.0,1
+jelly jar ros lake county,Bottle,Gott's Napa,2014-12-22,wayback,30.0,1
 jelly jar ros lake county,Bottle,Gott's Napa,2015-05-13,wayback,27.0,1
+jelly jar ros lake county,Glass,Gott's Napa,2014-12-22,wayback,10.0,1
 jelly jar ros lake county,Glass,Gott's Napa,2015-05-13,wayback,9.0,1
 joseph phelps,,Bistro Don Giovanni,2020-09-21,wayback,85.0,1
 jubilee lagrein,,Bistro Don Giovanni,2017-01-10,wayback,11.0,1
@@ -1620,7 +1804,9 @@ kale,,Gott's Napa,2021-01-17,wayback,7.99,1
 kale and fall greens salad soft cow s milk cheese hazelnuts apples pomegranates,,Angele Restaurant & Bar,2015-11-06,wayback,16.0,1
 kale salad,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
 kale salad,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
-kale salad,,Gott's Napa,2014-12-22,wayback,6.99,1
+kale salad,,Gott's Napa,2014-08-11,wayback,6.99,1
+kale salad,,Gott's Napa,2014-12-22,wayback,6.99,2
+kale salad,,Gott's Napa,2015-02-06,wayback,7.99,1
 kale salad,,Gott's Napa,2015-05-13,wayback,7.99,1
 kanpachi crudo,,Angele Restaurant & Bar,2017-08-29,wayback,18.0,1
 karl lawrence 06 cabernet sauvignon napa valley,,Gott's Napa,2012-05-15,wayback,31.0,2
@@ -1649,12 +1835,18 @@ kraut dog,Jumbo,Barney's Burgers,2026-08-05,web,10.75,1
 kronenbourg 1664 lager france,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 krupp brothers stagecoach vineyards,,Bistro Don Giovanni,2020-09-21,wayback,120.0,1
 krusty dog,,Barney's Burgers,2024-01-15,dom,8.99,1
+kung fu girl 13 riesling,Bottle,Gott's Napa,2014-08-11,wayback,18.0,1
+kung fu girl 13 riesling,Bottle,Gott's Napa,2014-10-29,wayback,18.0,1
 kung fu girl 13 riesling,Bottle,Gott's Napa,2014-12-22,wayback,21.0,1
+kung fu girl 13 riesling,Glass,Gott's Napa,2014-08-11,wayback,6.0,1
+kung fu girl 13 riesling,Glass,Gott's Napa,2014-10-29,wayback,6.0,1
 kung fu girl 13 riesling,Glass,Gott's Napa,2014-12-22,wayback,7.0,1
+kung fu girl 13 riesling columbia valley washington,Bottle,Gott's Napa,2014-12-22,wayback,21.0,1
+kung fu girl 13 riesling columbia valley washington,Glass,Gott's Napa,2014-12-22,wayback,7.0,1
 l garnier chartreuse green v e p,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
 l gumes d hiver,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,1
 la coume maury lt harvest grenache 07,,Angele Restaurant & Bar,2014-09-20,wayback,15.0,1
-la follette 10 pinot noir,,Gott's Napa,2013-02-28,wayback,33.0,1
+la follette 10 pinot noir,,Gott's Napa,2013-02-28,wayback,33.0,2
 la follette 10 pinot noir,Bottle,Gott's Napa,2012-06-17,wayback,33.0,2
 la follette 10 pinot noir,Glass,Gott's Napa,2012-06-17,wayback,11.0,2
 la jota howell mountain,,Bistro Don Giovanni,2020-09-21,wayback,140.0,1
@@ -1685,14 +1877,18 @@ lagunitas ipa,,Bistro Don Giovanni,2023-12-05,wayback,7.5,2
 lagunitas ipa,,Gott's Napa,2015-05-13,wayback,6.0,1
 lagunitas ipa,,Gott's Napa,2017-07-22,wayback,7.0,1
 lagunitas ipa,,Gott's Napa,2021-01-17,wayback,7.0,1
+lagunitas ipa,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+lagunitas ipa,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 lagunitas ipa,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
+lagunitas ipa draft,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
 laird ghost ranch,,Bistro Don Giovanni,2020-09-21,wayback,74.0,1
-lang reed 10 cabernet franc,,Gott's Napa,2012-05-15,wayback,15.0,2
-lang reed 10 cabernet franc,,Gott's Napa,2012-06-17,wayback,18.0,2
-lang reed 10 cabernet franc,Half Bottle,Gott's Napa,2011-03-22,wayback,15.0,1
-lang reed 10 cabernet franc,Half Bottle,Gott's Napa,2015-05-13,wayback,17.0,1
-lang reed 10 cabernet franc,Half Bottle,Gott's Napa,2017-07-22,wayback,20.0,1
-lang reed 10 cabernet franc,Half Bottle,Gott's Napa,2021-01-17,wayback,23.0,1
+lang reed cabernet franc,,Gott's Napa,2012-05-15,wayback,15.0,2
+lang reed cabernet franc,,Gott's Napa,2012-06-17,wayback,18.0,2
+lang reed cabernet franc,Half Bottle,Gott's Napa,2011-03-22,wayback,15.0,1
+lang reed cabernet franc,Half Bottle,Gott's Napa,2015-02-06,wayback,17.0,1
+lang reed cabernet franc,Half Bottle,Gott's Napa,2017-07-22,wayback,20.0,1
+lang reed cabernet franc,Half Bottle,Gott's Napa,2021-01-17,wayback,23.0,1
+lang reed cabernet franc north coast,Half Bottle,Gott's Napa,2015-05-13,wayback,17.0,1
 large drink,32 fl oz,Five Guys,2023-11-27,exif,3.15,1
 lasagna,,Genova Delicatessen,2024-08-31,exif,15.95,1
 lasagna,,Genova Delicatessen,2026-08-05,fallback,15.95,1
@@ -1705,13 +1901,17 @@ le cassematte peloro grillo e carricante,,Bistro Don Giovanni,2020-03-27,wayback
 le chiuse brunello di montalcino,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,78.0,1
 le volte dell ornellaia tuscan red,,Bistro Don Giovanni,2021-01-27,wayback,18.0,1
 lemon sage press,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
-lemonade,,Gott's Napa,2013-02-28,wayback,3.0,1
+lemonade,,Gott's Napa,2013-02-28,wayback,3.0,2
 lemonade,Regular,Gott's Napa,2011-03-22,wayback,2.49,2
 lemonade,Regular,Gott's Napa,2012-05-15,wayback,2.49,2
 lemonade,Regular,Gott's Napa,2012-06-17,wayback,2.69,2
+lemonade,Regular,Gott's Napa,2014-08-11,wayback,2.99,1
+lemonade,Regular,Gott's Napa,2014-10-29,wayback,2.95,1
 lemonade,Small,Gott's Napa,2011-03-22,wayback,1.99,2
 lemonade,Small,Gott's Napa,2012-05-15,wayback,1.99,2
 lemonade,Small,Gott's Napa,2012-06-17,wayback,1.99,2
+lemonade,Small,Gott's Napa,2014-08-11,wayback,2.25,1
+lemonade,Small,Gott's Napa,2014-10-29,wayback,2.25,1
 lemorton reserve deux calvados,,Angele Restaurant & Bar,2014-09-20,wayback,13.0,1
 lentilles aux lardons,,Angele Restaurant & Bar,2013-04-18,wayback,8.0,1
 lentilles aux lardons,,Angele Restaurant & Bar,2013-06-27,wayback,8.0,1
@@ -1736,6 +1936,7 @@ little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,201
 little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2015-11-06,wayback,12.0,1
 little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-04-12,wayback,12.0,1
 little gem lettuces fine herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-05-08,wayback,12.0,1
+little gem salad,,Gott's Napa,2014-10-29,wayback,9.99,1
 little hamburger,,Five Guys,2023-11-27,exif,7.05,1
 littorai mays canyon,,Bistro Don Giovanni,2020-09-21,wayback,164.0,1
 littorai the haven vineyard,,Bistro Don Giovanni,2020-09-21,wayback,180.0,1
@@ -1750,10 +1951,17 @@ lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,15.0,2
 lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,15.0,1
 loco moco,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,16.0,1
 longe de porc,,Angele Restaurant & Bar,2012-04-09,wayback,28.0,1
+lucy 13 ros,Bottle,Gott's Napa,2014-08-11,wayback,18.0,1
+lucy 13 ros,Glass,Gott's Napa,2014-08-11,wayback,5.0,1
 lucy 13 ros,Glass,Gott's Napa,2014-12-22,wayback,5.0,1
+lucy 13 ros santa lucia highlands,Glass,Gott's Napa,2014-12-22,wayback,5.0,1
 luigi einaudi dolcetto di dogliani,,Bistro Don Giovanni,2017-01-10,wayback,12.0,1
+luli 12 pinot noir,Bottle,Gott's Napa,2014-08-11,wayback,33.0,1
 luli 12 pinot noir,Bottle,Gott's Napa,2014-12-22,wayback,33.0,1
+luli 12 pinot noir,Glass,Gott's Napa,2014-08-11,wayback,11.0,1
 luli 12 pinot noir,Glass,Gott's Napa,2014-12-22,wayback,11.0,1
+luli 12 pinot noir santa lucia highlands,Bottle,Gott's Napa,2014-12-22,wayback,33.0,1
+luli 12 pinot noir santa lucia highlands,Glass,Gott's Napa,2014-12-22,wayback,11.0,1
 luna vineyards pinot grigio,,Bistro Don Giovanni,2017-01-10,wayback,10.0,1
 luna vineyards pinot grigio,,Bistro Don Giovanni,2020-03-27,wayback,10.0,1
 luna vineyards pinot grigio,,Bistro Don Giovanni,2020-09-21,wayback,30.0,4
@@ -1773,7 +1981,11 @@ macallan 12 yr,,Angele Restaurant & Bar,2014-09-20,wayback,11.0,1
 macaroni and cheese,,Angele Restaurant & Bar,2017-08-29,wayback,10.0,1
 macaroni gratin,,Angele Restaurant & Bar,2015-02-25,wayback,8.0,1
 macaroni gratin,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
-mahi mahi tacos,,Gott's Napa,2014-12-22,wayback,13.99,1
+madagascar vanilla shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
+madagascar vanilla shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
+mahi mahi tacos,,Gott's Napa,2014-08-11,wayback,13.99,1
+mahi mahi tacos,,Gott's Napa,2014-12-22,wayback,13.99,2
+mahi mahi tacos,,Gott's Napa,2015-02-06,wayback,13.99,1
 mahi mahi tacos,,Gott's Napa,2015-05-13,wayback,13.99,1
 mahi mahi tacos,,Gott's Napa,2017-07-22,wayback,13.99,1
 mahi mahi tacos,,Gott's Napa,2021-01-17,wayback,13.99,1
@@ -1802,6 +2014,8 @@ mandilli,,Bistro Don Giovanni,2022-01-20,wayback,27.0,1
 mandilli,,Bistro Don Giovanni,2022-05-27,wayback,27.0,1
 mandilli,,Bistro Don Giovanni,2023-04-01,wayback,29.0,1
 mandilli,,Bistro Don Giovanni,2023-12-05,wayback,30.0,2
+manifesto cabernet sauvignon,Bottle,Gott's Napa,2014-10-29,wayback,24.0,1
+manifesto cabernet sauvignon,Glass,Gott's Napa,2014-10-29,wayback,8.0,1
 maple bacon french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 marchetti verdicchio,,Bistro Don Giovanni,2017-01-10,wayback,12.0,1
 mare island survivor s tale pale ale,,Bistro Don Giovanni,2021-01-27,wayback,9.0,1
@@ -1838,13 +2052,17 @@ mashed potatoes,,Bistro Don Giovanni,2022-05-27,wayback,7.0,1
 mashed potatoes,,Bistro Don Giovanni,2023-04-01,wayback,7.0,1
 mashed potatoes,,Bistro Don Giovanni,2023-12-05,wayback,8.0,2
 mason,,Bistro Don Giovanni,2020-09-21,wayback,36.0,1
-mason 10 sauvignon blanc napa valley,,Gott's Napa,2012-05-15,wayback,10.0,2
-mason 10 sauvignon blanc napa valley,,Gott's Napa,2012-06-17,wayback,11.0,1
-mason 10 sauvignon blanc napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,10.0,1
-mason 10 sauvignon blanc napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,11.0,1
-mason sauvignon blanc,,Gott's Napa,2012-06-17,wayback,11.0,1
-mason sauvignon blanc,,Gott's Napa,2014-12-22,wayback,11.0,1
-mason sauvignon blanc,Half Bottle,Gott's Napa,2017-07-22,wayback,13.0,1
+mason 12 sauvignon blanc,,Gott's Napa,2012-06-17,wayback,11.0,1
+mason 12 sauvignon blanc,,Gott's Napa,2014-12-22,wayback,11.0,1
+mason 12 sauvignon blanc,Half Bottle,Gott's Napa,2011-03-22,wayback,10.0,1
+mason 12 sauvignon blanc,Half Bottle,Gott's Napa,2014-08-11,wayback,11.0,1
+mason 12 sauvignon blanc,Half Bottle,Gott's Napa,2014-10-29,wayback,11.0,1
+mason 12 sauvignon blanc,Half Bottle,Gott's Napa,2015-02-06,wayback,11.0,1
+mason 12 sauvignon blanc,Half Bottle,Gott's Napa,2015-05-13,wayback,11.0,1
+mason 12 sauvignon blanc,Half Bottle,Gott's Napa,2017-07-22,wayback,13.0,1
+mason 12 sauvignon blanc napa valley,,Gott's Napa,2012-05-15,wayback,10.0,2
+mason 12 sauvignon blanc napa valley,,Gott's Napa,2012-06-17,wayback,11.0,1
+mason 12 sauvignon blanc napa valley,,Gott's Napa,2014-12-22,wayback,11.0,1
 massican annia,,Bistro Don Giovanni,2020-09-21,wayback,68.0,1
 mayo,,Five Guys,2023-11-27,exif,1.1,1
 mazzei fonterutoli chianti classico,,Bistro Don Giovanni,2023-12-05,wayback,17.0,1
@@ -1861,19 +2079,25 @@ mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restauran
 mediterranean mussels white wine garlic herbs toasted baguette,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
 meiomi 10 pinot noir california,Bottle,Gott's Napa,2012-05-15,wayback,27.0,2
 meiomi 10 pinot noir california,Glass,Gott's Napa,2012-05-15,wayback,9.0,2
-merryvale starmont 07 cabernet sauvignon napa valley,,Gott's Napa,2012-05-15,wayback,14.0,2
-merryvale starmont 07 cabernet sauvignon napa valley,,Gott's Napa,2012-06-17,wayback,15.0,1
-merryvale starmont 07 cabernet sauvignon napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,14.0,1
-merryvale starmont 07 cabernet sauvignon napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,18.0,1
-merryvale starmont 09 chardonnay napa valley,,Gott's Napa,2012-05-15,wayback,11.0,2
-merryvale starmont 09 chardonnay napa valley,,Gott's Napa,2012-06-17,wayback,12.0,1
-merryvale starmont 09 chardonnay napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,11.0,1
-merryvale starmont 09 chardonnay napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,15.0,1
-merryvale starmont cabernet sauvignon,,Gott's Napa,2012-06-17,wayback,15.0,1
-merryvale starmont cabernet sauvignon,,Gott's Napa,2014-12-22,wayback,18.0,1
-merryvale starmont chardonnay,,Gott's Napa,2012-06-17,wayback,12.0,1
-merryvale starmont chardonnay,,Gott's Napa,2014-12-22,wayback,15.0,1
-merryvale starmont chardonnay,Half Bottle,Gott's Napa,2017-07-22,wayback,17.0,1
+merryvale starmont 11 cabernet sauvignon,,Gott's Napa,2012-05-15,wayback,14.0,2
+merryvale starmont 11 cabernet sauvignon,,Gott's Napa,2012-06-17,wayback,15.0,2
+merryvale starmont 11 cabernet sauvignon,,Gott's Napa,2014-12-22,wayback,18.0,2
+merryvale starmont 11 cabernet sauvignon,Half Bottle,Gott's Napa,2011-03-22,wayback,14.0,1
+merryvale starmont 11 cabernet sauvignon,Half Bottle,Gott's Napa,2014-08-11,wayback,16.0,1
+merryvale starmont 11 cabernet sauvignon,Half Bottle,Gott's Napa,2014-10-29,wayback,15.0,1
+merryvale starmont 11 cabernet sauvignon,Half Bottle,Gott's Napa,2015-02-06,wayback,18.0,1
+merryvale starmont 11 cabernet sauvignon,Half Bottle,Gott's Napa,2015-05-13,wayback,18.0,1
+merryvale starmont 12 chardonnay,,Gott's Napa,2012-06-17,wayback,12.0,1
+merryvale starmont 12 chardonnay,,Gott's Napa,2014-12-22,wayback,15.0,1
+merryvale starmont 12 chardonnay,Half Bottle,Gott's Napa,2011-03-22,wayback,11.0,1
+merryvale starmont 12 chardonnay,Half Bottle,Gott's Napa,2014-08-11,wayback,13.0,1
+merryvale starmont 12 chardonnay,Half Bottle,Gott's Napa,2014-10-29,wayback,12.0,1
+merryvale starmont 12 chardonnay,Half Bottle,Gott's Napa,2015-02-06,wayback,15.0,1
+merryvale starmont 12 chardonnay,Half Bottle,Gott's Napa,2015-05-13,wayback,15.0,1
+merryvale starmont 12 chardonnay,Half Bottle,Gott's Napa,2017-07-22,wayback,17.0,1
+merryvale starmont 12 chardonnay napa valley,,Gott's Napa,2012-05-15,wayback,11.0,2
+merryvale starmont 12 chardonnay napa valley,,Gott's Napa,2012-06-17,wayback,12.0,1
+merryvale starmont 12 chardonnay napa valley,,Gott's Napa,2014-12-22,wayback,15.0,1
 mexican 7up,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,6.0,1
 mexican coke,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
 mexican style street corn,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
@@ -1904,7 +2128,10 @@ mill street,,The Depot Eatery,2026-08-05,web,16.0,1
 mill street mess,,The Depot Eatery,2026-08-05,web,18.0,1
 miller lite,,Gott's Napa,2017-07-22,wayback,4.5,1
 miller lite,,Gott's Napa,2021-01-17,wayback,4.5,1
+miller lite long neck,,Gott's Napa,2014-12-22,wayback,4.5,1
 miller lite long neck,,Gott's Napa,2015-05-13,wayback,4.5,1
+miller lite long neck,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+miller lite long neck,12oz,Gott's Napa,2015-02-06,wayback,4.5,1
 miller lite long neck,Bottled (12oz),Gott's Napa,2014-12-22,wayback,4.5,1
 mimosa,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,8.0,1
 mimosa orange juice champagne,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,4.5,1
@@ -1915,11 +2142,16 @@ minestrone,,Bistro Don Giovanni,2020-03-27,wayback,12.0,1
 minestrone,,Bistro Don Giovanni,2021-01-27,wayback,12.0,1
 mini corn dogs,,Gott's Napa,2011-03-22,wayback,5.99,1
 mini corn dogs,,Gott's Napa,2012-05-15,wayback,5.99,2
-mini corn dogs,,Gott's Napa,2014-12-22,wayback,6.99,1
+mini corn dogs,,Gott's Napa,2014-08-11,wayback,6.99,1
+mini corn dogs,,Gott's Napa,2014-10-29,wayback,6.99,1
+mini corn dogs,,Gott's Napa,2014-12-22,wayback,6.99,2
+mini corn dogs,,Gott's Napa,2015-02-06,wayback,6.99,1
 mini corn dogs,,Gott's Napa,2017-07-22,wayback,6.99,1
 mini corn dogs,,Gott's Napa,2021-01-17,wayback,6.99,1
 mini corn dogs,6 pieces,Gott's Napa,2011-03-22,wayback,5.99,1
 mini ham sandwiches,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,22.0,1
+mint confetti shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
+mint confetti shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 minta rita,,Bistro Don Giovanni,2022-01-20,wayback,18.0,1
 mira cabernet sauvignon,,Bistro Don Giovanni,2020-03-27,wayback,18.0,1
 mira cabernet sauvignon,,Bistro Don Giovanni,2020-09-21,wayback,18.0,2
@@ -1933,7 +2165,8 @@ mira cabernet sauvignon napa valley,,Bistro Don Giovanni,2023-04-01,wayback,18.0
 mira chardonnay,,Bistro Don Giovanni,2017-01-10,wayback,13.0,1
 mira hyde vineyard,,Bistro Don Giovanni,2020-09-21,wayback,94.0,1
 miss kentucky,,Gott's Napa,2011-03-22,wayback,10.99,2
-miss kentucky,,Gott's Napa,2014-12-22,wayback,11.99,1
+miss kentucky,,Gott's Napa,2014-08-11,wayback,10.99,1
+miss kentucky,,Gott's Napa,2014-12-22,wayback,11.99,2
 mocha,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,3.49,1
 mocha,,McDonald's,2022-04-16,exif,3.55,1
 modelo especial,,Gott's Napa,2021-01-17,wayback,6.0,1
@@ -1941,15 +2174,21 @@ modern times fortunate islands hoppy tropical wheat,,Gott's Napa,2017-07-22,wayb
 mole pork chop,,Perez Kitchen & Bar,2026-08-05,pdf,25.0,1
 monte cristo,,The Depot Eatery,2026-08-05,web,18.0,1
 monte tondo soave,,Bistro Don Giovanni,2020-09-21,wayback,44.0,1
-montevina 10 pinot grigio,,Gott's Napa,2013-02-28,wayback,18.0,1
-montevina 10 pinot grigio,Bottle,Gott's Napa,2012-06-17,wayback,18.0,2
-montevina 10 pinot grigio,Bottle,Gott's Napa,2014-12-22,wayback,18.0,1
-montevina 10 pinot grigio,Bottle,Gott's Napa,2015-05-13,wayback,18.0,1
-montevina 10 pinot grigio,Bottle,Gott's Napa,2017-07-22,wayback,21.0,1
-montevina 10 pinot grigio,Glass,Gott's Napa,2012-06-17,wayback,6.0,2
-montevina 10 pinot grigio,Glass,Gott's Napa,2014-12-22,wayback,6.0,1
-montevina 10 pinot grigio,Glass,Gott's Napa,2015-05-13,wayback,6.0,1
-montevina 10 pinot grigio,Glass,Gott's Napa,2017-07-22,wayback,7.0,1
+montevina 12 pinot grigio,,Gott's Napa,2013-02-28,wayback,18.0,2
+montevina 12 pinot grigio,Bottle,Gott's Napa,2012-06-17,wayback,18.0,2
+montevina 12 pinot grigio,Bottle,Gott's Napa,2014-08-11,wayback,18.0,1
+montevina 12 pinot grigio,Bottle,Gott's Napa,2014-10-29,wayback,18.0,1
+montevina 12 pinot grigio,Bottle,Gott's Napa,2014-12-22,wayback,18.0,2
+montevina 12 pinot grigio,Bottle,Gott's Napa,2015-02-06,wayback,18.0,1
+montevina 12 pinot grigio,Bottle,Gott's Napa,2015-05-13,wayback,18.0,1
+montevina 12 pinot grigio,Bottle,Gott's Napa,2017-07-22,wayback,21.0,1
+montevina 12 pinot grigio,Glass,Gott's Napa,2012-06-17,wayback,6.0,2
+montevina 12 pinot grigio,Glass,Gott's Napa,2014-08-11,wayback,6.0,1
+montevina 12 pinot grigio,Glass,Gott's Napa,2014-10-29,wayback,6.0,1
+montevina 12 pinot grigio,Glass,Gott's Napa,2014-12-22,wayback,6.0,2
+montevina 12 pinot grigio,Glass,Gott's Napa,2015-02-06,wayback,6.0,1
+montevina 12 pinot grigio,Glass,Gott's Napa,2015-05-13,wayback,6.0,1
+montevina 12 pinot grigio,Glass,Gott's Napa,2017-07-22,wayback,7.0,1
 monticelli brothers rolando rosso,,Bistro Don Giovanni,2020-09-21,wayback,14.0,1
 monticelli brothers rolando rosso red blend,,Bistro Don Giovanni,2017-01-10,wayback,13.0,1
 monticelli brothers rolando rosso red blend,,Bistro Don Giovanni,2019-09-19,wayback,13.0,1
@@ -1986,21 +2225,25 @@ mustard,,Five Guys,2023-11-27,exif,0.3,1
 my,,Code 4 Taphouse,2025-11-15,exif,14.75,1
 napa cellars 08 zinfandel napa valley,Bottle,Gott's Napa,2011-03-22,wayback,24.0,1
 napa cellars 08 zinfandel napa valley,Glass,Gott's Napa,2011-03-22,wayback,8.0,1
-napa cellars 10 chardonnay napa valley,,Gott's Napa,2013-02-28,wayback,27.0,1
-napa cellars 10 chardonnay napa valley,Bottle,Gott's Napa,2012-05-15,wayback,24.0,2
-napa cellars 10 chardonnay napa valley,Bottle,Gott's Napa,2012-06-17,wayback,27.0,1
-napa cellars 10 chardonnay napa valley,Bottle,Gott's Napa,2015-05-13,wayback,27.0,1
-napa cellars 10 chardonnay napa valley,Glass,Gott's Napa,2012-05-15,wayback,8.0,2
-napa cellars 10 chardonnay napa valley,Glass,Gott's Napa,2012-06-17,wayback,9.0,1
-napa cellars 10 chardonnay napa valley,Glass,Gott's Napa,2015-05-13,wayback,9.0,1
-napa cellars chardonnay,Bottle,Gott's Napa,2012-06-17,wayback,27.0,1
-napa cellars chardonnay,Bottle,Gott's Napa,2014-12-22,wayback,27.0,1
-napa cellars chardonnay,Bottle,Gott's Napa,2017-07-22,wayback,27.0,1
-napa cellars chardonnay,Bottle,Gott's Napa,2021-01-17,wayback,36.0,1
-napa cellars chardonnay,Glass,Gott's Napa,2012-06-17,wayback,9.0,1
-napa cellars chardonnay,Glass,Gott's Napa,2014-12-22,wayback,9.0,1
-napa cellars chardonnay,Glass,Gott's Napa,2017-07-22,wayback,9.0,1
-napa cellars chardonnay,Glass,Gott's Napa,2021-01-17,wayback,9.0,1
+napa cellars 13 chardonnay,,Gott's Napa,2013-02-28,wayback,27.0,2
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2012-05-15,wayback,24.0,2
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2012-06-17,wayback,27.0,2
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2014-08-11,wayback,24.0,1
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2014-10-29,wayback,24.0,1
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2014-12-22,wayback,27.0,2
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2015-02-06,wayback,27.0,1
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2015-05-13,wayback,27.0,1
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2017-07-22,wayback,27.0,1
+napa cellars 13 chardonnay,Bottle,Gott's Napa,2021-01-17,wayback,36.0,1
+napa cellars 13 chardonnay,Glass,Gott's Napa,2012-05-15,wayback,8.0,2
+napa cellars 13 chardonnay,Glass,Gott's Napa,2012-06-17,wayback,9.0,2
+napa cellars 13 chardonnay,Glass,Gott's Napa,2014-08-11,wayback,8.0,1
+napa cellars 13 chardonnay,Glass,Gott's Napa,2014-10-29,wayback,8.0,1
+napa cellars 13 chardonnay,Glass,Gott's Napa,2014-12-22,wayback,9.0,2
+napa cellars 13 chardonnay,Glass,Gott's Napa,2015-02-06,wayback,9.0,1
+napa cellars 13 chardonnay,Glass,Gott's Napa,2015-05-13,wayback,9.0,1
+napa cellars 13 chardonnay,Glass,Gott's Napa,2017-07-22,wayback,9.0,1
+napa cellars 13 chardonnay,Glass,Gott's Napa,2021-01-17,wayback,9.0,1
 napa palisades pacific plate,,Gott's Napa,2026-05-25,exif,18.99,1
 nashville chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
 nathan s small hot dogs,,Gott's Napa,2012-05-15,wayback,5.99,1
@@ -2015,7 +2258,10 @@ ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lett
 ni oise salad olive oil poached tuna haric t vert ni oise olives little gem lettuces peppers farm egg,,Angele Restaurant & Bar,2016-05-08,wayback,20.0,1
 nicholas jay,,Bistro Don Giovanni,2020-09-21,wayback,120.0,1
 nickel nickel harris ranch,,Bistro Don Giovanni,2020-09-21,wayback,98.0,1
-niman ranch fearless frank,,Gott's Napa,2014-12-22,wayback,5.99,1
+niman ranch fearless frank,,Gott's Napa,2014-08-11,wayback,5.99,1
+niman ranch fearless frank,,Gott's Napa,2014-10-29,wayback,5.99,1
+niman ranch fearless frank,,Gott's Napa,2014-12-22,wayback,5.99,2
+niman ranch fearless frank,,Gott's Napa,2015-02-06,wayback,5.99,1
 niman ranch fearless frank,,Gott's Napa,2015-05-13,wayback,5.99,1
 niman ranch fearless frank,,Gott's Napa,2017-07-22,wayback,5.99,1
 niman ranch fearless frank,,Gott's Napa,2021-01-17,wayback,6.99,1
@@ -2029,7 +2275,8 @@ oats,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
 oats,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
 oats,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,6.0,1
 oban 14 yr,,Angele Restaurant & Bar,2014-09-20,wayback,13.0,1
-odwalla juice smoothies,,Gott's Napa,2013-02-28,wayback,3.0,1
+odwalla juice smoothies,,Gott's Napa,2013-02-28,wayback,3.0,2
+odwalla juice smoothies,,Gott's Napa,2013-04-02,wayback,2.99,1
 oeuf brouill,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
 oeuf poch,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
 offsite catering full service,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,75.0,1
@@ -2046,7 +2293,10 @@ onion rings,,Barney's Burgers,2026-08-05,web,7.0,1
 onion rings,,Gott's Napa,2011-03-22,wayback,3.99,2
 onion rings,,Gott's Napa,2012-05-15,wayback,3.99,2
 onion rings,,Gott's Napa,2012-06-17,wayback,3.99,2
-onion rings,,Gott's Napa,2014-12-22,wayback,3.99,1
+onion rings,,Gott's Napa,2014-08-11,wayback,3.99,1
+onion rings,,Gott's Napa,2014-10-29,wayback,3.99,1
+onion rings,,Gott's Napa,2014-12-22,wayback,3.99,2
+onion rings,,Gott's Napa,2015-02-06,wayback,3.99,1
 onion rings,,Gott's Napa,2015-05-13,wayback,3.99,1
 onion rings,,Gott's Napa,2017-07-22,wayback,3.99,1
 onion rings,,Gott's Napa,2021-01-17,wayback,3.99,1
@@ -2054,7 +2304,8 @@ onions,,Five Guys,2023-11-27,exif,0.1,1
 open range 10 sauvignon blanc california,Bottle,Gott's Napa,2012-05-15,wayback,21.0,2
 open range 10 sauvignon blanc california,Glass,Gott's Napa,2012-05-15,wayback,7.0,2
 orange chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
-orange float,,Gott's Napa,2014-12-22,wayback,4.99,1
+orange float,,Gott's Napa,2014-08-11,wayback,4.99,1
+orange float,,Gott's Napa,2014-12-22,wayback,4.99,2
 orange float,,Gott's Napa,2021-01-17,wayback,4.99,1
 orangina,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 oregon baby shrimp omelet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
@@ -2063,11 +2314,22 @@ oreo cr me,,Five Guys,2023-11-27,exif,0.9,1
 oreos extra,,Gott's Napa,2012-05-15,wayback,1.25,1
 organic breakfast black tea bold caffeine,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
 organic coconut water bernie s organic,,Gott's Napa,2021-01-17,wayback,3.99,1
-organic ice cream in a cup,Large,Gott's Napa,2014-12-22,wayback,5.99,1
+organic ice cream in a cup,,Gott's Napa,2013-02-28,wayback,5.0,2
+organic ice cream in a cup,Large,Gott's Napa,2011-03-22,wayback,4.49,2
+organic ice cream in a cup,Large,Gott's Napa,2012-06-17,wayback,4.49,2
+organic ice cream in a cup,Large,Gott's Napa,2014-08-11,wayback,5.99,1
+organic ice cream in a cup,Large,Gott's Napa,2014-10-29,wayback,4.49,1
+organic ice cream in a cup,Large,Gott's Napa,2014-12-22,wayback,5.99,2
+organic ice cream in a cup,Large,Gott's Napa,2015-02-06,wayback,5.99,1
 organic ice cream in a cup,Large,Gott's Napa,2015-05-13,wayback,5.99,1
 organic ice cream in a cup,Large,Gott's Napa,2017-07-22,wayback,5.99,1
 organic ice cream in a cup,Large,Gott's Napa,2021-01-17,wayback,5.99,1
-organic ice cream in a cup,Small,Gott's Napa,2014-12-22,wayback,3.99,1
+organic ice cream in a cup,Small,Gott's Napa,2011-03-22,wayback,2.99,2
+organic ice cream in a cup,Small,Gott's Napa,2012-06-17,wayback,2.99,2
+organic ice cream in a cup,Small,Gott's Napa,2014-08-11,wayback,3.99,1
+organic ice cream in a cup,Small,Gott's Napa,2014-10-29,wayback,2.99,1
+organic ice cream in a cup,Small,Gott's Napa,2014-12-22,wayback,3.99,2
+organic ice cream in a cup,Small,Gott's Napa,2015-02-06,wayback,3.99,1
 organic ice cream in a cup,Small,Gott's Napa,2015-05-13,wayback,3.99,1
 organic ice cream in a cup,Small,Gott's Napa,2017-07-22,wayback,3.99,1
 organic ice cream in a cup,Small,Gott's Napa,2021-01-17,wayback,3.99,1
@@ -2084,9 +2346,13 @@ p b r,,Gott's Napa,2012-05-15,wayback,3.0,2
 p t de campagne,,Angele Restaurant & Bar,2012-04-09,wayback,12.0,1
 p t de campagne,,Angele Restaurant & Bar,2013-04-18,wayback,12.0,1
 p t de campagne,,Angele Restaurant & Bar,2013-06-27,wayback,12.0,1
+pabst blue ribbon,,Gott's Napa,2014-12-22,wayback,3.5,1
 pabst blue ribbon,,Gott's Napa,2015-05-13,wayback,3.5,1
 pabst blue ribbon,,Gott's Napa,2017-07-22,wayback,3.5,1
 pabst blue ribbon,,Gott's Napa,2021-01-17,wayback,4.0,1
+pabst blue ribbon,12oz,Gott's Napa,2014-08-11,wayback,3.5,1
+pabst blue ribbon,12oz,Gott's Napa,2014-10-29,wayback,3.5,1
+pabst blue ribbon,12oz,Gott's Napa,2015-02-06,wayback,3.5,1
 pabst blue ribbon,Canned (12oz),Gott's Napa,2014-12-22,wayback,3.5,1
 paccheri,,Bistro Don Giovanni,2020-09-21,wayback,24.0,2
 paccheri,,Bistro Don Giovanni,2022-01-20,wayback,28.0,1
@@ -2101,6 +2367,8 @@ paisley pinot grigio,,Bistro Don Giovanni,2022-05-27,wayback,14.0,1
 paisley pinot grigio,,Bistro Don Giovanni,2023-12-05,wayback,14.0,1
 paisley pinot grigio friuli venezia italy,,Bistro Don Giovanni,2022-01-20,wayback,14.0,1
 paisley pinot grigio friuli venezia italy,,Bistro Don Giovanni,2023-04-01,wayback,14.0,1
+palmina pinot grigio,Bottle,Gott's Napa,2015-02-06,wayback,24.0,1
+palmina pinot grigio,Glass,Gott's Napa,2015-02-06,wayback,8.0,1
 palmina pinot grigio santa barbara,Bottle,Gott's Napa,2015-05-13,wayback,24.0,1
 palmina pinot grigio santa barbara,Glass,Gott's Napa,2015-05-13,wayback,8.0,1
 paloma,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
@@ -2154,17 +2422,21 @@ pat maison,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,1
 patty melt,,Barney's Burgers,2024-01-15,dom,10.99,1
 patty melt,,Barney's Burgers,2026-08-05,web,9.45,1
 patty melt,,Gott's Napa,2011-03-22,wayback,7.99,2
-patty melt,,Gott's Napa,2014-12-22,wayback,9.99,1
+patty melt,,Gott's Napa,2014-08-11,wayback,9.99,1
+patty melt,,Gott's Napa,2014-12-22,wayback,9.99,2
+patty melt,,Gott's Napa,2015-02-06,wayback,9.99,1
 patty melt,,Gott's Napa,2015-05-13,wayback,9.99,1
 patty melt,,The Depot Eatery,2026-08-05,web,17.0,1
 patz hall,,Bistro Don Giovanni,2020-09-21,wayback,65.0,1
 paul hobbs,,Bistro Don Giovanni,2020-09-21,wayback,104.0,1
+paul hobbs crossbarn pinot noir,Bottle,Gott's Napa,2014-10-29,wayback,36.0,1
+paul hobbs crossbarn pinot noir,Glass,Gott's Napa,2014-10-29,wayback,12.0,1
 paul mas r serve picpoul de pinet languedoc france,,Bistro Don Giovanni,2022-01-20,wayback,15.0,1
 paula kornell blanc de noir mitsuko s vineyard,,Bistro Don Giovanni,2020-09-21,wayback,95.0,1
 pav de b uf hach,,Angele Restaurant & Bar,2013-04-18,wayback,14.0,1
 pav de b uf hach,,Angele Restaurant & Bar,2013-06-27,wayback,14.0,1
 pav de b uf hach,,Angele Restaurant & Bar,2015-02-21,wayback,15.0,1
-pbr,,Gott's Napa,2013-02-28,wayback,3.5,1
+pbr,,Gott's Napa,2013-02-28,wayback,3.5,2
 peanut butter,,Five Guys,2023-11-27,exif,0.9,1
 peanut butter chocolate shake,12oz,Gott's Napa,2021-01-17,wayback,6.99,1
 peanut butter chocolate shake,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
@@ -2237,6 +2509,10 @@ pinot noir the pinot project,Glass,Gott's Napa,2021-01-17,wayback,9.0,1
 pintade,,Angele Restaurant & Bar,2012-04-09,wayback,28.0,1
 piperade basquaise,,Angele Restaurant & Bar,2013-04-18,wayback,16.0,1
 pissaladi re,,Angele Restaurant & Bar,2013-06-27,wayback,14.0,1
+plain burger,,Gott's Napa,2014-08-11,wayback,6.99,1
+plain burger,,Gott's Napa,2014-10-29,wayback,6.99,1
+plain burger,,Gott's Napa,2014-12-22,wayback,6.99,1
+plain burger,,Gott's Napa,2015-02-06,wayback,6.99,1
 plain jane stacks veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,12.0,1
 pliny the elder,,Gott's Napa,2021-01-17,wayback,9.0,1
 poisson frites,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,1
@@ -2265,6 +2541,7 @@ pork chop milanese,,Bistro Don Giovanni,2021-01-27,wayback,31.0,1
 portabella burger gf,,River's Edge Restaurant,2026-07-16,exif,20.0,1
 pot de cr me butterscotch pudding crispy caramel cardamom,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 potato cake combo,,The Depot Eatery,2026-08-05,web,18.0,1
+potato egg,,Gott's Napa,2013-04-02,wayback,3.99,1
 potato salad,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,7.0,1
 poulet pan,,Angele Restaurant & Bar,2013-04-18,wayback,20.0,1
 poulet pan,,Angele Restaurant & Bar,2013-06-27,wayback,16.0,1
@@ -2324,6 +2601,7 @@ richard g peterson,,Bistro Don Giovanni,2020-09-21,wayback,108.0,1
 rickshaw pinot noir california,Bottle,Gott's Napa,2015-05-13,wayback,27.0,1
 rickshaw pinot noir california,Glass,Gott's Napa,2015-05-13,wayback,9.0,1
 ricotta maison,,Angele Restaurant & Bar,2015-02-21,wayback,14.0,1
+ridge 10 zinfandel,Half Bottle,Gott's Napa,2014-08-11,wayback,21.0,1
 ridge ponzo,,Bistro Don Giovanni,2020-09-21,wayback,70.0,1
 rigatoni bolognese,,Bistro Don Giovanni,2022-05-27,wayback,29.0,1
 rigatoni bolognese,,Bistro Don Giovanni,2023-12-05,wayback,32.0,1
@@ -2359,26 +2637,36 @@ rochioli,,Bistro Don Giovanni,2020-09-21,wayback,168.0,1
 roederer estate brut ros,,Bistro Don Giovanni,2017-01-10,wayback,17.0,1
 roederer estate brut ros,,Bistro Don Giovanni,2023-04-01,wayback,18.0,1
 roederer estate brut ros,,Bistro Don Giovanni,2023-12-05,wayback,18.0,2
+rogue dead guy ale,,Gott's Napa,2014-12-22,wayback,5.5,1
 rogue dead guy ale,,Gott's Napa,2015-05-13,wayback,5.5,1
+rogue dead guy ale,12oz,Gott's Napa,2014-08-11,wayback,5.0,1
+rogue dead guy ale,12oz,Gott's Napa,2014-10-29,wayback,5.0,1
+rogue dead guy ale,12oz,Gott's Napa,2015-02-06,wayback,5.5,1
 rogue dead guy ale,Bottled (12oz),Gott's Napa,2014-12-22,wayback,5.5,1
 rogue hot brown,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,18.0,1
 romano beans bacon tomato,,Bistro Don Giovanni,2022-05-27,wayback,8.0,1
 rombauer,,Bistro Don Giovanni,2020-09-21,wayback,77.0,2
-rombauer 10 chardonnay napa valley,,Gott's Napa,2012-05-15,wayback,20.0,2
-rombauer 10 chardonnay napa valley,,Gott's Napa,2012-06-17,wayback,24.0,1
-rombauer 10 chardonnay napa valley,,Gott's Napa,2014-12-22,wayback,24.0,1
-rombauer 10 chardonnay napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,20.0,1
-rombauer 10 chardonnay napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,24.0,1
+rombauer 13 chardonnay,,Gott's Napa,2014-12-22,wayback,24.0,1
+rombauer 13 chardonnay,Half Bottle,Gott's Napa,2011-03-22,wayback,20.0,1
+rombauer 13 chardonnay,Half Bottle,Gott's Napa,2014-08-11,wayback,24.0,1
+rombauer 13 chardonnay,Half Bottle,Gott's Napa,2015-05-13,wayback,24.0,1
+rombauer 13 chardonnay napa valley,,Gott's Napa,2012-05-15,wayback,20.0,2
+rombauer 13 chardonnay napa valley,,Gott's Napa,2012-06-17,wayback,24.0,1
+rombauer 13 chardonnay napa valley,,Gott's Napa,2014-12-22,wayback,24.0,1
 rombauer chardonnay,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,40.0,1
 rombauer chardonnay,,Gott's Napa,2012-06-17,wayback,24.0,1
+rombauer chardonnay,Half Bottle,Gott's Napa,2014-10-29,wayback,24.0,1
+rombauer chardonnay,Half Bottle,Gott's Napa,2015-02-06,wayback,24.0,1
 rombauer chardonnay,Half Bottle,Gott's Napa,2017-07-22,wayback,26.0,1
 rombauer chardonnay,Half Bottle,Gott's Napa,2021-01-17,wayback,30.0,1
 rooster special,,The Depot Eatery,2026-08-05,web,15.0,1
 root beer float,,Gott's Napa,2011-03-22,wayback,4.99,2
-root beer float,,Gott's Napa,2014-12-22,wayback,4.99,1
+root beer float,,Gott's Napa,2014-08-11,wayback,4.99,1
+root beer float,,Gott's Napa,2014-12-22,wayback,4.99,2
 root beer float,,Gott's Napa,2021-01-17,wayback,4.99,1
 rootbeer float,,Gott's Napa,2012-05-15,wayback,4.99,2
 rootbeer float,,Gott's Napa,2012-06-17,wayback,4.99,1
+rootbeer float,,Gott's Napa,2014-10-29,wayback,4.99,1
 rootbeer float with vanilla bean ice cream,,Gott's Napa,2012-06-17,wayback,4.99,1
 rosemary ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 rosemary potato pancakes eggs,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
@@ -2396,8 +2684,13 @@ roulade de saumon,,Angele Restaurant & Bar,2012-04-09,wayback,27.0,1
 round pond estate,,Bistro Don Giovanni,2020-09-21,wayback,62.0,1
 roy rogers,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
 ruhstaller 1881 red ale,,Gott's Napa,2015-05-13,wayback,6.5,1
+ruhstaller 1881 red ale,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
+ruhstaller 1881 red ale,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+ruhstaller 1881 red ale,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 ruhstaller 1881 red ale,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
 rusty s roundup,,Barney's Burgers,2026-08-05,web,10.45,1
+rutherford ranch cabernet sauvignon,Bottle,Gott's Napa,2015-02-06,wayback,30.0,1
+rutherford ranch cabernet sauvignon,Glass,Gott's Napa,2015-02-06,wayback,10.0,1
 rutherford ranch cabernet sauvignon napa valley,Bottle,Gott's Napa,2015-05-13,wayback,30.0,1
 rutherford ranch cabernet sauvignon napa valley,Glass,Gott's Napa,2015-05-13,wayback,10.0,1
 saginaw golden ale,,Bistro Don Giovanni,2019-09-19,wayback,8.0,1
@@ -2405,6 +2698,7 @@ saginaw golden ale,,Bistro Don Giovanni,2020-03-27,wayback,8.0,1
 saginaw golden ale,,Bistro Don Giovanni,2020-09-21,wayback,9.0,2
 saginaw golden ale,22oz,Bistro Don Giovanni,2017-01-10,wayback,12.0,1
 saint archer blonde ale,,Gott's Napa,2015-05-13,wayback,4.5,1
+saint archer blonde ale,12oz,Gott's Napa,2015-02-06,wayback,4.5,1
 saintsbury,,Bistro Don Giovanni,2020-09-21,wayback,74.0,1
 salad of garden lettuce,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
 salad of lacinato kale,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,17.0,1
@@ -2490,14 +2784,16 @@ scarpone montepulciano d abruzzo,,Bistro Don Giovanni,2021-01-27,wayback,14.0,1
 scarpone montepulciano d abruzzo,,Bistro Don Giovanni,2022-01-20,wayback,16.0,1
 scarpone montepulciano d abruzzo,,Bistro Don Giovanni,2023-04-01,wayback,16.0,1
 scarpone montepulciano d abruzzo,,Bistro Don Giovanni,2023-12-05,wayback,16.0,2
-schramsberg 07 blanc de blancs,,Gott's Napa,2012-05-15,wayback,22.0,1
-schramsberg 07 blanc de blancs,,Gott's Napa,2012-06-17,wayback,22.0,2
-schramsberg 07 blanc de blancs,,Gott's Napa,2014-12-22,wayback,26.0,1
-schramsberg 07 blanc de blancs,,Gott's Napa,2015-05-13,wayback,26.0,1
-schramsberg 07 blanc de blancs,375ml,Gott's Napa,2011-03-22,wayback,22.0,1
-schramsberg 07 blanc de blancs,375ml,Gott's Napa,2012-05-15,wayback,22.0,1
-schramsberg 07 blanc de blancs,375ml,Gott's Napa,2017-07-22,wayback,29.0,1
-schramsberg 07 blanc de blancs,375ml,Gott's Napa,2021-01-17,wayback,33.0,1
+schramsberg 09 blanc de blancs,,Gott's Napa,2012-05-15,wayback,22.0,1
+schramsberg 09 blanc de blancs,,Gott's Napa,2012-06-17,wayback,22.0,2
+schramsberg 09 blanc de blancs,,Gott's Napa,2014-12-22,wayback,26.0,2
+schramsberg 09 blanc de blancs,,Gott's Napa,2015-05-13,wayback,26.0,1
+schramsberg 09 blanc de blancs,375ml,Gott's Napa,2011-03-22,wayback,22.0,1
+schramsberg 09 blanc de blancs,375ml,Gott's Napa,2012-05-15,wayback,22.0,1
+schramsberg 09 blanc de blancs,375ml,Gott's Napa,2014-08-11,wayback,23.0,1
+schramsberg 09 blanc de blancs,375ml,Gott's Napa,2015-02-06,wayback,26.0,1
+schramsberg 09 blanc de blancs,375ml,Gott's Napa,2017-07-22,wayback,29.0,1
+schramsberg 09 blanc de blancs,375ml,Gott's Napa,2021-01-17,wayback,33.0,1
 schramsberg blanc de blanc,,Bistro Don Giovanni,2020-09-21,wayback,74.0,1
 schramsberg brut ros,,Bistro Don Giovanni,2020-03-27,wayback,19.0,1
 schramsberg brut ros,,Bistro Don Giovanni,2020-09-21,wayback,48.5,4
@@ -2528,23 +2824,27 @@ seared salmon filet,,Bistro Don Giovanni,2023-12-05,wayback,38.0,2
 seared wild king salmon filet,,Bistro Don Giovanni,2020-09-21,wayback,37.0,2
 seattle hazelnut latt frangelico latt,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,7.5,1
 seghesio,,Bistro Don Giovanni,2020-09-21,wayback,48.0,1
-seghesio 12 zinfandel,,Gott's Napa,2014-12-22,wayback,17.0,1
+seghesio 12 zinfandel,,Gott's Napa,2014-12-22,wayback,17.0,2
 seghesio 12 zinfandel,Half Bottle,Gott's Napa,2015-05-13,wayback,17.0,1
 seghesio zinfandel,,Bistro Don Giovanni,2017-01-10,wayback,12.0,1
+seghesio zinfandel,Half Bottle,Gott's Napa,2015-02-06,wayback,17.0,1
+seghesio zinfandel,Half Bottle,Gott's Napa,2021-01-17,wayback,23.0,1
 selection of three artisan cheeses fruit compote toasted country bread honey brioche,,Angele Restaurant & Bar,2016-05-08,wayback,18.0,1
-shafer 08 cabernet sauvignon napa valley,,Gott's Napa,2012-05-15,wayback,38.0,2
-shafer 08 cabernet sauvignon napa valley,,Gott's Napa,2012-06-17,wayback,50.0,1
-shafer 08 cabernet sauvignon napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,38.0,1
-shafer 08 cabernet sauvignon napa valley,Half Bottle,Gott's Napa,2015-05-13,wayback,53.0,1
-shafer cabernet sauvignon,,Gott's Napa,2012-06-17,wayback,50.0,1
-shafer cabernet sauvignon,,Gott's Napa,2014-12-22,wayback,50.0,1
-shafer cabernet sauvignon,Half Bottle,Gott's Napa,2017-07-22,wayback,64.0,1
-shafer cabernet sauvignon,Half Bottle,Gott's Napa,2021-01-17,wayback,79.0,1
+shafer 11 cabernet sauvignon,,Gott's Napa,2012-05-15,wayback,38.0,2
+shafer 11 cabernet sauvignon,,Gott's Napa,2012-06-17,wayback,50.0,2
+shafer 11 cabernet sauvignon,,Gott's Napa,2014-12-22,wayback,50.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2011-03-22,wayback,38.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2014-08-11,wayback,50.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2014-10-29,wayback,50.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2015-02-06,wayback,53.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2015-05-13,wayback,53.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2017-07-22,wayback,64.0,1
+shafer 11 cabernet sauvignon,Half Bottle,Gott's Napa,2021-01-17,wayback,79.0,1
 shafer red shoulder ranch,,Bistro Don Giovanni,2020-09-21,wayback,104.0,1
 shakes,,Gott's Napa,2011-03-22,wayback,5.99,2
 shakes,,Gott's Napa,2012-05-15,wayback,5.99,2
 shakes,,Gott's Napa,2012-06-17,wayback,5.99,2
-shakes,,Gott's Napa,2013-02-28,wayback,5.0,1
+shakes,,Gott's Napa,2013-02-28,wayback,5.0,2
 shakes,12oz,Gott's Napa,2021-01-17,wayback,5.99,1
 shakes,16oz,Gott's Napa,2021-01-17,wayback,6.99,1
 shakes,,In-N-Out Burger,2026-06-25,exif,3.05,4
@@ -2557,10 +2857,12 @@ shakes malts,Small,Barney's Burgers,2024-01-15,dom,4.99,1
 shakes malts large,Large,Barney's Burgers,2025-11-21,exif,7.8,1
 shakes malts medium,Medium,Barney's Burgers,2025-11-21,exif,6.5,1
 shakes malts small,Small,Barney's Burgers,2025-11-21,exif,5.0,1
-shakes with organic ice cream milk,12oz,Gott's Napa,2014-12-22,wayback,5.99,1
+shakes with organic ice cream milk,12oz,Gott's Napa,2014-12-22,wayback,5.99,2
+shakes with organic ice cream milk,12oz,Gott's Napa,2015-02-06,wayback,5.99,1
 shakes with organic ice cream milk,12oz,Gott's Napa,2015-05-13,wayback,5.99,7
 shakes with organic ice cream milk,12oz,Gott's Napa,2017-07-22,wayback,5.99,1
-shakes with organic ice cream milk,16oz,Gott's Napa,2014-12-22,wayback,6.99,1
+shakes with organic ice cream milk,16oz,Gott's Napa,2014-12-22,wayback,6.99,2
+shakes with organic ice cream milk,16oz,Gott's Napa,2015-02-06,wayback,6.99,1
 shakes with organic ice cream milk,16oz,Gott's Napa,2015-05-13,wayback,6.99,1
 shakes with organic ice cream milk,16oz,Gott's Napa,2017-07-22,wayback,6.99,1
 shirley temple,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,6.0,1
@@ -2575,9 +2877,13 @@ sicilian vodka soda,,Bistro Don Giovanni,2023-12-05,wayback,16.0,1
 side of cheese sauce,,Gott's Napa,2021-01-17,wayback,1.5,1
 side of hobbs bacon,,Angele Restaurant & Bar,2016-05-08,wayback,8.0,1
 side of saut ed marble potatoes,,Angele Restaurant & Bar,2016-05-08,wayback,8.0,1
-siduri 09 pinot noir santa lucia highlands,,Gott's Napa,2012-05-15,wayback,18.0,2
-siduri 09 pinot noir santa lucia highlands,,Gott's Napa,2014-12-22,wayback,20.0,1
-siduri 09 pinot noir santa lucia highlands,Half Bottle,Gott's Napa,2015-05-13,wayback,20.0,1
+siduri 12 pinot noir,,Gott's Napa,2012-05-15,wayback,18.0,2
+siduri 12 pinot noir,,Gott's Napa,2014-12-22,wayback,20.0,1
+siduri 12 pinot noir,Half Bottle,Gott's Napa,2014-08-11,wayback,18.0,1
+siduri 12 pinot noir,Half Bottle,Gott's Napa,2014-10-29,wayback,18.0,1
+siduri 12 pinot noir,Half Bottle,Gott's Napa,2015-02-06,wayback,20.0,1
+siduri 12 pinot noir,Half Bottle,Gott's Napa,2015-05-13,wayback,20.0,1
+siduri 12 pinot noir russian river valley,,Gott's Napa,2014-12-22,wayback,20.0,1
 siduri john sebastiano vineyard,,Bistro Don Giovanni,2020-09-21,wayback,98.0,1
 siduri pinot noir,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,35.0,1
 sierra hash,,Code 4 Taphouse,2025-11-15,exif,14.95,1
@@ -2592,6 +2898,9 @@ sierra nevada pale ale,,Bistro Don Giovanni,2023-12-05,wayback,7.5,2
 sierra nevada pale ale,,Gott's Napa,2015-05-13,wayback,6.0,1
 sierra nevada pale ale,,Gott's Napa,2017-07-22,wayback,5.0,1
 sierra nevada pale ale,,Gott's Napa,2021-01-17,wayback,5.0,1
+sierra nevada pale ale,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
+sierra nevada pale ale,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+sierra nevada pale ale,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 sierra nevada pale ale,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
 siete leguas a ejo,,Angele Restaurant & Bar,2014-09-20,wayback,16.0,1
 silverado vineyards sangiovese,,Bistro Don Giovanni,2017-01-10,wayback,16.0,1
@@ -2606,6 +2915,7 @@ smashburger seasoned fries,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,2
 smith woodhouse lbv 01,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
 smoked chicken club,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
 smoked chicken club,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
+smoked chicken egg,,Gott's Napa,2013-04-02,wayback,4.99,1
 smoked chicken po boy,,Gott's Napa,2012-05-15,wayback,10.99,2
 smoked chicken wings,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
 smoked pork hash,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
@@ -2632,6 +2942,7 @@ soupe gratin e l oignon,,Angele Restaurant & Bar,2012-04-09,wayback,9.0,1
 soupe gratin e l oignon,,Angele Restaurant & Bar,2015-02-21,wayback,12.0,1
 sourdough jack burger,,Jack in the Box,2025-08-11,exif,7.89,1
 sourdough jack combo,,Jack in the Box,2025-08-11,exif,12.19,1
+southern,,Gott's Napa,2013-04-02,wayback,5.99,1
 spaghetti clams,,Bistro Don Giovanni,2017-01-10,wayback,24.0,1
 spaghetti clams,,Bistro Don Giovanni,2019-09-19,wayback,24.0,1
 spaghetti clams,,Bistro Don Giovanni,2020-03-27,wayback,24.0,1
@@ -2645,12 +2956,18 @@ spanish omlet,,The Depot Eatery,2026-08-05,web,18.0,1
 sparkling juice,,Gott's Napa,2011-03-22,wayback,2.49,2
 sparkling juice,,Gott's Napa,2012-05-15,wayback,2.49,2
 sparkling juice,,Gott's Napa,2012-06-17,wayback,2.69,2
-sparkling juice,,Gott's Napa,2014-12-22,wayback,2.99,1
+sparkling juice,,Gott's Napa,2014-08-11,wayback,2.99,1
+sparkling juice,,Gott's Napa,2014-10-29,wayback,2.69,1
+sparkling juice,,Gott's Napa,2014-12-22,wayback,2.99,2
+sparkling juice,,Gott's Napa,2015-02-06,wayback,2.99,1
 sparkling lavender limeade,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 sparkling mineral water,,Gott's Napa,2011-03-22,wayback,2.49,2
 sparkling mineral water,,Gott's Napa,2012-05-15,wayback,2.49,2
 sparkling mineral water,,Gott's Napa,2012-06-17,wayback,2.69,2
-sparkling mineral water,,Gott's Napa,2014-12-22,wayback,2.69,1
+sparkling mineral water,,Gott's Napa,2014-08-11,wayback,2.69,1
+sparkling mineral water,,Gott's Napa,2014-10-29,wayback,2.69,1
+sparkling mineral water,,Gott's Napa,2014-12-22,wayback,2.69,2
+sparkling mineral water,,Gott's Napa,2015-02-06,wayback,2.69,1
 sparkling water mr pibb,,Gott's Napa,2021-01-17,wayback,3.29,1
 sparkling water orange,,Gott's Napa,2021-01-17,wayback,3.29,1
 special tortilla soup,,Taqueria El Charro Viejo,2022-12-07,exif,11.5,1
@@ -2666,24 +2983,33 @@ spicy jack,,Barney's Burgers,2024-01-15,dom,10.99,1
 spicy tomato soup,Bowl,Gott's Napa,2011-03-22,wayback,5.99,2
 spicy tomato soup,Bowl,Gott's Napa,2012-05-15,wayback,5.99,2
 spicy tomato soup,Bowl,Gott's Napa,2012-06-17,wayback,5.99,2
-spicy tomato soup,Bowl,Gott's Napa,2014-12-22,wayback,5.99,1
+spicy tomato soup,Bowl,Gott's Napa,2014-08-11,wayback,5.99,1
+spicy tomato soup,Bowl,Gott's Napa,2014-10-29,wayback,5.99,1
+spicy tomato soup,Bowl,Gott's Napa,2014-12-22,wayback,5.99,2
+spicy tomato soup,Bowl,Gott's Napa,2015-02-06,wayback,5.99,1
 spicy tomato soup,Bowl,Gott's Napa,2015-05-13,wayback,5.99,1
 spicy tomato soup,Bowl,Gott's Napa,2017-07-22,wayback,6.99,1
 spicy tomato soup,Bowl,Gott's Napa,2021-01-17,wayback,7.99,1
 spicy tomato soup,Cup,Gott's Napa,2011-03-22,wayback,3.49,2
 spicy tomato soup,Cup,Gott's Napa,2012-05-15,wayback,3.49,2
 spicy tomato soup,Cup,Gott's Napa,2012-06-17,wayback,3.49,2
-spicy tomato soup,Cup,Gott's Napa,2014-12-22,wayback,3.99,1
+spicy tomato soup,Cup,Gott's Napa,2014-08-11,wayback,3.99,1
+spicy tomato soup,Cup,Gott's Napa,2014-10-29,wayback,3.49,1
+spicy tomato soup,Cup,Gott's Napa,2014-12-22,wayback,3.99,2
+spicy tomato soup,Cup,Gott's Napa,2015-02-06,wayback,3.99,1
 spicy tomato soup,Cup,Gott's Napa,2015-05-13,wayback,3.99,1
 spicy tomato soup,Cup,Gott's Napa,2017-07-22,wayback,4.99,1
 spicy tomato soup,Cup,Gott's Napa,2021-01-17,wayback,4.99,1
 spottswoode,,Bistro Don Giovanni,2020-09-21,wayback,76.0,1
-spring sparkling water,,Gott's Napa,2013-02-28,wayback,3.0,1
+spring sparkling water,,Gott's Napa,2013-02-28,wayback,3.0,2
 spring sparkling water,,Gott's Napa,2021-01-17,wayback,3.29,1
 spring water,,Gott's Napa,2011-03-22,wayback,2.49,2
 spring water,,Gott's Napa,2012-05-15,wayback,2.49,2
 spring water,,Gott's Napa,2012-06-17,wayback,2.69,2
-spring water,,Gott's Napa,2014-12-22,wayback,2.69,1
+spring water,,Gott's Napa,2014-08-11,wayback,2.69,1
+spring water,,Gott's Napa,2014-10-29,wayback,2.69,1
+spring water,,Gott's Napa,2014-12-22,wayback,2.69,2
+spring water,,Gott's Napa,2015-02-06,wayback,2.69,1
 springbank 10 yr,,Angele Restaurant & Bar,2014-09-20,wayback,13.0,1
 sriracha chicken,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 st germaine,,Bistro Don Giovanni,2017-01-10,wayback,9.0,1
@@ -2693,9 +3019,15 @@ st germaine,,Bistro Don Giovanni,2020-09-21,wayback,10.0,2
 st germaine,,Bistro Don Giovanni,2021-01-27,wayback,10.0,1
 st pauli non alcoholic germany,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 st sup ry rutherford estate vineyards,,Bistro Don Giovanni,2020-09-21,wayback,84.0,1
-st supery 13 sauvignon blanc,Bottle,Gott's Napa,2014-12-22,wayback,24.0,1
+st supery 13 sauvignon blanc,Bottle,Gott's Napa,2014-08-11,wayback,24.0,1
+st supery 13 sauvignon blanc,Bottle,Gott's Napa,2014-10-29,wayback,24.0,1
+st supery 13 sauvignon blanc,Bottle,Gott's Napa,2014-12-22,wayback,24.0,2
+st supery 13 sauvignon blanc,Bottle,Gott's Napa,2015-02-06,wayback,24.0,1
 st supery 13 sauvignon blanc,Bottle,Gott's Napa,2015-05-13,wayback,24.0,1
-st supery 13 sauvignon blanc,Glass,Gott's Napa,2014-12-22,wayback,8.0,1
+st supery 13 sauvignon blanc,Glass,Gott's Napa,2014-08-11,wayback,8.0,1
+st supery 13 sauvignon blanc,Glass,Gott's Napa,2014-10-29,wayback,8.0,1
+st supery 13 sauvignon blanc,Glass,Gott's Napa,2014-12-22,wayback,8.0,2
+st supery 13 sauvignon blanc,Glass,Gott's Napa,2015-02-06,wayback,8.0,1
 st supery 13 sauvignon blanc,Glass,Gott's Napa,2015-05-13,wayback,8.0,1
 standard,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,45.0,1
 standard,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,45.0,1
@@ -2730,6 +3062,9 @@ stella artois,,Bistro Don Giovanni,2023-04-01,wayback,7.0,1
 stella artois,,Bistro Don Giovanni,2023-12-05,wayback,7.0,1
 stella artois,,Gott's Napa,2015-05-13,wayback,6.5,1
 stella artois,,Gott's Napa,2017-07-22,wayback,7.0,1
+stella artois,12oz,Gott's Napa,2014-08-11,wayback,4.5,1
+stella artois,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+stella artois,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 stella artois,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
 stella artois lager belgium,,Angele Restaurant & Bar,2015-03-05,wayback,5.0,1
 stone delicious gluten reduced ipa,,Gott's Napa,2017-07-22,wayback,5.5,1
@@ -2739,6 +3074,7 @@ storybook 09 zinfandel napa valley,,Gott's Napa,2012-06-17,wayback,25.0,1
 storybook 09 zinfandel napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,20.0,1
 storybook mountain mayacamas range,,Bistro Don Giovanni,2020-09-21,wayback,76.0,1
 storybook zinfandel,,Gott's Napa,2012-06-17,wayback,25.0,1
+storybook zinfandel,Half Bottle,Gott's Napa,2014-10-29,wayback,25.0,1
 storzzapreti bolognese,,Bistro Don Giovanni,2023-04-01,wayback,30.0,1
 strawberry,,Five Guys,2023-11-27,exif,0.2,1
 strawberry acqua fresca,,Bistro Don Giovanni,2020-03-27,wayback,6.0,1
@@ -2750,29 +3086,38 @@ strawberry acqua fresca,,Bistro Don Giovanni,2023-04-01,wayback,6.0,1
 strawberry acqua fresca,,Bistro Don Giovanni,2023-12-05,wayback,6.0,2
 strawberry daiquiri,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
 strawberry french toast,,Code 4 Taphouse,2025-11-15,exif,10.95,2
+strawberry shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
+strawberry shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 stuffed french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.49,1
 stuffed french toast,,The Depot Eatery,2026-08-05,web,18.0,1
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,30.0,1
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,30.0,1
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,30.0,1
 substitute house infused spicy tequila,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,22.0,1
+sudwerk hefeweizen draft,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
 summer vegetable ragu,,Bistro Don Giovanni,2019-09-19,wayback,8.0,1
 summer vegetable ragu,,Bistro Don Giovanni,2020-09-21,wayback,8.0,2
 sundae,,McDonald's,2022-04-16,exif,2.59,1
 sunshine benedict,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 super veggie omlet,,The Depot Eatery,2026-08-05,web,18.0,1
-swanson 06 merlot napa valley,,Gott's Napa,2012-05-15,wayback,19.0,2
-swanson 06 merlot napa valley,,Gott's Napa,2012-06-17,wayback,20.0,1
-swanson 06 merlot napa valley,,Gott's Napa,2014-12-22,wayback,20.0,1
-swanson 06 merlot napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,19.0,1
+swanson 09 merlot,,Gott's Napa,2014-12-22,wayback,20.0,1
+swanson 09 merlot,Half Bottle,Gott's Napa,2014-08-11,wayback,20.0,1
+swanson 09 merlot napa valley,,Gott's Napa,2012-05-15,wayback,19.0,2
+swanson 09 merlot napa valley,,Gott's Napa,2012-06-17,wayback,20.0,1
+swanson 09 merlot napa valley,,Gott's Napa,2014-12-22,wayback,20.0,1
+swanson 09 merlot napa valley,Half Bottle,Gott's Napa,2011-03-22,wayback,19.0,1
 swanson merlot,,Gott's Napa,2012-06-17,wayback,20.0,1
+swanson merlot,Half Bottle,Gott's Napa,2014-10-29,wayback,20.0,1
 swanson pinot grigio,,Bistro Don Giovanni,2020-09-21,wayback,45.0,1
 sweet potato fries,,Barney's Burgers,2024-01-15,dom,5.99,1
 sweet potato fries,,Barney's Burgers,2026-08-05,web,6.5,1
 sweet potato fries,,Gott's Napa,2011-03-22,wayback,3.99,2
 sweet potato fries,,Gott's Napa,2012-05-15,wayback,3.99,2
 sweet potato fries,,Gott's Napa,2012-06-17,wayback,3.99,2
-sweet potato fries,,Gott's Napa,2014-12-22,wayback,3.99,1
+sweet potato fries,,Gott's Napa,2014-08-11,wayback,3.99,1
+sweet potato fries,,Gott's Napa,2014-10-29,wayback,3.99,1
+sweet potato fries,,Gott's Napa,2014-12-22,wayback,3.99,2
+sweet potato fries,,Gott's Napa,2015-02-06,wayback,3.99,1
 sweet potato fries,,Gott's Napa,2015-05-13,wayback,3.99,1
 sweet potato fries,,Gott's Napa,2017-07-22,wayback,3.99,1
 sweet potato fries,,Gott's Napa,2021-01-17,wayback,3.99,1
@@ -2798,6 +3143,7 @@ tater tots,Large,Barney's Burgers,2024-01-15,dom,4.99,1
 tater tots,Large,Barney's Burgers,2026-08-05,web,5.0,1
 tater tots,Small,Barney's Burgers,2024-01-15,dom,3.99,1
 tater tots,Small,Barney's Burgers,2026-08-05,web,4.0,1
+tea,,Gott's Napa,2013-04-02,wayback,2.0,1
 teaderman vineyards,,Bistro Don Giovanni,2020-09-21,wayback,42.0,1
 teaderman vineyards cabernet sauvignon,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,82.0,1
 teff cakes,,Perez Kitchen & Bar,2026-08-05,pdf,21.0,1
@@ -2819,13 +3165,16 @@ terre stregate svelato falanghina campania italy,,Bistro Don Giovanni,2019-09-19
 terre stregate svelato falanghina campania italy,,Bistro Don Giovanni,2020-09-21,wayback,14.0,1
 terrine de betteraves,,Angele Restaurant & Bar,2013-04-18,wayback,12.0,1
 terrine de betteraves,,Angele Restaurant & Bar,2013-06-27,wayback,12.0,1
-texas avocado burger,,Gott's Napa,2014-12-22,wayback,10.99,1
+texas avocado burger,,Gott's Napa,2014-08-11,wayback,10.99,1
+texas avocado burger,,Gott's Napa,2014-12-22,wayback,10.99,2
+texas avocado burger,,Gott's Napa,2015-02-06,wayback,10.99,1
 texas avocado burger,,Gott's Napa,2015-05-13,wayback,10.99,1
 texas avocado burger,,Gott's Napa,2017-07-22,wayback,10.99,1
 texas avocado burger,,Gott's Napa,2021-01-17,wayback,11.99,1
 texas burger,,Gott's Napa,2011-03-22,wayback,9.99,2
 texas burger,,Gott's Napa,2012-05-15,wayback,9.99,2
 texas burger,,Gott's Napa,2012-06-17,wayback,9.99,2
+texas burger,,Gott's Napa,2014-10-29,wayback,9.99,1
 the blue,,The Depot Eatery,2026-08-05,web,17.0,1
 the bradford,,Bistro Don Giovanni,2023-12-05,wayback,14.0,1
 the bradford beefeater gin tonic lime,,Bistro Don Giovanni,2023-04-01,wayback,14.0,1
@@ -2887,7 +3236,10 @@ trumer pils,,Bistro Don Giovanni,2023-12-05,wayback,7.0,1
 trumer pilsner,,Gott's Napa,2015-05-13,wayback,6.0,1
 trumer pilsner,,Gott's Napa,2017-07-22,wayback,7.0,1
 trumer pilsner,,Gott's Napa,2021-01-17,wayback,7.0,1
+trumer pilsner,16oz,Gott's Napa,2014-12-22,wayback,6.0,1
+trumer pilsner,Draft,Gott's Napa,2015-02-06,wayback,6.0,1
 trumer pilsner,Draft (16oz),Gott's Napa,2014-12-22,wayback,6.0,1
+trumer pilsner draft,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
 tuaca,,Angele Restaurant & Bar,2014-09-20,wayback,9.0,1
 tuna albacore,,Genova Delicatessen,2026-08-05,fallback,12.95,1
 tuna albacore w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
@@ -2897,6 +3249,10 @@ turkey burger,,Gott's Napa,2011-03-22,wayback,9.99,2
 turkey burger,,Gott's Napa,2012-05-15,wayback,9.99,2
 turkey melt,,The Depot Eatery,2026-08-05,web,16.0,1
 turkey pesto omlet,,The Depot Eatery,2026-08-05,web,18.0,1
+turley juvenile zinfandel,Bottle,Gott's Napa,2014-10-29,wayback,33.0,1
+turley juvenile zinfandel,Bottle,Gott's Napa,2017-07-22,wayback,36.0,1
+turley juvenile zinfandel,Glass,Gott's Napa,2014-10-29,wayback,11.0,1
+turley juvenile zinfandel,Glass,Gott's Napa,2017-07-22,wayback,12.0,1
 turley turley estate,,Bistro Don Giovanni,2020-09-21,wayback,82.0,1
 tuscan beans,,Bistro Don Giovanni,2017-01-10,wayback,7.0,1
 tuscan beans,,Bistro Don Giovanni,2019-09-19,wayback,7.0,1
@@ -2915,14 +3271,19 @@ veal parmigiana,,Bistro Don Giovanni,2023-04-01,wayback,45.0,1
 veal parmigiana,,Bistro Don Giovanni,2023-12-05,wayback,45.0,2
 vegetable sticks,,Gott's Napa,2012-05-15,wayback,2.69,2
 vegetable sticks,,Gott's Napa,2012-06-17,wayback,2.89,2
-vegetable sticks,,Gott's Napa,2014-12-22,wayback,2.99,1
+vegetable sticks,,Gott's Napa,2014-08-11,wayback,2.99,1
+vegetable sticks,,Gott's Napa,2014-10-29,wayback,2.89,1
+vegetable sticks,,Gott's Napa,2014-12-22,wayback,2.99,2
+vegetable sticks,,Gott's Napa,2015-02-06,wayback,2.99,1
 vegetable sticks,,Gott's Napa,2015-05-13,wayback,2.99,1
 vegetarian omelet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
 vegetarian panini,,Bistro Don Giovanni,2021-01-27,wayback,16.0,1
+veggie,,Gott's Napa,2013-04-02,wayback,4.99,1
 veggie burger,,Barney's Burgers,2024-01-15,dom,7.99,1
 veggie burger,,Barney's Burgers,2026-08-05,web,8.65,1
 veggie burger,,Gott's Napa,2011-03-22,wayback,7.99,2
 veggie burger,,Gott's Napa,2012-05-15,wayback,7.99,2
+veggie burger or turkey patty substitution,,Gott's Napa,2014-10-29,wayback,1.0,1
 veggie melt,,The Depot Eatery,2026-08-05,web,17.0,1
 veggie omelet gf veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,14.0,1
 veggie sandwich,,Five Guys,2023-11-27,exif,5.1,1
@@ -2934,7 +3295,9 @@ veuve clicquot yellow label,,Bistro Don Giovanni,2020-09-21,wayback,130.0,1
 veuve clicquot yellow label,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,68.0,1
 vietnamese chicken,,Gott's Napa,2017-07-22,wayback,11.99,1
 vietnamese chicken,,Gott's Napa,2021-01-17,wayback,13.99,1
-vietnamese chicken salad,,Gott's Napa,2014-12-22,wayback,10.99,1
+vietnamese chicken salad,,Gott's Napa,2014-08-11,wayback,10.99,1
+vietnamese chicken salad,,Gott's Napa,2014-12-22,wayback,10.99,2
+vietnamese chicken salad,,Gott's Napa,2015-02-06,wayback,10.99,1
 vietnamese chicken salad,,Gott's Napa,2015-05-13,wayback,10.99,1
 villa di corlo lambrusco,,Bistro Don Giovanni,2017-01-10,wayback,10.0,1
 villa di corlo lambrusco,,Bistro Don Giovanni,2020-09-21,wayback,38.0,1
@@ -2950,7 +3313,10 @@ west coast crab roll,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,42.0,1
 western bacon blue ring,,Gott's Napa,2011-03-22,wayback,9.99,2
 western bacon blue ring,,Gott's Napa,2012-05-15,wayback,10.99,2
 western bacon blue ring,,Gott's Napa,2012-06-17,wayback,10.99,2
-western bacon blue ring,,Gott's Napa,2014-12-22,wayback,11.99,1
+western bacon blue ring,,Gott's Napa,2014-08-11,wayback,11.99,1
+western bacon blue ring,,Gott's Napa,2014-10-29,wayback,10.99,1
+western bacon blue ring,,Gott's Napa,2014-12-22,wayback,11.99,2
+western bacon blue ring,,Gott's Napa,2015-02-06,wayback,11.99,1
 western bacon blue ring,,Gott's Napa,2015-05-13,wayback,11.99,1
 western bacon blue ring,,Gott's Napa,2017-07-22,wayback,11.99,1
 western bacon blue ring,,Gott's Napa,2021-01-17,wayback,12.99,1
@@ -2984,7 +3350,10 @@ wisconsin burger,,Gott's Napa,2021-01-17,wayback,11.99,1
 wisconsin sourdough,,Gott's Napa,2011-03-22,wayback,9.99,2
 wisconsin sourdough,,Gott's Napa,2012-05-15,wayback,9.99,2
 wisconsin sourdough,,Gott's Napa,2012-06-17,wayback,10.99,2
-wisconsin sourdough,,Gott's Napa,2014-12-22,wayback,10.99,1
+wisconsin sourdough,,Gott's Napa,2014-08-11,wayback,10.99,1
+wisconsin sourdough,,Gott's Napa,2014-10-29,wayback,10.99,1
+wisconsin sourdough,,Gott's Napa,2014-12-22,wayback,10.99,2
+wisconsin sourdough,,Gott's Napa,2015-02-06,wayback,10.99,1
 wisconsin sourdough,,Gott's Napa,2015-05-13,wayback,10.99,1
 wisconsin sourdough,,Gott's Napa,2017-07-22,wayback,10.99,1
 with cheese,,Five Guys,2023-11-27,exif,5.99,1
@@ -2997,11 +3366,8 @@ zd,,Bistro Don Giovanni,2020-09-21,wayback,84.0,1
 zenner s country pork sausage,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,6.64,2
 zesty farmstand skillet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 ziat by karen cakebread,,Bistro Don Giovanni,2020-09-21,wayback,54.0,1
-zinfandel seghesio,Half Bottle,Gott's Napa,2021-01-17,wayback,23.0,1
 zinfandel storybook vineyards,Half Bottle,Gott's Napa,2017-07-22,wayback,21.0,1
 zinfandel turley,Bottle,Gott's Napa,2021-01-17,wayback,52.0,1
 zinfandel turley,Glass,Gott's Napa,2021-01-17,wayback,13.0,1
-zinfandel turley juvenile,Bottle,Gott's Napa,2017-07-22,wayback,36.0,1
-zinfandel turley juvenile,Glass,Gott's Napa,2017-07-22,wayback,12.0,1
 zucchini fritti,,Bistro Don Giovanni,2019-09-19,wayback,14.0,1
 zuppa salmon bacon chowder,,Bistro Don Giovanni,2023-12-05,wayback,16.0,1
