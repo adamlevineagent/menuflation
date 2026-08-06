@@ -1,0 +1,18 @@
+{
+ "photo": "wb/20140920182158/http://www.angelerestaurant.com/Chronicle_s_Top_100_List_2014.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20140920182158/http://www.angelerestaurant.com/Chronicle_s_Top_100_List_2014.pdf",
+ "observed_on": "2014-09-20",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": false,
+  "currency_iso": null,
+  "currency_symbol": null,
+  "items": [],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.9
+ },
+ "cost_usd": 0.000196,
+ "wayback_ts": "20140920182158"
+}

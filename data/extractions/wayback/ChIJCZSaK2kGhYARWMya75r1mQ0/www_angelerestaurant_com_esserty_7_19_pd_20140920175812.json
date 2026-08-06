@@ -1,0 +1,559 @@
+{
+ "photo": "wb/20140920175812/http://www.angelerestaurant.com/Desserty_7-19.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20140920175812/http://www.angelerestaurant.com/Desserty_7-19.pdf",
+ "observed_on": "2014-09-20",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Balvenie 12 Yr",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dalwhinnie 15 Yr",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Glenmorangie Quinta Ruban",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lagavulin Islay 16 Yr",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Macallan 12 Yr",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Oban 14 Yr",
+    "price": 13,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Springbank 10 Yr",
+    "price": 13,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Alambic Brandy Osocalis",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "C.Dudugnon Grand Reserve Cognac",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Germain Robin XO Brandy",
+    "price": 22,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Kelt XO Cognac",
+    "price": 26,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rémy Martin XO Cognac",
+    "price": 26,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Château de Briat Armagnac",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Château du Busca 15 yr Armagnac",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Coeur de Lion Calvados",
+    "price": 24,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lemorton Reserve Deux Calvados",
+    "price": 13,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marolo di Barolo 12 Yr Grappa",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marolo Grappa & Chamomile",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "F. Meyer Kirsch",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "F. Meyer Poire Williams",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "F. Meyer Mirabelle",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Clear Creek Pear Brandy",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "El Dorado 15 Yr Special Reserve Fine Demerara",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "El Dorado 5 Yr Demerara",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Zaya 12 Yr",
+    "price": 13,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "HelloCello, Sonoma Limoncello",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Luxardo Amaretto Saschira",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Luxardo Sambuca",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Nocino della Christina Walnut Liqueur",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tuaca",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fernet Branca",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Averna Amaro",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "B. Nardini Amaro",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "L. Garnier Chartreuse Green V.E.P.",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Firelit Coffee Liqueur",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chinaco Añejo",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tres Agaves Añejo",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Siete Leguas Añejo",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dolce, Late Harvest ‘07",
+    "price": 20,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Domaine de L’Alliance, Sauternes ‘09",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Durban, Muscat Beaumes de Venise ‘09",
+    "price": 8,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Mas Amiel, Millèsime Lt Harvest Grenache ‘90",
+    "price": 20,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "La Coume, Maury, Lt Harvest Grenache ‘07",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Smith Woodhouse, LBV ‘01",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Neige Cidre de Glace, Apple Ice Wine",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Mád Cuvée, Lt Harvest Royal Tokaji ‘09",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crème Brulée - Cinnamon Spice Crème Brulée",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tarte d’Automne - Quince Tart Tatin, Crème Fräiche",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pot de Crème - Butterscotch Pudding, Crispy Caramel, Cardamom",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Gratin à la Banane - Banana Gratin, Almond Crust, Vanilla Bean Ice Cream",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Gateau aux Chocolat - Chocolate Roulade, Toasted Almonds, Almond Anglaise with Strawberry Syrup",
+    "price": 10,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Glace du Jour - Three Twins Organic Ice Cream",
+    "price": 7,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sorbet du Jour",
+    "price": 7,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fromages du Jour - Artisan Cheeses of the Day",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Italian Blood Orange (Caffeine Free)",
+    "price": 4,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Japanese Green Tea (Medium Caffeine)",
+    "price": 4,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Egyptian Chamomile (Select Botanical - Caffeine Free)",
+    "price": 4,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Earl Grey Créme (Black Tea Fusion - Medium Bold Caffeine)",
+    "price": 4,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Moroccan Mint Green Tea (Low Caffeine)",
+    "price": 4,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Organic Breakfast (Black Tea - Bold Caffeine)",
+    "price": 4,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001063,
+ "wayback_ts": "20140920175812"
+}

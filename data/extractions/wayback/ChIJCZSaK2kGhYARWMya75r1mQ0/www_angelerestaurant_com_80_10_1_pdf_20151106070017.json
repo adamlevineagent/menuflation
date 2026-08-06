@@ -1,0 +1,154 @@
+{
+ "photo": "wb/20151106070017/http://www.angelerestaurant.com:80/AFTERNOON_MENU_10-1.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20151106070017/http://www.angelerestaurant.com:80/AFTERNOON_MENU_10-1.pdf",
+ "observed_on": "2015-11-06",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½doz",
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Crème Fraïche Mousse, Pomegranates, Pickled Jalapenõs",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marinated Olives",
+    "price": 6,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Artisan Cheeses of the Day",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté “En Croute”, Pickled Beans, Mustard Vinaigrette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hamachi Crudo, Watercress, Persimmons, Quinoa, Fleur de Sel Cracker",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Ricotta, Stonefruit Marmalade, Toasted Country Bread",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Dijon Mustard, Farm Egg Yolk, Frisée and Arugula Salad",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Little Gem Lettuces, Fine Herbs, Red Wine Vinaigrette",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Kale and Fall Greens Salad, Soft Cow’s Milk Cheese, Hazelnuts, Apples, Pomegranates",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Salade Lyonnaise” Frisée Salad, Warm De Puy Lentils, Poached Egg, Sherry Walnut Vinaigrette, Lardons",
+    "price": 20,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Niçoise Salad, Olive Oil Poached Tuna, Haricôt Vert, Niçoise Olives, Little Gem Lettuces, Peppers, Farm Egg",
+    "price": 20,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Baguette Sandwich with French Brie and Figs, Little Gem Lettuces",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Baguette Sandwich with Mortadella, Stonefruit, Arugula, Parmesan, Whole Grain Mustard, French Fries",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Hamburger with French Fries",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "(Add a Fried Egg $1, Cheese $1, Bacon $2)"
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000648,
+ "wayback_ts": "20151106070017"
+}

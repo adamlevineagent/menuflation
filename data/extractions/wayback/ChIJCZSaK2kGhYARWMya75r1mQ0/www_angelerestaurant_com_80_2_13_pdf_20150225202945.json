@@ -1,0 +1,292 @@
+{
+ "photo": "wb/20150225202945/http://www.angelerestaurant.com:80/BRUNCH_2-13.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20150225202945/http://www.angelerestaurant.com:80/BRUNCH_2-13.pdf",
+ "observed_on": "2015-02-25",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic French Onion Soup",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Duck Liver Mousse, Crème Fraîche Gelée, Fruit Compote, Country Toast",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Escargots and Celery Root Gratin, Toasted Baguette",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Frisée Salad, Warm De Puy Lentils, Carrots, Poached Egg, Sherry Walnut Vinaigrette, Lardons",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Levain Crusted Lobster and Shrimp Boudin, Israeli Couscous, Broccolini, Lobster Sauce",
+    "price": 20.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Ricotta, Butternut Squash and Balsamic Marmalade, Toasted Country Bread",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Beets, Buckwheat Cracker, Caraway Goat Cheese, Citrus, Red Watercress",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ribeye Steak Tartare, Dijon Mustard, Farm Egg Yolk, Frisée and Arugula Salad",
+    "price": 14.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ribeye Steak Tartare, Dijon Mustard, Farm Egg Yolk, Frisée and Arugula Salad",
+    "price": 28.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salad of Little Gem Lettuces, Lollo Rosso Greens, Fines Herbs, Red Wine Vinaigrette",
+    "price": 10.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Macaroni Gratin",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sautéed Winter Greens, Sherry and Quince Vinaigrette",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic Hamburger with French Fries",
+    "price": 15.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tartine with Parisian Ham, Melted Gruyére, Toasted Levain, Bechamél Sauce",
+    "price": 15.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tartine with Parisian Ham, Melted Gruyére, Toasted Levain, Bechamél Sauce",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Petrale Sole, Capers, Citrus “Persillade”, Citrus Segments, Potato Purée",
+    "price": 26.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Suckling Pig, Little Gem Lettuce, Sunny Side up Egg, Charred Red Onions, Toasted Potato Bun",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Olive Oil Poached Tuna, Haricôt Vert, Niçoise Olives, Little Gem Lettuces, Marinated Peppers, Farm Egg",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Parmesan Crusted Baby Potatoes Filled with Pork Ragoût, Pickled Huckleberries, Little Gem Salad",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Mediterranean Mussels, White Wine, Garlic, Herbs, Toasted Baguette",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Chicken Sausage, Braised Cabbage and Apples, Whole Grain Mustard Sauce, Poached Eggs",
+    "price": 20.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Skinned Salmon, Winter Greens and Farro Salad, Heirloom Pears, Gribiche, Banyuls Vinaigrette",
+    "price": 26.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Chicken Breast, Crispy Boudin Blanc, Winter Vegetables, Wild Mushroom and Parsnip Purée",
+    "price": 26.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Herb Roasted Rib-Eye, French Fries, Conﬁt of Wild Mushrooms, Arugula, Bernaise Sauce",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Bloody Mary",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marseille Fizz",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Spritz",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wake Up Call",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [
+   "winter",
+   "brunch"
+  ],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001274,
+ "wayback_ts": "20150225202945"
+}

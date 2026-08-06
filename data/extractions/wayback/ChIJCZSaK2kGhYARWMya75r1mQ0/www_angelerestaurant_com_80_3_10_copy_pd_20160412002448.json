@@ -1,0 +1,172 @@
+{
+ "photo": "wb/20160412002448/http://www.angelerestaurant.com:80/AFTERNOON_MENU_3-10_copy.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20160412002448/http://www.angelerestaurant.com:80/AFTERNOON_MENU_3-10_copy.pdf",
+ "observed_on": "2016-04-12",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½ doz",
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Crème Fraîche Mousse, Pickled Jalapeño",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marinated Olives",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Artisan Cheeses of the Day",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic French Onion Soup",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté En Croute, Pickled Vegetables, Mustard Vinaigrette",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hamachi Crudo, Black Rice Cracker, Avocado Mousse",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Ricotta, Pear Marmalade, Toasted Country Bread",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Dijon Mustard, Farm Egg Yolk, Frisée and Arugula Salad",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Little Gem Lettuces, Fine Herbs, Red Wine Vinaigrette",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Beet Salad, Burrata Cheese, Baby Garden Greens, Red Wine Beet Vinaigrette, Orange Oil",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Salade Lyonnaise Frisée Salad, Warm De Puy Lentils, Poached Egg, Sherry Vinaigrette, Lardons",
+    "price": 20.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Niçoise Salad, Olive Oil Poached Tuna, Haricôt Vert, Niçoise Olives, Little Gem Lettuces, Peppers, Farm Egg",
+    "price": 20.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Croque Monsieur Parisian Ham, Melted Gruyere, Toasted Levain, Bechamel Sauce",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Croque Monsieur Parisian Ham, Melted Gruyere, Toasted Levain, Bechamel Sauce (Madame with Egg)",
+    "price": 17.0,
+    "old_price": null,
+    "size": "Madame",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angèle Hamburger with French Fries",
+    "price": 16.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001048,
+ "wayback_ts": "20160412002448"
+}
