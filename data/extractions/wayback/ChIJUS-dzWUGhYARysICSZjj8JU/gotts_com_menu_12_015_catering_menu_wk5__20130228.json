@@ -1,0 +1,210 @@
+{
+ "photo": "wb/20130228/http://gotts.com/menu/12-GTR-015_catering_menu.wk5.pdf",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://web.archive.org/web/20130228/http://gotts.com/menu/12-GTR-015_catering_menu.wk5.pdf",
+ "observed_on": "2013-02-28",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "shakes",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "ice cream in a cup",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "canned soda",
+    "price": 2.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "iced tea",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "lemonade",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "spring & sparkling water",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "coffee",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "odwalla juice & smoothies",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "bottled beers",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "PBR",
+    "price": 3.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "21st Amendment Black IPA",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "21st Amendment Extra Pale Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Anderson Valley Seasonal Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bieler Père et Fils Rosé",
+    "price": 21.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Napa Cellars Chardonnay",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Montevina Pinot Grigio",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hall Sauvignon Blanc",
+    "price": 24.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Jelly Jar Zinfandel",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dona Paula Malbec",
+    "price": 21.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chappellet Cabernet Sauvignon",
+    "price": 36.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "La Follette Pinot Noir",
+    "price": 33.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [
+   "2012"
+  ],
+  "restaurant_hint": "Gotts",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000923,
+ "wayback_ts": "20130228"
+}

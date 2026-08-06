@@ -1,0 +1,580 @@
+{
+ "photo": "wb/20150213/http://gotts.com/gottwp/wp-content/uploads/13-GTR-009-march_menu.pdf",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://web.archive.org/web/20150213/http://gotts.com/gottwp/wp-content/uploads/13-GTR-009-march_menu.pdf",
+ "observed_on": "2015-02-13",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Shake",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Extra Topping",
+    "price": 1.25,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ice Cream in a Cup",
+    "price": 2.99,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ice Cream in a Cup",
+    "price": 4.49,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rootbeer Float",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fountain Soda",
+    "price": 1.99,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fountain Soda",
+    "price": 2.69,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Soda Flavor Add-on",
+    "price": 0.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Iced Tea",
+    "price": 1.99,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Iced Tea",
+    "price": 2.69,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lemonade",
+    "price": 1.99,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lemonade",
+    "price": 2.69,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sparkling Juice",
+    "price": 2.69,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Apple Juice",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Spring Water",
+    "price": 2.69,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sparkling Mineral Water",
+    "price": 2.69,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Grilled Cheese",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Mini Corn Dogs",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": 4,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Tenders",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": 4,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Plain Burger",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hot Dog",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Schramsberg Blanc de Blancs",
+    "price": 22.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "375ml",
+    "notes": null
+   },
+   {
+    "name": "Buehler Vineyards Chardonnay",
+    "price": 9.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Buehler Vineyards Chardonnay",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Montevina Pinot Grigio",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Montevina Pinot Grigio",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "St. Supery Sauvignon Blanc",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "St. Supery Sauvignon Blanc",
+    "price": 21.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Neyers Unoaked Chardonnay",
+    "price": 11.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Neyers Unoaked Chardonnay",
+    "price": 33.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Bieler Père et Fils Rosé",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Bieler Père et Fils Rosé",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Charles & Charles Rosé",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Charles & Charles Rosé",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Jelly Jar Zinfandel",
+    "price": 9.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Jelly Jar Zinfandel",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Lang & Reed Cabernet Franc",
+    "price": 10.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Lang & Reed Cabernet Franc",
+    "price": 30.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Bonny Doon Clos du Gilroy Grenache",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Bonny Doon Clos du Gilroy Grenache",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Paul Hobbs Crossbarn Pinot Noir",
+    "price": 12.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Glass",
+    "notes": null
+   },
+   {
+    "name": "Paul Hobbs Crossbarn Pinot Noir",
+    "price": 36.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "Bottle",
+    "notes": null
+   },
+   {
+    "name": "Mason Sauvignon Blanc",
+    "price": 11.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Frogs Leap Sauvignon Blanc",
+    "price": 14.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Duckhorn Sauvignon Blanc",
+    "price": 17.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Merryvale Starmont Chardonnay",
+    "price": 12.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rombauer Chardonnay",
+    "price": 24.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Storybook Zinfandel",
+    "price": 25.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Merryvale Starmont Cabernet Sauvignon",
+    "price": 15.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Shafer Cabernet Sauvignon",
+    "price": 50.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Swanson Merlot",
+    "price": 20.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Draft Beer",
+    "price": 5.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "16oz",
+    "notes": null
+   },
+   {
+    "name": "Corona",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Bud Light Long Neck",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Anchor Lager",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Drake’s 1500 Pale Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "North Coast Scrimshaw Pilsner",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Lucky Hand Cali Common Organic",
+    "price": 9.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "22oz",
+    "notes": null
+   },
+   {
+    "name": "Pabst Blue Ribbon",
+    "price": 3.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Anderson Valley Summer Solstice",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Anderson Valley Boont Amber Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   },
+   {
+    "name": "Mama’s Little Yella Pils",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "12oz",
+    "notes": null
+   }
+  ],
+  "date_hints": [
+   "spring/summer 2013",
+   "Summer 2013"
+  ],
+  "restaurant_hint": "Gott's Roadside",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001602,
+ "wayback_ts": "20150213"
+}

@@ -1,0 +1,1018 @@
+{
+ "photo": "wb/20170722/http://www.gotts.com/media/menu.pdf",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://web.archive.org/web/20170722/http://www.gotts.com/media/menu.pdf",
+ "observed_on": "2017-07-22",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "CALIFORNIA BURGER",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "KIMCHI BURGER",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "WESTERN BACON BLUE RING",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "BLUE CHEESE BURGER",
+    "price": 10.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "DOUBLE CHEESEBURGER",
+    "price": 11.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "TEXAS AVOCADO BURGER",
+    "price": 10.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "WISCONSIN SOURDOUGH",
+    "price": 10.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "BACON CHEESEBURGER",
+    "price": 10.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "GREEN CHILE CHEESEBURGER",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHEESEBURGER",
+    "price": 8.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "HAMBURGER",
+    "price": 7.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "FRIES",
+    "price": 3.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "GARLIC FRIES",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "SWEET POTATO FRIES",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ONION RINGS",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHILI CHEESE FRIES",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHICKEN TENDERS",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CRISPY TERIYAKI CHICKEN",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "A B.L.T.",
+    "price": 10.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CALIFORNIA CHICKEN",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ALABAMA BBQ CHICKEN",
+    "price": 10.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CITRUS & AVOCADO CHOP",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "COBB",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHINESE CHICKEN",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHICKEN KALE CAESAR",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "VIETNAMESE CHICKEN",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "KALE",
+    "price": 7.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Add-on",
+    "price": 4.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Add: Chicken"
+   },
+   {
+    "name": "AHI POKE CRISPY TACOS",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": 3,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "MAHI MAHI TACOS",
+    "price": 13.99,
+    "old_price": null,
+    "size": null,
+    "qty": 3,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "FISH & CHIPS",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "AHI BURGER",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "NIMAN RANCH FEARLESS FRANK",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cheddar Cheese Add-on",
+    "price": 1.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Add: Cheddar Cheese"
+   },
+   {
+    "name": "House-made Chili Add-on",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Add: House-made Chili"
+   },
+   {
+    "name": "SPICY TOMATO SOUP",
+    "price": 6.99,
+    "old_price": null,
+    "size": "Bowl",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "SPICY TOMATO SOUP",
+    "price": 4.99,
+    "old_price": null,
+    "size": "Cup",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHILI",
+    "price": 7.99,
+    "old_price": null,
+    "size": "Bowl",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CHILI",
+    "price": 5.99,
+    "old_price": null,
+    "size": "Cup",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Anchor Steam",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ballast Point Sculpin IPA",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lagunitas IPA",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Modern Times Fortunate Islands Hoppy Tropical Wheat",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Stella Artois",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Trumer Pilsner",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dogfish Head 90 Minute IPA",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Corona",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Miller Lite",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fat Tire Amber Ale",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Calicraft Cali Cöast Kölsch",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Stone Delicious Gluten-Reduced IPA",
+    "price": 5.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pabst Blue Ribbon",
+    "price": 3.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Blue Moon Belgian-Style Wheat Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Firestone Walker 805 Blonde Ale",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sierra Nevada Pale Ale",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Anderson Valley Blood Orange Gose",
+    "price": 5.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bite Hard Cider",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Blanc de Blancs • Schramsberg (Napa Valley) 2013",
+    "price": 29.0,
+    "old_price": null,
+    "size": "375ml",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rosé • Bieler Père et Fils (Provence, France) 2016",
+    "price": 8.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rosé • Bieler Père et Fils (Provence, France) 2016",
+    "price": 24.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pinot Grigio • Montevina (California) 2015",
+    "price": 7.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pinot Grigio • Montevina (California) 2015",
+    "price": 21.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Grüner Veltliner • Loimer Lois (Kamptal, Austria) 2015",
+    "price": 8.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Grüner Veltliner • Loimer Lois (Kamptal, Austria) 2015",
+    "price": 24.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chardonnay • Napa Cellars (Napa Valley) 2014",
+    "price": 9.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chardonnay • Napa Cellars (Napa Valley) 2014",
+    "price": 27.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sauvignon Blanc • Pomelo (California) 2016",
+    "price": 9.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sauvignon Blanc • Pomelo (California) 2016",
+    "price": 27.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sauvignon Blanc • Mason (Napa Valley) 2015",
+    "price": 13.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sauvignon Blanc • Frog’s Leap (Napa Valley) 2016",
+    "price": 19.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sauvignon Blanc • Duckhorn (Napa Valley) 2015",
+    "price": 19.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chardonnay • Merryvale Starmont (Napa Valley) 2014",
+    "price": 17.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chardonnay • Rombauer (Napa Valley) 2015",
+    "price": 26.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Blend • Charles & Charles (Washington) 2015",
+    "price": 8.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Blend • Charles & Charles (Washington) 2015",
+    "price": 24.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pinot Noir • Sean Minor Four Bears (Central Coast) 2015",
+    "price": 8.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pinot Noir • Sean Minor Four Bears (Central Coast) 2015",
+    "price": 24.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Sauvignon • Buehler Vineyards (Napa Valley) 2014",
+    "price": 11.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Sauvignon • Buehler Vineyards (Napa Valley) 2014",
+    "price": 33.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Zinfandel • Turley Juvenile (California) 2015",
+    "price": 12.0,
+    "old_price": null,
+    "size": "Glass",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Zinfandel • Turley Juvenile (California) 2015",
+    "price": 36.0,
+    "old_price": null,
+    "size": "Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Franc • Lang & Reed (North Coast) 2013",
+    "price": 20.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Zinfandel • Storybook Vineyards (Napa Valley) 2013",
+    "price": 21.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pinot Noir • Sonoma-Cutrer (Russian River Valley) 2014",
+    "price": 25.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Sauvignon • Long Meadow Ranch (Napa Valley) 2013",
+    "price": 38.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cabernet Sauvignon • Shafer (Napa Valley) 2014",
+    "price": 64.0,
+    "old_price": null,
+    "size": "Half Bottle",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "SHAKES with organic ice cream & milk",
+    "price": 5.99,
+    "old_price": null,
+    "size": "12oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "SHAKES with organic ice cream & milk",
+    "price": 6.99,
+    "old_price": null,
+    "size": "16oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "FLOATS with organic vanilla ice cream",
+    "price": 4.99,
+    "old_price": null,
+    "size": "24oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ORGANIC ICE CREAM IN A CUP",
+    "price": 3.99,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ORGANIC ICE CREAM IN A CUP",
+    "price": 5.99,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Shake Add-ons",
+    "price": 1.25,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Chocolate Syrup, Malt, Oreos, Peanut Butter"
+   },
+   {
+    "name": "FOUNTAIN SODA",
+    "price": 2.69,
+    "old_price": null,
+    "size": "16oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "FOUNTAIN SODA",
+    "price": 2.99,
+    "old_price": null,
+    "size": "24oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ICED TEA",
+    "price": 2.69,
+    "old_price": null,
+    "size": "16oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ICED TEA",
+    "price": 2.99,
+    "old_price": null,
+    "size": "24oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "HOUSE-MADE LEMONADE",
+    "price": 2.69,
+    "old_price": null,
+    "size": "16oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "HOUSE-MADE LEMONADE",
+    "price": 2.99,
+    "old_price": null,
+    "size": "24oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ARNOLD PALMER",
+    "price": 2.69,
+    "old_price": null,
+    "size": "16oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ARNOLD PALMER",
+    "price": 2.99,
+    "old_price": null,
+    "size": "24oz",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "BLUE BOTTLE NEW ORLEANS",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "ICED COFFEE BERNIE’S ORGANIC",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "APPLE JUICE REVIVE KOMBUCHA",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "MOUNTAIN VALLEY SPRING WATER",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "MOUNTAIN VALLEY SPARKLING WATER",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Soda Flavor Add-on",
+    "price": 0.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Vanilla, Cherry"
+   },
+   {
+    "name": "CHEESEBURGER",
+    "price": 7.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Kids Menu"
+   },
+   {
+    "name": "CHICKEN TENDERS",
+    "price": 7.99,
+    "old_price": null,
+    "size": null,
+    "qty": 3,
+    "unit": null,
+    "notes": "Kids Menu"
+   },
+   {
+    "name": "GRILLED CHEESE",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Kids Menu"
+   },
+   {
+    "name": "HOT DOG",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "Kids Menu"
+   },
+   {
+    "name": "MINI CORN DOGS",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": 6,
+    "unit": null,
+    "notes": "Kids Menu"
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Gott's Roadside",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001775,
+ "wayback_ts": "20170722"
+}

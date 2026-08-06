@@ -1,0 +1,64 @@
+{
+ "photo": "wb/20150905/http://gotts.com/gottwp/wp-content/uploads/15-GTR-007-softserve_menu.MECH_.pdf",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://web.archive.org/web/20150905/http://gotts.com/gottwp/wp-content/uploads/15-GTR-007-softserve_menu.MECH_.pdf",
+ "observed_on": "2015-09-05",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Select Two",
+    "price": 4.99,
+    "old_price": null,
+    "size": "Small",
+    "qty": "4",
+    "unit": "oz.",
+    "notes": null
+   },
+   {
+    "name": "Select Two",
+    "price": 5.99,
+    "old_price": null,
+    "size": "Large",
+    "qty": "6",
+    "unit": "oz.",
+    "notes": null
+   },
+   {
+    "name": "Additional toppings",
+    "price": 0.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "ea.",
+    "notes": null
+   },
+   {
+    "name": "Toppings",
+    "price": 3.79,
+    "old_price": null,
+    "size": "Small",
+    "qty": "4",
+    "unit": "oz.",
+    "notes": null
+   },
+   {
+    "name": "Toppings",
+    "price": 4.79,
+    "old_price": null,
+    "size": "Large",
+    "qty": "6",
+    "unit": "oz.",
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.85
+ },
+ "cost_usd": 0.000624,
+ "wayback_ts": "20150905"
+}

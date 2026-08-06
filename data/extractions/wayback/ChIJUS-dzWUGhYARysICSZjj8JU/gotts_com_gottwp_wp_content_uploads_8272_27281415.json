@@ -1,0 +1,861 @@
+{
+  "photo": "wb/27281415/http://gotts.com/gottwp/wp-content/uploads/82728-14-GTR-033-winter_menu.FNL_13Jan20153.pdf",
+  "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+  "src": "https://web.archive.org/web/27281415/http://gotts.com/gottwp/wp-content/uploads/82728-14-GTR-033-winter_menu.FNL_13Jan20153.pdf",
+  "observed_on": "2015-02-06",
+  "date_source": "wayback",
+  "result": {
+    "is_menu": true,
+    "currency_iso": "USD",
+    "currency_symbol": "$",
+    "items": [
+      {
+        "name": "western bacon blue ring",
+        "price": 11.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "wisconsin sourdough",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "texas avocado burger",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Green Chile Cheeseburger",
+        "price": 9.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "blue cheese burger",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "patty melt",
+        "price": 9.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "FRIES",
+        "price": 2.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "GARLIC FRIES",
+        "price": 3.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "SWEET POTATO FRIES",
+        "price": 3.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "chili cheese fries",
+        "price": 5.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "ONION RINGS",
+        "price": 3.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "vegetable sticks",
+        "price": 2.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "chicken TENDERS",
+        "price": 7.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "CHINESE CHICKEN SALAD",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "cobb salad",
+        "price": 12.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "CHICKEN CAESAR SALAD",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Vietnamese chicken SALAD",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "kale SALAD",
+        "price": 7.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "spicy tomato soup",
+        "price": 5.99,
+        "old_price": null,
+        "size": "Bowl",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "spicy tomato soup",
+        "price": 3.99,
+        "old_price": null,
+        "size": "Cup",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "chili",
+        "price": 7.99,
+        "old_price": null,
+        "size": "Bowl",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "chili",
+        "price": 4.99,
+        "old_price": null,
+        "size": "Cup",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "cheeseburger",
+        "price": 7.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "double cheeseburger",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "bacon cheeseburger",
+        "price": 9.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "hamburger",
+        "price": 6.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Montevina Pinot Grigio",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Palmina Pinot Grigio",
+        "price": 8.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "St. Supery Sauvignon Blanc",
+        "price": 8.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Napa Cellars Chardonnay",
+        "price": 9.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Charles & Charles Cabernet Blend",
+        "price": 7.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Bishop\u2019s Peak Pinot Noir",
+        "price": 9.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Bedrock Zinfandel",
+        "price": 9.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Rutherford Ranch Cabernet Sauvignon",
+        "price": 10.0,
+        "old_price": null,
+        "size": "Glass",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Anchor Steam",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Dogfish Head 90 Minute IPA",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Lagunitas IPA",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Ruhstaller 1881 Red Ale",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Sierra Nevada Pale Ale",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Stella Artois",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Trumer Pilsner",
+        "price": 6.0,
+        "old_price": null,
+        "size": "Draft",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "ahi poke crispy tacos",
+        "price": 14.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "mahi mahi tacos",
+        "price": 13.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "fish & chips",
+        "price": 16.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "ahi burger",
+        "price": 15.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "niman ranch FEARLESS FRANK",
+        "price": 5.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "california chicken",
+        "price": 11.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Alabama BBQ Chicken",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Crispy jalape\u00f1o chicken",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "\u201ca\u201d b.l.t.",
+        "price": 10.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Crispy Chicken Po\u2019 Boy",
+        "price": 7.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "floats with organic vanilla ice cream",
+        "price": 4.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "SHAKES with organic ice cream & milk",
+        "price": 5.99,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "SHAKES with organic ice cream & milk",
+        "price": 6.99,
+        "old_price": null,
+        "size": "16oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "ORGANIC ice cream in a cup",
+        "price": 3.99,
+        "old_price": null,
+        "size": "Small",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "ORGANIC ice cream in a cup",
+        "price": 5.99,
+        "old_price": null,
+        "size": "Large",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "FOUNTAIN SODA",
+        "price": 2.25,
+        "old_price": null,
+        "size": "Small",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "FOUNTAIN SODA",
+        "price": 2.99,
+        "old_price": null,
+        "size": "Regular",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Blue Bottle New Orleans Iced Coffee",
+        "price": 3.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "iced tea",
+        "price": 2.25,
+        "old_price": null,
+        "size": "Small",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "iced tea",
+        "price": 2.99,
+        "old_price": null,
+        "size": "Regular",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "lemonade house-made",
+        "price": 2.25,
+        "old_price": null,
+        "size": "Small",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "lemonade house-made",
+        "price": 2.99,
+        "old_price": null,
+        "size": "Regular",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "arnold palmer",
+        "price": 2.25,
+        "old_price": null,
+        "size": "Small",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "arnold palmer",
+        "price": 2.99,
+        "old_price": null,
+        "size": "Regular",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "sparkling juice",
+        "price": 2.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "apple juice",
+        "price": 2.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "spring water",
+        "price": 2.69,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "sparkling mineral water",
+        "price": 2.69,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "grilled cheese",
+        "price": 6.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Mini Corn dogs",
+        "price": 6.99,
+        "old_price": null,
+        "size": null,
+        "qty": 6,
+        "unit": null
+      },
+      {
+        "name": "Chicken tenders",
+        "price": 6.99,
+        "old_price": null,
+        "size": null,
+        "qty": 3,
+        "unit": null
+      },
+      {
+        "name": "plain burger",
+        "price": 6.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "hot dog",
+        "price": 6.99,
+        "old_price": null,
+        "size": null,
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Schramsberg Blanc de Blancs",
+        "price": 26.0,
+        "old_price": null,
+        "size": "375ml",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Montevina Pinot Grigio",
+        "price": 18.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Palmina Pinot Grigio",
+        "price": 24.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "St. Supery Sauvignon Blanc",
+        "price": 24.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Napa Cellars Chardonnay",
+        "price": 27.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Charles & Charles Cabernet Blend",
+        "price": 21.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Bishop\u2019s Peak Pinot Noir",
+        "price": 27.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Bedrock Zinfandel",
+        "price": 27.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Rutherford Ranch Cabernet Sauvignon",
+        "price": 30.0,
+        "old_price": null,
+        "size": "Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Mason Sauvignon Blanc",
+        "price": 11.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Frogs Leap Sauvignon Blanc",
+        "price": 14.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Merryvale Starmont Chardonnay",
+        "price": 15.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Duckhorn Sauvignon Blanc",
+        "price": 17.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Rombauer Chardonnay",
+        "price": 24.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Seghesio Zinfandel",
+        "price": 17.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Lang & Reed Cabernet Franc",
+        "price": 17.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Merryvale Starmont Cabernet Sauvignon",
+        "price": 18.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Siduri Pinot Noir",
+        "price": 20.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Shafer Cabernet Sauvignon",
+        "price": 53.0,
+        "old_price": null,
+        "size": "Half Bottle",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Corona",
+        "price": 4.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Miller Lite Long Neck",
+        "price": 4.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Fat Tire Amber Ale",
+        "price": 4.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Drake\u2019s 1500 Pale Ale",
+        "price": 4.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Firestone Walker Double Barrel Ale",
+        "price": 5.0,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Rogue Dead Guy Ale",
+        "price": 5.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Pabst Blue Ribbon",
+        "price": 3.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Blue Moon Belgian-Style Wheat Ale",
+        "price": 4.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Saint Archer Blonde Ale",
+        "price": 4.5,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Anderson Valley Boont Amber Ale",
+        "price": 5.0,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Ballast Point Sculpin IPA",
+        "price": 6.0,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      },
+      {
+        "name": "Bite Hard Cider",
+        "price": 6.0,
+        "old_price": null,
+        "size": "12oz",
+        "qty": null,
+        "unit": null
+      }
+    ],
+    "date_hints": [
+      "winter 2015"
+    ],
+    "restaurant_hint": null,
+    "confidence": 0.9
+  },
+  "cost_usd": 0.001636,
+  "wayback_ts": "27281415"
+}
