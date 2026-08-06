@@ -1,0 +1,226 @@
+{
+ "photo": "wb/20151106070253/http://www.angelerestaurant.com:80/DINNER_10-15.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20151106070253/http://www.angelerestaurant.com:80/DINNER_10-15.pdf",
+ "observed_on": "2015-11-06",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½doz",
+    "notes": null
+   },
+   {
+    "name": "Classic French Onion Soup",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 9,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Wild Mushroom and Pumpkin Agnolotti, Fresh Ricotta, Almonds",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Kale and Fall Greens Salad, Soft Cow’s Milk Cheese, Hazelnuts, Apples, Pomegranates",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Crème Fraïche Mousse, Pomegranates, Pickled Jalapenõs",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté “En Croute”, Pickled Fall Beans, Mustard Vinaigrette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Thyme Roasted Ono, Tomato Stewed Spanish Octopus, Pickled Cherry Peppers, Toasted Levain",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Foie Gras Torchon, Huckleberry Gelée, Candied Almonds, Petite Brioche",
+    "price": 22,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hamachi Crudo, Watercress, Persimmons, Quinoa, Fleur de Sel Cracker",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Warm Ricotta Custard, Shaved Black Truﬄes, Wild Mushrooms, Parmesan",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Dijon Mustard, Farm Egg Yolk, Arugula Salad",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Little Gem Lettuces, Fines Herbs, Red Wine Vinaigrette",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Veal Sweetbreads, Cauliﬂower Polenta, Conﬁt Lemons, Pickled Carrots",
+    "price": 19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Branzino, Quince Salad, Lemon Caper Butter Sauce",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Quail, Stuﬀed with Boudin Blanc Sausage, Thyme Stewed Coco Beans",
+    "price": 34,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wild Mushroom Risotto, Black Truﬄe Butter, Parmigiano-Reggiano",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bacon Wrapped Roasted Chicken, Mushrooms and Baguette Stuﬃng, Farm Egg",
+    "price": 28,
+    "old_price": null,
+    "size": "half",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bacon Wrapped Roasted Chicken, Mushrooms and Baguette Stuﬃng, Farm Egg",
+    "price": 56,
+    "old_price": null,
+    "size": "whole",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dayboat Scallops, Red Wine Fregola, Sunchoke, Chocolate Parsnip Purée",
+    "price": 30,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Prime New York Steak, Lollipop Kale, Baby Pumpkin Shepards Pie with Beef Belly",
+    "price": 39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sonoma Duck Leg Conﬁt, Roasted Baby Potatoes, Fall Pears",
+    "price": 34,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Snake River Pork Tenderloin, Braised  Red Cabbage, Farro, Roasted Chestnuts, Celery Root",
+    "price": 32,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angelo Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000966,
+ "wayback_ts": "20151106070253"
+}

@@ -1,0 +1,253 @@
+{
+ "photo": "wb/20180619102952/http://www.angelerestaurant.com:80/Spring_Dinner_5-18ai.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20180619102952/http://www.angelerestaurant.com:80/Spring_Dinner_5-18ai.pdf",
+ "observed_on": "2018-06-19",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Soup du Jour",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Marinated Lucques Olives",
+    "price": 6,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Herbes de Provence Crème Fraïche, Pickled Shallots",
+    "price": 14,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Artisan Cheeses of the Day, Chestnut Honey, Toasted Levain",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Baby Garden Lettuces, Sherry Vinaigrette, Shaved Parmigiano-Reggiano",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wild Mushroom Tartlette, Morels, Chanterelle, Comté Fondue, Sauce Vert",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Oysters on the Half Shell served with Champagne Mignonette",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "doz",
+    "notes": null
+   },
+   {
+    "name": "Escargots “Vol au Vent” Garlic, Parsley, Beurre Blanc",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté, Toasted Country Bread, Pickled Vegetables, Cornichons",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Foie Gras Torchon, Cherry Compote, Hazelnuts, Country Levain Bread",
+    "price": 22,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rabbit Loin Wrapped in Bayonne Ham, Farro Verde, Green Garlic Ravigotte",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Classic Steak Tartare, Capers, Egg Yolk, Grated Horseradish, Toasted Baguette",
+    "price": 17,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Veal Sweetbreads, Morel Mushrooms, Madeira Veal Jus, Herbed Polenta",
+    "price": 19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Pasta, Garden Asparagus, Favas, Green Garlic, Parmigiano-Reggiano",
+    "price": 29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Moules Frites” Steamed Mussels, White Wine “Rumi Spice Co” Saﬀron, French Fries",
+    "price": 32,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Branzino, Scallop Mousseline, English Pea Risotto, Petite Herb Salad",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Skuna Bay Salmon, Spring Vegetables, Citrus, Oilive Oil",
+    "price": 29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Heritage Chicken, Fresh Herbs, Garlic, Roasted Potatoes",
+    "price": 32,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Lapin a la Moutarde” Rabbit Stew with Mustard Crème Fraîche, Tarragon, Noodles",
+    "price": 34,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "“Steak Frites” Prime New York Steak, French Fries, Bordelaise Sauce",
+    "price": 39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Duck Conﬁt, Warm Du Puy Lentils, Lardons, Sherry Vinaigrette",
+    "price": 32,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Du Puy Lentils, Sherry Vinaigrette, Lardons",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sautéed Haricots Verts, Shallots, Garlic",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Macaroni and Cheese",
+    "price": 11,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Angele Wine Bags",
+    "price": 25,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angèle Restaurant",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000928,
+ "wayback_ts": "20180619102952"
+}

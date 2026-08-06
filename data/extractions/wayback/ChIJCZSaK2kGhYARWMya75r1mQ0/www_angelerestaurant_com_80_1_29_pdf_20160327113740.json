@@ -1,0 +1,235 @@
+{
+ "photo": "wb/20160327113740/http://www.angelerestaurant.com:80/DINNER_1-29.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20160327113740/http://www.angelerestaurant.com:80/DINNER_1-29.pdf",
+ "observed_on": "2016-03-27",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½doz",
+    "notes": null
+   },
+   {
+    "name": "Classic French Onion Soup",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Wild Mushroom and Pumpkin Agnolotti, Fresh Ricotta, Almonds",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Kale and Winter Greens Salad, Soft Cow’s Milk Cheese, Hazelnuts, Apples, Pomegranates",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Black Truffled Deviled Eggs, Crème Fraïche Mousse",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Rabbit Stuffed Gnocchi, Veal Bolognese",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté “En Croute”, Pickled Vegetables, Mustard Vinaigrette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Comté Cheese and Chanterelle Mushroom Soufflé",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Foie Gras and Duck Liver Terrine, Toasted Brioche",
+    "price": 22,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hamachi Crudo, Cassoulet Bean Hummus, Shaved Radishes",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Warm Ricotta Custard, Crispy Wild Mushrooms, Parmesan",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Dijon Mustard, Farm Egg Yolk, Arugula Salad",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Little Gem Lettuces, Fines Herbs, Red Wine Vinaigrette",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Veal Sweetbreads, Cauliflower Polenta, Confit Lemons, Pickled Carrots",
+    "price": 19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lobster and Black Truffle Pot Pie, Shaved Baby Carrot Salad",
+    "price": 30,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Quail, Stuffed with Boudin Blanc Sausage, Kumquats, Thyme Stewed Coco Beans",
+    "price": 34,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wild Mushroom Risotto, Black Truffle Butter, Parmigiano-Reggiano",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Branzino, Winter Citrus, Lemon Caper Butter Sauce",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Coq au Vin, Red Wine Braised Chicken, Lardons, Mushrooms, Garden Carrots, Baby Potatoes",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Prime New York Steak, Lollipop Kale, Rosefin Potato Galette, Wild Mushroom Sauce",
+    "price": 39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sonoma Duck Leg Confit, French Lentil, Gooseberries, Watercress Puree",
+    "price": 29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Veal Loin, Forbidden Rice, Winter Apples, Wild Mustard Greens",
+    "price": 34,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Five Course",
+    "price": 95,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Five Course with Wine Pairing",
+    "price": 135,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angelerestaurant.com",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000994,
+ "wayback_ts": "20160327113740"
+}
