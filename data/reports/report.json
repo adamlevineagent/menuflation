@@ -181,11 +181,51 @@
    "n": 1
   },
   {
+   "item": "add cheddar cheese",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "add chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
    "item": "add chocolate syrup malt oreos",
    "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2012-05-15",
+   "date_source": "wayback",
+   "median": 1.25,
+   "n": 1
+  },
+  {
+   "item": "add chocolate syrup malt oreos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 1.25,
+   "n": 1
+  },
+  {
+   "item": "add chocolate syrup malt oreos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
    "date_source": "wayback",
    "median": 1.25,
    "n": 1
@@ -198,6 +238,16 @@
    "observed_on": "2023-06-10",
    "date_source": "wayback",
    "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "add flavors vanilla cherry",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 0.99,
    "n": 1
   },
   {
@@ -441,6 +491,46 @@
    "n": 2
   },
   {
+   "item": "ahi burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 15.99,
+   "n": 1
+  },
+  {
+   "item": "ahi burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 15.99,
+   "n": 1
+  },
+  {
+   "item": "ahi burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 15.99,
+   "n": 1
+  },
+  {
+   "item": "ahi burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 16.99,
+   "n": 1
+  },
+  {
    "item": "ahi poke crispy tacos",
    "size": null,
    "place": "Gott's Napa",
@@ -472,6 +562,46 @@
   },
   {
    "item": "ahi poke crispy tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 14.99,
+   "n": 1
+  },
+  {
+   "item": "ahi poke crispy tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 14.99,
+   "n": 1
+  },
+  {
+   "item": "ahi poke crispy tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 14.99,
+   "n": 1
+  },
+  {
+   "item": "ahi poke crispy tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 15.99,
+   "n": 1
+  },
+  {
+   "item": "ahi poke crispy tacos",
    "size": "3 tacos",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -488,6 +618,26 @@
    "observed_on": "2014-09-20",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "alabama bbq chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "alabama bbq chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 10.99,
    "n": 1
   },
   {
@@ -686,6 +836,76 @@
    "place": "Bistro Don Giovanni",
    "place_id": "ChIJk9oQNMQAhYARR5ZLukVPzS4",
    "observed_on": "2017-01-10",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "anchor steam",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "anchor steam",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "anchor steam",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "anchor steam",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "anderson valley blood orange gose",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.5,
+   "n": 1
+  },
+  {
+   "item": "anderson valley boont amber ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "anderson valley boont amber ale",
+   "size": "Canned (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
    "date_source": "wayback",
    "median": 5.0,
    "n": 1
@@ -1061,6 +1281,36 @@
    "n": 2
   },
   {
+   "item": "apple juice",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "apple juice mountain valley",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "apple juice revive kombucha",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
    "item": "arnaldo caprai grecante grechetto",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -1078,6 +1328,66 @@
    "observed_on": "2019-09-19",
    "date_source": "wayback",
    "median": 13.0,
+   "n": 1
+  },
+  {
+   "item": "arnold palmer",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "arnold palmer",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "arnold palmer",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "arnold palmer",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "arnold palmer",
+   "size": "Regular",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "arnold palmer",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.25,
    "n": 1
   },
   {
@@ -1341,6 +1651,16 @@
    "n": 1
   },
   {
+   "item": "avocado tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
    "item": "avocado toast",
    "size": null,
    "place": "Code 4 Taphouse",
@@ -1409,6 +1729,36 @@
    "date_source": "wayback",
    "median": 7.99,
    "n": 2
+  },
+  {
+   "item": "b l t",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "b l t",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "b l t",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
   },
   {
    "item": "b nardini amaro",
@@ -1529,6 +1879,46 @@
    "date_source": "wayback",
    "median": 9.99,
    "n": 2
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 10.49,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
   },
   {
    "item": "bacon dog",
@@ -1701,6 +2091,16 @@
    "n": 1
   },
   {
+   "item": "baja fish tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
    "item": "baked ham",
    "size": null,
    "place": "Genova Delicatessen",
@@ -1718,6 +2118,46 @@
    "observed_on": "2026-08-05",
    "date_source": "fallback",
    "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "ballast point sculpin ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "ballast point sculpin ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "ballast point sculpin ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "ballast point sculpin ipa",
+   "size": "Canned (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
    "n": 1
   },
   {
@@ -2058,6 +2498,26 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "bedrock zinfandel california",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "bedrock zinfandel california",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.0,
    "n": 1
   },
   {
@@ -2532,6 +2992,46 @@
   },
   {
    "item": "bieler p re et fils 11 ros",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
    "size": "Glass",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -2539,6 +3039,46 @@
    "date_source": "wayback",
    "median": 7.0,
    "n": 2
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "bieler p re et fils 11 ros",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
   },
   {
    "item": "big mac",
@@ -2568,6 +3108,16 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 95.0,
+   "n": 1
+  },
+  {
+   "item": "billecart salmon nv brut r serve",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 29.0,
    "n": 1
   },
   {
@@ -3021,6 +3571,36 @@
    "n": 1
   },
   {
+   "item": "bite hard cider",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "bite hard cider",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "bite hard cider",
+   "size": "Canned (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
    "item": "black stallion",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -3028,6 +3608,26 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 35.0,
+   "n": 1
+  },
+  {
+   "item": "black white shake",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "black white shake",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
    "n": 1
   },
   {
@@ -3191,6 +3791,46 @@
    "n": 1
   },
   {
+   "item": "blue bottle new orleans",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "blue bottle new orleans",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "blue bottle new orleans iced coffee",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "blue bottle new orleans iced coffee",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
    "item": "blue burger",
    "size": null,
    "place": "The Depot Eatery",
@@ -3229,6 +3869,76 @@
    "date_source": "wayback",
    "median": 9.99,
    "n": 2
+  },
+  {
+   "item": "blue cheese burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "blue cheese burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "blue cheese burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "blue moon belgian style wheat ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "blue moon belgian style wheat ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "blue moon belgian style wheat ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "blue moon belgian style wheat ale",
+   "size": "Canned (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
   },
   {
    "item": "blueberry banana french toast",
@@ -4121,6 +4831,66 @@
    "n": 1
   },
   {
+   "item": "cabernet sauvignon buehler vineyards",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 33.0,
+   "n": 1
+  },
+  {
+   "item": "cabernet sauvignon buehler vineyards",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
+   "item": "cabernet sauvignon long meadow ranch",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 38.0,
+   "n": 1
+  },
+  {
+   "item": "cabernet sauvignon long meadow ranch",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 42.0,
+   "n": 1
+  },
+  {
+   "item": "cabernet sauvignon sean minor",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 44.0,
+   "n": 1
+  },
+  {
+   "item": "cabernet sauvignon sean minor",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
    "item": "cade",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -4261,6 +5031,16 @@
    "n": 1
   },
   {
+   "item": "calicraft cali c ast k lsch",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
    "item": "california arborio rice roasted mushrooms summer squash basil pistou",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -4268,6 +5048,26 @@
    "observed_on": "2026-06-15",
    "date_source": "pdf",
    "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "california burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "california burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 14.99,
    "n": 1
   },
   {
@@ -4299,6 +5099,46 @@
    "date_source": "wayback",
    "median": 10.99,
    "n": 2
+  },
+  {
+   "item": "california chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "california chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "california chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "california chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
   },
   {
    "item": "california drafts",
@@ -4781,6 +5621,96 @@
    "n": 1
   },
   {
+   "item": "chardonnay miner",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "charles charles 13 cabernet blend",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
    "item": "charles krug",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -4913,6 +5843,46 @@
   {
    "item": "cheese burger",
    "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.24,
+   "n": 2
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.49,
+   "n": 2
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
    "place": "In-N-Out Burger",
    "place_id": "ChIJ10wSHbh7z1QR0b85blfP4gI",
    "observed_on": "2026-06-25",
@@ -4958,6 +5928,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "cheese fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.29,
    "n": 1
   },
   {
@@ -5021,6 +6001,16 @@
    "n": 1
   },
   {
+   "item": "chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
    "item": "chicken bacon ranch",
    "size": null,
    "place": "The Depot Eatery",
@@ -5059,6 +6049,26 @@
    "date_source": "wayback",
    "median": 10.99,
    "n": 2
+  },
+  {
+   "item": "chicken caesar salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "chicken caesar salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
   },
   {
    "item": "chicken club",
@@ -5138,6 +6148,26 @@
    "observed_on": "2026-08-05",
    "date_source": "pdf",
    "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "chicken kale caesar",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "chicken kale caesar",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
    "n": 1
   },
   {
@@ -5261,6 +6291,16 @@
    "n": 1
   },
   {
+   "item": "chicken schnitzel",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
    "item": "chicken strips",
    "size": null,
    "place": "Barney's Burgers",
@@ -5318,6 +6358,46 @@
    "observed_on": "2012-06-17",
    "date_source": "wayback",
    "median": 6.99,
+   "n": 2
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.49,
+   "n": 2
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.49,
    "n": 2
   },
   {
@@ -5382,6 +6462,46 @@
   },
   {
    "item": "chili",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
    "size": "Cup",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -5409,6 +6529,46 @@
    "date_source": "wayback",
    "median": 4.49,
    "n": 2
+  },
+  {
+   "item": "chili",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
   },
   {
    "item": "chili burger",
@@ -5439,6 +6599,16 @@
    "date_source": "wayback",
    "median": 7.99,
    "n": 2
+  },
+  {
+   "item": "chili cheese dog",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
   },
   {
    "item": "chili cheese fries",
@@ -5489,6 +6659,46 @@
    "date_source": "wayback",
    "median": 4.99,
    "n": 2
+  },
+  {
+   "item": "chili cheese fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "chili cheese fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "chili cheese fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "chili cheese fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
   },
   {
    "item": "chili cheese fries",
@@ -5581,6 +6791,16 @@
    "n": 1
   },
   {
+   "item": "chinese chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
    "item": "chinese chicken salad",
    "size": null,
    "place": "Gott's Napa",
@@ -5609,6 +6829,26 @@
    "date_source": "wayback",
    "median": 10.99,
    "n": 2
+  },
+  {
+   "item": "chinese chicken salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "chinese chicken salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
   },
   {
    "item": "chips hummus",
@@ -5798,6 +7038,26 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "citrus avocado chop",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "citrus avocado chop",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
    "n": 1
   },
   {
@@ -6151,6 +7411,26 @@
    "n": 1
   },
   {
+   "item": "cobb",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "cobb",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 14.99,
+   "n": 1
+  },
+  {
    "item": "cobb jack hill vineyard",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -6178,6 +7458,26 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 14.5,
+   "n": 1
+  },
+  {
+   "item": "cobb salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "cobb salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 12.99,
    "n": 1
   },
   {
@@ -6291,6 +7591,26 @@
    "n": 1
   },
   {
+   "item": "coke float",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "coke float",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
    "item": "coleslaw",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -6328,6 +7648,26 @@
    "observed_on": "2022-04-16",
    "date_source": "exif",
    "median": 1.99,
+   "n": 1
+  },
+  {
+   "item": "cookies cream shake",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "cookies cream shake",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
    "n": 1
   },
   {
@@ -6501,6 +7841,46 @@
    "n": 2
   },
   {
+   "item": "corona",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "corona",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "corona",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "corona",
+   "size": "Bottled (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
    "item": "corona lager mexico",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -6661,6 +8041,16 @@
    "n": 1
   },
   {
+   "item": "crispy chicken po boy",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
    "item": "crispy chicken salad",
    "size": null,
    "place": "Barney's Burgers",
@@ -6688,6 +8078,26 @@
    "observed_on": "2026-06-15",
    "date_source": "pdf",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "crispy jalape o chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "crispy jalape o chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
    "n": 1
   },
   {
@@ -6778,6 +8188,26 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "crispy teriyaki chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "crispy teriyaki chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
    "n": 1
   },
   {
@@ -7198,6 +8628,46 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "dogfish head 90 minute ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.5,
+   "n": 1
+  },
+  {
+   "item": "dogfish head 90 minute ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "dogfish head 90 minute ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.5,
+   "n": 1
+  },
+  {
+   "item": "dogfish head 90 minute ipa",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
    "n": 1
   },
   {
@@ -7733,6 +9203,46 @@
   {
    "item": "double cheeseburger",
    "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "double cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "double cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.49,
+   "n": 1
+  },
+  {
+   "item": "double cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
+   "item": "double cheeseburger",
+   "size": null,
    "place": "McDonald's",
    "place_id": "ChIJkW0xQgUGhYARkqYOdxEIMko",
    "observed_on": "2022-04-16",
@@ -7859,6 +9369,26 @@
    "date_source": "wayback",
    "median": 5.5,
    "n": 2
+  },
+  {
+   "item": "drake s 1500 pale ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "drake s 1500 pale ale",
+   "size": "Bottled (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
   },
   {
    "item": "drake s pilsner",
@@ -8011,6 +9541,16 @@
    "n": 1
   },
   {
+   "item": "duckhorn 09 sauvignon blanc napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
    "item": "duckhorn sauvignon blanc",
    "size": "Half Bottle",
    "place": "Bistro Don Giovanni",
@@ -8028,6 +9568,36 @@
    "observed_on": "2012-06-17",
    "date_source": "wayback",
    "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "duckhorn sauvignon blanc",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "duckhorn sauvignon blanc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "duckhorn sauvignon blanc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 23.0,
    "n": 1
   },
   {
@@ -8188,6 +9758,16 @@
    "observed_on": "2014-09-20",
    "date_source": "wayback",
    "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "einst k icelandic white ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.5,
    "n": 1
   },
   {
@@ -8358,6 +9938,26 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 76.0,
+   "n": 1
+  },
+  {
+   "item": "experience 11 cabernet sauvignon",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "experience 11 cabernet sauvignon",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.0,
    "n": 1
   },
   {
@@ -8581,6 +10181,16 @@
    "n": 1
   },
   {
+   "item": "falafel salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
    "item": "fallen apple",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -8788,6 +10398,46 @@
    "observed_on": "2024-06-19",
    "date_source": "wayback",
    "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "fat tire amber ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "fat tire amber ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "fat tire amber ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.5,
+   "n": 1
+  },
+  {
+   "item": "fat tire amber ale",
+   "size": "Bottled (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.5,
    "n": 1
   },
   {
@@ -9131,6 +10781,46 @@
    "n": 1
   },
   {
+   "item": "firestone walker 805 blonde ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "firestone walker 805 blonde ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "firestone walker double barrel ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "firestone walker double barrel ale",
+   "size": "Bottled (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
    "item": "fish and chips",
    "size": null,
    "place": "Gott's Napa",
@@ -9139,6 +10829,36 @@
    "date_source": "wayback",
    "median": 15.99,
    "n": 2
+  },
+  {
+   "item": "fish chips",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 16.99,
+   "n": 1
+  },
+  {
+   "item": "fish chips",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 16.99,
+   "n": 1
+  },
+  {
+   "item": "fish chips",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 16.99,
+   "n": 1
   },
   {
    "item": "fish chips basket",
@@ -9221,6 +10941,36 @@
    "n": 1
   },
   {
+   "item": "floats",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "floats with organic vanilla ice cream root beer",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 3
+  },
+  {
+   "item": "floats with organic vanilla ice cream root beer",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
    "item": "flowers camp meeting ridge vineyard",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -9261,6 +11011,76 @@
    "n": 1
   },
   {
+   "item": "fort point ksa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.49,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
    "item": "fountain soda",
    "size": "Regular",
    "place": "Gott's Napa",
@@ -9292,6 +11112,16 @@
   },
   {
    "item": "fountain soda",
+   "size": "Regular",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "fountain soda",
    "size": "Small",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -9319,6 +11149,16 @@
    "date_source": "wayback",
    "median": 1.99,
    "n": 2
+  },
+  {
+   "item": "fountain soda",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.25,
+   "n": 1
   },
   {
    "item": "frank family",
@@ -9663,6 +11503,46 @@
   {
    "item": "french fries",
    "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.49,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
    "place": "In-N-Out Burger",
    "place_id": "ChIJ10wSHbh7z1QR0b85blfP4gI",
    "observed_on": "2026-06-25",
@@ -9961,6 +11841,16 @@
    "n": 1
   },
   {
+   "item": "fresh veggies hummus",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
    "item": "freshly baked blueberry muffin",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -9968,6 +11858,16 @@
    "observed_on": "2014-08-01",
    "date_source": "wayback",
    "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "fried brussels sprouts",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
    "n": 1
   },
   {
@@ -10211,6 +12111,16 @@
    "n": 1
   },
   {
+   "item": "frogs leap 09 sauvignon blanc napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
    "item": "frogs leap sauvignon blanc",
    "size": null,
    "place": "Gott's Napa",
@@ -10218,6 +12128,36 @@
    "observed_on": "2012-06-17",
    "date_source": "wayback",
    "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "frogs leap sauvignon blanc",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "frogs leap sauvignon blanc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "frogs leap sauvignon blanc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 21.0,
    "n": 1
   },
   {
@@ -10369,6 +12309,46 @@
    "date_source": "wayback",
    "median": 3.99,
    "n": 2
+  },
+  {
+   "item": "garlic fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "garlic fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "garlic fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "garlic fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
   },
   {
    "item": "gateau aux chocolat chocolate roulade toasted almonds almond anglaise with strawberry syrup",
@@ -10611,6 +12591,16 @@
    "n": 1
   },
   {
+   "item": "gluten free bun",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 1.0,
+   "n": 1
+  },
+  {
    "item": "gnocchetti",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -10731,6 +12721,16 @@
    "n": 1
   },
   {
+   "item": "golden state cider mighty dry",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.5,
+   "n": 1
+  },
+  {
    "item": "goldeneye by duckhorn pinot noir",
    "size": "Half Bottle",
    "place": "Bistro Don Giovanni",
@@ -10768,6 +12768,26 @@
    "observed_on": "2012-04-09",
    "date_source": "wayback",
    "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "gr ner veltliner loimer lois",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "gr ner veltliner loimer lois",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.0,
    "n": 1
   },
   {
@@ -11011,6 +13031,46 @@
    "n": 2
   },
   {
+   "item": "green chile cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "green chile cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "green chile cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "green chile cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
    "item": "green peppers",
    "size": null,
    "place": "Five Guys",
@@ -11208,6 +13268,26 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.15,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
    "n": 1
   },
   {
@@ -11831,6 +13911,16 @@
    "n": 1
   },
   {
+   "item": "hall 11 sauvignon blanc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
    "item": "hall 11 sauvignon blanc napa valley",
    "size": "Bottle",
    "place": "Gott's Napa",
@@ -12043,6 +14133,46 @@
   {
    "item": "hamburger",
    "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
    "place": "In-N-Out Burger",
    "place_id": "ChIJ10wSHbh7z1QR0b85blfP4gI",
    "observed_on": "2026-06-25",
@@ -12078,6 +14208,16 @@
    "observed_on": "2022-04-16",
    "date_source": "exif",
    "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "harmless harvest",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
    "n": 1
   },
   {
@@ -12641,6 +14781,26 @@
    "n": 1
   },
   {
+   "item": "hot dog",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "hot dog",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
    "item": "hot herbal tea",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -12761,6 +14921,16 @@
    "n": 2
   },
   {
+   "item": "house made chili cheddar cheese extra",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 1
+  },
+  {
    "item": "house made condiments",
    "size": null,
    "place": "Gott's Napa",
@@ -12778,6 +14948,76 @@
    "observed_on": "2026-05-25",
    "date_source": "exif",
    "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.49,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "Regular",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "house made lemonade",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.25,
    "n": 1
   },
   {
@@ -13061,6 +15301,26 @@
    "n": 1
   },
   {
+   "item": "iced coffee",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "iced coffee bernie s organic",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
    "item": "iced mocha",
    "size": null,
    "place": "McDonald's",
@@ -13172,6 +15432,66 @@
   },
   {
    "item": "iced tea",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.49,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": "24oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
    "size": "Regular",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -13202,6 +15522,16 @@
   },
   {
    "item": "iced tea",
+   "size": "Regular",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
    "size": "Small",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -13232,6 +15562,16 @@
   },
   {
    "item": "iced tea",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.25,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
    "size": null,
    "place": "McDonald's",
    "place_id": "ChIJkW0xQgUGhYARkqYOdxEIMko",
@@ -13248,6 +15588,26 @@
    "observed_on": "2023-12-05",
    "date_source": "wayback",
    "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "impossible burger patty",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "impossible cheeseburger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
    "n": 1
   },
   {
@@ -13561,6 +15921,46 @@
    "n": 1
   },
   {
+   "item": "jelly jar 10 zinfandel",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "jelly jar 10 zinfandel",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "jelly jar ros lake county",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "jelly jar ros lake county",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
    "item": "joseph phelps",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -13761,6 +16161,26 @@
    "n": 1
   },
   {
+   "item": "kale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "kale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
    "item": "kale and fall greens salad soft cow s milk cheese hazelnuts apples pomegranates",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -13788,6 +16208,26 @@
    "observed_on": "2021-08-02",
    "date_source": "wayback",
    "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "kale salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "kale salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 7.99,
    "n": 1
   },
   {
@@ -13881,6 +16321,16 @@
    "n": 1
   },
   {
+   "item": "kids chicken tenders",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
    "item": "kids combo",
    "size": null,
    "place": "Gott's Napa",
@@ -13891,6 +16341,36 @@
    "n": 1
   },
   {
+   "item": "kids grilled cheese",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "kids hot dog",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "kids plain burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
    "item": "kieren",
    "size": null,
    "place": "Perez Kitchen & Bar",
@@ -13898,6 +16378,26 @@
    "observed_on": "2026-08-05",
    "date_source": "pdf",
    "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "kimchi burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
+   "item": "kimchi burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
    "n": 1
   },
   {
@@ -13998,6 +16498,26 @@
    "observed_on": "2024-01-15",
    "date_source": "dom",
    "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "kung fu girl 13 riesling",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "kung fu girl 13 riesling",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 7.0,
    "n": 1
   },
   {
@@ -14311,6 +16831,46 @@
    "n": 2
   },
   {
+   "item": "lagunitas ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "lagunitas ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "lagunitas ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "lagunitas ipa",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
    "item": "laird ghost ranch",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -14348,6 +16908,36 @@
    "observed_on": "2011-03-22",
    "date_source": "wayback",
    "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "lang reed 10 cabernet franc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "lang reed 10 cabernet franc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "lang reed 10 cabernet franc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 23.0,
    "n": 1
   },
   {
@@ -14921,6 +17511,16 @@
    "n": 1
   },
   {
+   "item": "lucy 13 ros",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
    "item": "luigi einaudi dolcetto di dogliani",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -14928,6 +17528,26 @@
    "observed_on": "2017-01-10",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "luli 12 pinot noir",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 33.0,
+   "n": 1
+  },
+  {
+   "item": "luli 12 pinot noir",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 11.0,
    "n": 1
   },
   {
@@ -15118,6 +17738,46 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "mahi mahi tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
+   "item": "mahi mahi tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
+   "item": "mahi mahi tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
+   "item": "mahi mahi tacos",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 13.99,
    "n": 1
   },
   {
@@ -15761,6 +18421,16 @@
    "n": 1
   },
   {
+   "item": "mason 10 sauvignon blanc napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
    "item": "mason sauvignon blanc",
    "size": null,
    "place": "Gott's Napa",
@@ -15768,6 +18438,26 @@
    "observed_on": "2012-06-17",
    "date_source": "wayback",
    "median": 11.0,
+   "n": 1
+  },
+  {
+   "item": "mason sauvignon blanc",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
+   "item": "mason sauvignon blanc",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 13.0,
    "n": 1
   },
   {
@@ -15961,6 +18651,16 @@
    "n": 1
   },
   {
+   "item": "merryvale starmont 07 cabernet sauvignon napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "merryvale starmont 09 chardonnay napa valley",
    "size": null,
    "place": "Gott's Napa",
@@ -15991,6 +18691,16 @@
    "n": 1
   },
   {
+   "item": "merryvale starmont 09 chardonnay napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 15.0,
+   "n": 1
+  },
+  {
    "item": "merryvale starmont cabernet sauvignon",
    "size": null,
    "place": "Gott's Napa",
@@ -16001,6 +18711,16 @@
    "n": 1
   },
   {
+   "item": "merryvale starmont cabernet sauvignon",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
    "item": "merryvale starmont chardonnay",
    "size": null,
    "place": "Gott's Napa",
@@ -16008,6 +18728,26 @@
    "observed_on": "2012-06-17",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "merryvale starmont chardonnay",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "merryvale starmont chardonnay",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 17.0,
    "n": 1
   },
   {
@@ -16291,6 +19031,46 @@
    "n": 1
   },
   {
+   "item": "miller lite",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "miller lite",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "miller lite long neck",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
+   "item": "miller lite long neck",
+   "size": "Bottled (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.5,
+   "n": 1
+  },
+  {
    "item": "mimosa",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -16379,6 +19159,36 @@
    "date_source": "wayback",
    "median": 5.99,
    "n": 2
+  },
+  {
+   "item": "mini corn dogs",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "mini corn dogs",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "mini corn dogs",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
   },
   {
    "item": "mini corn dogs",
@@ -16531,6 +19341,16 @@
    "n": 2
   },
   {
+   "item": "miss kentucky",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
    "item": "mocha",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -16548,6 +19368,26 @@
    "observed_on": "2022-04-16",
    "date_source": "exif",
    "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "modelo especial",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "modern times fortunate islands hoppy tropical wheat",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
    "n": 1
   },
   {
@@ -16602,6 +19442,36 @@
   },
   {
    "item": "montevina 10 pinot grigio",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "montevina 10 pinot grigio",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "montevina 10 pinot grigio",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "montevina 10 pinot grigio",
    "size": "Glass",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -16609,6 +19479,36 @@
    "date_source": "wayback",
    "median": 6.0,
    "n": 2
+  },
+  {
+   "item": "montevina 10 pinot grigio",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "montevina 10 pinot grigio",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "montevina 10 pinot grigio",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
   },
   {
    "item": "monticelli brothers rolando rosso",
@@ -16811,6 +19711,26 @@
    "n": 1
   },
   {
+   "item": "mountain valley spring water",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 2
+  },
+  {
+   "item": "mountain valley spring water",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
+   "n": 1
+  },
+  {
    "item": "mousse de foie de canard",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -16982,6 +19902,16 @@
   },
   {
    "item": "napa cellars 10 chardonnay napa valley",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars 10 chardonnay napa valley",
    "size": "Glass",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -17001,6 +19931,16 @@
    "n": 1
   },
   {
+   "item": "napa cellars 10 chardonnay napa valley",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
    "item": "napa cellars chardonnay",
    "size": "Bottle",
    "place": "Gott's Napa",
@@ -17012,10 +19952,70 @@
   },
   {
    "item": "napa cellars chardonnay",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars chardonnay",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars chardonnay",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 36.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars chardonnay",
    "size": "Glass",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2012-06-17",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars chardonnay",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars chardonnay",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "napa cellars chardonnay",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
    "date_source": "wayback",
    "median": 9.0,
    "n": 1
@@ -17158,6 +20158,46 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 98.0,
+   "n": 1
+  },
+  {
+   "item": "niman ranch fearless frank",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "niman ranch fearless frank",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "niman ranch fearless frank",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "niman ranch fearless frank",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
    "n": 1
   },
   {
@@ -17431,6 +20471,46 @@
    "n": 2
   },
   {
+   "item": "onion rings",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "onion rings",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "onion rings",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "onion rings",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
    "item": "onions",
    "size": null,
    "place": "Five Guys",
@@ -17468,6 +20548,26 @@
    "observed_on": "2024-01-15",
    "date_source": "dom",
    "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "orange float",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "orange float",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
    "n": 1
   },
   {
@@ -17528,6 +20628,96 @@
    "observed_on": "2014-09-20",
    "date_source": "wayback",
    "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "organic coconut water bernie s organic",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Large",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Large",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Large",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Large",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "organic ice cream in a cup",
+   "size": "Small",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.99,
    "n": 1
   },
   {
@@ -17661,6 +20851,46 @@
    "n": 1
   },
   {
+   "item": "pabst blue ribbon",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "pabst blue ribbon",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "pabst blue ribbon",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "pabst blue ribbon",
+   "size": "Canned (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.5,
+   "n": 1
+  },
+  {
    "item": "paccheri",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -17788,6 +21018,26 @@
    "observed_on": "2023-04-01",
    "date_source": "wayback",
    "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "palmina pinot grigio santa barbara",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "palmina pinot grigio santa barbara",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 8.0,
    "n": 1
   },
   {
@@ -18303,6 +21553,26 @@
   {
    "item": "patty melt",
    "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "patty melt",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "patty melt",
+   "size": null,
    "place": "The Depot Eatery",
    "place_id": "ChIJs8J0FS96xVQRFHgkHHxOttg",
    "observed_on": "2026-08-05",
@@ -18398,6 +21668,26 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 0.9,
+   "n": 1
+  },
+  {
+   "item": "peanut butter chocolate shake",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "peanut butter chocolate shake",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
    "n": 1
   },
   {
@@ -18981,6 +22271,86 @@
    "n": 1
   },
   {
+   "item": "pinot grigio seaglass",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "pinot grigio seaglass",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "pinot noir macrostie",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "pinot noir sean minor four bears",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "pinot noir sean minor four bears",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "pinot noir sonoma cutrer",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "pinot noir the pinot project",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 36.0,
+   "n": 1
+  },
+  {
+   "item": "pinot noir the pinot project",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
    "item": "pintade",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -19018,6 +22388,16 @@
    "observed_on": "2023-06-10",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "pliny the elder",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 9.0,
    "n": 1
   },
   {
@@ -19811,6 +23191,26 @@
    "n": 1
   },
   {
+   "item": "revive kombucha boogie down",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "revive kombucha wild ginger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
    "item": "richard g peterson",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -19818,6 +23218,26 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 108.0,
+   "n": 1
+  },
+  {
+   "item": "rickshaw pinot noir california",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "rickshaw pinot noir california",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 9.0,
    "n": 1
   },
   {
@@ -20181,6 +23601,26 @@
    "n": 2
   },
   {
+   "item": "rogue dead guy ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.5,
+   "n": 1
+  },
+  {
+   "item": "rogue dead guy ale",
+   "size": "Bottled (12oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.5,
+   "n": 1
+  },
+  {
    "item": "rogue hot brown",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -20232,12 +23672,32 @@
   },
   {
    "item": "rombauer 10 chardonnay napa valley",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "rombauer 10 chardonnay napa valley",
    "size": "Half Bottle",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2011-03-22",
    "date_source": "wayback",
    "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "rombauer 10 chardonnay napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 24.0,
    "n": 1
   },
   {
@@ -20261,6 +23721,26 @@
    "n": 1
   },
   {
+   "item": "rombauer chardonnay",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "rombauer chardonnay",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
    "item": "rooster special",
    "size": null,
    "place": "The Depot Eatery",
@@ -20279,6 +23759,26 @@
    "date_source": "wayback",
    "median": 4.99,
    "n": 2
+  },
+  {
+   "item": "root beer float",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "root beer float",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
   },
   {
    "item": "rootbeer float",
@@ -20461,6 +23961,26 @@
    "n": 1
   },
   {
+   "item": "ruhstaller 1881 red ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.5,
+   "n": 1
+  },
+  {
+   "item": "ruhstaller 1881 red ale",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
    "item": "rusty s roundup",
    "size": null,
    "place": "Barney's Burgers",
@@ -20468,6 +23988,26 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 10.45,
+   "n": 1
+  },
+  {
+   "item": "rutherford ranch cabernet sauvignon napa valley",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "rutherford ranch cabernet sauvignon napa valley",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.0,
    "n": 1
   },
   {
@@ -20508,6 +24048,16 @@
    "observed_on": "2017-01-10",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "saint archer blonde ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 4.5,
    "n": 1
   },
   {
@@ -21231,6 +24781,46 @@
    "n": 1
   },
   {
+   "item": "sauvignon blanc daisy",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 32.0,
+   "n": 1
+  },
+  {
+   "item": "sauvignon blanc daisy",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "sauvignon blanc pomelo",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "sauvignon blanc pomelo",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
    "item": "saxon brown 07 pinot noir sonoma",
    "size": "Half Bottle",
    "place": "Gott's Napa",
@@ -21342,6 +24932,26 @@
   },
   {
    "item": "schramsberg 07 blanc de blancs",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "schramsberg 07 blanc de blancs",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "schramsberg 07 blanc de blancs",
    "size": "375ml",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -21358,6 +24968,26 @@
    "observed_on": "2012-05-15",
    "date_source": "wayback",
    "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "schramsberg 07 blanc de blancs",
+   "size": "375ml",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 29.0,
+   "n": 1
+  },
+  {
+   "item": "schramsberg 07 blanc de blancs",
+   "size": "375ml",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 33.0,
    "n": 1
   },
   {
@@ -21661,6 +25291,26 @@
    "n": 1
   },
   {
+   "item": "seghesio 12 zinfandel",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "seghesio 12 zinfandel",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 17.0,
+   "n": 1
+  },
+  {
    "item": "seghesio zinfandel",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -21711,6 +25361,16 @@
    "n": 1
   },
   {
+   "item": "shafer 08 cabernet sauvignon napa valley",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 53.0,
+   "n": 1
+  },
+  {
    "item": "shafer cabernet sauvignon",
    "size": null,
    "place": "Gott's Napa",
@@ -21718,6 +25378,36 @@
    "observed_on": "2012-06-17",
    "date_source": "wayback",
    "median": 50.0,
+   "n": 1
+  },
+  {
+   "item": "shafer cabernet sauvignon",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 50.0,
+   "n": 1
+  },
+  {
+   "item": "shafer cabernet sauvignon",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 64.0,
+   "n": 1
+  },
+  {
+   "item": "shafer cabernet sauvignon",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 79.0,
    "n": 1
   },
   {
@@ -21768,6 +25458,26 @@
    "observed_on": "2013-02-28",
    "date_source": "wayback",
    "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "shakes",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "shakes",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
    "n": 1
   },
   {
@@ -21871,6 +25581,66 @@
    "n": 1
   },
   {
+   "item": "shakes with organic ice cream milk",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "shakes with organic ice cream milk",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 7
+  },
+  {
+   "item": "shakes with organic ice cream milk",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "shakes with organic ice cream milk",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "shakes with organic ice cream milk",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "shakes with organic ice cream milk",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
    "item": "shirley temple",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -21961,6 +25731,16 @@
    "n": 1
   },
   {
+   "item": "side of cheese sauce",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 1.5,
+   "n": 1
+  },
+  {
    "item": "side of hobbs bacon",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -21989,6 +25769,26 @@
    "date_source": "wayback",
    "median": 18.0,
    "n": 2
+  },
+  {
+   "item": "siduri 09 pinot noir santa lucia highlands",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "siduri 09 pinot noir santa lucia highlands",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 20.0,
+   "n": 1
   },
   {
    "item": "siduri john sebastiano vineyard",
@@ -22099,6 +25899,46 @@
    "date_source": "wayback",
    "median": 7.5,
    "n": 2
+  },
+  {
+   "item": "sierra nevada pale ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "sierra nevada pale ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "sierra nevada pale ale",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "sierra nevada pale ale",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
   },
   {
    "item": "siete leguas a ejo",
@@ -22621,6 +26461,16 @@
    "n": 2
   },
   {
+   "item": "sparkling juice",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
    "item": "sparkling lavender limeade",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -22661,6 +26511,36 @@
    "n": 2
   },
   {
+   "item": "sparkling mineral water",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
+  },
+  {
+   "item": "sparkling water mr pibb",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "sparkling water orange",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
+   "n": 1
+  },
+  {
    "item": "special tortilla soup",
    "size": null,
    "place": "Taqueria El Charro Viejo",
@@ -22668,6 +26548,26 @@
    "observed_on": "2022-12-07",
    "date_source": "exif",
    "median": 11.5,
+   "n": 1
+  },
+  {
+   "item": "specialty shakes",
+   "size": "12oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "specialty shakes",
+   "size": "16oz",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
    "n": 1
   },
   {
@@ -22772,6 +26672,46 @@
   },
   {
    "item": "spicy tomato soup",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
+   "size": "Bowl",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
    "size": "Cup",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -22801,6 +26741,46 @@
    "n": 2
   },
   {
+   "item": "spicy tomato soup",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "spicy tomato soup",
+   "size": "Cup",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 4.99,
+   "n": 1
+  },
+  {
    "item": "spottswoode",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -22818,6 +26798,16 @@
    "observed_on": "2013-02-28",
    "date_source": "wayback",
    "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "spring sparkling water",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.29,
    "n": 1
   },
   {
@@ -22849,6 +26839,16 @@
    "date_source": "wayback",
    "median": 2.69,
    "n": 2
+  },
+  {
+   "item": "spring water",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.69,
+   "n": 1
   },
   {
    "item": "springbank 10 yr",
@@ -22938,6 +26938,46 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 84.0,
+   "n": 1
+  },
+  {
+   "item": "st supery 13 sauvignon blanc",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "st supery 13 sauvignon blanc",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 24.0,
+   "n": 1
+  },
+  {
+   "item": "st supery 13 sauvignon blanc",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "st supery 13 sauvignon blanc",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 8.0,
    "n": 1
   },
   {
@@ -23251,6 +27291,36 @@
    "n": 1
   },
   {
+   "item": "stella artois",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.5,
+   "n": 1
+  },
+  {
+   "item": "stella artois",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "stella artois",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
    "item": "stella artois lager belgium",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -23258,6 +27328,26 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "stone delicious gluten reduced ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 5.5,
+   "n": 1
+  },
+  {
+   "item": "stone delicious gluten reduced ipa",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 5.5,
    "n": 1
   },
   {
@@ -23552,6 +27642,16 @@
   },
   {
    "item": "swanson 06 merlot napa valley",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "swanson 06 merlot napa valley",
    "size": "Half Bottle",
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -23629,6 +27729,46 @@
    "date_source": "wayback",
    "median": 3.99,
    "n": 2
+  },
+  {
+   "item": "sweet potato fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "sweet potato fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "sweet potato fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "sweet potato fries",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 3.99,
+   "n": 1
   },
   {
    "item": "sweet potato spinach breakfast burrito",
@@ -24058,6 +28198,46 @@
    "observed_on": "2013-06-27",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "texas avocado burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "texas avocado burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "texas avocado burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "texas avocado burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 11.99,
    "n": 1
   },
   {
@@ -24671,6 +28851,46 @@
    "n": 1
   },
   {
+   "item": "trumer pilsner",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "trumer pilsner",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "trumer pilsner",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "trumer pilsner",
+   "size": "Draft (16oz)",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
    "item": "tuaca",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -24941,6 +29161,26 @@
    "n": 2
   },
   {
+   "item": "vegetable sticks",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "vegetable sticks",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 2.99,
+   "n": 1
+  },
+  {
    "item": "vegetarian omelet",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -25091,6 +29331,46 @@
    "n": 1
   },
   {
+   "item": "vietnamese chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "vietnamese chicken",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 13.99,
+   "n": 1
+  },
+  {
+   "item": "vietnamese chicken salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "vietnamese chicken salad",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
    "item": "villa di corlo lambrusco",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -25231,6 +29511,46 @@
    "n": 2
   },
   {
+   "item": "western bacon blue ring",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "western bacon blue ring",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "western bacon blue ring",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "western bacon blue ring",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 12.99,
+   "n": 1
+  },
+  {
    "item": "white beans",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -25299,6 +29619,16 @@
    "date_source": "wayback",
    "median": 8.0,
    "n": 2
+  },
+  {
+   "item": "white claw hard seltzer",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
   },
   {
    "item": "whitehall lane",
@@ -25481,6 +29811,16 @@
    "n": 1
   },
   {
+   "item": "wisconsin burger",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 11.99,
+   "n": 1
+  },
+  {
    "item": "wisconsin sourdough",
    "size": null,
    "place": "Gott's Napa",
@@ -25511,6 +29851,36 @@
    "n": 2
   },
   {
+   "item": "wisconsin sourdough",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2014-12-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "wisconsin sourdough",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2015-05-13",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "wisconsin sourdough",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 10.99,
+   "n": 1
+  },
+  {
    "item": "with cheese",
    "size": null,
    "place": "Five Guys",
@@ -25538,6 +29908,16 @@
    "observed_on": "2026-06-15",
    "date_source": "pdf",
    "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "works dog",
+   "size": null,
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 8.99,
    "n": 1
   },
   {
@@ -25601,6 +29981,66 @@
    "n": 1
   },
   {
+   "item": "zinfandel seghesio",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 23.0,
+   "n": 1
+  },
+  {
+   "item": "zinfandel storybook vineyards",
+   "size": "Half Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "zinfandel turley",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 52.0,
+   "n": 1
+  },
+  {
+   "item": "zinfandel turley",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2021-01-17",
+   "date_source": "wayback",
+   "median": 13.0,
+   "n": 1
+  },
+  {
+   "item": "zinfandel turley juvenile",
+   "size": "Bottle",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 36.0,
+   "n": 1
+  },
+  {
+   "item": "zinfandel turley juvenile",
+   "size": "Glass",
+   "place": "Gott's Napa",
+   "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+   "observed_on": "2017-07-22",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
    "item": "zucchini fritti",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -25643,6 +30083,11 @@
    "median_item_price": 5.99
   },
   {
+   "place": "Gott's Napa",
+   "items": 763,
+   "median_item_price": 7.99
+  },
+  {
    "place": "Farmstead at Long Meadow Ranch",
    "items": 199,
    "median_item_price": 8.0
@@ -25661,11 +30106,6 @@
    "place": "Barney's Burgers",
    "items": 147,
    "median_item_price": 8.8
-  },
-  {
-   "place": "Gott's Napa",
-   "items": 319,
-   "median_item_price": 8.99
   },
   {
    "place": "Jack in the Box",
