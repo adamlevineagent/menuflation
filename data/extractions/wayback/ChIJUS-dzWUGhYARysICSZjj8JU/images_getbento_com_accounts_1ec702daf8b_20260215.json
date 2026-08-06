@@ -1,0 +1,20 @@
+{
+ "photo": "wb/20260215/https://images.getbento.com/accounts/1ec702daf8b9f16b96899c1e4c57a7b5/media/SfwUZNrKRqmZWQ19CeHt_GOT1702_MEN_FullMenu_2026Feb_3.pdf",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://web.archive.org/web/20260215/https://images.getbento.com/accounts/1ec702daf8b9f16b96899c1e4c57a7b5/media/SfwUZNrKRqmZWQ19CeHt_GOT1702_MEN_FullMenu_2026Feb_3.pdf",
+ "observed_on": "2026-02-15",
+ "date_source": "pdf",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [],
+  "date_hints": [
+   "02.2026"
+  ],
+  "restaurant_hint": "Gott's Roadside",
+  "confidence": 0.9
+ },
+ "cost_usd": 0.000344,
+ "wayback_ts": "20260215"
+}

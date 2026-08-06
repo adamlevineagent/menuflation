@@ -1,0 +1,6250 @@
+{
+ "series": [
+  {
+   "item": "1 pancake 1 egg",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 7.95,
+   "n": 2
+  },
+  {
+   "item": "12 piece chicken nuggets",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "3 dollar sized pancakes and 1 egg",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 7.95,
+   "n": 2
+  },
+  {
+   "item": "3 way leaf",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "4 bacon",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "4 links or 2 patties",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "4 pc chicken mcnuggets",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 4.42,
+   "n": 4
+  },
+  {
+   "item": "a 1 steak sauce",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.15,
+   "n": 1
+  },
+  {
+   "item": "add additional salad",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "add additional side",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "add avocado",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "add bacon",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "add pulled chicken",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "add pulled chicken",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "add pulled chicken",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "add sunny side up egg",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "add whipped cream",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.2,
+   "n": 1
+  },
+  {
+   "item": "additional main course",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "additional main course",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "additional main course",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 2
+  },
+  {
+   "item": "additional main course",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "additional salad",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "additional salad",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "additional side",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "additional side",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "additional side",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 2
+  },
+  {
+   "item": "all beef hot dog",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.6,
+   "n": 1
+  },
+  {
+   "item": "all extras",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 1.5,
+   "n": 1
+  },
+  {
+   "item": "all the way",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 1.9,
+   "n": 1
+  },
+  {
+   "item": "allegash white ale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "allegash white ale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "allegash white ale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "americano",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "apple farm apple juice",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "assorted pastries",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "assorted pastries",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "assorted pastries",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "avocado",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 2.0,
+   "n": 1
+  },
+  {
+   "item": "avocado chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "avocado chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.5,
+   "n": 1
+  },
+  {
+   "item": "avocado jack",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "avocado jack",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "avocado toast",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 12.95,
+   "n": 2
+  },
+  {
+   "item": "bacon",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.8,
+   "n": 1
+  },
+  {
+   "item": "bacon",
+   "size": null,
+   "place": "Taqueria El Charro Viejo",
+   "observed_on": "2022-12-07",
+   "date_source": "exif",
+   "median": 8.5,
+   "n": 1
+  },
+  {
+   "item": "bacon burger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 10.05,
+   "n": 1
+  },
+  {
+   "item": "bacon cheddar",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "bacon cheddar",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "bacon cheese dog",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 7.15,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 10.9,
+   "n": 1
+  },
+  {
+   "item": "bacon dog",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 6.55,
+   "n": 1
+  },
+  {
+   "item": "bacon mcdouble",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 4.15,
+   "n": 1
+  },
+  {
+   "item": "bag of fries",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.79,
+   "n": 1
+  },
+  {
+   "item": "bag of fries",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.5,
+   "n": 1
+  },
+  {
+   "item": "bagel cream cheese",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 11.5,
+   "n": 2
+  },
+  {
+   "item": "baked ham",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "baked turkey",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "banana",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.9,
+   "n": 1
+  },
+  {
+   "item": "banana pecan caramel french toast",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "bar b que sauce",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.6,
+   "n": 1
+  },
+  {
+   "item": "barbecue bacon",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "basil turkey sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "bbq bacon cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "bbq chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "bbq chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.75,
+   "n": 1
+  },
+  {
+   "item": "beef tartare",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "belgian waffle",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "bellini",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "big mac",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 8.19,
+   "n": 1
+  },
+  {
+   "item": "biscuit mushroom gravy",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 13.0,
+   "n": 1
+  },
+  {
+   "item": "biscuits gravy",
+   "size": "2",
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 10.95,
+   "n": 2
+  },
+  {
+   "item": "biscuits gravy",
+   "size": "Large",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "biscuits gravy",
+   "size": "Small",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "biscuits life everlasting sausage gravy",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "blt",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "blt",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.25,
+   "n": 1
+  },
+  {
+   "item": "blt",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 6.6,
+   "n": 1
+  },
+  {
+   "item": "blue burger",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "boiled ham",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "bologna",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "bone in chicken wings",
+   "size": "10",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "bone in chicken wings",
+   "size": "6",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "bottles to go",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 3.25,
+   "n": 1
+  },
+  {
+   "item": "braised rancho gordo beans with salsa verde",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "braised rancho gordo beans with salsa verde",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "braised rancho gordo beans with salsa verde",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "breakfast burger",
+   "size": null,
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "breakfast combo",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "breakfast tacos",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "brick cooked chicken",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "brick cooked chicken with potatoes and greens",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "brick cooked chicken with potatoes and greens",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "brick cooked chicken with potatoes and greens",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "brisket orange",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "brisket ortega on sourdough",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "brunch burger",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "buffalo chicken",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "burger patty",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "burrata",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "burrata",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "burrata",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 2
+  },
+  {
+   "item": "burrata",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "caesar",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "california arborio rice roasted mushrooms summer squash basil pistou",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "cappuccino",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "caramel macchiato",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "caramelized beets",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "carnitas fries",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "cheddar biscuits",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "cheddar biscuits",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "cheddar biscuits with honey butter",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "cheddar biscuits with honey butter",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 2
+  },
+  {
+   "item": "cheddar biscuits with honey butter",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "cheddar biscuits with honey butter",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 3
+  },
+  {
+   "item": "cheddar biscuits with honey butter",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "cheddar burger",
+   "size": null,
+   "place": "River's Edge Restaurant",
+   "observed_on": "2026-07-16",
+   "date_source": "exif",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 9.9,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-05-09",
+   "date_source": "exif",
+   "median": 2.25,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 4.1,
+   "n": 2
+  },
+  {
+   "item": "cheese burger",
+   "size": "2",
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 8.19,
+   "n": 1
+  },
+  {
+   "item": "cheese dog",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "cheeseburger seasoned fries",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "cheesy bacon bread",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "cheesy bacon bread",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "cheesy bacon bread",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "chicken bacon ranch",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "chicken drumettes",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "chicken drumettes",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "chicken fettuccini alfredo",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "chicken fried steak",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "chicken kale",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "chicken mcnuggets",
+   "size": "10 pc",
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 8.19,
+   "n": 1
+  },
+  {
+   "item": "chicken nuggets",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.25,
+   "n": 1
+  },
+  {
+   "item": "chicken ortega on sourdough",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "chicken patty",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "chicken philly",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.95,
+   "n": 1
+  },
+  {
+   "item": "chicken queso",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "chicken salad",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "chicken salad sandwich",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "chicken salad sandwich",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "chicken salad sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "chicken salad w cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "chicken sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "chicken strips",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 9.29,
+   "n": 1
+  },
+  {
+   "item": "chicken strips",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.5,
+   "n": 1
+  },
+  {
+   "item": "chicken strips basket",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "chicken wings",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 6.5,
+   "n": 1
+  },
+  {
+   "item": "chili",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "chili burger",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "chili burger",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "chili cheese fries",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.95,
+   "n": 1
+  },
+  {
+   "item": "chili cheese fries",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.95,
+   "n": 1
+  },
+  {
+   "item": "chili cheese fries",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "chili cup",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "chili cup",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "chili dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.95,
+   "n": 1
+  },
+  {
+   "item": "chili dog",
+   "size": "Jumbo",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 13.75,
+   "n": 1
+  },
+  {
+   "item": "chili size",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "chips hummus",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "chocolate",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.4,
+   "n": 1
+  },
+  {
+   "item": "chorizo",
+   "size": null,
+   "place": "Taqueria El Charro Viejo",
+   "observed_on": "2022-12-07",
+   "date_source": "exif",
+   "median": 8.5,
+   "n": 1
+  },
+  {
+   "item": "chorizo breakfast burrito",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "cinnamon roll",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "clam chowder bread bowl",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "classic",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 55.0,
+   "n": 1
+  },
+  {
+   "item": "classic",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 55.0,
+   "n": 1
+  },
+  {
+   "item": "classic",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 55.0,
+   "n": 1
+  },
+  {
+   "item": "classic bar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "classic bar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "classic bar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "classic mimosa",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "cloud cream cold foam",
+   "size": "12oz",
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 5.49,
+   "n": 1
+  },
+  {
+   "item": "cloud cream cold foam",
+   "size": "16oz",
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "cloud cream cold foam",
+   "size": "20oz",
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 6.49,
+   "n": 1
+  },
+  {
+   "item": "club steak",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 17.95,
+   "n": 1
+  },
+  {
+   "item": "cobb salad",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "cobb salad",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 14.5,
+   "n": 1
+  },
+  {
+   "item": "code 4 breakfast",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 4.95,
+   "n": 2
+  },
+  {
+   "item": "coffee",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 1.65,
+   "n": 2
+  },
+  {
+   "item": "coke diet coke 7up ginger ale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "coke diet coke 7up ginger ale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "coke diet coke 7up ginger ale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "coleslaw",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "cone",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 1.99,
+   "n": 1
+  },
+  {
+   "item": "coors light",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "coors light",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "coors light",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "coppa",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "corianna",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "corn dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "corn dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "corn dog",
+   "size": "Jumbo",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "corn dog",
+   "size": "Reg",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "corn pancakes",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 6.95,
+   "n": 2
+  },
+  {
+   "item": "corned beef",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "corned beef hash",
+   "size": null,
+   "place": "Boon Fly Café",
+   "observed_on": "2026-07-04",
+   "date_source": "exif",
+   "median": 23.0,
+   "n": 1
+  },
+  {
+   "item": "corned beef hash",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "country fried steak",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "country ham 3 eggs",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 19.95,
+   "n": 2
+  },
+  {
+   "item": "cowboy fries",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "cowboy fries w chipotle holly sauce bacon cheese",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "crab cake",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "crab cake w spicy aioli",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 11.0,
+   "n": 2
+  },
+  {
+   "item": "crab salad",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "crab salad w cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "creamy grits",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "crispy chicken caeser",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "crispy chicken salad",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 14.5,
+   "n": 1
+  },
+  {
+   "item": "crispy chicken sandwich",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 8.49,
+   "n": 3
+  },
+  {
+   "item": "crispy herb fried potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "crispy potatoes with housemade ketchup",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "crispy potatoes with housemade ketchup",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "crispy potatoes with housemade ketchup",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "crispy scramble burrito with sausage or bacon",
+   "size": null,
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 5.99,
+   "n": 2
+  },
+  {
+   "item": "croissant sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "croissants",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 2.0,
+   "n": 1
+  },
+  {
+   "item": "crostini three",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "crunch breakfast biscuit with sausage or bacon",
+   "size": null,
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 5.89,
+   "n": 2
+  },
+  {
+   "item": "cuban sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "daddy s blueplate",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "daron calvados 5yr brandy",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "dasani water",
+   "size": "16.9 fl oz",
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 2.7,
+   "n": 1
+  },
+  {
+   "item": "depot burger",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "depot classic omlet",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "deviled eggs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 13.0,
+   "n": 1
+  },
+  {
+   "item": "domestic prosciutto",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "double",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "double",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.2,
+   "n": 1
+  },
+  {
+   "item": "double bacon cheddar",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 11.45,
+   "n": 1
+  },
+  {
+   "item": "double cheeseburger",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.69,
+   "n": 1
+  },
+  {
+   "item": "double double",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-05-09",
+   "date_source": "exif",
+   "median": 2.95,
+   "n": 1
+  },
+  {
+   "item": "double double",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 5.9,
+   "n": 2
+  },
+  {
+   "item": "double double french fries and medium drink",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 9.6,
+   "n": 4
+  },
+  {
+   "item": "double quarter pounder with cheese",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 10.49,
+   "n": 1
+  },
+  {
+   "item": "double with cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.9,
+   "n": 1
+  },
+  {
+   "item": "drinks",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "drinks",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "drinks",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 2.79,
+   "n": 1
+  },
+  {
+   "item": "drinks",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 2.79,
+   "n": 1
+  },
+  {
+   "item": "drinks",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 1.99,
+   "n": 1
+  },
+  {
+   "item": "drinks",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 1.99,
+   "n": 1
+  },
+  {
+   "item": "earth s offerings",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "egg and cheese",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "egg salad",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "egg salad w cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "eggplant",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "eggplant",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "elijah",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "espresso",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "extra bbq",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "extra bbq",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "extra cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 0.75,
+   "n": 1
+  },
+  {
+   "item": "extra cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 0.65,
+   "n": 1
+  },
+  {
+   "item": "extra patty",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "extreme",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "extreme with cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 65.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 65.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 65.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead bacon",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead bar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead bar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead bar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead bloody mary",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead chocolate chunk cookie",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead deviled eggs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead deviled eggs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "farmstead deviled eggs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 2
+  },
+  {
+   "item": "farmstead deviled eggs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "fiery chili cream cheese poppers",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "filet o fish",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 8.49,
+   "n": 1
+  },
+  {
+   "item": "fish chips basket",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "five guys shake",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.2,
+   "n": 1
+  },
+  {
+   "item": "flat iron steak bites",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "fluffy pancakes",
+   "size": "1",
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 6.95,
+   "n": 2
+  },
+  {
+   "item": "french fries",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-05-09",
+   "date_source": "exif",
+   "median": 2.25,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.25,
+   "n": 2
+  },
+  {
+   "item": "french fries",
+   "size": "Large",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.55,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Lg",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.55,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Med",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Medium",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Sm",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.2,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Small",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.2,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "X-Large",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.75,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "X-Lg",
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.75,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 0.33,
+   "n": 1
+  },
+  {
+   "item": "french toast",
+   "size": "2 slices",
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 8.95,
+   "n": 2
+  },
+  {
+   "item": "french toast bacon",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 7.95,
+   "n": 2
+  },
+  {
+   "item": "fresh juice",
+   "size": "8oz",
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "fried egg biscuit sandwich with sausage or bacon",
+   "size": null,
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "fried shrimp basket",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "fries large",
+   "size": "Large",
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 6.25,
+   "n": 1
+  },
+  {
+   "item": "fries little",
+   "size": "Little",
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 4.35,
+   "n": 1
+  },
+  {
+   "item": "fries regular",
+   "size": "Regular",
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.35,
+   "n": 1
+  },
+  {
+   "item": "fry bread tacos",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "fry sauce or ranch",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "fry sauce or ranch",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "garden veggie",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "genitina",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "genoa salami",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "genova vegi",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "gioia burrata",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "go dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.95,
+   "n": 1
+  },
+  {
+   "item": "go dog",
+   "size": "Jumbo",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 11.25,
+   "n": 1
+  },
+  {
+   "item": "gold peak drink",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 4.2,
+   "n": 1
+  },
+  {
+   "item": "granola",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "granola",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "granola",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed beef tartare",
+   "size": "Large",
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 38.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed beef tartare",
+   "size": "Regular",
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed cheeseburger",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 26.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed cheeseburger with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed cheeseburger with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed cheeseburger with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed cheeseburger with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed meatballs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed meatballs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "grass fed meatballs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 2
+  },
+  {
+   "item": "grass fed meatballs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "green peppers",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "grill cheese fries",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "grill cheese fries",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.15,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese ham",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.79,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese ham",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.8,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese sandwich",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese sandwich with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese sandwich with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese sandwich with crispy potatoes",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.75,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken sandwich",
+   "size": null,
+   "place": "River's Edge Restaurant",
+   "observed_on": "2026-07-16",
+   "date_source": "exif",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "grilled idaho trout",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "grilled idaho trout",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 38.0,
+   "n": 1
+  },
+  {
+   "item": "grilled mushrooms",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.65,
+   "n": 2
+  },
+  {
+   "item": "grilled onions",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "grilled patty melt",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "grilled reuben",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "grilled salsa macha chicken",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "grilled swordfish",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "grilled trout with garden vegetables",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grilled trout with garden vegetables",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "grilled trout with garden vegetables",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "ham",
+   "size": null,
+   "place": "Taqueria El Charro Viejo",
+   "observed_on": "2022-12-07",
+   "date_source": "exif",
+   "median": 8.5,
+   "n": 1
+  },
+  {
+   "item": "ham",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "ham and cheese puff",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "ham and cheese puff",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "ham and cheese puff",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "ham apple cheese",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "ham apple cheese",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "ham sandwiches",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "ham sandwiches",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "ham sandwiches",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 2
+  },
+  {
+   "item": "ham sandwiches",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 9.05,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-05-09",
+   "date_source": "exif",
+   "median": 2.0,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 3.6,
+   "n": 2
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "hash",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "hashbrowns",
+   "size": "LARGE",
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 3.19,
+   "n": 1
+  },
+  {
+   "item": "hashbrowns",
+   "size": "SMALL",
+   "place": "Burgerville",
+   "observed_on": "2026-04-26",
+   "date_source": "exif",
+   "median": 1.89,
+   "n": 1
+  },
+  {
+   "item": "hawaiian",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "hawaiian",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "headcheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "heritage st louis ribs",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 49.0,
+   "n": 1
+  },
+  {
+   "item": "hollys veggie",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "homeade chili",
+   "size": "Bowl",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "homeade chili",
+   "size": "Bread Bowl",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "homeade chili",
+   "size": "Cup",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "homemade chicken pot pie",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "homemade lemonade orange juice grapefruit juice",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "homemade lemonade orange juice grapefruit juice",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "homemade lemonade orange juice grapefruit juice",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "honey turkey",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "hot cocoa",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 2.35,
+   "n": 2
+  },
+  {
+   "item": "hot dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "hot dog",
+   "size": "Jumbo",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 7.79,
+   "n": 1
+  },
+  {
+   "item": "hot dog",
+   "size": "Jumbo",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.75,
+   "n": 1
+  },
+  {
+   "item": "hot dog",
+   "size": "Reg",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 5.79,
+   "n": 1
+  },
+  {
+   "item": "hot honey chicken and waffle",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "hot salami",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "hot sauce",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "house made condiments",
+   "size": null,
+   "place": "Gott's Napa",
+   "observed_on": "2026-05-25",
+   "date_source": "exif",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "house made cookies",
+   "size": null,
+   "place": "Gott's Napa",
+   "observed_on": "2026-05-25",
+   "date_source": "exif",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "house made meatloaf",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "house made pot roast",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "house salad",
+   "size": "lrg",
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "house salad",
+   "size": "sm",
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "house specialty breakfast",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 19.95,
+   "n": 2
+  },
+  {
+   "item": "housemade lemonade",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "iced caramel macchiato",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "iced mocha",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "iced tea",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "iris",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "isabela",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "italian breakfast sandwich",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "italian combo",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "jalape o pepper jack",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "jalape o pepper jack",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "jalapeno peppers",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "jalapeno poppers",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.5,
+   "n": 2
+  },
+  {
+   "item": "juice green or carrot ginger",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
+   "item": "juice green or carrot ginger",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
+   "item": "juice green or carrot ginger",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 11.0,
+   "n": 1
+  },
+  {
+   "item": "kale salad",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "kale salad",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "ketchup",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 1.1,
+   "n": 1
+  },
+  {
+   "item": "kieren",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "kraut dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.25,
+   "n": 1
+  },
+  {
+   "item": "kraut dog",
+   "size": "Jumbo",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.75,
+   "n": 1
+  },
+  {
+   "item": "krusty dog",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "large drink",
+   "size": "32 fl oz",
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 3.15,
+   "n": 1
+  },
+  {
+   "item": "lasagna",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "lasagna",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "latte",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "lettuce",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "little bacon burger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 8.3,
+   "n": 1
+  },
+  {
+   "item": "little bacon cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 9.05,
+   "n": 1
+  },
+  {
+   "item": "little cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 8.05,
+   "n": 1
+  },
+  {
+   "item": "little hamburger",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 7.05,
+   "n": 1
+  },
+  {
+   "item": "lmr grass fed beef",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "lmr grass fed beef",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "lmr grass fed beef",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 2
+  },
+  {
+   "item": "lmr grass fed beef",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "lmr grass fed lamb",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "lmr grass fed lamb",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "lmr grass fed lamb",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 15.0,
+   "n": 2
+  },
+  {
+   "item": "lmr grass fed lamb",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "lutheran",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "mac and cheese",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "mac and cheese",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "mac and cheese with sonoma cheddar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "mac and cheese with sonoma cheddar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-07-28",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "mac and cheese with sonoma cheddar",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "malibu chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.95,
+   "n": 1
+  },
+  {
+   "item": "malt",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.3,
+   "n": 1
+  },
+  {
+   "item": "malt",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "malt",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.5,
+   "n": 1
+  },
+  {
+   "item": "malts add",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 0.49,
+   "n": 1
+  },
+  {
+   "item": "malts add",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 0.49,
+   "n": 1
+  },
+  {
+   "item": "malts add",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2025-11-21",
+   "date_source": "exif",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "mayo",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 1.1,
+   "n": 1
+  },
+  {
+   "item": "mcflurry",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "meat ball or sausage",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "meat ball or sausage sandwich w sauted onions peppers",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "meat lovers",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "meatloaf sandwich",
+   "size": null,
+   "place": "River's Edge Restaurant",
+   "observed_on": "2026-07-16",
+   "date_source": "exif",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "meatloaf sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "mexican 7up",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "mexican coke",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "mexican style street corn",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "mike s cowboy burger",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "mild cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "milk",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 1.25,
+   "n": 2
+  },
+  {
+   "item": "milk",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "milkshake",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.8,
+   "n": 1
+  },
+  {
+   "item": "milkshake",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 6.5,
+   "n": 1
+  },
+  {
+   "item": "milkshake",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "mill street",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "mill street mess",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "mini ham sandwiches",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "mocha",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.55,
+   "n": 1
+  },
+  {
+   "item": "mole pork chop",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "monte cristo",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "mortadella",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "mozzarella sticks",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.5,
+   "n": 2
+  },
+  {
+   "item": "mushroom bacon cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "mushroom bacon cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.95,
+   "n": 1
+  },
+  {
+   "item": "mushroom jack chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "mushroom jack chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "mushroom swiss",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "mushroom swiss",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "mustard",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.3,
+   "n": 1
+  },
+  {
+   "item": "my",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 14.75,
+   "n": 1
+  },
+  {
+   "item": "napa palisades pacific plate",
+   "size": null,
+   "place": "Gott's Napa",
+   "observed_on": "2026-05-25",
+   "date_source": "exif",
+   "median": 18.99,
+   "n": 1
+  },
+  {
+   "item": "nashville chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "new york steak",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 23.95,
+   "n": 1
+  },
+  {
+   "item": "non alcoholic",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "non alcoholic",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "nutella rice cakes",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 14.95,
+   "n": 2
+  },
+  {
+   "item": "oats",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "oats",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "oats",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "offsite catering full service",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 75.0,
+   "n": 1
+  },
+  {
+   "item": "old fashioned shakes malts",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "old fashioned shakes malts",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 6.49,
+   "n": 1
+  },
+  {
+   "item": "old fashioned shakes malts",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-08-18",
+   "date_source": "exif",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "onion rings",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "onion rings",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "onions",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.1,
+   "n": 1
+  },
+  {
+   "item": "orange chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "oreo cookie pieces",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.85,
+   "n": 1
+  },
+  {
+   "item": "oreo cr me",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.9,
+   "n": 1
+  },
+  {
+   "item": "ortega chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "ortega jack",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "pacifico clara",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "pacifico clara",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "pacifico clara",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "pancake bacon",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 8.95,
+   "n": 2
+  },
+  {
+   "item": "pancakes",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "parfait",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "parfait",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "parfait",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "pastrami",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "patty melt",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "patty melt",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "patty melt",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "peanut butter",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.9,
+   "n": 1
+  },
+  {
+   "item": "pepper salami",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "pepper turkey",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "peppercorn chicken caesar wrap",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "perez club",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "philly steak",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 19.95,
+   "n": 1
+  },
+  {
+   "item": "pickle cream cheese poppers",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "pickles",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "pimento cheese dip",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "pimento cheese dip",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "pimento cheese dip",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 2
+  },
+  {
+   "item": "pimento cheese dip",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "polenta",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "polenta",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "portabella burger gf",
+   "size": null,
+   "place": "River's Edge Restaurant",
+   "observed_on": "2026-07-16",
+   "date_source": "exif",
+   "median": 20.0,
+   "n": 1
+  },
+  {
+   "item": "potato cake combo",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "potato salad",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "prime rib",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "prosciutto diparma",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 16.95,
+   "n": 1
+  },
+  {
+   "item": "prosciutto diparma w cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 17.45,
+   "n": 1
+  },
+  {
+   "item": "prosciutto fig sandwich",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "prosciutto fig sandwich",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "pulled pork",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "quarter pounder",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "quarter pounder",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 6.95,
+   "n": 1
+  },
+  {
+   "item": "quarter pounder deluxe",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 8.85,
+   "n": 1
+  },
+  {
+   "item": "quarter pounder with cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.45,
+   "n": 1
+  },
+  {
+   "item": "quarter pounder with cheese",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 10.0,
+   "n": 2
+  },
+  {
+   "item": "racer 5 ipa",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "racer 5 ipa",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "racer 5 ipa",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "ravioli tortellini",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "ravioli tortellini",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "reese s cup",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 1.5,
+   "n": 1
+  },
+  {
+   "item": "regular drink",
+   "size": "22 fl oz",
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "relish",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.15,
+   "n": 1
+  },
+  {
+   "item": "roast beef",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "roasted brussels sprouts",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "roasted cauliflower lentil",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "roasted pork loin",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "roasted pork loin",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "roasted pork loin",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 2
+  },
+  {
+   "item": "roasted pork loin",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "rooster special",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "rosemary ham",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "rotisserie chicken",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "rotisserie chicken",
+   "size": "1/2",
+   "place": "Genova Delicatessen",
+   "observed_on": "2024-08-31",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "roy rogers",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "rusty s roundup",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 10.45,
+   "n": 1
+  },
+  {
+   "item": "salad of garden lettuce",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "salad of lacinato kale",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "salami",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "salami cotto",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "salanova lettuce",
+   "size": null,
+   "place": "Boon Fly Café",
+   "observed_on": "2026-07-04",
+   "date_source": "exif",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "salsa macha shrimp",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "salted caramel",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.45,
+   "n": 1
+  },
+  {
+   "item": "sandra",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "sandwich",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 14.75,
+   "n": 1
+  },
+  {
+   "item": "sandwich reg",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "sandwich w cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "scrimshaw pilsner",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "scrimshaw pilsner",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "scrimshaw pilsner",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "seafood omlet",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "shakes",
+   "size": null,
+   "place": "In-N-Out Burger",
+   "observed_on": "2026-06-25",
+   "date_source": "exif",
+   "median": 3.05,
+   "n": 2
+  },
+  {
+   "item": "shakes",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 3.09,
+   "n": 1
+  },
+  {
+   "item": "shakes malts",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 9.79,
+   "n": 1
+  },
+  {
+   "item": "shakes malts",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 6.49,
+   "n": 1
+  },
+  {
+   "item": "shakes malts",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "shakes malts large",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-11-21",
+   "date_source": "exif",
+   "median": 7.8,
+   "n": 1
+  },
+  {
+   "item": "shakes malts medium",
+   "size": "Medium",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-11-21",
+   "date_source": "exif",
+   "median": 6.5,
+   "n": 1
+  },
+  {
+   "item": "shakes malts small",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2025-11-21",
+   "date_source": "exif",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "shirley temple",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "short stack or full stack",
+   "size": "Full Stack",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "short stack or full stack",
+   "size": "Short Stack",
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "shrimp cocktail",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "sierra hash",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "smashburger seasoned fries",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 17.0,
+   "n": 2
+  },
+  {
+   "item": "smoked chicken club",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-06",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "smoked chicken club",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 25.0,
+   "n": 1
+  },
+  {
+   "item": "smoked chicken wings",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "smoked pork hash",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 38.0,
+   "n": 1
+  },
+  {
+   "item": "smoked turkey",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "soda",
+   "size": "12oz",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 2.0,
+   "n": 1
+  },
+  {
+   "item": "soda",
+   "size": "24oz",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 2.8,
+   "n": 1
+  },
+  {
+   "item": "soda",
+   "size": "32oz",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 3.25,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "soft drinks tea and coffee",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "soft serve",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "soft shell crab sandwich",
+   "size": null,
+   "place": "Gott's Napa",
+   "observed_on": "2026-05-25",
+   "date_source": "exif",
+   "median": 14.99,
+   "n": 1
+  },
+  {
+   "item": "solomon",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "sopressata",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "spanish omlet",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "special tortilla soup",
+   "size": null,
+   "place": "Taqueria El Charro Viejo",
+   "observed_on": "2022-12-07",
+   "date_source": "exif",
+   "median": 11.5,
+   "n": 1
+  },
+  {
+   "item": "spicy chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 8.99,
+   "n": 1
+  },
+  {
+   "item": "spicy chicken harissa",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "spicy deluxe crispy chicken sandwich",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 9.39,
+   "n": 1
+  },
+  {
+   "item": "spicy jack",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "sriracha chicken",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "standard",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 45.0,
+   "n": 1
+  },
+  {
+   "item": "standard",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 45.0,
+   "n": 1
+  },
+  {
+   "item": "standard",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-09",
+   "date_source": "wayback",
+   "median": 45.0,
+   "n": 1
+  },
+  {
+   "item": "steak",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 19.95,
+   "n": 3
+  },
+  {
+   "item": "steak",
+   "size": null,
+   "place": "Taqueria El Charro Viejo",
+   "observed_on": "2022-12-07",
+   "date_source": "exif",
+   "median": 8.95,
+   "n": 1
+  },
+  {
+   "item": "steak and frites",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 28.0,
+   "n": 1
+  },
+  {
+   "item": "steak with egg and cheese",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 14.75,
+   "n": 1
+  },
+  {
+   "item": "steak with poached eggs",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 15.95,
+   "n": 1
+  },
+  {
+   "item": "strawberry",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.2,
+   "n": 1
+  },
+  {
+   "item": "strawberry french toast",
+   "size": null,
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 10.95,
+   "n": 2
+  },
+  {
+   "item": "stuffed french toast",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "stumptown coffee carrier",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-05-11",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "stumptown coffee carrier",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2021-08-02",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "stumptown coffee carrier",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2024-06-19",
+   "date_source": "wayback",
+   "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "substitute house infused spicy tequila",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 22.0,
+   "n": 1
+  },
+  {
+   "item": "sundae",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 2.59,
+   "n": 1
+  },
+  {
+   "item": "super veggie omlet",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "sweet potato fries",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "sweet potato fries",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 6.5,
+   "n": 1
+  },
+  {
+   "item": "sweet potato spinach breakfast burrito",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "sweet tea",
+   "size": null,
+   "place": "McDonald's",
+   "observed_on": "2022-04-16",
+   "date_source": "exif",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "tamal pork",
+   "size": null,
+   "place": "Taqueria El Charro Viejo",
+   "observed_on": "2022-12-07",
+   "date_source": "exif",
+   "median": 5.25,
+   "n": 1
+  },
+  {
+   "item": "tannery hero juicy paul",
+   "size": null,
+   "place": "Gott's Napa",
+   "observed_on": "2026-05-25",
+   "date_source": "exif",
+   "median": 14.99,
+   "n": 1
+  },
+  {
+   "item": "tater tots",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "tater tots",
+   "size": "Large",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "tater tots",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "tater tots",
+   "size": "Small",
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "teff cakes",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 21.0,
+   "n": 1
+  },
+  {
+   "item": "teriyaki",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "teriyaki chicken",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.0,
+   "n": 1
+  },
+  {
+   "item": "the blue",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "the brunch burger",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "the chili",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "the colossal burger",
+   "size": "1/2 lb",
+   "place": "Burgerville",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "the veggie",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "til tip salad",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "til tip salad",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.5,
+   "n": 1
+  },
+  {
+   "item": "today s soup",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  },
+  {
+   "item": "tomatoes",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 0.05,
+   "n": 1
+  },
+  {
+   "item": "tony bourdain breakfast sandwich",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "toscano salami",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 14.95,
+   "n": 1
+  },
+  {
+   "item": "traditional",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "trailblazer",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "train wreck",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.5,
+   "n": 2
+  },
+  {
+   "item": "tri tip dip",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "triple",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "triple",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 11.45,
+   "n": 1
+  },
+  {
+   "item": "triple decker club",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "triple ham havoc",
+   "size": null,
+   "place": "Perez Kitchen & Bar",
+   "observed_on": "2026-08-05",
+   "date_source": "pdf",
+   "median": 19.0,
+   "n": 1
+  },
+  {
+   "item": "triple with cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 12.45,
+   "n": 1
+  },
+  {
+   "item": "truffle cremini croquettes",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "tuna albacore",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 12.95,
+   "n": 1
+  },
+  {
+   "item": "tuna albacore w cheese",
+   "size": null,
+   "place": "Genova Delicatessen",
+   "observed_on": "2026-08-05",
+   "date_source": "fallback",
+   "median": 13.95,
+   "n": 1
+  },
+  {
+   "item": "tuna melt",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "turkey blt a sandwich",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "turkey melt",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 16.0,
+   "n": 1
+  },
+  {
+   "item": "turkey pesto omlet",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "two french toast",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 7.0,
+   "n": 1
+  },
+  {
+   "item": "vampire slayer burger",
+   "size": null,
+   "place": "Burgerville",
+   "observed_on": "2022-09-09",
+   "date_source": "exif",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "veggie burger",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2024-01-15",
+   "date_source": "dom",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "veggie burger",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 8.65,
+   "n": 1
+  },
+  {
+   "item": "veggie melt",
+   "size": null,
+   "place": "The Depot Eatery",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "veggie sandwich",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.1,
+   "n": 1
+  },
+  {
+   "item": "vegi burger with cheese",
+   "size": null,
+   "place": "Barney's Burgers",
+   "observed_on": "2026-08-05",
+   "date_source": "web",
+   "median": 9.15,
+   "n": 1
+  },
+  {
+   "item": "waffles",
+   "size": "Plain",
+   "place": "Code 4 Taphouse",
+   "observed_on": "2025-11-15",
+   "date_source": "exif",
+   "median": 10.95,
+   "n": 2
+  },
+  {
+   "item": "warm cinnamon roll",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 8.0,
+   "n": 1
+  },
+  {
+   "item": "west coast crab roll",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 42.0,
+   "n": 1
+  },
+  {
+   "item": "with cheese",
+   "size": null,
+   "place": "Five Guys",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.99,
+   "n": 1
+  },
+  {
+   "item": "with glass of milk",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2025-10-15",
+   "date_source": "pdf",
+   "median": 4.0,
+   "n": 1
+  },
+  {
+   "item": "wood roasted broccolini",
+   "size": null,
+   "place": "Farmstead at Long Meadow Ranch",
+   "observed_on": "2026-06-15",
+   "date_source": "pdf",
+   "median": 14.0,
+   "n": 1
+  }
+ ],
+ "place_stats": [
+  {
+   "place": "Five Guys",
+   "items": 51,
+   "median_item_price": 1.9
+  },
+  {
+   "place": "In-N-Out Burger",
+   "items": 21,
+   "median_item_price": 2.35
+  },
+  {
+   "place": "McDonald's",
+   "items": 30,
+   "median_item_price": 3.62
+  },
+  {
+   "place": "Burgerville",
+   "items": 11,
+   "median_item_price": 5.99
+  },
+  {
+   "place": "Farmstead at Long Meadow Ranch",
+   "items": 199,
+   "median_item_price": 8.0
+  },
+  {
+   "place": "Taqueria El Charro Viejo",
+   "items": 6,
+   "median_item_price": 8.5
+  },
+  {
+   "place": "Barney's Burgers",
+   "items": 147,
+   "median_item_price": 8.8
+  },
+  {
+   "place": "Genova Delicatessen",
+   "items": 58,
+   "median_item_price": 12.95
+  },
+  {
+   "place": "Code 4 Taphouse",
+   "items": 27,
+   "median_item_price": 14.75
+  },
+  {
+   "place": "Gott's Napa",
+   "items": 5,
+   "median_item_price": 14.99
+  },
+  {
+   "place": "The Depot Eatery",
+   "items": 86,
+   "median_item_price": 17.0
+  },
+  {
+   "place": "Perez Kitchen & Bar",
+   "items": 39,
+   "median_item_price": 17.0
+  },
+  {
+   "place": "River's Edge Restaurant",
+   "items": 4,
+   "median_item_price": 19.5
+  },
+  {
+   "place": "Boon Fly Café",
+   "items": 2,
+   "median_item_price": 20.5
+  }
+ ]
+}

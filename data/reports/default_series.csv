@@ -1,0 +1,687 @@
+item,size,place,observed_on,date_source,median,n
+1 pancake 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
+12 piece chicken nuggets,,Barney's Burgers,2024-01-15,dom,6.99,1
+3 dollar sized pancakes and 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
+3 way leaf,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+4 bacon,,The Depot Eatery,2026-08-05,web,18.0,1
+4 links or 2 patties,,The Depot Eatery,2026-08-05,web,18.0,1
+4 pc chicken mcnuggets,,McDonald's,2022-04-16,exif,4.42,4
+a 1 steak sauce,,Five Guys,2023-11-27,exif,0.15,1
+add additional salad,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,7.0,1
+add additional side,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,7.0,1
+add avocado,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,4.0,1
+add bacon,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,4.0,1
+add pulled chicken,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,7.0,1
+add pulled chicken,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
+add pulled chicken,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,9.0,1
+add sunny side up egg,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,5.0,1
+add whipped cream,,Five Guys,2023-11-27,exif,0.2,1
+additional main course,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,10.0,1
+additional main course,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+additional main course,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,2
+additional main course,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,10.0,1
+additional salad,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
+additional salad,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
+additional side,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,7.0,1
+additional side,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
+additional side,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,2
+all beef hot dog,,Five Guys,2023-11-27,exif,5.6,1
+all extras,,Genova Delicatessen,2026-08-05,fallback,1.5,1
+all the way,,Five Guys,2023-11-27,exif,1.9,1
+allegash white ale,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
+allegash white ale,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
+allegash white ale,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,6.0,1
+americano,,McDonald's,2022-04-16,exif,3.55,1
+apple farm apple juice,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,5.0,1
+assorted pastries,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,3.5,1
+assorted pastries,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,3.5,1
+assorted pastries,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,3.5,1
+avocado,,Genova Delicatessen,2026-08-05,fallback,2.0,1
+avocado chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+avocado chicken,,Barney's Burgers,2026-08-05,web,9.5,1
+avocado jack,,Barney's Burgers,2024-01-15,dom,10.99,1
+avocado jack,,Barney's Burgers,2026-08-05,web,9.45,1
+avocado toast,,Code 4 Taphouse,2025-11-15,exif,12.95,2
+bacon,,Five Guys,2023-11-27,exif,0.8,1
+bacon,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
+bacon burger,,Five Guys,2023-11-27,exif,10.05,1
+bacon cheddar,,Barney's Burgers,2024-01-15,dom,10.99,1
+bacon cheddar,,Barney's Burgers,2026-08-05,web,9.45,1
+bacon cheese dog,,Five Guys,2023-11-27,exif,7.15,1
+bacon cheeseburger,,Five Guys,2023-11-27,exif,10.9,1
+bacon dog,,Five Guys,2023-11-27,exif,6.55,1
+bacon mcdouble,,McDonald's,2022-04-16,exif,4.15,1
+bag of fries,,Barney's Burgers,2024-01-15,dom,8.79,1
+bag of fries,,Barney's Burgers,2026-08-05,web,10.5,1
+bagel cream cheese,,Code 4 Taphouse,2025-11-15,exif,11.5,2
+baked ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+baked turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+banana,,Five Guys,2023-11-27,exif,0.9,1
+banana pecan caramel french toast,,The Depot Eatery,2026-08-05,web,18.0,1
+bar b que sauce,,Five Guys,2023-11-27,exif,0.6,1
+barbecue bacon,,Barney's Burgers,2024-01-15,dom,10.99,1
+basil turkey sandwich,,The Depot Eatery,2026-08-05,web,19.0,1
+bbq bacon cheese,,Barney's Burgers,2026-08-05,web,9.45,1
+bbq chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+bbq chicken,,Barney's Burgers,2026-08-05,web,8.75,1
+beef tartare,,Perez Kitchen & Bar,2026-08-05,pdf,28.0,1
+belgian waffle,,The Depot Eatery,2026-08-05,web,8.0,1
+bellini,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
+big mac,,McDonald's,2022-04-16,exif,8.19,1
+biscuit mushroom gravy,,Perez Kitchen & Bar,2026-08-05,pdf,13.0,1
+biscuits gravy,2,Code 4 Taphouse,2025-11-15,exif,10.95,2
+biscuits gravy,Large,The Depot Eatery,2026-08-05,web,9.0,1
+biscuits gravy,Small,The Depot Eatery,2026-08-05,web,7.0,1
+biscuits life everlasting sausage gravy,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,25.0,1
+blt,,Barney's Burgers,2024-01-15,dom,7.99,1
+blt,,Barney's Burgers,2026-08-05,web,8.25,1
+blt,,Five Guys,2023-11-27,exif,6.6,1
+blue burger,,The Depot Eatery,2026-08-05,web,18.0,1
+boiled ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+bologna,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+bone in chicken wings,10,The Depot Eatery,2026-08-05,web,20.0,1
+bone in chicken wings,6,The Depot Eatery,2026-08-05,web,14.0,1
+bottles to go,,Five Guys,2023-11-27,exif,3.25,1
+braised rancho gordo beans with salsa verde,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
+braised rancho gordo beans with salsa verde,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,7.0,1
+braised rancho gordo beans with salsa verde,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
+breakfast burger,,Burgerville,2026-04-26,exif,6.99,1
+breakfast combo,,The Depot Eatery,2026-08-05,web,16.0,1
+breakfast sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
+breakfast tacos,,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
+brick cooked chicken,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,14.0,1
+brick cooked chicken with potatoes and greens,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+brick cooked chicken with potatoes and greens,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,10.0,1
+brick cooked chicken with potatoes and greens,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,1
+brisket orange,,Barney's Burgers,2024-01-15,dom,8.99,1
+brisket ortega on sourdough,,Barney's Burgers,2026-08-05,web,9.0,1
+brunch burger,,The Depot Eatery,2026-08-05,web,19.0,1
+buffalo chicken,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+burger patty,,Barney's Burgers,2024-01-15,dom,8.0,1
+burrata,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
+burrata,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+burrata,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,2
+burrata,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
+caesar,,Perez Kitchen & Bar,2026-08-05,pdf,16.0,1
+california arborio rice roasted mushrooms summer squash basil pistou,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,28.0,1
+cappuccino,,McDonald's,2022-04-16,exif,3.55,1
+caramel macchiato,,McDonald's,2022-04-16,exif,3.55,1
+caramelized beets,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
+carnitas fries,,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
+cheddar biscuits,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,12.0,1
+cheddar biscuits,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,12.0,1
+cheddar biscuits with honey butter,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,3.0,1
+cheddar biscuits with honey butter,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,2
+cheddar biscuits with honey butter,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,9.0,1
+cheddar biscuits with honey butter,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,3.0,3
+cheddar biscuits with honey butter,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,3.0,1
+cheddar burger,,River's Edge Restaurant,2026-07-16,exif,19.0,1
+cheese burger,,Five Guys,2023-11-27,exif,9.9,1
+cheese burger,,In-N-Out Burger,2026-05-09,exif,2.25,1
+cheese burger,,In-N-Out Burger,2026-06-25,exif,4.1,2
+cheese burger,2,McDonald's,2022-04-16,exif,8.19,1
+cheese dog,,Five Guys,2023-11-27,exif,6.0,1
+cheeseburger seasoned fries,,Perez Kitchen & Bar,2026-08-05,pdf,19.0,1
+cheesy bacon bread,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,4.0,1
+cheesy bacon bread,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,4.0,1
+cheesy bacon bread,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,4.0,1
+chicken bacon ranch,,The Depot Eatery,2026-08-05,web,17.0,1
+chicken drumettes,,Genova Delicatessen,2024-08-31,exif,15.95,1
+chicken drumettes,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+chicken fettuccini alfredo,,The Depot Eatery,2026-08-05,web,18.0,1
+chicken fried steak,,The Depot Eatery,2026-08-05,web,19.0,1
+chicken kale,,Perez Kitchen & Bar,2026-08-05,pdf,19.0,1
+chicken mcnuggets,10 pc,McDonald's,2022-04-16,exif,8.19,1
+chicken nuggets,,Barney's Burgers,2026-08-05,web,5.25,1
+chicken ortega on sourdough,,Barney's Burgers,2026-08-05,web,9.0,1
+chicken patty,,Barney's Burgers,2024-01-15,dom,8.99,1
+chicken philly,,Barney's Burgers,2026-08-05,web,9.95,1
+chicken queso,,Barney's Burgers,2024-01-15,dom,8.99,1
+chicken salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+chicken salad sandwich,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
+chicken salad sandwich,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
+chicken salad sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
+chicken salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+chicken sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
+chicken strips,,Barney's Burgers,2024-01-15,dom,9.29,1
+chicken strips,,Barney's Burgers,2026-08-05,web,9.5,1
+chicken strips basket,,The Depot Eatery,2026-08-05,web,16.0,1
+chicken wings,,Perez Kitchen & Bar,2026-08-05,pdf,12.0,1
+chili,Large,Barney's Burgers,2026-08-05,web,6.5,1
+chili,Small,Barney's Burgers,2026-08-05,web,5.0,1
+chili burger,,Barney's Burgers,2024-01-15,dom,10.99,1
+chili burger,,Barney's Burgers,2026-08-05,web,9.45,1
+chili cheese fries,Large,Barney's Burgers,2026-08-05,web,8.95,1
+chili cheese fries,Small,Barney's Burgers,2026-08-05,web,5.95,1
+chili cheese fries,,The Depot Eatery,2026-08-05,web,10.0,1
+chili cup,Large,Barney's Burgers,2024-01-15,dom,5.99,1
+chili cup,Small,Barney's Burgers,2024-01-15,dom,4.49,1
+chili dog,,Barney's Burgers,2026-08-05,web,9.95,1
+chili dog,Jumbo,Barney's Burgers,2026-08-05,web,13.75,1
+chili size,,The Depot Eatery,2026-08-05,web,19.0,1
+chips hummus,,Perez Kitchen & Bar,2026-08-05,pdf,9.0,1
+chocolate,,Five Guys,2023-11-27,exif,0.4,1
+chorizo,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
+chorizo breakfast burrito,,The Depot Eatery,2026-08-05,web,18.0,1
+cinnamon roll,,The Depot Eatery,2026-08-05,web,8.0,1
+clam chowder bread bowl,,The Depot Eatery,2026-08-05,web,12.0,1
+classic,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,55.0,1
+classic,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,55.0,1
+classic,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,55.0,1
+classic bar,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,12.0,1
+classic bar,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,12.0,1
+classic bar,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,12.0,1
+classic mimosa,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,16.0,1
+cloud cream cold foam,12oz,Burgerville,2026-04-26,exif,5.49,1
+cloud cream cold foam,16oz,Burgerville,2026-04-26,exif,5.99,1
+cloud cream cold foam,20oz,Burgerville,2026-04-26,exif,6.49,1
+club steak,,Code 4 Taphouse,2025-11-15,exif,17.95,1
+cobb salad,,Barney's Burgers,2024-01-15,dom,10.99,1
+cobb salad,,Barney's Burgers,2026-08-05,web,14.5,1
+code 4 breakfast,,Code 4 Taphouse,2025-11-15,exif,4.95,2
+coffee,,In-N-Out Burger,2026-06-25,exif,1.65,2
+coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,3.0,1
+coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,3.0,1
+coke diet coke 7up ginger ale,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,3.0,1
+coleslaw,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,7.0,1
+cone,,McDonald's,2022-04-16,exif,1.99,1
+coors light,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+coors light,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
+coors light,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,5.0,1
+coppa,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+corianna,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
+corn dog,,Barney's Burgers,2024-01-15,dom,2.99,1
+corn dog,,Barney's Burgers,2026-08-05,web,3.0,1
+corn dog,Jumbo,Barney's Burgers,2025-08-18,exif,3.99,1
+corn dog,Reg,Barney's Burgers,2025-08-18,exif,2.99,1
+corn pancakes,,Code 4 Taphouse,2025-11-15,exif,6.95,2
+corned beef,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+corned beef hash,,Boon Fly Café,2026-07-04,exif,23.0,1
+corned beef hash,,The Depot Eatery,2026-08-05,web,16.0,1
+country fried steak,,The Depot Eatery,2026-08-05,web,17.0,1
+country ham 3 eggs,,Code 4 Taphouse,2025-11-15,exif,19.95,2
+cowboy fries,,The Depot Eatery,2026-08-05,web,9.0,1
+cowboy fries w chipotle holly sauce bacon cheese,,The Depot Eatery,2026-08-05,web,10.0,1
+crab cake,,The Depot Eatery,2026-08-05,web,18.0,1
+crab cake w spicy aioli,,The Depot Eatery,2026-08-05,web,11.0,2
+crab salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+crab salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+creamy grits,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,10.0,1
+crispy chicken caeser,,Barney's Burgers,2024-01-15,dom,10.99,1
+crispy chicken salad,,Barney's Burgers,2026-08-05,web,14.5,1
+crispy chicken sandwich,,McDonald's,2022-04-16,exif,8.49,3
+crispy herb fried potatoes,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
+crispy potatoes,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,8.0,1
+crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
+crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,7.0,1
+crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
+crispy scramble burrito with sausage or bacon,,Burgerville,2026-04-26,exif,5.99,2
+croissant sandwich,,The Depot Eatery,2026-08-05,web,16.0,1
+croissants,,Genova Delicatessen,2026-08-05,fallback,2.0,1
+crostini three,,Perez Kitchen & Bar,2026-08-05,pdf,12.0,1
+crunch breakfast biscuit with sausage or bacon,,Burgerville,2026-04-26,exif,5.89,2
+cuban sandwich,,The Depot Eatery,2026-08-05,web,19.0,1
+daddy s blueplate,,Barney's Burgers,2024-01-15,dom,11.99,1
+daron calvados 5yr brandy,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
+dasani water,16.9 fl oz,Five Guys,2023-11-27,exif,2.7,1
+depot burger,,The Depot Eatery,2026-08-05,web,14.0,1
+depot classic omlet,,The Depot Eatery,2026-08-05,web,19.0,1
+deviled eggs,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,13.0,1
+domestic prosciutto,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+double,,Barney's Burgers,2024-01-15,dom,9.99,1
+double,,Barney's Burgers,2026-08-05,web,9.2,1
+double bacon cheddar,,Barney's Burgers,2026-08-05,web,11.45,1
+double cheeseburger,,McDonald's,2022-04-16,exif,3.69,1
+double double,,In-N-Out Burger,2026-05-09,exif,2.95,1
+double double,,In-N-Out Burger,2026-06-25,exif,5.9,2
+double double french fries and medium drink,,In-N-Out Burger,2026-06-25,exif,9.6,4
+double quarter pounder with cheese,,McDonald's,2022-04-16,exif,10.49,1
+double with cheese,,Barney's Burgers,2026-08-05,web,9.9,1
+drinks,Large,Barney's Burgers,2024-01-15,dom,2.99,1
+drinks,Large,Barney's Burgers,2025-08-18,exif,2.99,1
+drinks,Medium,Barney's Burgers,2024-01-15,dom,2.79,1
+drinks,Medium,Barney's Burgers,2025-08-18,exif,2.79,1
+drinks,Small,Barney's Burgers,2024-01-15,dom,1.99,1
+drinks,Small,Barney's Burgers,2025-08-18,exif,1.99,1
+earth s offerings,,Perez Kitchen & Bar,2026-08-05,pdf,19.0,1
+egg and cheese,,Code 4 Taphouse,2025-11-15,exif,15.95,1
+egg salad,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+egg salad w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+eggplant,,Genova Delicatessen,2024-08-31,exif,15.95,1
+eggplant,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+elijah,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
+espresso,,McDonald's,2022-04-16,exif,3.55,1
+extra bbq,,Barney's Burgers,2024-01-15,dom,0.5,1
+extra bbq,,Barney's Burgers,2026-08-05,web,0.5,1
+extra cheese,,Barney's Burgers,2024-01-15,dom,0.75,1
+extra cheese,,Barney's Burgers,2026-08-05,web,0.65,1
+extra patty,,Barney's Burgers,2026-08-05,web,3.0,1
+extreme,,Barney's Burgers,2026-08-05,web,17.0,1
+extreme with cheese,,Barney's Burgers,2026-08-05,web,19.0,1
+farmstead,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,65.0,1
+farmstead,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,65.0,1
+farmstead,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,65.0,1
+farmstead bacon,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,14.0,1
+farmstead bar,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,14.0,1
+farmstead bar,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,14.0,1
+farmstead bar,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,14.0,1
+farmstead bloody mary,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,20.0,1
+farmstead chocolate chunk cookie,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,4.0,1
+farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,4.0,1
+farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,4.0,1
+farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,4.0,2
+farmstead deviled eggs,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,4.0,1
+fiery chili cream cheese poppers,,The Depot Eatery,2026-08-05,web,7.0,1
+filet o fish,,McDonald's,2022-04-16,exif,8.49,1
+fish chips basket,,The Depot Eatery,2026-08-05,web,18.0,1
+five guys shake,,Five Guys,2023-11-27,exif,5.2,1
+flat iron steak bites,,The Depot Eatery,2026-08-05,web,12.0,1
+fluffy pancakes,1,Code 4 Taphouse,2025-11-15,exif,6.95,2
+french fries,Large,Barney's Burgers,2024-01-15,dom,3.99,1
+french fries,Large,Barney's Burgers,2026-08-05,web,4.0,1
+french fries,Small,Barney's Burgers,2024-01-15,dom,2.99,1
+french fries,Small,Barney's Burgers,2026-08-05,web,3.0,1
+french fries,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
+french fries,,In-N-Out Burger,2026-05-09,exif,2.25,1
+french fries,,In-N-Out Burger,2026-06-25,exif,2.25,2
+french fries,Large,In-N-Out Burger,2026-06-25,exif,2.55,1
+french fries,Lg,In-N-Out Burger,2026-06-25,exif,2.55,1
+french fries,Med,In-N-Out Burger,2026-06-25,exif,2.35,1
+french fries,Medium,In-N-Out Burger,2026-06-25,exif,2.35,1
+french fries,Sm,In-N-Out Burger,2026-06-25,exif,2.2,1
+french fries,Small,In-N-Out Burger,2026-06-25,exif,2.2,1
+french fries,X-Large,In-N-Out Burger,2026-06-25,exif,2.75,1
+french fries,X-Lg,In-N-Out Burger,2026-06-25,exif,2.75,1
+french fries,,McDonald's,2022-04-16,exif,0.33,1
+french toast,2 slices,Code 4 Taphouse,2025-11-15,exif,8.95,2
+french toast bacon,,Code 4 Taphouse,2025-11-15,exif,7.95,2
+fresh juice,8oz,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
+fried egg biscuit sandwich with sausage or bacon,,Burgerville,2026-04-26,exif,3.99,1
+fried shrimp basket,,The Depot Eatery,2026-08-05,web,16.0,1
+fries large,Large,Five Guys,2023-11-27,exif,6.25,1
+fries little,Little,Five Guys,2023-11-27,exif,4.35,1
+fries regular,Regular,Five Guys,2023-11-27,exif,5.35,1
+fry bread tacos,,Perez Kitchen & Bar,2026-08-05,pdf,21.0,1
+fry sauce or ranch,,Barney's Burgers,2024-01-15,dom,0.5,1
+fry sauce or ranch,,Barney's Burgers,2026-08-05,web,0.5,1
+garden veggie,,The Depot Eatery,2026-08-05,web,18.0,1
+genitina,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+genoa salami,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+genova vegi,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+gioia burrata,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
+go dog,,Barney's Burgers,2026-08-05,web,7.95,1
+go dog,Jumbo,Barney's Burgers,2026-08-05,web,11.25,1
+gold peak drink,,Five Guys,2023-11-27,exif,4.2,1
+granola,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
+granola,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
+granola,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,6.0,1
+grass fed beef tartare,Large,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
+grass fed beef tartare,Regular,Farmstead at Long Meadow Ranch,2026-06-15,pdf,21.0,1
+grass fed cheeseburger,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,26.0,1
+grass fed cheeseburger with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+grass fed cheeseburger with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,10.0,1
+grass fed cheeseburger with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,1
+grass fed cheeseburger with crispy potatoes,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,15.0,1
+grass fed meatballs,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
+grass fed meatballs,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+grass fed meatballs,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,2
+grass fed meatballs,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
+green peppers,,Five Guys,2023-11-27,exif,0.05,1
+grill cheese fries,Large,Barney's Burgers,2024-01-15,dom,6.99,1
+grill cheese fries,Small,Barney's Burgers,2024-01-15,dom,5.99,1
+grilled cheese,,Barney's Burgers,2024-01-15,dom,5.99,1
+grilled cheese,,Barney's Burgers,2026-08-05,web,6.0,1
+grilled cheese,,Five Guys,2023-11-27,exif,5.15,1
+grilled cheese ham,,Barney's Burgers,2024-01-15,dom,8.79,1
+grilled cheese ham,,Barney's Burgers,2026-08-05,web,8.8,1
+grilled cheese sandwich,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,14.0,1
+grilled cheese sandwich with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+grilled cheese sandwich with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,10.0,1
+grilled cheese sandwich with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,1
+grilled chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+grilled chicken,,Barney's Burgers,2026-08-05,web,8.75,1
+grilled chicken sandwich,,River's Edge Restaurant,2026-07-16,exif,19.0,1
+grilled idaho trout,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,16.0,1
+grilled idaho trout,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
+grilled mushrooms,,Five Guys,2023-11-27,exif,0.65,2
+grilled onions,,Five Guys,2023-11-27,exif,0.05,1
+grilled patty melt,,The Depot Eatery,2026-08-05,web,16.0,1
+grilled reuben,,The Depot Eatery,2026-08-05,web,17.0,1
+grilled salsa macha chicken,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
+grilled swordfish,,Perez Kitchen & Bar,2026-08-05,pdf,27.0,1
+grilled trout with garden vegetables,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+grilled trout with garden vegetables,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,10.0,1
+grilled trout with garden vegetables,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,1
+ham,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
+ham,,The Depot Eatery,2026-08-05,web,17.0,1
+ham and cheese puff,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+ham and cheese puff,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
+ham and cheese puff,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
+ham apple cheese,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
+ham apple cheese,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
+ham sandwiches,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
+ham sandwiches,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+ham sandwiches,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,2
+ham sandwiches,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
+hamburger,,Five Guys,2023-11-27,exif,9.05,1
+hamburger,,In-N-Out Burger,2026-05-09,exif,2.0,1
+hamburger,,In-N-Out Burger,2026-06-25,exif,3.6,2
+hamburger,,McDonald's,2022-04-16,exif,4.49,1
+hash,,Code 4 Taphouse,2025-11-15,exif,14.95,1
+hashbrowns,LARGE,Burgerville,2026-04-26,exif,3.19,1
+hashbrowns,SMALL,Burgerville,2026-04-26,exif,1.89,1
+hawaiian,,Barney's Burgers,2024-01-15,dom,10.99,1
+hawaiian,,Barney's Burgers,2026-08-05,web,9.45,1
+headcheese,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+heritage st louis ribs,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,49.0,1
+hollys veggie,,The Depot Eatery,2026-08-05,web,17.0,1
+homeade chili,Bowl,The Depot Eatery,2026-08-05,web,10.0,1
+homeade chili,Bread Bowl,The Depot Eatery,2026-08-05,web,12.0,1
+homeade chili,Cup,The Depot Eatery,2026-08-05,web,7.0,1
+homemade chicken pot pie,,The Depot Eatery,2026-08-05,web,18.0,1
+homemade lemonade orange juice grapefruit juice,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+homemade lemonade orange juice grapefruit juice,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
+homemade lemonade orange juice grapefruit juice,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,5.0,1
+honey turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+hot cocoa,,In-N-Out Burger,2026-06-25,exif,2.35,2
+hot dog,,Barney's Burgers,2026-08-05,web,5.0,1
+hot dog,Jumbo,Barney's Burgers,2024-01-15,dom,7.79,1
+hot dog,Jumbo,Barney's Burgers,2026-08-05,web,10.75,1
+hot dog,Reg,Barney's Burgers,2024-01-15,dom,5.79,1
+hot honey chicken and waffle,,The Depot Eatery,2026-08-05,web,18.0,1
+hot salami,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+hot sauce,,Five Guys,2023-11-27,exif,0.05,1
+house made condiments,,Gott's Napa,2026-05-25,exif,4.99,1
+house made cookies,,Gott's Napa,2026-05-25,exif,3.99,1
+house made meatloaf,,The Depot Eatery,2026-08-05,web,18.0,1
+house made pot roast,,The Depot Eatery,2026-08-05,web,18.0,1
+house salad,lrg,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
+house salad,sm,Perez Kitchen & Bar,2026-08-05,pdf,8.0,1
+house specialty breakfast,,Code 4 Taphouse,2025-11-15,exif,19.95,2
+housemade lemonade,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
+iced caramel macchiato,,McDonald's,2022-04-16,exif,3.55,1
+iced mocha,,McDonald's,2022-04-16,exif,3.55,1
+iced tea,,McDonald's,2022-04-16,exif,1.0,1
+iris,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
+isabela,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
+italian breakfast sandwich,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
+italian combo,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+jalape o pepper jack,,Barney's Burgers,2024-01-15,dom,10.99,1
+jalape o pepper jack,,Barney's Burgers,2026-08-05,web,9.45,1
+jalapeno peppers,,Five Guys,2023-11-27,exif,0.05,1
+jalapeno poppers,,The Depot Eatery,2026-08-05,web,7.5,2
+juice green or carrot ginger,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,11.0,1
+juice green or carrot ginger,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,11.0,1
+juice green or carrot ginger,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,11.0,1
+kale salad,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
+kale salad,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
+ketchup,,Five Guys,2023-11-27,exif,1.1,1
+kieren,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
+kraut dog,,Barney's Burgers,2026-08-05,web,9.25,1
+kraut dog,Jumbo,Barney's Burgers,2026-08-05,web,10.75,1
+krusty dog,,Barney's Burgers,2024-01-15,dom,8.99,1
+large drink,32 fl oz,Five Guys,2023-11-27,exif,3.15,1
+lasagna,,Genova Delicatessen,2024-08-31,exif,15.95,1
+lasagna,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+latte,,McDonald's,2022-04-16,exif,3.55,1
+lettuce,,Five Guys,2023-11-27,exif,0.05,1
+little bacon burger,,Five Guys,2023-11-27,exif,8.3,1
+little bacon cheeseburger,,Five Guys,2023-11-27,exif,9.05,1
+little cheeseburger,,Five Guys,2023-11-27,exif,8.05,1
+little hamburger,,Five Guys,2023-11-27,exif,7.05,1
+lmr grass fed beef,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,30.0,1
+lmr grass fed beef,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,30.0,1
+lmr grass fed beef,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,30.0,2
+lmr grass fed beef,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,30.0,1
+lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,15.0,1
+lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,15.0,1
+lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,15.0,2
+lmr grass fed lamb,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,15.0,1
+lutheran,,Barney's Burgers,2024-01-15,dom,11.99,1
+mac and cheese,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,14.0,1
+mac and cheese,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
+mac and cheese with sonoma cheddar,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,8.0,1
+mac and cheese with sonoma cheddar,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,8.0,1
+mac and cheese with sonoma cheddar,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,8.0,1
+malibu chicken,,Barney's Burgers,2026-08-05,web,9.95,1
+malt,Large,Barney's Burgers,2026-08-05,web,10.3,1
+malt,Medium,Barney's Burgers,2026-08-05,web,7.0,1
+malt,Small,Barney's Burgers,2026-08-05,web,5.5,1
+malts add,,Barney's Burgers,2024-01-15,dom,0.49,1
+malts add,,Barney's Burgers,2025-08-18,exif,0.49,1
+malts add,,Barney's Burgers,2025-11-21,exif,1.0,1
+mayo,,Five Guys,2023-11-27,exif,1.1,1
+mcflurry,,McDonald's,2022-04-16,exif,3.99,1
+meat ball or sausage,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+meat ball or sausage sandwich w sauted onions peppers,,Genova Delicatessen,2024-08-31,exif,13.95,1
+meat lovers,,The Depot Eatery,2026-08-05,web,18.0,1
+meatloaf sandwich,,River's Edge Restaurant,2026-07-16,exif,20.0,1
+meatloaf sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
+mexican 7up,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,6.0,1
+mexican coke,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
+mexican style street corn,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
+mike s cowboy burger,,The Depot Eatery,2026-08-05,web,19.0,1
+mild cheese,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+milk,,In-N-Out Burger,2026-06-25,exif,1.25,2
+milk,,McDonald's,2022-04-16,exif,4.49,1
+milkshake,Large,Barney's Burgers,2026-08-05,web,9.8,1
+milkshake,Medium,Barney's Burgers,2026-08-05,web,6.5,1
+milkshake,Small,Barney's Burgers,2026-08-05,web,5.0,1
+mill street,,The Depot Eatery,2026-08-05,web,16.0,1
+mill street mess,,The Depot Eatery,2026-08-05,web,18.0,1
+mini ham sandwiches,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,22.0,1
+mocha,,McDonald's,2022-04-16,exif,3.55,1
+mole pork chop,,Perez Kitchen & Bar,2026-08-05,pdf,25.0,1
+monte cristo,,The Depot Eatery,2026-08-05,web,18.0,1
+mortadella,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+mozzarella sticks,,The Depot Eatery,2026-08-05,web,7.5,2
+mushroom bacon cheese,,Barney's Burgers,2024-01-15,dom,10.99,1
+mushroom bacon cheese,,Barney's Burgers,2026-08-05,web,9.95,1
+mushroom jack chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+mushroom jack chicken,,Barney's Burgers,2026-08-05,web,9.0,1
+mushroom swiss,,Barney's Burgers,2024-01-15,dom,10.99,1
+mushroom swiss,,Barney's Burgers,2026-08-05,web,9.45,1
+mustard,,Five Guys,2023-11-27,exif,0.3,1
+my,,Code 4 Taphouse,2025-11-15,exif,14.75,1
+napa palisades pacific plate,,Gott's Napa,2026-05-25,exif,18.99,1
+nashville chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+new york steak,,Code 4 Taphouse,2025-11-15,exif,23.95,1
+non alcoholic,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,1
+non alcoholic,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,10.0,1
+nutella rice cakes,,Code 4 Taphouse,2025-11-15,exif,14.95,2
+oats,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
+oats,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
+oats,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,6.0,1
+offsite catering full service,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,75.0,1
+old fashioned shakes malts,Large,Barney's Burgers,2025-08-18,exif,6.99,1
+old fashioned shakes malts,Medium,Barney's Burgers,2025-08-18,exif,6.49,1
+old fashioned shakes malts,Small,Barney's Burgers,2025-08-18,exif,4.99,1
+onion rings,,Barney's Burgers,2024-01-15,dom,6.0,1
+onion rings,,Barney's Burgers,2026-08-05,web,7.0,1
+onions,,Five Guys,2023-11-27,exif,0.1,1
+orange chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+oreo cookie pieces,,Five Guys,2023-11-27,exif,0.85,1
+oreo cr me,,Five Guys,2023-11-27,exif,0.9,1
+ortega chicken,,Barney's Burgers,2026-08-05,web,9.0,1
+ortega jack,,Barney's Burgers,2026-08-05,web,9.45,1
+pacifico clara,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
+pacifico clara,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
+pacifico clara,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,6.0,1
+pancake bacon,,Code 4 Taphouse,2025-11-15,exif,8.95,2
+pancakes,,Perez Kitchen & Bar,2026-08-05,pdf,12.0,1
+parfait,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,7.0,1
+parfait,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,7.0,1
+parfait,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,7.0,1
+pastrami,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+patty melt,,Barney's Burgers,2024-01-15,dom,10.99,1
+patty melt,,Barney's Burgers,2026-08-05,web,9.45,1
+patty melt,,The Depot Eatery,2026-08-05,web,17.0,1
+peanut butter,,Five Guys,2023-11-27,exif,0.9,1
+pepper salami,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+pepper turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+peppercorn chicken caesar wrap,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
+perez club,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
+philly steak,,Code 4 Taphouse,2025-11-15,exif,19.95,1
+pickle cream cheese poppers,,The Depot Eatery,2026-08-05,web,7.0,1
+pickles,,Five Guys,2023-11-27,exif,0.05,1
+pimento cheese dip,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
+pimento cheese dip,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
+pimento cheese dip,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,2
+pimento cheese dip,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,5.0,1
+polenta,,Genova Delicatessen,2024-08-31,exif,15.95,1
+polenta,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+portabella burger gf,,River's Edge Restaurant,2026-07-16,exif,20.0,1
+potato cake combo,,The Depot Eatery,2026-08-05,web,18.0,1
+potato salad,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,7.0,1
+prime rib,,The Depot Eatery,2026-08-05,web,25.0,1
+prosciutto diparma,,Genova Delicatessen,2026-08-05,fallback,16.95,1
+prosciutto diparma w cheese,,Genova Delicatessen,2026-08-05,fallback,17.45,1
+prosciutto fig sandwich,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
+prosciutto fig sandwich,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
+pulled pork,,The Depot Eatery,2026-08-05,web,19.0,1
+quarter pounder,,Barney's Burgers,2024-01-15,dom,8.99,1
+quarter pounder,,Barney's Burgers,2026-08-05,web,6.95,1
+quarter pounder deluxe,,McDonald's,2022-04-16,exif,8.85,1
+quarter pounder with cheese,,Barney's Burgers,2026-08-05,web,7.45,1
+quarter pounder with cheese,,McDonald's,2022-04-16,exif,10.0,2
+racer 5 ipa,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
+racer 5 ipa,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
+racer 5 ipa,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,6.0,1
+ravioli tortellini,,Genova Delicatessen,2024-08-31,exif,15.95,1
+ravioli tortellini,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+reese s cup,,Five Guys,2023-11-27,exif,1.5,1
+regular drink,22 fl oz,Five Guys,2023-11-27,exif,2.99,1
+relish,,Five Guys,2023-11-27,exif,0.15,1
+roast beef,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+roasted brussels sprouts,,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
+roasted cauliflower lentil,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
+roasted pork loin,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,10.0,1
+roasted pork loin,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+roasted pork loin,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,10.0,2
+roasted pork loin,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,10.0,1
+rooster special,,The Depot Eatery,2026-08-05,web,15.0,1
+rosemary ham,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+rotisserie chicken,,Genova Delicatessen,2026-08-05,fallback,15.95,1
+rotisserie chicken,1/2,Genova Delicatessen,2024-08-31,exif,15.95,1
+roy rogers,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
+rusty s roundup,,Barney's Burgers,2026-08-05,web,10.45,1
+salad of garden lettuce,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,18.0,1
+salad of lacinato kale,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,17.0,1
+salami,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+salami cotto,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+salanova lettuce,,Boon Fly Café,2026-07-04,exif,18.0,1
+salsa macha shrimp,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
+salted caramel,,Five Guys,2023-11-27,exif,0.45,1
+sandra,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
+sandwich,,Code 4 Taphouse,2025-11-15,exif,14.75,1
+sandwich reg,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+sandwich w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+scrimshaw pilsner,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
+scrimshaw pilsner,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,6.0,1
+scrimshaw pilsner,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,6.0,1
+seafood omlet,,The Depot Eatery,2026-08-05,web,19.0,1
+shakes,,In-N-Out Burger,2026-06-25,exif,3.05,2
+shakes,,McDonald's,2022-04-16,exif,3.09,1
+shakes malts,Large,Barney's Burgers,2024-01-15,dom,9.79,1
+shakes malts,Medium,Barney's Burgers,2024-01-15,dom,6.49,1
+shakes malts,Small,Barney's Burgers,2024-01-15,dom,4.99,1
+shakes malts large,Large,Barney's Burgers,2025-11-21,exif,7.8,1
+shakes malts medium,Medium,Barney's Burgers,2025-11-21,exif,6.5,1
+shakes malts small,Small,Barney's Burgers,2025-11-21,exif,5.0,1
+shirley temple,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,6.0,1
+short stack or full stack,Full Stack,The Depot Eatery,2026-08-05,web,8.0,1
+short stack or full stack,Short Stack,The Depot Eatery,2026-08-05,web,6.0,1
+shrimp cocktail,,The Depot Eatery,2026-08-05,web,16.0,1
+sierra hash,,Code 4 Taphouse,2025-11-15,exif,14.95,1
+smashburger seasoned fries,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,2
+smoked chicken club,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
+smoked chicken club,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
+smoked chicken wings,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
+smoked pork hash,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
+smoked turkey,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+soda,12oz,Barney's Burgers,2026-08-05,web,2.0,1
+soda,24oz,Barney's Burgers,2026-08-05,web,2.8,1
+soda,32oz,Barney's Burgers,2026-08-05,web,3.25,1
+soft drinks,,McDonald's,2022-04-16,exif,1.0,1
+soft drinks tea and coffee,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
+soft serve,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,4.0,1
+soft shell crab sandwich,,Gott's Napa,2026-05-25,exif,14.99,1
+solomon,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
+sopressata,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+spanish omlet,,The Depot Eatery,2026-08-05,web,18.0,1
+special tortilla soup,,Taqueria El Charro Viejo,2022-12-07,exif,11.5,1
+spicy chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
+spicy chicken harissa,,Perez Kitchen & Bar,2026-08-05,pdf,19.0,1
+spicy deluxe crispy chicken sandwich,,McDonald's,2022-04-16,exif,9.39,1
+spicy jack,,Barney's Burgers,2024-01-15,dom,10.99,1
+sriracha chicken,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+standard,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,45.0,1
+standard,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,45.0,1
+standard,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,45.0,1
+steak,,Code 4 Taphouse,2025-11-15,exif,19.95,3
+steak,,Taqueria El Charro Viejo,2022-12-07,exif,8.95,1
+steak and frites,,Perez Kitchen & Bar,2026-08-05,pdf,28.0,1
+steak with egg and cheese,,Code 4 Taphouse,2025-11-15,exif,14.75,1
+steak with poached eggs,,Code 4 Taphouse,2025-11-15,exif,15.95,1
+strawberry,,Five Guys,2023-11-27,exif,0.2,1
+strawberry french toast,,Code 4 Taphouse,2025-11-15,exif,10.95,2
+stuffed french toast,,The Depot Eatery,2026-08-05,web,18.0,1
+stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,30.0,1
+stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,30.0,1
+stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,30.0,1
+substitute house infused spicy tequila,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,22.0,1
+sundae,,McDonald's,2022-04-16,exif,2.59,1
+super veggie omlet,,The Depot Eatery,2026-08-05,web,18.0,1
+sweet potato fries,,Barney's Burgers,2024-01-15,dom,5.99,1
+sweet potato fries,,Barney's Burgers,2026-08-05,web,6.5,1
+sweet potato spinach breakfast burrito,,Perez Kitchen & Bar,2026-08-05,pdf,16.0,1
+sweet tea,,McDonald's,2022-04-16,exif,1.0,1
+tamal pork,,Taqueria El Charro Viejo,2022-12-07,exif,5.25,1
+tannery hero juicy paul,,Gott's Napa,2026-05-25,exif,14.99,1
+tater tots,Large,Barney's Burgers,2024-01-15,dom,4.99,1
+tater tots,Large,Barney's Burgers,2026-08-05,web,5.0,1
+tater tots,Small,Barney's Burgers,2024-01-15,dom,3.99,1
+tater tots,Small,Barney's Burgers,2026-08-05,web,4.0,1
+teff cakes,,Perez Kitchen & Bar,2026-08-05,pdf,21.0,1
+teriyaki,,Barney's Burgers,2026-08-05,web,9.45,1
+teriyaki chicken,,Barney's Burgers,2026-08-05,web,9.0,1
+the blue,,The Depot Eatery,2026-08-05,web,17.0,1
+the brunch burger,,The Depot Eatery,2026-08-05,web,17.0,1
+the chili,,The Depot Eatery,2026-08-05,web,17.0,1
+the colossal burger,1/2 lb,Burgerville,2026-08-05,fallback,7.99,1
+the veggie,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
+til tip salad,,Barney's Burgers,2024-01-15,dom,10.99,1
+til tip salad,,Barney's Burgers,2026-08-05,web,16.5,1
+today s soup,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,14.0,1
+tomatoes,,Five Guys,2023-11-27,exif,0.05,1
+tony bourdain breakfast sandwich,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
+toscano salami,,Genova Delicatessen,2026-08-05,fallback,14.95,1
+traditional,,The Depot Eatery,2026-08-05,web,17.0,1
+trailblazer,,The Depot Eatery,2026-08-05,web,16.0,1
+train wreck,,The Depot Eatery,2026-08-05,web,18.5,2
+tri tip dip,,The Depot Eatery,2026-08-05,web,19.0,1
+triple,,Barney's Burgers,2024-01-15,dom,10.99,1
+triple,,Barney's Burgers,2026-08-05,web,11.45,1
+triple decker club,,The Depot Eatery,2026-08-05,web,18.0,1
+triple ham havoc,,Perez Kitchen & Bar,2026-08-05,pdf,19.0,1
+triple with cheese,,Barney's Burgers,2026-08-05,web,12.45,1
+truffle cremini croquettes,,The Depot Eatery,2026-08-05,web,8.0,1
+tuna albacore,,Genova Delicatessen,2026-08-05,fallback,12.95,1
+tuna albacore w cheese,,Genova Delicatessen,2026-08-05,fallback,13.95,1
+tuna melt,,The Depot Eatery,2026-08-05,web,17.0,1
+turkey blt a sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
+turkey melt,,The Depot Eatery,2026-08-05,web,16.0,1
+turkey pesto omlet,,The Depot Eatery,2026-08-05,web,18.0,1
+two french toast,,The Depot Eatery,2026-08-05,web,7.0,1
+vampire slayer burger,,Burgerville,2022-09-09,exif,7.99,1
+veggie burger,,Barney's Burgers,2024-01-15,dom,7.99,1
+veggie burger,,Barney's Burgers,2026-08-05,web,8.65,1
+veggie melt,,The Depot Eatery,2026-08-05,web,17.0,1
+veggie sandwich,,Five Guys,2023-11-27,exif,5.1,1
+vegi burger with cheese,,Barney's Burgers,2026-08-05,web,9.15,1
+waffles,Plain,Code 4 Taphouse,2025-11-15,exif,10.95,2
+warm cinnamon roll,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
+west coast crab roll,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,42.0,1
+with cheese,,Five Guys,2023-11-27,exif,5.99,1
+with glass of milk,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,4.0,1
+wood roasted broccolini,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,14.0,1

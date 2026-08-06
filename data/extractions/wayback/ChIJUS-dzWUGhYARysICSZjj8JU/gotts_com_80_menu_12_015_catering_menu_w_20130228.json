@@ -1,0 +1,264 @@
+{
+ "photo": "wb/20130228/http://gotts.com:80/menu/12-GTR-015_catering_menu.wk5.pdf",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://web.archive.org/web/20130228/http://gotts.com:80/menu/12-GTR-015_catering_menu.wk5.pdf",
+ "observed_on": "2013-02-28",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Passed",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "piece",
+    "notes": null
+   },
+   {
+    "name": "shakes",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "ice cream in a cup",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "canned soda",
+    "price": 2.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "iced tea",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "lemonade",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "spring & sparkling water",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "coffee",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "odwalla juice & smoothies",
+    "price": 3.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "Bieler Père et Fils 11 Rosé",
+    "price": 21.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Napa Cellars 10 Chardonnay",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Montevina 10 Pinot Grigio",
+    "price": 18.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hall 11 Sauvignon Blanc",
+    "price": 24.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Jelly Jar 10 Zinfandel",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dona Paula 10 Malbec",
+    "price": 21.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chappellet 10 Cabernet Sauvignon",
+    "price": 36.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "La Follette 10 Pinot Noir",
+    "price": 33.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "bottled beers",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "each",
+    "notes": null
+   },
+   {
+    "name": "PBR",
+    "price": 3.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "21st Amendment Black IPA",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "21st Amendment Extra Pale Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Anderson Valley Seasonal Ale",
+    "price": 4.5,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CLASSIC",
+    "price": 2000.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "CLASSIC + SEAFOOD",
+    "price": 2250.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "seafood + chicken",
+    "price": 2500.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "kid’s",
+    "price": 1750.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "breakfast",
+    "price": 1750.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [
+   "2012"
+  ],
+  "restaurant_hint": null,
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001044,
+ "wayback_ts": "20130228"
+}
