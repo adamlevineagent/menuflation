@@ -1,0 +1,217 @@
+{
+ "photo": "wb/20160327170311/http://www.angelerestaurant.com:80/DINNER_3-10_copy.pdf",
+ "place_id": "ChIJCZSaK2kGhYARWMya75r1mQ0",
+ "src": "https://web.archive.org/web/20160327170311/http://www.angelerestaurant.com:80/DINNER_3-10_copy.pdf",
+ "observed_on": "2016-03-27",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Oysters on the Half Shell served with Mignonette",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": "½doz",
+    "notes": null
+   },
+   {
+    "name": "Classic French Onion Soup",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Housemade Agnolotti, Fava Leaves, Black Trumpet, Artichokes, Sunchokes",
+    "price": 15,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bacon Stuﬀed Calamari, Coco Beans, Crispy Haricot Vert",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Beet Salad, Burrata Cheese, Baby Garden Greens, Red Wine Beet Vinaigrette, Orange Oil",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Deviled Eggs, Crème Fraïche Mousse, Pickled Jalapeño",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Rabbit Stuﬀed Gnocchi, Veal Bolognese",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Country Paté “En Croute”, Pickled Vegetables, Mustard Vinaigrette",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Foie Gras and Duck Liver Terrine, Toasted Brioche",
+    "price": 22,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hamachi Crudo, Black Rice Cracker, Avocado Mousse",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Warm Ricotta Custard, Crispy Wild Mushrooms, Parmesan",
+    "price": 18,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Steak Tartare, Dijon Mustard, Farm Egg Yolk, Arugula Salad",
+    "price": 16,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Little Gem Salad, Fines Herbs, Red Wine Vinaigrette",
+    "price": 12,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Lobster Pot Pie, Shaved Baby Carrot Salad",
+    "price": 30,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Spring Garlic Farro Risotto, Thumbelina Carrots, White Truﬄe Oil",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Branzino, Winter Citrus, Lemon Caper Butter Sauce",
+    "price": 36,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted New York Steak, Potato Mille Feuille, Spring Baby Leeks, Wild Mushroom Sauce",
+    "price": 39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Bacon Wrapped Chicken, Veal Sausage Stuﬃng, Fava Beans",
+    "price": 28,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Whole Roasted Bacon Wrapped Chicken, Veal Sausage Stuﬃng, Fava Beans",
+    "price": 56,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bone in Pork Chop, Celery Root, Roasted Apples, Mustard Seed, Gooseberries",
+    "price": 32,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Roasted Veal Loin, Forbidden Rice, Apples, Wild Mustard Greens",
+    "price": 34,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chef’s Tasting Menu",
+    "price": 95,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": "with Wine Pairing $135"
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Angelerestaurant.com",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.000977,
+ "wayback_ts": "20160327170311"
+}
