@@ -85,9 +85,15 @@ def test_item_family():
     assert fam("bacon cheeseburger") == "cheeseburger"
     assert fam("french fries") == "french fries"
     assert fam("fries") == "french fries"
+    assert fam("fries large") == "french fries"      # size-suffixed head noun
+    assert fam("fries regular") == "french fries"
+    assert fam("fries little") == "french fries"
     assert fam("sweet potato fries") is None
     assert fam("carnitas fries") is None
     assert fam("loaded fries") is None
+    # combos / entree descriptions are NOT plain fries (meal/steak prices)
+    assert fam("double double french fries and medium drink") is None
+    assert fam("new york steak french fries sauce bordelaise") is None
     assert fam("hamburger") is None
 
 

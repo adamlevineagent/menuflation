@@ -88,6 +88,9 @@ def yoy_change(series, lookback_days=365):
 _FRIES_STOP = {"sweet", "loaded", "garlic", "curly", "poutine", "truffle",
                "animal", "disco", "chili", "queso", "bbq", "buffalo", "cajun",
                "zucchini", "cheese", "carnitas", "tater", "potato"}
+# Size words that may follow the "fries" head noun ("fries large").
+_FRIES_SIZE = {"large", "regular", "little", "small", "medium", "big",
+               "extra", "kiddie", "xlarge"}
 
 
 def item_family(name):
@@ -96,8 +99,15 @@ def item_family(name):
     if "cheeseburger" in n or "cheese burger" in n:
         return "cheeseburger"
     toks = n.split()
-    if toks and toks[-1] == "fries" and not any(s in n for s in _FRIES_STOP):
-        return "french fries"
+    if "fries" in toks:
+        # "fries" is the head noun: it may be the last token ("french fries",
+        # "cowboy fries") or followed only by size words ("fries large").
+        # Anything else after "fries" (combos, entree descriptions) is not
+        # plain fries — those are meal/steak prices, not fries prices.
+        suffix = toks[toks.index("fries") + 1:]
+        if all(w in _FRIES_SIZE for w in suffix) and not any(
+                s in n for s in _FRIES_STOP):
+            return "french fries"
     return None
 
 
