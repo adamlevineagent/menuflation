@@ -1,0 +1,1450 @@
+{
+ "photo": "web/https://order.gotts.com/gotts-roadside-oxbow",
+ "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
+ "src": "https://order.gotts.com/gotts-roadside-oxbow",
+ "observed_on": "2026-08-10",
+ "date_source": "web",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Fries",
+    "price": 4.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Original Tenders",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Garlic Fries",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Chicken Tacos",
+    "price": 13.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Green Tomatoes",
+    "price": 7.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Lobster BLT",
+    "price": 27.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Street Corn",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chocolate Chip Cookie",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "California Burger",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Gruy\u00e8re & Caramelized Onion Burger",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Double Cheeseburger",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Double Bacon Cheeseburger",
+    "price": 19.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kimchi Burger",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Western Bacon Blue Ring",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Texas Avocado Burger",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Green Chile Cheeseburger",
+    "price": 13.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Cheeseburger",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Bacon Cheeseburger",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Double Hamburger",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Double Bacon Hamburger",
+    "price": 18.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Hamburger",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Bacon Hamburger",
+    "price": 13.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible California Burger + Bacon (Pork)",
+    "price": 20.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Gruy\u00e8re & Onion",
+    "price": 18.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Double Cheeseburger",
+    "price": 20.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Double Cheeseburger  + Bacon (Pork)",
+    "price": 22.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Kimchi Burger + Bacon (Pork)",
+    "price": 19.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Western Blue Ring + Bacon (Pork)",
+    "price": 18.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Texas Avocado",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Green Chile Cheese",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Cheeseburger",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Cheeseburger + Bacon (Pork)",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Hamburger",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Vegan Impossible Burger",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Impossible Burger Patties - 10 pack",
+    "price": 55.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey California Burger + Bacon (Pork)",
+    "price": 19.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Gruy\u00e8re & Caramelized Onion Burger",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Double Cheeseburger",
+    "price": 19.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Double Cheeseburger + Bacon (Pork)",
+    "price": 21.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Kimchi Burger + Bacon (Pork)",
+    "price": 18.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Western Blue Ring + Bacon (Pork)",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Texas Avocado Burger",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Green Chile Cheese",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Cheeseburger",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Cheeseburger + Bacon (Pork)",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Hamburger",
+    "price": 13.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie California Burger + Bacon (Pork)",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Gruy\u00e8re & Caramelized Onion Burger",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Double Cheeseburger",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Double Cheese + Bacon (Pork)",
+    "price": 19.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Kimchi Burger + Bacon (Pork)",
+    "price": 16.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Western Blue Ring + Bacon (Pork)",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Texas Avocado Burger",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Green Chile Cheeseburger",
+    "price": 13.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Cheeseburger",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Cheeseburger + Bacon (Pork)",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Veggie Hamburger",
+    "price": 11.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Ahi Burger",
+    "price": 17.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "California Chicken",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Schnitzel",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Teriyaki Chicken",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Teriyaki Tenders",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Zab's Hot Honey Tenders",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Original Impossible\u2122 Nuggets (vegetarian)",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Teriyaki Impossible\u2122 Nuggets (vegetarian)",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Zab's Hot Honey Impossible\u2122 Nuggets (vegetarian)",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Fried Brussels Sprouts",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Cheese Fries",
+    "price": 6.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chili Cheese Fries",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Onion Rings",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Sweet Potato Fries",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Fresh Veggies & Hummus",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Citrus & Avocado Chop Salad",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Cobb Salad",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Falafel Salad",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Kale Caesar Salad",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Vietnamese Chicken Salad",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Cilantro-Pumpkin Seed Dressing",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Lemon-Dijon Vinaigrette",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Lemon Tahini Dressing",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Peanut Lime Vinaigrette",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Caesar Dressing",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Avocado Tacos",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Baja Fish Tacos",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Asado Fish Tacos",
+    "price": 14.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Ahi Poke Crispy Tacos",
+    "price": 15.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chili",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Spicy Tomato Soup",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Niman Ranch Fearless Frank",
+    "price": 8.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chili Cheese Dog",
+    "price": 12.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Works Dog",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Roederer Estate",
+    "price": 33.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Schrmsbrg B",
+    "price": 39.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF M\u00f6et Brut Ros\u00e9",
+    "price": 59.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Bieler Ros\u00e9",
+    "price": 45.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Joel Gott SB",
+    "price": 41.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Seaglass PG",
+    "price": 41.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Napa Cellar",
+    "price": 45.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Rombauer Chardonnay",
+    "price": 63.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Frog's Leap Sauvignon Blanc",
+    "price": 27.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Duckhorn Sauvignon Blanc",
+    "price": 29.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Sonoma-Cutrer CH",
+    "price": 25.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Mason SB",
+    "price": 25.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Chalk Hill CH",
+    "price": 31.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Pinot Project PN",
+    "price": 45.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Turley Zin",
+    "price": 59.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Ram's Gate Sonoma Coast",
+    "price": 89.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Double Trouble CS",
+    "price": 41.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Joel Gott 815 CS",
+    "price": 46.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Banshee PN",
+    "price": 59.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Lang & Reed CF",
+    "price": 25.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Melville PN",
+    "price": 42.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Shafer CS",
+    "price": 79.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Rombauer ZN",
+    "price": 34.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Schug PN",
+    "price": 37.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Caymus CS",
+    "price": 59.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Heitz CS",
+    "price": 69.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "HLF Opus Cab",
+    "price": 199.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Miller Lite",
+    "price": 5.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Corona",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Firestone 805 Cerveza",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": "OUT OF STOCK"
+   },
+   {
+    "name": "BTL Blue Moon",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Fat Tire Amber",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Little Sumpin' Sumpin'",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Sierra Nevada",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BTL Dogfish 90 Minute IPA",
+    "price": 8.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Pabst Blue Ribbon",
+    "price": 4.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Fort Point KSA",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Mango Cart Wheat Ale",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": "OUT OF STOCK"
+   },
+   {
+    "name": "CAN Golden State Cider, 16oz",
+    "price": 9.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN White Claw",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Montucky Cold Snack, 16oz",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Stone IPA",
+    "price": 6.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Upside Dawn",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Athletic Lite",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Best Day IPA",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Best Day Hazy IPA",
+    "price": 7.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Little Saints Paloma",
+    "price": 9.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "CAN Little Saints Margarita",
+    "price": 9.0,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Coke",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Diet Coke",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Fanta",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Iced Tea",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Arnold Palmer",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "House-made Lemonade",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Mr. Pibb",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Root Beer",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Sprite",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "House-made Strawberry Lemonade",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chocolate Shake",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Coffee Shake",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Mint Chip Shake",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Strawberry Shake",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Vanilla Shake",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Cookies & Cream Shake",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Peanut Butter & Chocolate Shake",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Black & White Shake",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Berry Lemon Freeze",
+    "price": 7.29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Lev's Hibiscus Kombucha",
+    "price": 6.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Bernie's Organic Apple Juice",
+    "price": 4.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Tahoe Spring Water",
+    "price": 3.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Tahoe Sparkling Water",
+    "price": 3.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "BBQ Sauce",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Charred Jalape\u00f1o Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Chipotle Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Gochujang Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Harissa Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Honey Mustard",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": "OUT OF STOCK"
+   },
+   {
+    "name": "Lemon Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Ranch",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Secret Sauce",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Spicy Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Turmeric Spiced Mayo",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Hamburger",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Grilled Cheese",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Cheeseburger",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Hot Dog",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Chicken Tenders (2)",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Mini Corn Dogs (6)",
+    "price": 9.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [],
+  "restaurant_hint": "Gott's Roadside Napa (Oxbow)",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.0
+}
