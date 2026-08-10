@@ -1,0 +1,18 @@
+{
+ "photo": "wb/20151017235302/burgerville.com/menu/",
+ "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+ "src": "https://web.archive.org/web/20151017235302/burgerville.com/menu/",
+ "observed_on": "2015-10-17",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.9
+ },
+ "cost_usd": 0.000323,
+ "wayback_ts": "20151017235302"
+}

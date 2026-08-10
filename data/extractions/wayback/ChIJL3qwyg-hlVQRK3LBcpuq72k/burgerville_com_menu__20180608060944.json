@@ -1,0 +1,18 @@
+{
+ "photo": "wb/20180608060944/burgerville.com/menu/",
+ "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+ "src": "https://web.archive.org/web/20180608060944/burgerville.com/menu/",
+ "observed_on": "2018-06-08",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [],
+  "date_hints": [],
+  "restaurant_hint": "Burgerville",
+  "confidence": 0.9
+ },
+ "cost_usd": 0.000254,
+ "wayback_ts": "20180608060944"
+}

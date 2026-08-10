@@ -1,0 +1,18 @@
+{
+ "photo": "wb/20200924085012/burgerville.com/menu/",
+ "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+ "src": "https://web.archive.org/web/20200924085012/burgerville.com/menu/",
+ "observed_on": "2020-09-24",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [],
+  "date_hints": [],
+  "restaurant_hint": "Burgerville",
+  "confidence": 0.9
+ },
+ "cost_usd": 0.000346,
+ "wayback_ts": "20200924085012"
+}

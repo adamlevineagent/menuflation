@@ -1,0 +1,20 @@
+{
+ "photo": "wb/20101209/http://burgerville.com/wp-content/uploads/standard-menu.pdf",
+ "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+ "src": "https://web.archive.org/web/20101209/http://burgerville.com/wp-content/uploads/standard-menu.pdf",
+ "observed_on": "2010-12-09",
+ "date_source": "wayback",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [],
+  "date_hints": [
+   "November 2010"
+  ],
+  "restaurant_hint": "Burgerville",
+  "confidence": 0.9
+ },
+ "cost_usd": 0.000504,
+ "wayback_ts": "20101209"
+}
