@@ -1,5 +1,6 @@
 item,size,place,observed_on,date_source,median,n
 1 milk or fat free chocolate milk,,Burgerville,2011-04-09,wayback,1.39,1
+1 milk or fat free chocolate milk,,Burgerville,2014-01-15,pdf,1.45,1
 1 milk or fat free chocolate milk,Regular,Burgerville,2012-11-15,wayback,1.35,1
 1 pancake 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
 12 piece chicken nuggets,,Barney's Burgers,2024-01-15,dom,6.99,1
@@ -224,6 +225,7 @@ aperol,,Bistro Don Giovanni,2020-09-21,wayback,10.0,2
 aperol,,Bistro Don Giovanni,2021-01-27,wayback,10.0,1
 apple chicories,,Bistro Don Giovanni,2023-04-01,wayback,18.0,1
 apple farm apple juice,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,5.0,1
+apple juice,,Burgerville,2014-01-15,pdf,1.95,1
 apple juice,,Gott's Napa,2011-03-22,wayback,2.99,2
 apple juice,,Gott's Napa,2012-05-15,wayback,2.99,2
 apple juice,,Gott's Napa,2012-06-17,wayback,2.99,2
@@ -317,6 +319,7 @@ baby garden lettuces red wine vinaigrette,,Angele Restaurant & Bar,2017-06-11,wa
 baby garden lettuces red wine vinaigrette,,Angele Restaurant & Bar,2018-04-17,wayback,12.0,1
 baby garden lettuces sherry vinaigrette shaved parmigiano reggiano,,Angele Restaurant & Bar,2018-06-19,wayback,12.0,1
 bacon,,Burgerville,2012-11-15,wayback,0.75,1
+bacon,One Slice,Burgerville,2014-01-15,pdf,1.0,1
 bacon,,Five Guys,2023-11-27,exif,0.8,1
 bacon,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
 bacon burger,,Five Guys,2023-11-27,exif,10.05,1
@@ -649,6 +652,7 @@ blue cheese burger,,Gott's Napa,2017-07-22,wayback,10.99,2
 blue cheese crumbles,,Burgerville,2010-09-18,wayback,1.95,1
 blue cheese crumbles,,Burgerville,2011-04-09,wayback,1.95,1
 blue cheese crumbles,,Burgerville,2012-11-15,wayback,1.95,1
+blue cheese crumbles,,Burgerville,2014-01-15,pdf,2.0,1
 blue moon belgian style wheat ale,,Gott's Napa,2014-12-22,wayback,4.5,1
 blue moon belgian style wheat ale,,Gott's Napa,2015-05-13,wayback,4.5,1
 blue moon belgian style wheat ale,,Gott's Napa,2015-07-24,wayback,4.5,1
@@ -677,6 +681,7 @@ borreo by silverado vineyards sangiovese,,Bistro Don Giovanni,2022-05-27,wayback
 bostini trifle,,Bistro Don Giovanni,2012-04-16,wayback,9.0,1
 bostini trifle,,Bistro Don Giovanni,2025-05-14,pdf,12.0,1
 bottled beers,,Gott's Napa,2013-02-28,wayback,4.5,2
+bottled water,,Burgerville,2014-01-15,pdf,1.65,1
 bottles to go,,Five Guys,2023-11-27,exif,3.25,1
 bouchard p re fils nuits saint georges,,Bistro Don Giovanni,2020-09-21,wayback,134.0,1
 boudin blanc,,Angele Restaurant & Bar,2012-04-15,pdf,18.0,1
@@ -704,14 +709,18 @@ braised summer lamb stew ang le garden vegetables,,Angele Restaurant & Bar,2016-
 branca menta milan,,Bistro Don Giovanni,2025-05-14,pdf,11.0,1
 breakfast,,Gott's Napa,2013-02-28,wayback,1750.0,1
 breakfast basket upgrade,,Burgerville,2012-11-15,wayback,1.95,1
+breakfast burger,,Burgerville,2014-01-15,pdf,3.69,1
 breakfast burger,,Burgerville,2026-04-26,exif,6.99,1
 breakfast burrito,,Burgerville,2012-11-15,wayback,3.59,1
+breakfast burrito,,Burgerville,2014-01-15,pdf,3.79,1
 breakfast combo,,The Depot Eatery,2026-08-05,web,16.0,1
 breakfast platter,,Burgerville,2010-09-18,wayback,3.89,1
 breakfast platter,,Burgerville,2011-04-09,wayback,3.89,1
 breakfast platter,,Burgerville,2012-11-15,wayback,3.99,1
+breakfast platter,,Burgerville,2014-01-15,pdf,4.69,1
 breakfast sandwich,,Burgerville,2011-04-09,wayback,3.39,2
 breakfast sandwich,,Burgerville,2012-11-15,wayback,2.59,1
+breakfast sandwich,,Burgerville,2014-01-15,pdf,3.39,1
 breakfast sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
 breakfast tacos,,Perez Kitchen & Bar,2026-08-05,pdf,14.0,1
 brick cooked chicken,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,14.0,1
@@ -789,6 +798,7 @@ buffalo chicken,,Genova Delicatessen,2026-08-10,fallback,12.95,1
 bundaberg blood orange soda,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 bundaberg pink grapefruit soda,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 burger patty,,Barney's Burgers,2024-01-15,dom,8.0,1
+burgerville bob s red mill oatmeal,,Burgerville,2014-01-15,pdf,3.29,1
 burrata,,Bistro Don Giovanni,2025-07-23,pdf,24.0,1
 burrata,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,5.0,1
 burrata,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
@@ -1075,6 +1085,8 @@ chicken strips fries,,Burgerville,2010-09-18,wayback,5.69,1
 chicken strips meal,,Burgerville,2010-09-18,wayback,4.99,1
 chicken tenders,,Burgerville,2011-04-09,wayback,4.49,2
 chicken tenders,,Burgerville,2012-11-15,wayback,4.49,2
+chicken tenders,3 Pieces,Burgerville,2014-01-15,pdf,4.29,1
+chicken tenders,4 Pieces,Burgerville,2014-01-15,pdf,5.29,1
 chicken tenders,,Gott's Napa,2011-03-22,wayback,5.99,2
 chicken tenders,,Gott's Napa,2012-05-15,wayback,5.99,2
 chicken tenders,,Gott's Napa,2012-06-17,wayback,6.99,2
@@ -1093,6 +1105,7 @@ chicken tenders,,Gott's Napa,2021-01-17,wayback,8.49,2
 chicken tenders,3,Gott's Napa,2015-02-06,wayback,6.99,1
 chicken tenders meal,,Burgerville,2011-04-09,wayback,4.99,1
 chicken tenders meal,,Burgerville,2012-11-15,wayback,4.99,1
+chicken tenders meal,,Burgerville,2014-01-15,pdf,5.19,1
 chicken wings,,Perez Kitchen & Bar,2026-08-05,pdf,12.0,1
 chili,Large,Barney's Burgers,2026-08-05,web,6.5,1
 chili,Small,Barney's Burgers,2026-08-05,web,5.0,1
@@ -1176,6 +1189,9 @@ chips hummus,,Perez Kitchen & Bar,2026-08-05,pdf,9.0,1
 chocolate,,Five Guys,2023-11-27,exif,0.4,1
 chocolate chip cookie,,Gott's Napa,2026-08-10,web,3.99,1
 chocolate martini,,Bistro Don Giovanni,2025-05-14,pdf,14.0,1
+chocolate milkshake,Large,Burgerville,2014-01-15,pdf,4.35,1
+chocolate milkshake,Regular,Burgerville,2014-01-15,pdf,3.35,1
+chocolate milkshake,Snack,Burgerville,2014-01-15,pdf,2.95,1
 chocolate shake,,Gott's Napa,2026-08-10,web,5.99,1
 chocolate shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
 chocolate shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
@@ -1315,6 +1331,7 @@ coleslaw,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,7.0,1
 colossal cheeseburger,,Burgerville,2010-09-18,wayback,3.79,1
 colossal cheeseburger,,Burgerville,2011-04-09,wayback,3.79,1
 colossal cheeseburger,,Burgerville,2012-11-15,wayback,4.09,1
+colossal cheeseburger,,Burgerville,2014-01-15,pdf,3.99,1
 combo 1,,In-N-Out Burger,2026-06-25,exif,10.5,1
 combo 2,,In-N-Out Burger,2026-06-25,exif,8.7,1
 comt cheese and chanterelle mushroom souffl,,Angele Restaurant & Bar,2016-03-27,wayback,12.0,1
@@ -1323,6 +1340,7 @@ comt cheese and chanterelle mushroom souffl petite salade red wine vinaigrette,,
 comt cheese and chanterelle mushroom souffl petite salade red wine vinaigrette,,Angele Restaurant & Bar,2016-03-27,wayback,18.0,1
 comt cheese and wild mushroom sou,,Angele Restaurant & Bar,2016-04-12,wayback,14.0,1
 cone,,McDonald's,2022-04-16,exif,1.99,1
+cookies chocolate chunk oatmeal raisin,,Burgerville,2014-01-15,pdf,0.89,1
 cookies cream shake,,Gott's Napa,2026-08-10,web,6.99,1
 cookies cream shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
 cookies cream shake,12oz,Gott's Napa,2021-01-17,wayback,6.99,1
@@ -1414,6 +1432,7 @@ crispy chicken salad,,Barney's Burgers,2026-08-05,web,14.5,1
 crispy chicken sandwich,,Burgerville,2010-09-18,wayback,3.79,1
 crispy chicken sandwich,,Burgerville,2011-04-09,wayback,3.79,1
 crispy chicken sandwich,,Burgerville,2012-11-15,wayback,4.59,2
+crispy chicken sandwich,,Burgerville,2014-01-15,pdf,4.79,2
 crispy chicken sandwich,,McDonald's,2022-04-16,exif,8.49,3
 crispy chicken tacos,,Gott's Napa,2026-08-10,web,13.99,1
 crispy duck con t warm du puy lentils lardons sherry vinaigrette,,Angele Restaurant & Bar,2018-06-19,wayback,32.0,1
@@ -1614,6 +1633,7 @@ double bacon hamburger,,Gott's Napa,2026-08-10,web,18.99,1
 double beef cheeseburger,,Burgerville,2010-09-18,wayback,2.59,1
 double beef cheeseburger,,Burgerville,2011-04-09,wayback,2.59,1
 double beef cheeseburger,,Burgerville,2012-11-15,wayback,2.89,1
+double beef cheeseburger,,Burgerville,2014-01-15,pdf,2.99,1
 double cheeseburger,,Gott's Napa,2011-03-22,wayback,10.99,2
 double cheeseburger,,Gott's Napa,2012-05-15,wayback,10.99,2
 double cheeseburger,,Gott's Napa,2012-06-17,wayback,10.99,2
@@ -1752,6 +1772,7 @@ emmer co roasted organic half chicken salad spring greens farro red wine vinaigr
 english muffin,,Burgerville,2010-09-18,wayback,1.09,1
 english muffin,,Burgerville,2011-04-09,wayback,1.09,1
 english muffin,,Burgerville,2012-11-15,wayback,1.09,1
+english muffin or bagel,,Burgerville,2014-01-15,pdf,1.19,1
 english muffin sandwich,,Burgerville,2010-09-18,wayback,2.49,1
 english muffin sandwich basket,,Burgerville,2010-09-18,wayback,4.29,1
 english muffin with egg,,Burgerville,2010-09-18,wayback,1.79,1
@@ -1935,6 +1956,8 @@ fish and chips,,Gott's Napa,2011-03-22,wayback,15.99,2
 fish chips,,Burgerville,2010-09-18,wayback,10.09,2
 fish chips,,Burgerville,2011-04-09,wayback,10.09,2
 fish chips,,Burgerville,2012-11-15,wayback,11.24,2
+fish chips,2 Pieces,Burgerville,2014-01-15,pdf,9.99,1
+fish chips,3 Pieces,Burgerville,2014-01-15,pdf,12.99,1
 fish chips,,Gott's Napa,2014-08-11,wayback,16.99,2
 fish chips,,Gott's Napa,2014-12-22,wayback,16.99,2
 fish chips,,Gott's Napa,2015-02-06,wayback,16.99,2
@@ -1944,6 +1967,7 @@ fish chips,,Gott's Napa,2015-11-23,wayback,16.99,1
 fish chips,,Gott's Napa,2016-02-07,wayback,16.99,1
 fish chips,,Gott's Napa,2017-07-22,wayback,16.99,2
 fish chips basket,,The Depot Eatery,2026-08-05,web,18.0,1
+fish fillet sandwich,,Burgerville,2014-01-15,pdf,4.99,1
 fish tacos,,Gott's Napa,2011-03-22,wayback,12.99,1
 fish tacos,,Gott's Napa,2012-05-15,wayback,12.99,2
 fish tacos,,Gott's Napa,2012-06-17,wayback,12.99,2
@@ -2074,11 +2098,14 @@ french fries,,Bistro Don Giovanni,2023-12-05,wayback,8.5,2
 french fries,Large,Burgerville,2010-09-18,wayback,2.29,1
 french fries,Large,Burgerville,2011-04-09,wayback,2.29,1
 french fries,Large,Burgerville,2012-11-15,wayback,2.35,1
+french fries,Large,Burgerville,2014-01-15,pdf,2.35,1
 french fries,Regular,Burgerville,2010-09-18,wayback,1.89,1
 french fries,Regular,Burgerville,2011-04-09,wayback,1.89,1
 french fries,Regular,Burgerville,2012-11-15,wayback,1.95,1
+french fries,Regular,Burgerville,2014-01-15,pdf,1.95,1
 french fries,Small,Burgerville,2011-04-09,wayback,1.39,1
 french fries,Small,Burgerville,2012-11-15,wayback,1.45,1
+french fries,Snack,Burgerville,2014-01-15,pdf,1.45,1
 french fries,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,7.0,1
 french fries,,Gott's Napa,2011-03-22,wayback,2.69,2
 french fries,,Gott's Napa,2012-05-15,wayback,2.69,2
@@ -2118,10 +2145,12 @@ frescobaldi nipozzano vecchie viti chianti riserva toscana italy,,Bistro Don Gio
 fresh brewed iced tea,Large,Burgerville,2010-09-18,wayback,2.29,1
 fresh brewed iced tea,Large,Burgerville,2011-04-09,wayback,2.29,1
 fresh brewed iced tea,Large,Burgerville,2012-11-15,wayback,2.25,1
+fresh brewed iced tea,Large,Burgerville,2014-01-15,pdf,2.35,1
 fresh brewed iced tea,Regular,Burgerville,2010-09-18,wayback,1.89,1
 fresh brewed iced tea,Regular,Burgerville,2011-04-09,wayback,1.89,1
 fresh brewed iced tea,Regular,Burgerville,2012-11-15,wayback,1.85,1
 fresh brewed iced tea,Small,Burgerville,2011-04-09,wayback,1.39,1
+fresh brewed iced tea,Small,Burgerville,2014-01-15,pdf,1.95,1
 fresh juice,8oz,Farmstead at Long Meadow Ranch,2026-06-15,pdf,8.0,1
 fresh lemonade,,Bistro Don Giovanni,2017-01-10,wayback,4.0,1
 fresh lemonade,,Bistro Don Giovanni,2019-09-19,wayback,4.0,1
@@ -2252,6 +2281,7 @@ genova vegi,,Genova Delicatessen,2026-08-10,fallback,12.95,1
 germain robin xo brandy,,Angele Restaurant & Bar,2012-10-15,pdf,22.0,1
 germain robin xo brandy,,Angele Restaurant & Bar,2014-09-20,wayback,22.0,1
 germain robin xo brandy,,Angele Restaurant & Bar,2015-02-21,wayback,22.0,1
+ghirardelli hot chocolate,,Burgerville,2014-01-15,pdf,2.75,1
 ghirardelli hot chocolate,Large,Burgerville,2010-09-18,wayback,2.89,1
 ghirardelli hot chocolate,Large,Burgerville,2011-04-09,wayback,2.89,1
 ghirardelli hot chocolate,Large,Burgerville,2012-11-15,wayback,2.95,1
@@ -2359,6 +2389,7 @@ gratin la banane banana gratin almond streusel pastry cream vanilla bean ice cre
 gratin la banane banana gratin almond streusel pastry cream vanilla bean ice cream,,Angele Restaurant & Bar,2015-02-21,wayback,10.0,1
 gratin la banane banana gratin almond streusel pastry cream vanilla bean ice cream,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 green chile cheddar egg sandwich,,Burgerville,2011-04-09,wayback,3.69,2
+green chile cheddar egg sandwich,,Burgerville,2014-01-15,pdf,2.99,1
 green chile cheeseburger,,Gott's Napa,2012-06-17,wayback,8.99,2
 green chile cheeseburger,,Gott's Napa,2014-08-11,wayback,9.99,2
 green chile cheeseburger,,Gott's Napa,2014-10-29,wayback,8.99,1
@@ -2411,9 +2442,11 @@ grilled chicken,,Barney's Burgers,2026-08-05,web,8.75,1
 grilled chicken club salad,Full,Burgerville,2010-09-18,wayback,6.39,1
 grilled chicken club salad,Full,Burgerville,2011-04-09,wayback,6.39,1
 grilled chicken club salad,Full,Burgerville,2012-11-15,wayback,6.59,1
+grilled chicken club salad,Full,Burgerville,2014-01-15,pdf,6.99,1
 grilled chicken club salad,Half,Burgerville,2010-09-18,wayback,3.49,1
 grilled chicken club salad,Half,Burgerville,2011-04-09,wayback,3.49,1
 grilled chicken club salad,Half,Burgerville,2012-11-15,wayback,3.69,1
+grilled chicken club salad,Half,Burgerville,2014-01-15,pdf,4.19,1
 grilled chicken sandwich,,River's Edge Restaurant,2026-07-16,exif,19.0,1
 grilled duck and sausage,,Bistro Don Giovanni,2010-09-22,wayback,24.0,1
 grilled idaho trout,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,16.0,1
@@ -2472,10 +2505,12 @@ half benedict with fresh seasonal fruit,,Cartwright's Taprock Northwest Grill,20
 half pound colossal cheeseburger,,Burgerville,2010-09-18,wayback,5.49,1
 half pound colossal cheeseburger,,Burgerville,2011-04-09,wayback,5.49,1
 half pound colossal cheeseburger,,Burgerville,2012-11-15,wayback,6.09,1
+half pound colossal cheeseburger,,Burgerville,2014-01-15,pdf,6.29,1
 half roasted chicken,,Angele Restaurant & Bar,2017-08-29,wayback,28.0,1
 halibut fish chips meal,,Burgerville,2010-09-18,wayback,7.19,1
 halibut fish chips meal,,Burgerville,2011-04-09,wayback,7.19,1
 halibut fish chips meal,,Burgerville,2012-11-15,wayback,7.89,1
+halibut meal,,Burgerville,2014-01-15,pdf,7.99,1
 hall,,Bistro Don Giovanni,2020-09-21,wayback,55.0,1
 hall 11 sauvignon blanc,,Gott's Napa,2013-02-28,wayback,24.0,2
 hall 11 sauvignon blanc,Bottle,Gott's Napa,2012-06-17,wayback,24.0,1
@@ -2541,6 +2576,7 @@ hash,,Code 4 Taphouse,2025-11-15,exif,14.95,1
 hash browns,,Burgerville,2010-09-18,wayback,1.29,1
 hash browns,,Burgerville,2011-04-09,wayback,1.29,1
 hash browns,,Burgerville,2012-11-15,wayback,1.45,1
+hash browns,,Burgerville,2014-01-15,pdf,1.45,1
 hash browns,,Gott's Napa,2013-04-02,wayback,1.99,1
 hashbrowns,LARGE,Burgerville,2026-04-26,exif,3.19,1
 hashbrowns,SMALL,Burgerville,2026-04-26,exif,1.89,1
@@ -2894,6 +2930,7 @@ kids chicken tenders,,Gott's Napa,2014-12-22,wayback,6.99,1
 kids chicken tenders,,Gott's Napa,2020-07-02,wayback,7.99,1
 kids chicken tenders,,Gott's Napa,2026-08-10,web,9.99,1
 kids combo,,Gott's Napa,2012-06-17,wayback,8.49,1
+kids drink,,Burgerville,2014-01-15,pdf,1.45,1
 kids grilled cheese,,Gott's Napa,2014-12-22,wayback,6.99,1
 kids grilled cheese,,Gott's Napa,2020-07-02,wayback,6.99,1
 kids grilled cheese,,Gott's Napa,2026-08-10,web,9.99,1
@@ -2905,6 +2942,7 @@ kids mini corn dogs,,Gott's Napa,2020-07-02,wayback,6.99,1
 kids mini corn dogs,,Gott's Napa,2026-08-10,web,9.99,1
 kids plain burger,,Gott's Napa,2014-12-22,wayback,6.99,1
 kids sides fries or apple slices,,Burgerville,2010-09-18,wayback,1.39,1
+kids sides fries or apple slices,,Burgerville,2014-01-15,pdf,1.45,1
 kieren,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
 kimchi burger,,Gott's Napa,2017-07-22,wayback,12.99,2
 kimchi burger,,Gott's Napa,2020-07-02,wayback,12.99,1
@@ -3021,6 +3059,9 @@ lemon mayo,,Gott's Napa,2026-08-10,web,4.99,1
 lemon meringue tart,,Angele Restaurant & Bar,2016-04-15,pdf,10.0,1
 lemon sage press,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 lemon tahini dressing,,Gott's Napa,2026-08-10,web,4.99,1
+lemon white chocolate chunk cookie,,Burgerville,2014-01-15,pdf,1.69,1
+lemonade,Large,Burgerville,2014-01-15,pdf,2.35,1
+lemonade,Small,Burgerville,2014-01-15,pdf,1.95,1
 lemonade,,Gott's Napa,2013-02-28,wayback,3.0,2
 lemonade,Regular,Gott's Napa,2011-03-22,wayback,2.49,2
 lemonade,Regular,Gott's Napa,2012-05-15,wayback,2.49,2
@@ -3635,6 +3676,7 @@ orange chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
 orange float,,Gott's Napa,2014-08-11,wayback,4.99,2
 orange float,,Gott's Napa,2014-12-22,wayback,4.99,2
 orange float,,Gott's Napa,2021-01-17,wayback,4.99,1
+orange juice,,Burgerville,2014-01-15,pdf,1.95,1
 orangina,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 oregon baby shrimp omelet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 oregon rain bottled water,,Burgerville,2010-09-18,wayback,1.59,1
@@ -3680,15 +3722,20 @@ organic ice cream in a cup,Small,Gott's Napa,2021-01-17,wayback,3.99,1
 original cheeseburger,,Burgerville,2010-09-18,wayback,1.49,1
 original cheeseburger,,Burgerville,2011-04-09,wayback,1.49,1
 original cheeseburger,,Burgerville,2012-11-15,wayback,1.59,1
+original cheeseburger,,Burgerville,2014-01-15,pdf,1.69,1
 original cheeseburger meal,,Burgerville,2010-09-18,wayback,4.19,1
 original cheeseburger meal,,Burgerville,2011-04-09,wayback,4.19,1
 original cheeseburger meal,,Burgerville,2012-11-15,wayback,4.29,1
+original cheeseburger meal,,Burgerville,2014-01-15,pdf,4.99,1
+original cheeseburger meal kids,,Burgerville,2014-01-15,pdf,4.39,2
 original hamburger,,Burgerville,2010-09-18,wayback,1.29,1
 original hamburger,,Burgerville,2011-04-09,wayback,1.29,1
 original hamburger,,Burgerville,2012-11-15,wayback,1.39,1
+original hamburger,,Burgerville,2014-01-15,pdf,1.49,1
 original hamburger meal,,Burgerville,2010-09-18,wayback,3.99,1
 original hamburger meal,,Burgerville,2011-04-09,wayback,3.99,1
 original hamburger meal,,Burgerville,2012-11-15,wayback,4.09,1
+original hamburger meal,,Burgerville,2014-01-15,pdf,4.79,1
 original impossible nuggets vegetarian,,Gott's Napa,2026-08-10,web,8.99,1
 original tenders,,Gott's Napa,2026-08-10,web,8.99,1
 ortega chicken,,Barney's Burgers,2026-08-05,web,9.0,1
@@ -3869,6 +3916,7 @@ penne con polpettte,,Bistro Don Giovanni,2010-09-22,wayback,16.0,1
 pepper bacon cheeseburger,,Burgerville,2010-09-18,wayback,4.79,1
 pepper bacon cheeseburger,,Burgerville,2011-04-09,wayback,4.79,1
 pepper bacon cheeseburger,,Burgerville,2012-11-15,wayback,5.29,1
+pepper bacon cheeseburger,,Burgerville,2014-01-15,pdf,5.69,1
 pepper crusted filet mignon crispy potato galette beef belly en cro te wild mushrooms salsify,,Angele Restaurant & Bar,2015-03-19,wayback,38.0,1
 pepper salami,,Genova Delicatessen,2026-08-10,fallback,14.95,1
 pepper turkey,,Genova Delicatessen,2026-08-10,fallback,12.95,1
@@ -4026,9 +4074,11 @@ portabella burger gf,,River's Edge Restaurant,2026-07-16,exif,20.0,1
 portland roasting coffee,Large,Burgerville,2010-09-18,wayback,1.49,1
 portland roasting coffee,Large,Burgerville,2011-04-09,wayback,1.49,1
 portland roasting coffee,Large,Burgerville,2012-11-15,wayback,1.65,1
+portland roasting coffee,Large,Burgerville,2014-01-15,pdf,1.75,1
 portland roasting coffee,Regular,Burgerville,2010-09-18,wayback,1.29,1
 portland roasting coffee,Regular,Burgerville,2011-04-09,wayback,1.29,1
 portland roasting coffee,Regular,Burgerville,2012-11-15,wayback,1.35,1
+portland roasting coffee,Regular,Burgerville,2014-01-15,pdf,1.45,1
 pot de cr me butterscotch pudding crispy caramel cardamom,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 pot de cr me coffee pot du cr me whipped cr me fr iche lavender glazed doughnut,,Angele Restaurant & Bar,2015-02-21,wayback,10.0,1
 pot de cr me coffee pot du cr me whipped cr me fr iche lavender glazed doughnut,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
@@ -4227,9 +4277,11 @@ rogue hot brown,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,18.0,1
 rogue river smokey blue salad,Full,Burgerville,2010-09-18,wayback,6.79,1
 rogue river smokey blue salad,Full,Burgerville,2011-04-09,wayback,6.79,1
 rogue river smokey blue salad,Full,Burgerville,2012-11-15,wayback,6.99,1
+rogue river smokey blue salad,Full,Burgerville,2014-01-15,pdf,7.49,1
 rogue river smokey blue salad,Half,Burgerville,2010-09-18,wayback,3.69,1
 rogue river smokey blue salad,Half,Burgerville,2011-04-09,wayback,3.69,1
 rogue river smokey blue salad,Half,Burgerville,2012-11-15,wayback,3.89,1
+rogue river smokey blue salad,Half,Burgerville,2014-01-15,pdf,4.49,1
 romano beans bacon tomato,,Bistro Don Giovanni,2022-05-27,wayback,8.0,1
 rombauer,,Bistro Don Giovanni,2020-09-21,wayback,77.0,2
 rombauer 13 chardonnay,,Gott's Napa,2014-12-22,wayback,24.0,1
@@ -4268,6 +4320,7 @@ rootbeer float with vanilla bean ice cream,,Gott's Napa,2012-06-17,wayback,4.99,
 rosemary chicken sandwich,,Burgerville,2010-09-18,wayback,5.19,1
 rosemary chicken sandwich,,Burgerville,2011-04-09,wayback,5.19,1
 rosemary chicken sandwich,,Burgerville,2012-11-15,wayback,5.29,1
+rosemary chicken sandwich,,Burgerville,2014-01-15,pdf,5.39,1
 rosemary ham,,Genova Delicatessen,2026-08-10,fallback,12.95,1
 rosemary potato pancakes eggs,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2017-01-10,wayback,7.0,1
@@ -4517,6 +4570,7 @@ seared wild king salmon filet,,Bistro Don Giovanni,2020-09-21,wayback,37.0,2
 seasoned turkey burger,,Burgerville,2010-09-18,wayback,4.49,1
 seasoned turkey burger,,Burgerville,2011-04-09,wayback,4.49,1
 seasoned turkey burger,,Burgerville,2012-11-15,wayback,4.79,1
+seasoned turkey burger,,Burgerville,2014-01-15,pdf,4.99,1
 seattle hazelnut latt frangelico latt,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,7.5,1
 secret sauce,,Gott's Napa,2026-08-10,web,4.99,1
 seghesio,,Bistro Don Giovanni,2020-09-21,wayback,48.0,1
@@ -4612,6 +4666,7 @@ side of saut ed marble potatoes,,Angele Restaurant & Bar,2016-05-08,wayback,8.0,
 side salad,,Burgerville,2010-09-18,wayback,2.29,1
 side salad,,Burgerville,2011-04-09,wayback,2.29,1
 side salad,,Burgerville,2012-11-15,wayback,2.35,1
+side salad,,Burgerville,2014-01-15,pdf,2.45,1
 sides apple slices or fries,,Burgerville,2011-04-09,wayback,1.39,1
 sides apple slices or fries,,Burgerville,2012-11-15,wayback,1.45,1
 siduri 12 pinot noir,,Gott's Napa,2012-05-15,wayback,18.0,2
@@ -4677,6 +4732,7 @@ smoked chicken wings,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
 smoked pork hash,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
 smoked turkey,,Genova Delicatessen,2026-08-10,fallback,12.95,1
 smoky bacon bloody mary,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,10.0,1
+snack size milkshake or smoothie add on,,Burgerville,2014-01-15,pdf,1.85,2
 snake river pork tenderloin braised red cabbage farro roasted chestnuts celery root,,Angele Restaurant & Bar,2015-11-06,wayback,32.0,1
 snake river pork tenderloin crispy pork belly peaches eggplant tarragon farro,,Angele Restaurant & Bar,2015-09-22,wayback,32.0,1
 soda,12oz,Barney's Burgers,2026-08-05,web,2.0,1
@@ -4688,10 +4744,12 @@ soda flavor add on,,Gott's Napa,2017-07-22,wayback,0.99,1
 soft drinks,Large,Burgerville,2010-09-18,wayback,2.29,1
 soft drinks,Large,Burgerville,2011-04-09,wayback,2.29,1
 soft drinks,Large,Burgerville,2012-11-15,wayback,2.25,1
+soft drinks,Large,Burgerville,2014-01-15,pdf,2.35,1
 soft drinks,Regular,Burgerville,2010-09-18,wayback,1.89,1
 soft drinks,Regular,Burgerville,2011-04-09,wayback,1.89,1
 soft drinks,Regular,Burgerville,2012-11-15,wayback,1.85,1
 soft drinks,Small,Burgerville,2011-04-09,wayback,1.39,1
+soft drinks,Small,Burgerville,2014-01-15,pdf,1.95,1
 soft drinks,,McDonald's,2022-04-16,exif,1.0,1
 soft drinks tea and coffee,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
 soft serve,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,4.0,1
@@ -4771,6 +4829,9 @@ sparkling mineral water,,Gott's Napa,2015-02-13,wayback,2.69,1
 sparkling water mr pibb,,Gott's Napa,2021-01-17,wayback,3.29,1
 sparkling water orange,,Gott's Napa,2021-01-17,wayback,3.29,1
 special tortilla soup,,Taqueria El Charro Viejo,2022-12-07,exif,11.5,1
+specialty milkshakes smoothies,Large,Burgerville,2014-01-15,pdf,5.25,1
+specialty milkshakes smoothies,Regular,Burgerville,2014-01-15,pdf,4.25,1
+specialty milkshakes smoothies,Snack,Burgerville,2014-01-15,pdf,3.65,1
 specialty or seasonal milkshake,Large,Burgerville,2010-09-18,wayback,4.99,1
 specialty or seasonal milkshake,Large,Burgerville,2011-04-09,wayback,4.99,1
 specialty or seasonal milkshake,Large,Burgerville,2012-11-15,wayback,5.35,1
@@ -4787,6 +4848,7 @@ specialty shakes,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
 spicy anasazi bean burger,,Burgerville,2010-09-18,wayback,5.29,1
 spicy anasazi bean burger,,Burgerville,2011-04-09,wayback,5.29,1
 spicy anasazi bean burger,,Burgerville,2012-11-15,wayback,5.39,1
+spicy anasazi bean burger,,Burgerville,2014-01-15,pdf,5.49,1
 spicy chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
 spicy chicken,,Gott's Napa,2012-05-15,wayback,10.99,2
 spicy chicken,,Gott's Napa,2012-06-17,wayback,10.99,2
@@ -4945,6 +5007,9 @@ strawberry acqua fresca,,Bistro Don Giovanni,2023-12-05,wayback,6.0,2
 strawberry acqua fresca,,Bistro Don Giovanni,2025-07-23,pdf,15.0,1
 strawberry daiquiri,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
 strawberry french toast,,Code 4 Taphouse,2025-11-15,exif,10.95,2
+strawberry milkshake,Large,Burgerville,2014-01-15,pdf,4.35,1
+strawberry milkshake,Regular,Burgerville,2014-01-15,pdf,3.35,1
+strawberry milkshake,Snack,Burgerville,2014-01-15,pdf,2.95,1
 strawberry shake,,Gott's Napa,2026-08-10,web,5.99,1
 strawberry shake,12oz,Gott's Napa,2014-08-11,wayback,5.99,1
 strawberry shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
@@ -4958,6 +5023,7 @@ stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,30.0
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,30.0,1
 substitute beverage with small milkshake or smoothie,Small,Burgerville,2010-09-18,wayback,1.0,1
 substitute beverage with small milkshake or smoothie,Small,Burgerville,2012-11-15,wayback,1.4,1
+substitute gluten free bun,,Burgerville,2014-01-15,pdf,1.0,1
 substitute house infused spicy tequila,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,22.0,1
 suckling pig crispy pork belly brussel sprouts red anson mills polenta rosemary pork jus,,Angele Restaurant & Bar,2015-03-19,wayback,30.0,1
 suckling pig loin crispy pork belly anson mills polenta peaches baby zucchini rosemary pork jus,,Angele Restaurant & Bar,2015-07-14,wayback,32.0,1
@@ -4970,6 +5036,7 @@ summer vegetable ragu,,Bistro Don Giovanni,2020-09-21,wayback,8.0,2
 sundae,,Burgerville,2010-09-18,wayback,1.79,1
 sundae,,Burgerville,2011-04-09,wayback,1.79,1
 sundae,,Burgerville,2012-11-15,wayback,1.89,1
+sundae,,Burgerville,2014-01-15,pdf,1.95,1
 sundae,,McDonald's,2022-04-16,exif,2.59,1
 sunshine benedict,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 super veggie omlet,,The Depot Eatery,2026-08-05,web,18.0,1
@@ -5111,9 +5178,11 @@ til tip salad,,Barney's Burgers,2026-08-05,web,16.5,1
 tillamook cheese,,Burgerville,2010-09-18,wayback,0.6,1
 tillamook cheese,,Burgerville,2011-04-09,wayback,0.6,1
 tillamook cheese,,Burgerville,2012-11-15,wayback,0.6,1
+tillamook cheese,One Slice,Burgerville,2014-01-15,pdf,0.6,1
 tillamook cheeseburger,,Burgerville,2010-09-18,wayback,3.79,1
 tillamook cheeseburger,,Burgerville,2011-04-09,wayback,3.79,1
 tillamook cheeseburger,,Burgerville,2012-11-15,wayback,4.09,1
+tillamook cheeseburger,,Burgerville,2014-01-15,pdf,3.99,1
 tiramisu,,Bistro Don Giovanni,2012-04-16,wayback,6.0,1
 tiramisu,,Bistro Don Giovanni,2025-05-14,pdf,14.0,1
 toasted baguette with gala apple and black currant jam,,Angele Restaurant & Bar,2016-05-08,wayback,8.0,1
@@ -5198,6 +5267,7 @@ turkey cheeseburger bacon pork,,Gott's Napa,2026-08-10,web,16.99,1
 turkey club sandwich,,Burgerville,2010-09-18,wayback,4.39,1
 turkey club sandwich,,Burgerville,2011-04-09,wayback,4.39,1
 turkey club sandwich,,Burgerville,2012-11-15,wayback,4.49,1
+turkey club sandwich,,Burgerville,2014-01-15,pdf,4.69,1
 turkey double cheeseburger,,Gott's Napa,2026-08-10,web,19.99,1
 turkey green chile cheese,,Gott's Napa,2026-08-10,web,15.99,1
 turkey kimchi burger bacon pork,,Gott's Napa,2026-08-10,web,18.99,1
@@ -5239,6 +5309,10 @@ vanilla flavor extra,,Gott's Napa,2012-05-15,wayback,0.99,1
 vanilla ice cream cone,,Burgerville,2010-09-18,wayback,1.29,1
 vanilla ice cream cone,,Burgerville,2011-04-09,wayback,1.29,1
 vanilla ice cream cone,,Burgerville,2012-11-15,wayback,1.39,1
+vanilla ice cream cone,,Burgerville,2014-01-15,pdf,1.45,1
+vanilla milkshake,Large,Burgerville,2014-01-15,pdf,4.35,1
+vanilla milkshake,Regular,Burgerville,2014-01-15,pdf,3.35,1
+vanilla milkshake,Snack,Burgerville,2014-01-15,pdf,2.95,1
 vanilla shake,,Gott's Napa,2026-08-10,web,5.99,1
 veal parmigiana,,Bistro Don Giovanni,2022-01-20,wayback,43.0,1
 veal parmigiana,,Bistro Don Giovanni,2022-05-27,wayback,43.0,1
@@ -5387,9 +5461,11 @@ wild mushroom tartlette morels chanterelle comt fondue sauce vert,,Angele Restau
 wild smoked salmon hazelnut salad,Full,Burgerville,2010-09-18,wayback,6.99,1
 wild smoked salmon hazelnut salad,Full,Burgerville,2011-04-09,wayback,6.99,1
 wild smoked salmon hazelnut salad,Full,Burgerville,2012-11-15,wayback,7.19,1
+wild smoked salmon hazelnut salad,Full,Burgerville,2014-01-15,pdf,7.49,1
 wild smoked salmon hazelnut salad,Half,Burgerville,2010-09-18,wayback,3.79,1
 wild smoked salmon hazelnut salad,Half,Burgerville,2011-04-09,wayback,3.79,1
 wild smoked salmon hazelnut salad,Half,Burgerville,2012-11-15,wayback,3.99,1
+wild smoked salmon hazelnut salad,Half,Burgerville,2014-01-15,pdf,4.49,1
 wild turkey 101 kentucky straight bourbon,,Bistro Don Giovanni,2012-04-16,wayback,7.5,1
 wine bags,,Angele Restaurant & Bar,2018-04-17,wayback,25.0,1
 wine pairing,,Angele Restaurant & Bar,2013-03-19,wayback,105.0,2
@@ -5420,6 +5496,7 @@ yard of flannel,,Angele Restaurant & Bar,2015-03-05,wayback,12.0,1
 yukon white bean basil burger,,Burgerville,2010-09-18,wayback,4.99,1
 yukon white bean basil burger,,Burgerville,2011-04-09,wayback,4.99,1
 yukon white bean basil burger,,Burgerville,2012-11-15,wayback,5.09,1
+yukon white bean basil burger,,Burgerville,2014-01-15,pdf,5.19,1
 zab s hot honey impossible nuggets vegetarian,,Gott's Napa,2026-08-10,web,8.99,1
 zab s hot honey tenders,,Gott's Napa,2026-08-10,web,8.99,1
 zaya 12 yr,,Angele Restaurant & Bar,2012-10-15,pdf,13.0,1
