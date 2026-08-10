@@ -1,0 +1,732 @@
+{
+ "photo": "wb/20100515/https://web.archive.org/web/20101109191848/http://www.burgerville.com/wp-content/uploads/bv_to_go_menu_0510_lr3.pdf",
+ "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+ "src": "https://web.archive.org/web/20100515/https://web.archive.org/web/20101109191848/http://www.burgerville.com/wp-content/uploads/bv_to_go_menu_0510_lr3.pdf",
+ "observed_on": "2010-05-15",
+ "date_source": "pdf",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Hamburger Meal",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cheeseburger Meal",
+    "price": 4.19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Strips Meal",
+    "price": 4.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Halibut Fish & Chips Meal",
+    "price": 5.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sole Fish & Chips Meal",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Side: Fries or Apple Slices",
+    "price": 1.39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Kids Soft Drink, 2% Milk or Chocolate Milk",
+    "price": 1.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Small Seasonal or Specialty Milkshake or Smoothie",
+    "price": 2.19,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Small Specialty & Seasonal Milkshake & Smoothie",
+    "price": 3.19,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sundae",
+    "price": 1.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Vanilla Ice Cream Cone",
+    "price": 1.29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bagel Sandwich",
+    "price": 2.69,
+    "old_price": null,
+    "size": "Sandwich",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bagel Sandwich",
+    "price": 4.49,
+    "old_price": null,
+    "size": "Basket",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "English Muffin Sandwich",
+    "price": 2.69,
+    "old_price": null,
+    "size": "Sandwich",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "English Muffin Sandwich",
+    "price": 4.49,
+    "old_price": null,
+    "size": "Basket",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bagel with Cream Cheese",
+    "price": 1.79,
+    "old_price": null,
+    "size": "Sandwich",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bagel with Cream Cheese",
+    "price": 3.59,
+    "old_price": null,
+    "size": "Basket",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Breakfast Platter",
+    "price": 4.39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "English Muffin",
+    "price": 1.19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "English Muffin with Egg",
+    "price": 2.09,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bagel",
+    "price": 1.19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bagel with Egg",
+    "price": 2.09,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hash Browns (2)",
+    "price": 1.29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Portland Roasting Coffee",
+    "price": 1.49,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Portland Roasting Coffee",
+    "price": 1.89,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Chicken Strips & Fries",
+    "price": 5.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rosemary Chicken Sandwich",
+    "price": 4.79,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Crispy Chicken Sandwich",
+    "price": 3.79,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Turkey Club Sandwich",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Seasoned Turkey Burger",
+    "price": 4.39,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Halibut Fish & Chips",
+    "price": 7.79,
+    "old_price": null,
+    "size": "3-piece",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Halibut Fish & Chips",
+    "price": 9.69,
+    "old_price": null,
+    "size": "4-piece",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sole Fish & Chips",
+    "price": 5.99,
+    "old_price": null,
+    "size": "3-piece",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sole Fish & Chips",
+    "price": 7.29,
+    "old_price": null,
+    "size": "4-piece",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Halibut Fillet Sandwich",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Sole Fillet Sandwich",
+    "price": 2.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Grilled Chicken Club Salad",
+    "price": 6.39,
+    "old_price": null,
+    "size": "Entree",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Grilled Chicken Club Salad",
+    "price": 3.49,
+    "old_price": null,
+    "size": "Half size",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rogue River Smokey Blue® Salad",
+    "price": 6.39,
+    "old_price": null,
+    "size": "Entree",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rogue River Smokey Blue® Salad",
+    "price": 3.49,
+    "old_price": null,
+    "size": "Half size",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wild Smoked Salmon & Hazelnut Salad",
+    "price": 6.39,
+    "old_price": null,
+    "size": "Entree",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Wild Smoked Salmon & Hazelnut Salad",
+    "price": 3.49,
+    "old_price": null,
+    "size": "Half size",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Side Salad",
+    "price": 1.89,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 1.89,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "French Fries",
+    "price": 2.29,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Dipping Sauce",
+    "price": 0.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Bacon plain or pepper (1 strip)",
+    "price": 0.6,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Cheese Tillamook®: Swiss, cheddar or pepper jack (1 slice)",
+    "price": 0.6,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Rogue River Smokey Blue® cheese crumbles",
+    "price": 1.95,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Soft Drinks",
+    "price": 1.89,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Soft Drinks",
+    "price": 2.19,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fresh-Brewed Iced Tea",
+    "price": 1.89,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Fresh-Brewed Iced Tea",
+    "price": 2.19,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Portland Roasting Coffee",
+    "price": 1.49,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Portland Roasting Coffee",
+    "price": 1.89,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ghirardelli® Hot Chocolate",
+    "price": 2.59,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Ghirardelli® Hot Chocolate",
+    "price": 2.89,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Odwalla® Orange Juice",
+    "price": 1.79,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Odwalla® Orange Juice",
+    "price": 1.99,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Odwalla® Lemonade",
+    "price": 1.89,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Odwalla® Lemonade",
+    "price": 2.19,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Oregon Rain® Bottled Water",
+    "price": 1.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "2% Milk or Chocolate Milk",
+    "price": 1.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Milkshake or Smoothie",
+    "price": 2.19,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Milkshake or Smoothie",
+    "price": 2.09,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Milkshake or Smoothie",
+    "price": 3.99,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Specialty or Seasonal Milkshake or Smoothie",
+    "price": 3.19,
+    "old_price": null,
+    "size": "Small",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Specialty or Seasonal Milkshake or Smoothie",
+    "price": 3.09,
+    "old_price": null,
+    "size": "Regular",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Specialty or Seasonal Milkshake or Smoothie",
+    "price": 4.99,
+    "old_price": null,
+    "size": "Large",
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Pepper Bacon Cheeseburger",
+    "price": 4.69,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Tillamook Cheeseburger®",
+    "price": 3.69,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Half-Pound Colossal Cheeseburger",
+    "price": 5.29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Colossal Cheeseburger",
+    "price": 3.69,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Double Beef Cheeseburger",
+    "price": 2.59,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Original Cheeseburger",
+    "price": 1.49,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Original Hamburger",
+    "price": 1.29,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Hot Dog",
+    "price": 3.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Spicy Anasazi Bean Burger",
+    "price": 5.19,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   },
+   {
+    "name": "Yukon & White Bean Basil Burger",
+    "price": 4.99,
+    "old_price": null,
+    "size": null,
+    "qty": null,
+    "unit": null,
+    "notes": null
+   }
+  ],
+  "date_hints": [
+   "2010"
+  ],
+  "restaurant_hint": "Burgerville",
+  "confidence": 0.95
+ },
+ "cost_usd": 0.001792,
+ "wayback_ts": "20100515"
+}
