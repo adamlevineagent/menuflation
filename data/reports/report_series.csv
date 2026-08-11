@@ -346,16 +346,19 @@ bacon,One Slice,Burgerville,2014-01-15,pdf,1.0,1
 bacon,,Five Guys,2023-11-27,exif,0.8,1
 bacon,,Taqueria El Charro Viejo,2022-12-07,exif,8.5,1
 bacon burger,,Five Guys,2026-08-11,web,11.3,1
+bacon burger,,Five Guys,2026-08-11,web,10.7,1
 bacon burger,,Five Guys,2023-11-27,exif,10.05,1
 bacon burger,,Five Guys,2026-08-10,web,11.3,1
 bacon cheddar,,Barney's Burgers,2024-01-15,dom,10.99,1
 bacon cheddar,,Barney's Burgers,2026-08-05,web,9.45,1
 bacon cheese dog,,Five Guys,2026-08-11,web,8.2,1
+bacon cheese dog,,Five Guys,2026-08-11,web,7.2,1
 bacon cheese dog,,Five Guys,2023-11-27,exif,7.15,1
 bacon cheese dog,,Five Guys,2026-08-10,web,8.2,1
 bacon cheeseburger,,Burgerville,2026-08-10,web,9.69,1
 bacon cheeseburger,,Burgerville,2026-08-10,web,9.69,1
 bacon cheeseburger,,Five Guys,2026-08-11,web,12.3,1
+bacon cheeseburger,,Five Guys,2026-08-11,web,11.2,1
 bacon cheeseburger,,Five Guys,2023-11-27,exif,10.9,1
 bacon cheeseburger,,Five Guys,2026-08-10,web,12.3,1
 bacon cheeseburger,,Gott's Napa,2011-03-22,wayback,8.99,2
@@ -374,6 +377,7 @@ bacon cheeseburger,,Gott's Napa,2020-07-02,wayback,10.99,1
 bacon cheeseburger,,Gott's Napa,2021-01-17,wayback,10.99,1
 bacon cheeseburger,,Gott's Napa,2026-08-10,web,14.99,1
 bacon dog,,Five Guys,2026-08-11,web,7.4,1
+bacon dog,,Five Guys,2026-08-11,web,6.5,1
 bacon dog,,Five Guys,2023-11-27,exif,6.55,1
 bacon dog,,Five Guys,2026-08-10,web,7.4,1
 bacon double smashed jack combo,,Jack in the Box,2025-08-11,exif,10.59,4
@@ -668,6 +672,7 @@ black white shake,12oz,Gott's Napa,2021-01-17,wayback,6.99,1
 black white shake,16oz,Gott's Napa,2014-08-11,wayback,6.99,1
 black white shake,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
 blackberry shake,,Five Guys,2026-08-11,web,5.95,1
+blackberry shake,,Five Guys,2026-08-11,web,6.75,1
 blenheim ginger ale,,Bistro Don Giovanni,2017-01-10,wayback,4.5,1
 blenheim ginger ale,,Bistro Don Giovanni,2020-03-27,wayback,5.5,1
 blenheim ginger ale,,Bistro Don Giovanni,2020-09-21,wayback,5.5,2
@@ -685,6 +690,7 @@ blt,,Barney's Burgers,2024-01-15,dom,7.99,1
 blt,,Barney's Burgers,2026-08-05,web,8.25,1
 blt,,Five Guys,2023-11-27,exif,6.6,1
 blt sandwich,,Five Guys,2026-08-11,web,7.45,1
+blt sandwich,,Five Guys,2026-08-11,web,6.6,1
 blt sandwich,,Five Guys,2026-08-10,web,7.45,1
 blue bottle new orleans,,Gott's Napa,2017-07-22,wayback,4.99,2
 blue bottle new orleans,,Gott's Napa,2020-07-02,wayback,4.99,1
@@ -751,14 +757,19 @@ bostini trifle,,Bistro Don Giovanni,2012-04-16,wayback,9.0,1
 bostini trifle,,Bistro Don Giovanni,2025-05-14,pdf,12.0,1
 bottled beers,,Gott's Napa,2013-02-28,wayback,4.5,2
 bottled coke,,Five Guys,2026-08-11,web,3.75,1
+bottled coke,,Five Guys,2026-08-11,web,3.5,1
 bottled coke,,Five Guys,2026-08-10,web,3.75,1
 bottled coke zero sugar,,Five Guys,2026-08-11,web,3.75,1
+bottled coke zero sugar,,Five Guys,2026-08-11,web,3.5,1
 bottled coke zero sugar,,Five Guys,2026-08-10,web,3.75,1
 bottled diet coke,,Five Guys,2026-08-11,web,3.75,1
+bottled diet coke,,Five Guys,2026-08-11,web,3.5,1
 bottled diet coke,,Five Guys,2026-08-10,web,3.75,1
 bottled simply lemonade,,Five Guys,2026-08-11,web,3.75,1
+bottled simply lemonade,,Five Guys,2026-08-11,web,3.5,1
 bottled simply lemonade,,Five Guys,2026-08-10,web,3.75,1
 bottled sprite,,Five Guys,2026-08-11,web,3.75,1
+bottled sprite,,Five Guys,2026-08-11,web,3.5,1
 bottled sprite,,Five Guys,2026-08-10,web,3.75,1
 bottled water,,Burgerville,2013-07-15,pdf,1.65,1
 bottled water,,Burgerville,2014-01-15,pdf,1.65,1
@@ -767,6 +778,7 @@ bottled water,,Burgerville,2015-01-30,pdf,1.65,1
 bottled water,,Burgerville,2015-04-20,pdf,1.65,1
 bottled water,,Burgerville,2015-06-23,pdf,1.65,1
 bottled water,,Five Guys,2026-08-11,web,2.9,1
+bottled water,,Five Guys,2026-08-11,web,2.75,1
 bottled water,,Five Guys,2026-08-10,web,2.9,1
 bottles to go,,Five Guys,2023-11-27,exif,3.25,1
 bouchard p re fils nuits saint georges,,Bistro Don Giovanni,2020-09-21,wayback,134.0,1
@@ -978,10 +990,13 @@ cajun fries,Large,Five Guys,2026-08-10,web,6.75,1
 cajun fries,Little,Five Guys,2026-08-10,web,4.95,1
 cajun fries,Regular,Five Guys,2026-08-10,web,5.85,1
 cajun fries large,Large,Five Guys,2026-08-11,web,6.75,1
+cajun fries large,Large,Five Guys,2026-08-11,web,6.5,1
 cajun fries large,Large,Five Guys,2026-08-10,web,6.75,1
 cajun fries little,Little,Five Guys,2026-08-11,web,4.95,1
+cajun fries little,Little,Five Guys,2026-08-11,web,4.75,1
 cajun fries little,Little,Five Guys,2026-08-10,web,4.95,1
 cajun fries regular,Regular,Five Guys,2026-08-11,web,5.85,1
+cajun fries regular,Regular,Five Guys,2026-08-11,web,5.5,1
 cajun fries regular,Regular,Five Guys,2026-08-10,web,5.85,1
 calamarata,,Bistro Don Giovanni,2022-05-27,wayback,29.0,1
 calera 13 pinot noir,Red Half Bottle,Gott's Napa,2016-02-07,wayback,22.0,1
@@ -1136,6 +1151,7 @@ cheddar biscuits with honey butter,,Farmstead at Long Meadow Ranch,2024-06-19,wa
 cheddar burger,,River's Edge Restaurant,2026-07-16,exif,19.0,1
 cheese burger,,Burgerville,2010-01-17,pdf,1.49,1
 cheese burger,,Five Guys,2026-08-11,web,11.05,1
+cheese burger,,Five Guys,2026-08-11,web,10.7,1
 cheese burger,,Five Guys,2023-11-27,exif,9.9,1
 cheese burger,,Five Guys,2026-08-10,web,11.05,1
 cheese burger,,Gott's Napa,2011-03-22,wayback,7.99,2
@@ -1158,6 +1174,7 @@ cheese burger,,In-N-Out Burger,2025-02-25,exif,3.95,1
 cheese burger,,In-N-Out Burger,2026-06-11,exif,4.1,1
 cheese burger,2,McDonald's,2022-04-16,exif,8.19,1
 cheese dog,,Five Guys,2026-08-11,web,6.75,1
+cheese dog,,Five Guys,2026-08-11,web,6.2,1
 cheese dog,,Five Guys,2023-11-27,exif,6.0,1
 cheese dog,,Five Guys,2026-08-10,web,6.75,1
 cheese fries,,Gott's Napa,2020-07-02,wayback,5.29,1
@@ -2471,12 +2488,15 @@ fried green tomatoes horseradish ailoi,,Angele Restaurant & Bar,2016-07-05,wayba
 fried green tomatoes horseradish ailoi,,Angele Restaurant & Bar,2016-08-04,wayback,16.0,1
 fried shrimp basket,,The Depot Eatery,2026-08-05,web,16.0,1
 fries large,Large,Five Guys,2026-08-11,web,6.75,1
+fries large,Large,Five Guys,2026-08-11,web,6.5,1
 fries large,Large,Five Guys,2023-11-27,exif,6.25,1
 fries large,Large,Five Guys,2026-08-10,web,6.75,1
 fries little,Little,Five Guys,2026-08-11,web,4.95,1
+fries little,Little,Five Guys,2026-08-11,web,4.75,1
 fries little,Little,Five Guys,2023-11-27,exif,4.35,1
 fries little,Little,Five Guys,2026-08-10,web,4.95,1
 fries regular,Regular,Five Guys,2026-08-11,web,5.85,1
+fries regular,Regular,Five Guys,2026-08-11,web,5.5,1
 fries regular,Regular,Five Guys,2023-11-27,exif,5.35,1
 fries regular,Regular,Five Guys,2026-08-10,web,5.85,1
 fritto misto,,Bistro Don Giovanni,2010-09-22,wayback,14.0,1
@@ -2730,6 +2750,7 @@ grilled cheese ham,,Barney's Burgers,2024-01-15,dom,8.79,1
 grilled cheese ham,,Barney's Burgers,2026-08-05,web,8.8,1
 grilled cheese sandwich,,Farmstead at Long Meadow Ranch,2025-10-15,pdf,14.0,1
 grilled cheese sandwich,,Five Guys,2026-08-11,web,6.2,1
+grilled cheese sandwich,,Five Guys,2026-08-11,web,5.2,1
 grilled cheese sandwich,,Five Guys,2026-08-10,web,6.2,1
 grilled cheese sandwich with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,10.0,1
 grilled cheese sandwich with crispy potatoes,,Farmstead at Long Meadow Ranch,2021-07-28,wayback,10.0,1
@@ -2874,6 +2895,7 @@ hamachi crudo watercress mission figs quinoa,,Angele Restaurant & Bar,2015-09-22
 hamachi crudo watercress persimmons quinoa fleur de sel cracker,,Angele Restaurant & Bar,2015-11-06,wayback,16.0,2
 hamburger,,Burgerville,2010-01-17,pdf,1.29,1
 hamburger,,Five Guys,2026-08-11,web,10.1,1
+hamburger,,Five Guys,2026-08-11,web,9.2,1
 hamburger,,Five Guys,2023-11-27,exif,9.05,1
 hamburger,,Five Guys,2026-08-10,web,10.1,1
 hamburger,,Gott's Napa,2011-03-22,wayback,6.99,2
@@ -3003,6 +3025,7 @@ hot dog,,Burgerville,2010-05-15,pdf,3.99,1
 hot dog,,Burgerville,2010-09-18,wayback,3.79,1
 hot dog,,Burgerville,2011-04-09,wayback,3.79,1
 hot dog,,Five Guys,2026-08-11,web,6.2,1
+hot dog,,Five Guys,2026-08-11,web,5.5,1
 hot dog,,Five Guys,2026-08-10,web,6.2,1
 hot dog,,Gott's Napa,2012-06-17,wayback,6.99,1
 hot dog,,Gott's Napa,2014-08-11,wayback,6.99,2
@@ -3409,6 +3432,7 @@ lapin brais,,Angele Restaurant & Bar,2012-10-21,wayback,27.0,1
 large classic fries,Large,Burgerville,2026-08-10,web,4.89,1
 large classic fries,Large,Burgerville,2026-08-10,web,4.89,1
 large drink,,Five Guys,2026-08-11,web,3.6,1
+large drink,,Five Guys,2026-08-11,web,3.2,1
 large drink,,Five Guys,2026-08-10,web,3.6,1
 large drink,32 fl oz,Five Guys,2023-11-27,exif,3.15,1
 lasagna,,Genova Delicatessen,2024-08-31,exif,15.95,1
@@ -3487,12 +3511,15 @@ lillet,,Bistro Don Giovanni,2020-09-21,wayback,10.0,2
 lillet,,Bistro Don Giovanni,2021-01-27,wayback,10.0,1
 lillet ros,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 little bacon burger,,Five Guys,2026-08-11,web,9.35,1
+little bacon burger,,Five Guys,2026-08-11,web,8.7,1
 little bacon burger,,Five Guys,2023-11-27,exif,8.3,1
 little bacon burger,,Five Guys,2026-08-10,web,9.35,1
 little bacon cheeseburger,,Five Guys,2026-08-11,web,10.2,1
+little bacon cheeseburger,,Five Guys,2026-08-11,web,9.2,1
 little bacon cheeseburger,,Five Guys,2023-11-27,exif,9.05,1
 little bacon cheeseburger,,Five Guys,2026-08-10,web,10.2,1
 little cheeseburger,,Five Guys,2026-08-11,web,8.95,1
+little cheeseburger,,Five Guys,2026-08-11,web,8.2,1
 little cheeseburger,,Five Guys,2023-11-27,exif,8.05,1
 little cheeseburger,,Five Guys,2026-08-10,web,8.95,1
 little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2014-01-24,wayback,9.0,1
@@ -3510,6 +3537,7 @@ little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,20
 little gem lettuces fines herbs red wine vinaigrette,,Angele Restaurant & Bar,2016-08-04,wayback,12.0,1
 little gem salad,,Gott's Napa,2014-10-29,wayback,9.99,1
 little hamburger,,Five Guys,2026-08-11,web,7.95,1
+little hamburger,,Five Guys,2026-08-11,web,7.2,1
 little hamburger,,Five Guys,2023-11-27,exif,7.05,1
 little hamburger,,Five Guys,2026-08-10,web,7.95,1
 little neck clams pork belly crepinette parsley butter rhone white wine toasted baguette,,Angele Restaurant & Bar,2016-08-04,wayback,28.0,1
@@ -3793,6 +3821,7 @@ milkshake,Large,Barney's Burgers,2026-08-05,web,9.8,1
 milkshake,Medium,Barney's Burgers,2026-08-05,web,6.5,1
 milkshake,Small,Barney's Burgers,2026-08-05,web,5.0,1
 milkshake,,Five Guys,2026-08-11,web,5.95,1
+milkshake,,Five Guys,2026-08-11,web,6.5,1
 milkshake,,Five Guys,2026-08-10,web,5.95,1
 milkshakes frozen yogurt smoothies,Large,Burgerville,2013-07-15,pdf,4.35,1
 milkshakes frozen yogurt smoothies,Regular,Burgerville,2013-07-15,pdf,3.35,1
@@ -4333,6 +4362,7 @@ pat maison,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,3
 patty melt,,Barney's Burgers,2024-01-15,dom,10.99,1
 patty melt,,Barney's Burgers,2026-08-05,web,9.45,1
 patty melt,,Five Guys,2026-08-11,web,9.2,1
+patty melt,,Five Guys,2026-08-11,web,8.95,1
 patty melt,,Five Guys,2026-08-10,web,9.2,1
 patty melt,,Gott's Napa,2011-03-22,wayback,7.99,2
 patty melt,,Gott's Napa,2014-08-11,wayback,9.99,2
@@ -4648,6 +4678,7 @@ reggiano dates,,Bistro Don Giovanni,2025-05-14,pdf,15.0,1
 regular classic fries,Regular,Burgerville,2026-08-10,web,4.29,1
 regular classic fries,Regular,Burgerville,2026-08-10,web,4.29,1
 regular drink,,Five Guys,2026-08-11,web,3.35,1
+regular drink,,Five Guys,2026-08-11,web,3.0,1
 regular drink,,Five Guys,2026-08-10,web,3.35,1
 regular drink,22 fl oz,Five Guys,2023-11-27,exif,2.99,1
 relish,,Five Guys,2023-11-27,exif,0.15,1
@@ -5950,9 +5981,11 @@ veggie omelet gf veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,14
 veggie patty,,Burgerville,2026-08-10,web,3.49,1
 veggie patty,,Burgerville,2026-08-10,web,3.49,1
 veggie sandwich,,Five Guys,2026-08-11,web,5.95,1
+veggie sandwich,,Five Guys,2026-08-11,web,5.2,1
 veggie sandwich,,Five Guys,2023-11-27,exif,5.1,1
 veggie sandwich,,Five Guys,2026-08-10,web,5.95,1
 veggie sandwich with cheese,,Five Guys,2026-08-11,web,6.65,1
+veggie sandwich with cheese,,Five Guys,2026-08-11,web,6.2,1
 veggie sandwich with cheese,,Five Guys,2026-08-10,web,6.65,1
 vegi burger with cheese,,Barney's Burgers,2026-08-05,web,9.15,1
 venica venica friuliano,,Bistro Don Giovanni,2020-09-21,wayback,52.0,1
