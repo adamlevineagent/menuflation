@@ -135,7 +135,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -1245,7 +1245,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 1.5,
    "n": 1
@@ -3095,7 +3095,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 2.0,
    "n": 1
@@ -3471,6 +3471,16 @@
    "n": 1
   },
   {
+   "item": "bacon burger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 11.3,
+   "n": 1
+  },
+  {
    "item": "bacon cheddar",
    "size": null,
    "place": "Barney's Burgers",
@@ -3501,6 +3511,16 @@
    "n": 1
   },
   {
+   "item": "bacon cheese dog",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 8.2,
+   "n": 1
+  },
+  {
    "item": "bacon cheeseburger",
    "size": null,
    "place": "Burgerville",
@@ -3528,6 +3548,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 10.9,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 12.3,
    "n": 1
   },
   {
@@ -3688,6 +3718,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.55,
+   "n": 1
+  },
+  {
+   "item": "bacon dog",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 7.4,
    "n": 1
   },
   {
@@ -4305,7 +4345,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -4315,7 +4355,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -6761,6 +6801,16 @@
    "n": 1
   },
   {
+   "item": "blt sandwich",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 7.45,
+   "n": 1
+  },
+  {
    "item": "blue bottle new orleans",
    "size": null,
    "place": "Gott's Napa",
@@ -7285,7 +7335,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -7295,7 +7345,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -7401,6 +7451,56 @@
    "n": 2
   },
   {
+   "item": "bottled coke",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.75,
+   "n": 1
+  },
+  {
+   "item": "bottled coke zero sugar",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.75,
+   "n": 1
+  },
+  {
+   "item": "bottled diet coke",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.75,
+   "n": 1
+  },
+  {
+   "item": "bottled simply lemonade",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.75,
+   "n": 1
+  },
+  {
+   "item": "bottled sprite",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.75,
+   "n": 1
+  },
+  {
    "item": "bottled water",
    "size": null,
    "place": "Burgerville",
@@ -7458,6 +7558,16 @@
    "observed_on": "2015-06-23",
    "date_source": "pdf",
    "median": 1.65,
+   "n": 1
+  },
+  {
+   "item": "bottled water",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 2.9,
    "n": 1
   },
   {
@@ -8835,7 +8945,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -9518,6 +9628,66 @@
    "observed_on": "2020-09-21",
    "date_source": "wayback",
    "median": 98.0,
+   "n": 1
+  },
+  {
+   "item": "cajun fries",
+   "size": "Large",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.75,
+   "n": 1
+  },
+  {
+   "item": "cajun fries",
+   "size": "Little",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.95,
+   "n": 1
+  },
+  {
+   "item": "cajun fries",
+   "size": "Regular",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.85,
+   "n": 1
+  },
+  {
+   "item": "cajun fries large",
+   "size": "Large",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.75,
+   "n": 1
+  },
+  {
+   "item": "cajun fries little",
+   "size": "Little",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.95,
+   "n": 1
+  },
+  {
+   "item": "cajun fries regular",
+   "size": "Regular",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.85,
    "n": 1
   },
   {
@@ -11053,6 +11223,16 @@
   {
    "item": "cheese burger",
    "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 11.05,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2011-03-22",
@@ -11248,6 +11428,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.0,
+   "n": 1
+  },
+  {
+   "item": "cheese dog",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.75,
    "n": 1
   },
   {
@@ -11635,7 +11825,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -11785,7 +11975,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -11825,7 +12015,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -15105,7 +15295,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -15225,7 +15415,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -15685,7 +15875,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -15695,7 +15885,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -16555,7 +16745,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 2.0,
    "n": 1
@@ -17755,7 +17945,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -19325,7 +19515,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -19335,7 +19525,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -19365,7 +19555,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -23262,6 +23452,36 @@
   },
   {
    "item": "french fries",
+   "size": "Large",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.75,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Little",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.95,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Regular",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.85,
+   "n": 1
+  },
+  {
+   "item": "french fries",
    "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -24331,6 +24551,16 @@
    "n": 1
   },
   {
+   "item": "fries large",
+   "size": "Large",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.75,
+   "n": 1
+  },
+  {
    "item": "fries little",
    "size": "Little",
    "place": "Five Guys",
@@ -24341,6 +24571,16 @@
    "n": 1
   },
   {
+   "item": "fries little",
+   "size": "Little",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.95,
+   "n": 1
+  },
+  {
    "item": "fries regular",
    "size": "Regular",
    "place": "Five Guys",
@@ -24348,6 +24588,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.35,
+   "n": 1
+  },
+  {
+   "item": "fries regular",
+   "size": "Regular",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.85,
    "n": 1
   },
   {
@@ -25135,7 +25385,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -25145,7 +25395,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -25155,7 +25405,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -26851,6 +27101,16 @@
    "n": 1
   },
   {
+   "item": "grilled cheese sandwich",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.2,
+   "n": 1
+  },
+  {
    "item": "grilled cheese sandwich with crispy potatoes",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -28283,6 +28543,16 @@
   {
    "item": "hamburger",
    "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 10.1,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2011-03-22",
@@ -28765,7 +29035,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -29345,7 +29615,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -29543,6 +29813,16 @@
   {
    "item": "hot dog",
    "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.2,
+   "n": 1
+  },
+  {
+   "item": "hot dog",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2012-06-17",
@@ -29705,7 +29985,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -31365,7 +31645,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -33582,6 +33862,16 @@
   },
   {
    "item": "large drink",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.6,
+   "n": 1
+  },
+  {
+   "item": "large drink",
    "size": "32 fl oz",
    "place": "Five Guys",
    "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
@@ -33605,7 +33895,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -34351,6 +34641,16 @@
    "n": 1
   },
   {
+   "item": "little bacon burger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 9.35,
+   "n": 1
+  },
+  {
    "item": "little bacon cheeseburger",
    "size": null,
    "place": "Five Guys",
@@ -34361,6 +34661,16 @@
    "n": 1
   },
   {
+   "item": "little bacon cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 10.2,
+   "n": 1
+  },
+  {
    "item": "little cheeseburger",
    "size": null,
    "place": "Five Guys",
@@ -34368,6 +34678,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 8.05,
+   "n": 1
+  },
+  {
+   "item": "little cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 8.95,
    "n": 1
   },
   {
@@ -34518,6 +34838,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 7.05,
+   "n": 1
+  },
+  {
+   "item": "little hamburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 7.95,
    "n": 1
   },
   {
@@ -36585,7 +36915,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -37235,7 +37565,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -37318,6 +37648,16 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 5.0,
+   "n": 1
+  },
+  {
+   "item": "milkshake",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.95,
    "n": 1
   },
   {
@@ -38335,7 +38675,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -42665,7 +43005,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -42698,6 +43038,16 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 9.45,
+   "n": 1
+  },
+  {
+   "item": "patty melt",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 9.2,
    "n": 1
   },
   {
@@ -43225,7 +43575,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -43235,7 +43585,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -44285,7 +44635,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -45195,7 +45545,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 16.95,
    "n": 1
@@ -45205,7 +45555,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 17.45,
    "n": 1
@@ -45745,7 +46095,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -45828,6 +46178,16 @@
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 4.29,
+   "n": 1
+  },
+  {
+   "item": "regular drink",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.35,
    "n": 1
   },
   {
@@ -46285,7 +46645,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -47445,7 +47805,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -47545,7 +47905,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -48455,7 +48815,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -48465,7 +48825,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -48725,7 +49085,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -48735,7 +49095,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -51685,7 +52045,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -52275,7 +52635,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -53845,7 +54205,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -56475,7 +56835,7 @@
    "size": "1/2 lb",
    "place": "Burgerville",
    "place_id": "ChIJZWdcpVcDwFQRt5-CykNAZ2A",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 7.99,
    "n": 1
@@ -57235,7 +57595,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -57715,7 +58075,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -57725,7 +58085,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-10",
+   "observed_on": "2026-08-11",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -58838,6 +59198,26 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.1,
+   "n": 1
+  },
+  {
+   "item": "veggie sandwich",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.95,
+   "n": 1
+  },
+  {
+   "item": "veggie sandwich with cheese",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.65,
    "n": 1
   },
   {
@@ -60703,11 +61083,6 @@
  ],
  "place_stats": [
   {
-   "place": "Five Guys",
-   "items": 51,
-   "median_item_price": 1.9
-  },
-  {
    "place": "In-N-Out Burger",
    "items": 50,
    "median_item_price": 2.55
@@ -60721,6 +61096,11 @@
    "place": "McDonald's",
    "items": 30,
    "median_item_price": 3.62
+  },
+  {
+   "place": "Five Guys",
+   "items": 89,
+   "median_item_price": 5.1
   },
   {
    "place": "Gott's Napa",
