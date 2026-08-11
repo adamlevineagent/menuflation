@@ -6,18 +6,25 @@ right engine: same-TIER cheeseburger-family median ratio (Burgerville =
 inexpensive tier), applied to the store's old price. Plus the item's own
 historical drift (old pairs only, no capture leakage).
 """
-import os, sqlite3, sys, math
+import os, sqlite3, sys, math, argparse
 sys.path.insert(0, os.getcwd())
 from statistics import median
 from collections import defaultdict
 
 from menuflation.index import aggregate_index, price_series, item_family
 
+ap = argparse.ArgumentParser(description="Perfection test (v3 tier-matched family engine)")
+ap.add_argument("--place", default="ChIJL3qwyg-hlVQRK3LBcpuq72k",
+                help="place_id to test (default: Burgerville Montavilla anchor)")
+ap.add_argument("--capture", default="2026-08-10",
+                help="capture observation date (default 2026-08-10)")
+args = ap.parse_args()
+
+ANCHOR = args.place
+CAPTURE = args.capture
+
 conn = sqlite3.connect("data/menuflation.db")
 conn.row_factory = sqlite3.Row
-
-ANCHOR = "ChIJL3qwyg-hlVQRK3LBcpuq72k"
-CAPTURE = "2026-08-10"
 
 def yrs(d1, d2):
     y1, m1 = map(int, d1.split("-")[:2])
@@ -65,6 +72,23 @@ for s in series:
 for k in by_key:
     by_key[k].sort(key=lambda x: x["observed_on"])
 
+HERO = [("original cheeseburger", None),
+        ("bacon cheeseburger", None),
+        ("double beef cheeseburger", None),
+        ("french fries", "Regular"),
+        ("french fries", "Large")]
+if ANCHOR != "ChIJL3qwyg-hlVQRK3LBcpuq72k":
+    # Non-anchor store: auto-derive hero canonicals — >=2 pre-capture points
+    # plus a capture point, ranked by pre-capture depth.
+    cands = []
+    for (item, size), pts in by_key.items():
+        olds = [p for p in pts if p["observed_on"] < CAPTURE[:4] + "-01-01"]
+        caps = [p for p in pts if p["observed_on"] == CAPTURE]
+        if len(olds) >= 2 and caps:
+            cands.append((len(olds), item, size))
+    cands.sort(reverse=True)
+    HERO = [(i, s) for _, i, s in cands[:6]]
+
 def item_own_rate(pts, cap_date=CAPTURE):
     """Annualized rate from the item's OWN pre-capture pairs (>=1yr gap)."""
     rs = []
@@ -76,14 +100,10 @@ def item_own_rate(pts, cap_date=CAPTURE):
             rs.append((b["median"] / a["median"]) ** (1 / y) - 1)
     return median(rs) if rs else None
 
-print(f"\n=== PERFECTION TEST ({CAPTURE}) — tier-matched engines ===")
-for item, size in [("original cheeseburger", None),
-                   ("bacon cheeseburger", None),
-                   ("double beef cheeseburger", None),
-                   ("french fries", "Regular"),
-                   ("french fries", "Large")]:
+print(f"\n=== PERFECTION TEST ({CAPTURE}) — tier-matched engines ===\nstore: {ANCHOR}")
+for item, size in HERO:
     pts = by_key.get((item, size), [])
-    olds = [p for p in pts if p["observed_on"] < "2026-01-01"]
+    olds = [p for p in pts if p["observed_on"] < CAPTURE[:4] + "-01-01"]
     caps = [p for p in pts if p["observed_on"] == CAPTURE]
     if not olds or not caps:
         print(f"{item} ({size or 'ac'}): no same-canonical old+capture pair "
@@ -108,6 +128,6 @@ for item, size in [("original cheeseburger", None),
     print("\n".join(out))
 
 # The hero item full series
-print("\nOriginal Cheeseburger full same-store series:")
-for p in by_key.get(("original cheeseburger", None), []):
+print(f"\nHero item full same-store series ({HERO[0][0]}):")
+for p in by_key.get(HERO[0], []):
     print(f"  {p['observed_on']} ${p['median']:.2f} ({p['date_source']})")
