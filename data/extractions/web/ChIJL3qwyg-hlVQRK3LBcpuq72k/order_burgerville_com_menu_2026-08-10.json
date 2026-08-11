@@ -26,6 +26,8 @@
    {"name": "Kids' Original Hamburger Meal", "price": 6.79, "old_price": null, "size": null, "qty": null, "notes": null},
    {"name": "Kids' Chicken Tenders Meal", "price": 8.39, "old_price": null, "size": null, "qty": null, "notes": null},
    {"name": "Kids' Pacific Cod & Chips Meal", "price": 8.99, "old_price": null, "size": null, "qty": null, "notes": null},
+   {"name": "5 Original Cheeseburgers + 2 Large Fries", "price": 19.39, "old_price": null, "size": null, "qty": null, "notes": null},
+   {"name": "5 Original Cheeseburgers", "price": 19.39, "old_price": null, "size": null, "qty": null, "notes": null},
    {"name": "Chicken Tenders", "price": 3.89, "old_price": null, "size": null, "qty": null, "notes": null},
    {"name": "Pacific Cod Pieces", "price": 3.89, "old_price": null, "size": null, "qty": null, "notes": null},
    {"name": "Grilled Chicken Patty", "price": 3.89, "old_price": null, "size": null, "qty": null, "notes": null},

@@ -45,3 +45,27 @@ class TestSubsetScaling:
         names = ["Smoked Chicken Club", "smoked chicken club", "SMOKED CHICKEN CLUB"]
         mapping = canonicalize(names)
         assert len(set(mapping.values())) == 1, f"Expected 1 canonical, got {mapping}"
+
+    def test_quantity_bundle_is_distinct(self):
+        """A pack SKU ("5 Original Cheeseburgers") must NOT merge into the
+        single item's canonical — the bundle price would poison the series
+        (Burgerville $19.39 5-pack read as a cheeseburger price, Aug 2026)."""
+        # Same name after the quantity -> guard fires (bundle != single).
+        assert similarity("5 Original Cheeseburgers", "Original Cheeseburger") == 0.0
+        assert similarity("Original Cheeseburger", "5 Original Cheeseburgers") == 0.0
+        # "Original" token differs too, so it clears the guard but must stay
+        # below threshold either way.
+        assert similarity("5 Original Cheeseburgers", "Cheeseburger") < 88
+        names = ["Original Cheeseburger", "5 Original Cheeseburgers",
+                 "5 Original Cheeseburgers + 2 Large Fries",
+                 "Bacon Cheeseburger", "Double Cheeseburger"]
+        mapping = canonicalize(names)
+        assert mapping["Original Cheeseburger"] == "original cheeseburger"
+        assert mapping["5 Original Cheeseburgers"] != "original cheeseburger"
+        assert mapping["Bacon Cheeseburger"] == "bacon cheeseburger"
+
+    def test_quantity_bundle_keeps_true_sizes(self):
+        """Real size/measurement constructs must be untouched by the bundle
+        guard (normalized measurement tokens are stripped upstream)."""
+        assert similarity("12 oz ribeye", "ribeye") > 0  # not a quantity bundle
+        assert similarity("double cheeseburger", "cheeseburger") == 0.0  # portion guard intact

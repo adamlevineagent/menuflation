@@ -131,6 +131,26 @@
    "n": 4
   },
   {
+   "item": "5 original cheeseburgers",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 19.39,
+   "n": 1
+  },
+  {
+   "item": "5 original cheeseburgers 2 large fries",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 19.39,
+   "n": 1
+  },
+  {
    "item": "a 1 steak sauce",
    "size": null,
    "place": "Five Guys",
@@ -57444,7 +57464,7 @@
   },
   {
    "place": "Burgerville",
-   "items": 538,
+   "items": 540,
    "median_item_price": 2.95
   },
   {

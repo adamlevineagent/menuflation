@@ -1,4 +1,6 @@
 """match.py — canonical item matching via portion-aware token-set similarity."""
+import re
+
 from rapidfuzz import fuzz
 
 from menuflation.normalize import normalize_name
@@ -13,6 +15,28 @@ PORTION_WORDS = {
     "single", "double", "triple", "quarter", "half",
     "order", "basket", "plate", "side", "combo", "meal", "entree", "a la carte",
 }
+
+# Leading quantity + the rest, e.g. "5 Original Cheeseburgers".
+_QTY = re.compile(r"^(\d+)[x×]?\s+(.*)$")
+_SINGULAR = re.compile(r"s$")
+
+
+def _tokens_singular(s):
+    return {_SINGULAR.sub("", t) for t in s.split()}
+
+
+def _quantity_bundle(a, b):
+    """True if one name is a quantity bundle of the other ("5 Original
+    Cheeseburgers" vs "Original Cheeseburger").  A pack SKU carries a bundle
+    price, never a same-store price observation for the single item — merging
+    them silently turns a $19.39 5-pack into a cheeseburger price.  Bias is
+    toward distinctness (like PORTION_WORDS); a false split is safer than a
+    false merge in a price series."""
+    for x, y in ((a, b), (b, a)):
+        m = _QTY.match(x)
+        if m and _tokens_singular(m.group(2)) == _tokens_singular(y):
+            return True
+    return False
 
 
 def _portion_only_diff(a, b):
@@ -39,7 +63,7 @@ def _strict_subset_ratio(a, b):
 
 
 def similarity(a, b):
-    if _portion_only_diff(a, b):
+    if _portion_only_diff(a, b) or _quantity_bundle(a, b):
         return 0.0
     score = fuzz.token_set_ratio(a, b)
     ratio = _strict_subset_ratio(a, b)
