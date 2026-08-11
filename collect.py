@@ -27,6 +27,15 @@ def _load(spec):
             "state": spec.get("state"), "places": []}, manifest_path
 
 
+def _sha256(path):
+    import hashlib
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
 def collect(places_json="places.json", photos_per_place=20, force=False,
             slug_filter=None):
     specs = json.load(open(places_json, encoding="utf-8"))
@@ -63,23 +72,34 @@ def collect(places_json="places.json", photos_per_place=20, force=False,
             pdir = os.path.join(OUT_ROOT, slug, pid)
             os.makedirs(pdir, exist_ok=True)
             got = 0
-            # existing photo names (by ref) so force refreshes in place w/o dup
-            have = {os.path.basename(p["file"]) for p in entry.get("photos", [])}
+            # force dedupes by CONTENT HASH (searchText refs are per-request:
+            # the same photo reappears under a new ref token, so ref-dedupe
+            # would accumulate dupes across a force re-fetch).
+            have_hashes = set()
+            for p in entry.get("photos", []):
+                fp = os.path.join(OUT_ROOT, p["file"])
+                if os.path.exists(fp):
+                    have_hashes.add(_sha256(fp))
             for ph in pl.get("photos", [])[:photos_per_place]:
                 pname = ph["name"]
                 ref = pname.rsplit("/", 1)[-1][:40]
                 dest = os.path.join(pdir, ref + ".jpg")
-                # force: re-download at 2048px (EXIF-preserving) to refresh the
-                # time-axis; otherwise keep existing files.
+                # non-force: keep existing files (resumable/idempotent).
                 if os.path.exists(dest) and not force:
                     continue
                 try:
                     download_photo(pname, dest, max_width=2048 if force else 1280)
-                    if ref + ".jpg" not in have:
-                        entry["photos"].append({
-                            "name": pname, "file": os.path.relpath(dest, OUT_ROOT),
-                            "width": ph.get("widthPx"), "height": ph.get("heightPx"),
-                        })
+                    # dedupe a freshly-downloaded file against known content
+                    h = _sha256(dest)
+                    if h in have_hashes:
+                        print(f"    [{slug}] skip dup content {ref}")
+                        got += 1  # refreshed in place, not a new photo
+                        continue
+                    entry["photos"].append({
+                        "name": pname, "file": os.path.relpath(dest, OUT_ROOT),
+                        "width": ph.get("widthPx"), "height": ph.get("heightPx"),
+                    })
+                    have_hashes.add(h)
                     got += 1
                     total_photos += 1
                     time.sleep(0.1)
