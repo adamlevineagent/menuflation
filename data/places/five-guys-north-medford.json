@@ -11,7 +11,8 @@
       "lng": -122.883107,
       "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
       "website_uri": "https://restaurants.fiveguys.com/20-rossanley-dr",
-      "photos": []
+      "photos": [],
+      "tier": "inexpensive"
     }
   ]
 }

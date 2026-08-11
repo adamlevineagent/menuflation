@@ -1,0 +1,79 @@
+{
+  "query": "five guys roseburg oregon",
+  "city": "Roseburg",
+  "state": "OR",
+  "places": [
+    {
+      "id": "ChIJa2oPdOojxFQRT9fsXMP0xBc",
+      "name": "Five Guys",
+      "address": "1500 NW Mulholland Dr, Roseburg, OR 97470, USA",
+      "lat": 43.228285199999995,
+      "lng": -123.3601274,
+      "photos": [
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydgrpkT57u65eiqtsosQBj6PSMEogbtpw2dBFh_QsQqjxwt0T1qx1WNFhSAgLT_viGIMOerK2cJWCV0ESRy_puRfJJdNwwSCgR3m-cSm_c_gKPbpWIPeQ1HiPA56ZtAfzMUnan43HG7P4RgoGQ9Sdu0qgtIqNrwIAKVxhQmCeE2i-VHaWhmqMrOODJ-LTgn3T_mHITVhs8ou3h5tuW26IXtKCB4SZxAWsB0JbrYHIShr04W2_wSNgrTsYQ7ynbC2ZKqXgW72QBZMRmx1eauL-Qt0LrGOrMJBCkemmrST-mW4o4L--dA4ry4RedZxoDM5RggCtx7DB8wk2dS8j7By_mB_ZeH1nHzafj5vZxF3rCE5jeiY8E7H2Vu6EQPBLPEskO1asV-KXu8TRINZeNP5In52NXLIwjh74NFerzfpcbbnqVYi5SB77N63sDPO_w",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydgrpkT57u65eiqtsosQBj6PSMEogbtpw2dB.jpg",
+          "width": 1848,
+          "height": 4000
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydhlKHwqxsd0yO8gDyaTfOoqAS2YP1PW-rif2Y1MyFZ-XrJDjHm0O7w5NXibQ-yRqsfbt1kkm-LbtCKXIiEftfwTXvKNsw3ipMZdwPpAXhqI2rAmaEiYtH7nkuW0Yr3P74o7jexR7sttSBiAFdtUNhTOSKys1BVuDpQkPBxULwA-kKBCAIJ_lenu39wlujFqqT9QC4e9N0_V0Nweb6domyhm8-GpEfUCzEqMJWhuMRagECZEcGHOkLz0V_m0TP-CM7eVWHZgLwd9xLJMf1BjOJWoZFD9gg-JFxstoiCBOZVLWQ6nDMUigN9OHOkSWcwSI8gRgjsS-GbDF2zP99yRj-Y5RBkTtUuybLuBHZTA0UfJxbVr0sN6QwFPYG5vedUk2l3vpsA9Kkf3amkaL45Uz4M0fYXowuMmIZMJmwZm_9wyV2Lr",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydhlKHwqxsd0yO8gDyaTfOoqAS2YP1PW-rif.jpg",
+          "width": 1450,
+          "height": 815
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydgUpdG7qmkajGAobHazsrYMHiGXD3efgfqRTAtIQ-w__Q1vzgCRi_UNsyqJw9Q0vKrwcbqpoR9-dSfQBUQ3F5dS6SzLe4tEec78znyY_c29Lx_TUiDuAq5JQVHAx4p4yjnyYso-KqYULtWz1YxEgn13IXrnqKo0NvUA9xdpkPbJFu7PUpos5GXeM5pMb8xAM8CHFgFH4nmxMdOZTEf8zcUkp8FXGRMqcOSSvmWh-9OG0_q75QHtm8ekl40F5_h2ITwuzjZCh-GNtmIKdyc8rjNEhS1Kl8mtwNz1TLvlknfF6EAxmK3gUV804DfeptcPQy4l4Tbn2DlZv-bDEAuZ0cki-bke_RVyCmyFvRXgO44s7UKWwUcJI5RUoCwrDIwNKcRqVisJgyPpqgpPIek_0rdXoHT7MSSFa4o5jWrFg8hwqWCZ",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydgUpdG7qmkajGAobHazsrYMHiGXD3efgfqR.jpg",
+          "width": 640,
+          "height": 456
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydjGH-3QtqdC1S06ej5S0Ift2AJCZ-4tX43L_4ulbJ5DQHZ1I8h3I-5ZiStXopJErK4DmjcByCRiXmuQ3hPo9vv6UalF9nq6R6n7mf5o0Vu6Ghzup7yUnXYjr-dRp0p_GYGbLvzrtotbuvdOIlWwiJnCSi3AZshms2pM4GjrzWuxxjlypibOnjuvg8AVrwURSxd82_UV0X_lzJZQk-05Lnxj0QwZkBqvcvafk0W2cu0yGj2DHu9pj9cfQaTdA1gn3Vol8C-3vOZKoCtlFbFWyGt6N-MsXBYyFl3iewzwYOT6qQj2G0m63o89OtB9bWp61qC8SZbxdUHH_FMdYwZPEt6BBksgxY0LAEnzAVCvOHubR4MP4wbN_wv-zDOPh8IwaxF8jcmfm2hbXVV7kCSy7cNwF1TchW7A-_t9x5lEivYNjGdt",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydjGH-3QtqdC1S06ej5S0Ift2AJCZ-4tX43L.jpg",
+          "width": 2000,
+          "height": 1298
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydhzL8r7L4XXO5v_bXGI2yYpCh39Ah3fvPi1lRGJmNrqF9M43ZYK0UGUdNfSAftc3KL6EInqsVXsHABtHJ59kDJrGOrWfp_VuDi4UpW9rYwsZOPfULvUjttenx57oija_oAacBZjvInaO4_8D3U6XKIbfMNeX4oqxD3CTpOngOamYNYwu4jtSb5_vYOb-_hIIqXW11UJVE2VFOiKeBFU5Iu6BnRkOVKeaagfaZAOO_h8Sse3ryNR-sM-UV4pzi93U4zwXvZy1gIIejF-wrvSG1PJIG3cJgEkQk3AAwXTOY7wICMYomPspWsrOc0PZUHdfpN9XxpSS3l2F9RgsRgDp-kJGEja8NSj9En_TcqYXXDkdaTvTfAuHQbT0vFbEXSN_GH0zltug0LfPmT4aucXcoD1FdMkt1fFcGkFRBnyUiedLQ",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydhzL8r7L4XXO5v_bXGI2yYpCh39Ah3fvPi1.jpg",
+          "width": 800,
+          "height": 450
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydi0djN6M2f3TlX7S9DZ5voguqNa_7vJO02-PCTDb1fBe1H2UyojDDpO6d03fuCYc-AZZ49iyOBUiaYjR6Wnxx41Mc8KOD0zvpRz-5UDVxNWKoWzNs_BkmOun5qLgAqRJ5WRUOW0EYUjPiXQOkOsd0Y1ocCsEY4DaN6P1Om7tR7bEHGBZGIBs12fiLWQRwLTTQuP3jMWLNKaWE1AIZKzWmRTOOYwhiQTll3yg9vBdr6RmEc0w95PrCXDnnbi9BaqJQi5hn2zqcb5qFeG7_J_29hvZYNsUq1W2L9A-Q8aExjUBxVJCW9T5V_IdjtM4S60rvaSrTd_Fw8vzVKFvcvp2GRYVjtN9dLiCWoBXZ_Gfiau_lLgr8syPpZfS6f_fgSxIpOKZZ-scuvK_yOZOPAc_ueTSPMG9lB0PR_fv2_UMprjQtTgfzIZ2ggZ_-sVVQ",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydi0djN6M2f3TlX7S9DZ5voguqNa_7vJO02-.jpg",
+          "width": 3840,
+          "height": 2160
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydiGbjxiEX92eFb1cQ8fJZZCbkU-1iLNyjJ0XdKCTIQgRMWeGOHgOcjGcq7S-oWE6sP7uwbdqcJyJjUe8-hfNAmNan-OXSCknBeVSwR1Ov4mrG5tsJ6i7VA2HdjJqZjAjE6NRtiiE7bo29wcDrD4FJEGfWEhHmLBlEDaG3NSlHho4lBn9PRD4lBIUVXOUa5kDx7gRvYFCpCp5HjD-ZuLI8uAIkxPB9Du76d5xR9RAy_ykunQvQxNk2-Ai0hr7NacKYZbScwUievYU_hb8LokwpcQHVWvGqSDlU524KRmGj98V0nZBvqVi7G1NDa3bj9hWf8ZWGkLRt_IolNAFeU3fcMxnSihpmO4jTLGYdRG5bepryVUCxn7ElNUZ-se8QRP-yrWz_Wcnt4onyhveXeYakWGT1Gyg0RJ1I-4o6NRZxb1KOuu",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydiGbjxiEX92eFb1cQ8fJZZCbkU-1iLNyjJ0.jpg",
+          "width": 800,
+          "height": 533
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydgNpMfVV39ViYZuYDcFCCcO-0WHo13sp6BjHOVUd_FKm1Rda-UVm4yUtiQF9CpLMxQIS_X4kEPMey5ejnDWcXlsw_RrZQOlyoGf3rqWVIcAKRFyLu8ANcjqaKcKDrah2H-qlCGea3MR0EE4Ui0_0nzuphnBPteucWD07BbqbfjP3kOyz4MyUCDV0QDm1Fbnh_QJic8guiP09tnB0xoVryk5IPUTqkWoOt0ahhR_JaRI1pqrfb9A-MacWmRHC1YKrYnSZU_x5V2B0AkRkBtqUmxRNjjHi6b12LSp9ktvL8WiZ63tOWdP7O3NkHvrBaPY4-iehXfvBbELGXoh-372m3PW7BBPHercuGiViWohZhelsNvOPqc_VvEwByYhjWGbcnhkQMMnR-1i3CgUG5FFd4L3mmVaaDYhxSsKeOk3OHND2w",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydgNpMfVV39ViYZuYDcFCCcO-0WHo13sp6Bj.jpg",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydg0uXhklTYc0VsydWBWCAcpBfi2ITw1NgMexkwDSTfASp5yqUNexzguD-f8YnCBLFiBwBPGH-IJSNB8TDL7cSZn0g7xX8NE4x18I7XNy0xjpMPqVe704WaOtsDBWEHpN9paO-z-2QJrGF0pbn2QypbdsjkZkHzlTPiNwE0eVNVijVW-DUkxy-1r3aXeIP5PAU3eUIzZKLk5QBNcEVjXQBTw8rk93hNBai43izhXWueY0D9FESDFhD7MU-_bbOUNbAeFy7Bk-VGiqEUDvYe0FSzXT_TYX3adsDKqbZsVp7EE7CdOk1rbFJCo8hCeMJtqHmGKUiv2KuTtX6tGAQjYDL5RWb4Hy-NmDSHppDgUYcsuuMtw2eQQm5PWWfuf4zPcT2siyg77q6oWfq_1vBfAFTCq9PAf_lFqMxTtM0LoT7Fr4Q",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydg0uXhklTYc0VsydWBWCAcpBfi2ITw1NgMe.jpg",
+          "width": 2992,
+          "height": 2992
+        },
+        {
+          "name": "places/ChIJa2oPdOojxFQRT9fsXMP0xBc/photos/AWCwydjpukCaPbV7ewFZ8o1vkrU05YQV9A1kTMkqjeHAGlndmOQY2rw6flayDfXcKEYChgMX_EKJvV-HGsC4SSQZoOZ2nZQt0-tyc5hKMLQW3AbNcjvPQ_F6QVQ8f9ZlyZ9xpQM28EUBVL49UDiN19vk7lpXG1Mv139KgF4J8w2zYbNvCjxepKtnAR1oTd0bTKlNVaWco75o4B4ANvPqOtYcsGNidUxW9XitTTO8i8IUGdmlWveerwnQFf10YBdfhyFrJuYS_hMHlQgVp_tql2CBtR2z24Faoyr-TWuNCGj5usBEan7q3zq0rcaSgXICIbvjEb2N4feB5eow4kHHyIffg2NUMtnnjOfVMAQWz4_3RFlTFvWtcISfaz4rk9Rs6AZpMR72tqodJT0v_LdzMWOqtFrdHEoxIlJDlLymagshdU8QigE",
+          "file": "five-guys-roseburg\\ChIJa2oPdOojxFQRT9fsXMP0xBc\\AWCwydjpukCaPbV7ewFZ8o1vkrU05YQV9A1kTMkq.jpg",
+          "width": 2000,
+          "height": 1333
+        }
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "tier": "inexpensive",
+      "website_uri": "https://restaurants.fiveguys.com/1500-nw-mulholland-dr"
+    }
+  ]
+}
