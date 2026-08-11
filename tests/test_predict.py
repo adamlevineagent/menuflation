@@ -46,3 +46,18 @@ def test_sparse_store_single_precapture_point():
     assert "store: ChIJd5LW92p7z1QRvnbaQnf3cmU" in out.stdout
     # at least one hero item carries its 2023 -> 2026 same-store series
     assert "2023-11-27 $" in out.stdout and "-> 2026-08-10 $" in out.stdout
+
+
+def test_auto_detect_capture_date_uses_stores_latest_obs():
+    # North Medford's web capture is dated 2026-08-11 (one day later than the
+    # old hardcoded default 2026-08-10). With no --capture, auto-detect must
+    # pick the store's max observed_on (2026-08-11) so exact-date `caps` match
+    # and the 2025-06-04 board -> 2026-08-11 web pair becomes testable.
+    out = run_predict("--place", "ChIJ3-95C2N7z1QRdqWZDZz3lX4")
+    assert out.returncode == 0, out.stderr
+    assert "[auto] capture date -> 2026-08-11" in out.stdout
+    assert "PERFECTION TEST (2026-08-11)" in out.stdout
+    assert "store: ChIJ3-95C2N7z1QRdqWZDZz3lX4" in out.stdout
+    # a hero item shows the 2025 board -> 2026 web same-store series
+    assert "2025-06-04 $" in out.stdout and "-> 2026-08-11 $" in out.stdout
+

@@ -16,8 +16,9 @@ from menuflation.index import aggregate_index, price_series, item_family
 ap = argparse.ArgumentParser(description="Perfection test (v3 tier-matched family engine)")
 ap.add_argument("--place", default="ChIJL3qwyg-hlVQRK3LBcpuq72k",
                 help="place_id to test (default: Burgerville Montavilla anchor)")
-ap.add_argument("--capture", default="2026-08-10",
-                help="capture observation date (default 2026-08-10)")
+ap.add_argument("--capture", default=None,
+                help="capture observation date (default: auto-detect the store's "
+                     "latest dated observation)")
 args = ap.parse_args()
 
 ANCHOR = args.place
@@ -25,6 +26,18 @@ CAPTURE = args.capture
 
 conn = sqlite3.connect("data/menuflation.db")
 conn.row_factory = sqlite3.Row
+
+if not CAPTURE:
+    # Auto-detect the capture date: the store's most recent dated observation
+    # (web/exif/etc.). Avoids the stale hardcoded-default trap where a store's
+    # web capture is a day later than 2026-08-10 and every exact-date match
+    # (`caps`) comes up empty, making a perfectly good pair untestable.
+    row = conn.execute(
+        "SELECT max(observed_on) d FROM menu_lines WHERE place_id=? "
+        "AND length(observed_on)>=10",
+        (ANCHOR,)).fetchone()
+    CAPTURE = row["d"] if row and row["d"] else "2026-08-10"
+    print(f"[auto] capture date -> {CAPTURE}")
 
 def yrs(d1, d2):
     y1, m1 = map(int, d1.split("-")[:2])
