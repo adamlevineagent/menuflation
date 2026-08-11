@@ -3313,6 +3313,16 @@
   {
    "item": "bacon cheeseburger",
    "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 9.69,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
    "place": "Five Guys",
    "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
    "observed_on": "2023-11-27",
@@ -4663,6 +4673,16 @@
   {
    "item": "bbq sauce",
    "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "bbq sauce",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2026-08-10",
@@ -4768,6 +4788,16 @@
    "observed_on": "2014-09-20",
    "date_source": "wayback",
    "median": 12.0,
+   "n": 1
+  },
+  {
+   "item": "beef patty",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.49,
    "n": 1
   },
   {
@@ -8271,6 +8301,26 @@
    "n": 1
   },
   {
+   "item": "burgerville spread",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "burgerville spread jar",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 5.99,
+   "n": 1
+  },
+  {
    "item": "burrata",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -11222,6 +11272,16 @@
   },
   {
    "item": "chicken tenders",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.89,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders",
    "size": "3 Pieces",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -12218,6 +12278,16 @@
    "observed_on": "2016-02-07",
    "date_source": "wayback",
    "median": 10.99,
+   "n": 1
+  },
+  {
+   "item": "chipotle mayo",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
    "n": 1
   },
   {
@@ -14651,6 +14721,16 @@
    "n": 1
   },
   {
+   "item": "crispy chicken patty",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.09,
+   "n": 1
+  },
+  {
    "item": "crispy chicken po boy",
    "size": null,
    "place": "Gott's Napa",
@@ -16808,6 +16888,16 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "double cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.69,
    "n": 1
   },
   {
@@ -20711,6 +20801,16 @@
    "n": 1
   },
   {
+   "item": "fountain drink",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.79,
+   "n": 1
+  },
+  {
    "item": "fountain soda",
    "size": null,
    "place": "Gott's Napa",
@@ -23231,6 +23331,16 @@
    "n": 1
   },
   {
+   "item": "garlic aioli",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
    "item": "garlic fries",
    "size": null,
    "place": "Gott's Napa",
@@ -24371,6 +24481,16 @@
    "n": 1
   },
   {
+   "item": "grass fed grass finished beef patty",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.99,
+   "n": 1
+  },
+  {
    "item": "grass fed meatballs",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -25268,6 +25388,16 @@
    "observed_on": "2010-05-15",
    "date_source": "pdf",
    "median": 3.49,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken patty",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.89,
    "n": 1
   },
   {
@@ -27319,6 +27449,16 @@
    "date_source": "wayback",
    "median": 6.64,
    "n": 2
+  },
+  {
+   "item": "honey mustard",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
   },
   {
    "item": "honey mustard",
@@ -30201,6 +30341,16 @@
    "n": 1
   },
   {
+   "item": "ketchup packets",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
    "item": "kid s",
    "size": null,
    "place": "Gott's Napa",
@@ -30258,6 +30408,16 @@
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "kids chicken tenders meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 8.39,
    "n": 1
   },
   {
@@ -30378,6 +30538,16 @@
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 9.99,
+   "n": 1
+  },
+  {
+   "item": "kids pacific cod chips meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 8.99,
    "n": 1
   },
   {
@@ -31398,6 +31568,16 @@
    "observed_on": "2012-10-21",
    "date_source": "wayback",
    "median": 27.0,
+   "n": 1
+  },
+  {
+   "item": "large classic fries",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.89,
    "n": 1
   },
   {
@@ -33231,6 +33411,16 @@
    "n": 1
   },
   {
+   "item": "malt vinegar packets",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
    "item": "malts add",
    "size": null,
    "place": "Barney's Burgers",
@@ -34248,6 +34438,16 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 1.1,
+   "n": 1
+  },
+  {
+   "item": "mayo packets",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
    "n": 1
   },
   {
@@ -36301,6 +36501,16 @@
    "n": 1
   },
   {
+   "item": "mustard packets",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
    "item": "my",
    "size": null,
    "place": "Code 4 Taphouse",
@@ -37231,6 +37441,16 @@
    "n": 1
   },
   {
+   "item": "northwest cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 7.89,
+   "n": 1
+  },
+  {
    "item": "northwest hash browns",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -37961,6 +38181,16 @@
    "n": 1
   },
   {
+   "item": "orange juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.79,
+   "n": 1
+  },
+  {
    "item": "orangina",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -38461,6 +38691,16 @@
    "n": 1
   },
   {
+   "item": "original cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.49,
+   "n": 1
+  },
+  {
    "item": "original cheeseburger meal",
    "size": null,
    "place": "Burgerville",
@@ -38518,6 +38758,16 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 4.39,
+   "n": 2
+  },
+  {
+   "item": "original cheeseburger meal kids",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 6.89,
    "n": 2
   },
   {
@@ -39258,6 +39508,16 @@
    "observed_on": "2019-09-19",
    "date_source": "wayback",
    "median": 23.0,
+   "n": 1
+  },
+  {
+   "item": "pacific cod pieces",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.89,
    "n": 1
   },
   {
@@ -42571,6 +42831,16 @@
    "n": 1
   },
   {
+   "item": "pup patty",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 2.29,
+   "n": 1
+  },
+  {
    "item": "pyrat xo reserve",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -42803,6 +43073,16 @@
   {
    "item": "ranch",
    "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
+   "item": "ranch",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2026-08-10",
@@ -43008,6 +43288,16 @@
    "observed_on": "2025-05-14",
    "date_source": "pdf",
    "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "regular classic fries",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 4.29,
    "n": 1
   },
   {
@@ -48621,6 +48911,16 @@
    "n": 1
   },
   {
+   "item": "small classic fries",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.59,
+   "n": 1
+  },
+  {
    "item": "small seasonal milkshakes smoothies",
    "size": null,
    "place": "Burgerville",
@@ -51851,6 +52151,16 @@
    "n": 1
   },
   {
+   "item": "stumptown coffee",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 2.99,
+   "n": 1
+  },
+  {
    "item": "stumptown coffee carrier",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -51878,6 +52188,26 @@
    "observed_on": "2024-06-19",
    "date_source": "wayback",
    "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "stumptown cold brew",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "stumptown cold brew with cold foam",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 2.99,
    "n": 1
   },
   {
@@ -52211,6 +52541,16 @@
    "n": 1
   },
   {
+   "item": "sweet onion spread",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
+   "n": 1
+  },
+  {
    "item": "sweet potato fries",
    "size": null,
    "place": "Barney's Burgers",
@@ -52488,6 +52828,16 @@
    "observed_on": "2023-06-10",
    "date_source": "wayback",
    "median": 15.0,
+   "n": 1
+  },
+  {
+   "item": "tartar sauce",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 0.5,
    "n": 1
   },
   {
@@ -55301,6 +55651,16 @@
    "n": 1
   },
   {
+   "item": "veggie patty",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.49,
+   "n": 1
+  },
+  {
    "item": "veggie sandwich",
    "size": null,
    "place": "Five Guys",
@@ -55738,6 +56098,16 @@
    "observed_on": "2015-03-05",
    "date_source": "wayback",
    "median": 10.0,
+   "n": 1
+  },
+  {
+   "item": "water",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.79,
    "n": 1
   },
   {
@@ -57074,8 +57444,8 @@
   },
   {
    "place": "Burgerville",
-   "items": 501,
-   "median_item_price": 2.89
+   "items": 538,
+   "median_item_price": 2.95
   },
   {
    "place": "McDonald's",
