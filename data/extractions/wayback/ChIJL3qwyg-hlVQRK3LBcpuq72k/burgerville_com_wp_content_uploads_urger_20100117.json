@@ -1,0 +1,301 @@
+{
+ "photo": "wb/20100117/https://web.archive.org/web/20100117053441/http://burgerville.com/wp-content/uploads/BurgervilleToGoMenu.pdf",
+ "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+ "src": "https://web.archive.org/web/20100117/https://web.archive.org/web/20100117053441/http://burgerville.com/wp-content/uploads/BurgervilleToGoMenu.pdf",
+ "observed_on": "2010-01-17",
+ "date_source": "pdf",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {
+    "name": "Hamburger Meal",
+    "price": 3.99,
+    "size": null
+   },
+   {
+    "name": "Cheeseburger Meal",
+    "price": 4.19,
+    "size": null
+   },
+   {
+    "name": "Chicken Strips Meal",
+    "price": 4.49,
+    "size": null
+   },
+   {
+    "name": "Fish & Chips Meal",
+    "price": 4.99,
+    "size": null
+   },
+   {
+    "name": "Hot Dog Meal",
+    "price": 4.29,
+    "size": null
+   },
+   {
+    "name": "Kids Side: Fries or Apple Slices",
+    "price": 1.39,
+    "size": null
+   },
+   {
+    "name": "Kids Soft Drink, 2% Milk or Chocolate Milk",
+    "price": 1.49,
+    "size": null
+   },
+   {
+    "name": "Kids Real Ice Cream Milkshake",
+    "price": 2.19,
+    "size": null
+   },
+   {
+    "name": "Small Seasonal Milkshakes & Smoothies",
+    "price": 3.19,
+    "size": null
+   },
+   {
+    "name": "Sundae",
+    "price": 1.99,
+    "size": null
+   },
+   {
+    "name": "Vanilla Ice Cream Cone",
+    "price": 1.29,
+    "size": null
+   },
+   {
+    "name": "Toaster Biscuit w/Egg",
+    "price": 2.69,
+    "size": "sandwich"
+   },
+   {
+    "name": "Toaster Biscuit w/Egg Basket",
+    "price": 4.49,
+    "size": "basket"
+   },
+   {
+    "name": "Bagel w/ Egg",
+    "price": 2.69,
+    "size": "sandwich"
+   },
+   {
+    "name": "Bagel w/ Egg Basket",
+    "price": 4.49,
+    "size": "basket"
+   },
+   {
+    "name": "Bagel w/Cream Cheese",
+    "price": 1.79,
+    "size": "sandwich"
+   },
+   {
+    "name": "Bagel w/Cream Cheese Basket",
+    "price": 3.59,
+    "size": "basket"
+   },
+   {
+    "name": "Breakfast Platter",
+    "price": 4.39,
+    "size": null
+   },
+   {
+    "name": "Toaster Biscuit",
+    "price": 1.19,
+    "size": null
+   },
+   {
+    "name": "Bagel",
+    "price": 1.19,
+    "size": null
+   },
+   {
+    "name": "Toaster Biscuit w/ Egg",
+    "price": 2.09,
+    "size": null
+   },
+   {
+    "name": "Hash Browns (2)",
+    "price": 1.29,
+    "size": null
+   },
+   {
+    "name": "Bagel w/ Egg",
+    "price": 2.09,
+    "size": "a la carte"
+   },
+   {
+    "name": "Pepper Bacon Cheeseburger",
+    "price": 4.69,
+    "size": null
+   },
+   {
+    "name": "Chicken Strips & Fries",
+    "price": 5.49,
+    "size": null
+   },
+   {
+    "name": "Crispy Chicken Sandwich",
+    "price": 3.79,
+    "size": null
+   },
+   {
+    "name": "Deluxe Crispy Chicken Sandwich",
+    "price": 5.79,
+    "size": null
+   },
+   {
+    "name": "Tillamook Cheeseburger",
+    "price": 3.69,
+    "size": null
+   },
+   {
+    "name": "Half-Pound Colossal Cheeseburger",
+    "price": 5.29,
+    "size": null
+   },
+   {
+    "name": "Low Fat Grilled Chicken Sandwich",
+    "price": 3.99,
+    "size": null
+   },
+   {
+    "name": "Burgerville Classic Hamburger",
+    "price": 3.39,
+    "size": null
+   },
+   {
+    "name": "Colossal Cheeseburger",
+    "price": 3.69,
+    "size": null
+   },
+   {
+    "name": "Nine Grain Turkey Club Sandwich",
+    "price": 3.99,
+    "size": null
+   },
+   {
+    "name": "Double Beef Cheeseburger",
+    "price": 2.59,
+    "size": null
+   },
+   {
+    "name": "Seasoned Turkey Burger",
+    "price": 4.09,
+    "size": null
+   },
+   {
+    "name": "Cheeseburger",
+    "price": 1.49,
+    "size": null
+   },
+   {
+    "name": "Hamburger",
+    "price": 1.29,
+    "size": null
+   },
+   {
+    "name": "The Oregon Harvest Burger",
+    "price": 4.39,
+    "size": null
+   },
+   {
+    "name": "Side Salad",
+    "price": 1.89,
+    "size": null
+   },
+   {
+    "name": "Make any Sandwich a Combo Basket",
+    "price": 3.0,
+    "size": null
+   },
+   {
+    "name": "French Fries",
+    "price": 1.89,
+    "size": "regular"
+   },
+   {
+    "name": "French Fries",
+    "price": 2.29,
+    "size": "large"
+   },
+   {
+    "name": "Soft Drinks",
+    "price": 1.89,
+    "size": "regular"
+   },
+   {
+    "name": "Soft Drinks",
+    "price": 2.19,
+    "size": "large"
+   },
+   {
+    "name": "Fresh-Brewed Iced Tea",
+    "price": 1.89,
+    "size": "regular"
+   },
+   {
+    "name": "Fresh-Brewed Iced Tea",
+    "price": 2.19,
+    "size": "large"
+   },
+   {
+    "name": "Kobos Fair Trade Coffee",
+    "price": 1.49,
+    "size": "regular"
+   },
+   {
+    "name": "Kobos Fair Trade Coffee",
+    "price": 1.89,
+    "size": "large"
+   },
+   {
+    "name": "Ghirardelli Premium Hot Chocolate",
+    "price": 2.59,
+    "size": "regular"
+   },
+   {
+    "name": "Ghirardelli Premium Hot Chocolate",
+    "price": 2.89,
+    "size": "large"
+   },
+   {
+    "name": "Odwalla Orange Juice",
+    "price": 1.79,
+    "size": "regular"
+   },
+   {
+    "name": "Odwalla Orange Juice",
+    "price": 1.99,
+    "size": "large"
+   },
+   {
+    "name": "Odwalla Lemonade",
+    "price": 1.89,
+    "size": "regular"
+   },
+   {
+    "name": "Odwalla Lemonade",
+    "price": 2.19,
+    "size": "large"
+   },
+   {
+    "name": "Oregon Rain Bottled Water",
+    "price": 1.49,
+    "size": null
+   },
+   {
+    "name": "2% Milk or Chocolate Milk",
+    "price": 1.49,
+    "size": null
+   }
+  ],
+  "date_hints": [
+   "2009"
+  ],
+  "restaurant_hint": "Burgerville",
+  "confidence": "prices verified against PDF text layout (qwen mispaired two-column prices; corrected from same-line name+price pairs)"
+ },
+ "cost_usd": 0.001341,
+ "wayback_ts": "20100117"
+}

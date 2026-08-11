@@ -1,6 +1,16 @@
 {
  "series": [
   {
+   "item": "1 milk",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
    "item": "1 milk or fat free chocolate milk",
    "size": null,
    "place": "Burgerville",
@@ -26,6 +36,36 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "1 milk or fat free chocolate milk",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "1 milk or fat free chocolate milk",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "1 milk or fat free chocolate milk",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
    "date_source": "pdf",
    "median": 1.45,
    "n": 1
@@ -361,6 +401,16 @@
    "n": 1
   },
   {
+   "item": "add an egg",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 0.8,
+   "n": 1
+  },
+  {
    "item": "add avocado",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -478,6 +528,16 @@
    "observed_on": "2023-06-10",
    "date_source": "wayback",
    "median": 3.0,
+   "n": 1
+  },
+  {
+   "item": "add cream cheese",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 0.7,
    "n": 1
   },
   {
@@ -2323,6 +2383,46 @@
   {
    "item": "apple juice",
    "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "apple juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "apple juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "apple juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "apple juice",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2011-03-22",
@@ -2429,6 +2529,26 @@
    "date_source": "wayback",
    "median": 4.99,
    "n": 2
+  },
+  {
+   "item": "apple slices",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "apple slices or french fries",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
   },
   {
    "item": "armagnac cles de ducs v s o p france",
@@ -3262,6 +3382,36 @@
   },
   {
    "item": "bacon",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "bacon",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "bacon",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "bacon",
    "size": "One Slice",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -3578,6 +3728,16 @@
    "observed_on": "2011-04-09",
    "date_source": "wayback",
    "median": 0.7,
+   "n": 1
+  },
+  {
+   "item": "bacon plain or pepper",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.0,
    "n": 1
   },
   {
@@ -4401,6 +4561,36 @@
    "n": 1
   },
   {
+   "item": "banana or apple slices",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "banana or apple slices",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "banana or apple slices",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
    "item": "banana pecan caramel french toast",
    "size": null,
    "place": "The Depot Eatery",
@@ -4408,6 +4598,16 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "banana slices",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
    "n": 1
   },
   {
@@ -4638,6 +4838,16 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 3.5,
+   "n": 1
+  },
+  {
+   "item": "basket",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.6,
    "n": 1
   },
   {
@@ -6601,6 +6811,86 @@
    "n": 1
   },
   {
+   "item": "blue cheese apple",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "blue cheese apple",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
    "item": "blue cheese burger",
    "size": null,
    "place": "Gott's Napa",
@@ -6766,6 +7056,16 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 2.0,
+   "n": 1
+  },
+  {
+   "item": "blue cheese crumbles",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
    "date_source": "pdf",
    "median": 2.0,
    "n": 1
@@ -7071,6 +7371,46 @@
    "n": 1
   },
   {
+   "item": "bottled water",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.65,
+   "n": 1
+  },
+  {
+   "item": "bottled water",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.65,
+   "n": 1
+  },
+  {
+   "item": "bottled water",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.65,
+   "n": 1
+  },
+  {
+   "item": "bottled water",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.65,
+   "n": 1
+  },
+  {
    "item": "bottles to go",
    "size": null,
    "place": "Five Guys",
@@ -7365,6 +7705,46 @@
    "size": null,
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.69,
+   "n": 1
+  },
+  {
+   "item": "breakfast burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.69,
+   "n": 1
+  },
+  {
+   "item": "breakfast burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.69,
+   "n": 1
+  },
+  {
+   "item": "breakfast burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.89,
+   "n": 1
+  },
+  {
+   "item": "breakfast burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2026-04-26",
    "date_source": "exif",
    "median": 6.99,
@@ -7398,6 +7778,46 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "breakfast burrito",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "breakfast burrito",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "breakfast burrito",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.89,
+   "n": 1
+  },
+  {
+   "item": "breakfast burrito",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.89,
    "n": 1
   },
   {
@@ -7481,6 +7901,46 @@
    "n": 1
   },
   {
+   "item": "breakfast platter",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
+   "item": "breakfast platter",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
+   "item": "breakfast platter",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
+   "item": "breakfast platter",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
    "item": "breakfast sandwich",
    "size": null,
    "place": "Burgerville",
@@ -7522,12 +7982,82 @@
   },
   {
    "item": "breakfast sandwich",
+   "size": "Bagel",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
+   "size": "Bagel",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.89,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
+   "size": "Bagel",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.89,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
+   "size": "English Muffin",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.39,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
+   "size": "English Muffin",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.49,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
+   "size": "English Muffin",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.49,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich",
    "size": null,
    "place": "The Depot Eatery",
    "place_id": "ChIJs8J0FS96xVQRFHgkHHxOttg",
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 18.0,
+   "n": 1
+  },
+  {
+   "item": "breakfast sandwich bagel",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.79,
    "n": 1
   },
   {
@@ -8311,6 +8841,46 @@
    "n": 1
   },
   {
+   "item": "burgerville bob s red mill oatmeal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "burgerville bob s red mill oatmeal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.29,
+   "n": 1
+  },
+  {
+   "item": "burgerville bob s red mill oatmeal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.39,
+   "n": 1
+  },
+  {
+   "item": "burgerville bob s red mill oatmeal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.39,
+   "n": 1
+  },
+  {
    "item": "burgerville classic hamburger",
    "size": null,
    "place": "Burgerville",
@@ -8318,6 +8888,16 @@
    "observed_on": "2010-01-17",
    "date_source": "pdf",
    "median": 3.39,
+   "n": 1
+  },
+  {
+   "item": "burgerville s signature dipping sauce",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 0.4,
    "n": 1
   },
   {
@@ -10631,6 +11211,26 @@
    "n": 1
   },
   {
+   "item": "cheese slice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2012-11-15",
+   "date_source": "wayback",
+   "median": 0.6,
+   "n": 1
+  },
+  {
+   "item": "cheese slice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 0.6,
+   "n": 1
+  },
+  {
    "item": "cheese tillamook swiss cheddar or pepper jack 1 slice",
    "size": null,
    "place": "Burgerville",
@@ -11295,6 +11895,46 @@
    "size": null,
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.79,
+   "n": 2
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.79,
+   "n": 2
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.94,
+   "n": 2
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.94,
+   "n": 2
+  },
+  {
+   "item": "chicken tenders",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 3.89,
@@ -11518,6 +12158,46 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 5.19,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 5.19,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 5.19,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 5.29,
+   "n": 1
+  },
+  {
+   "item": "chicken tenders meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 5.29,
    "n": 1
   },
   {
@@ -12462,6 +13142,46 @@
   },
   {
    "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
    "size": "Regular",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -12492,6 +13212,46 @@
   },
   {
    "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.45,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
    "size": "Small",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -12518,6 +13278,46 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 2.75,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.95,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.95,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.95,
+   "n": 1
+  },
+  {
+   "item": "chocolate vanilla or strawberry milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.95,
    "n": 1
   },
   {
@@ -13071,6 +13871,76 @@
    "n": 2
   },
   {
+   "item": "classic hamburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.69,
+   "n": 1
+  },
+  {
+   "item": "classic hamburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 5.89,
+   "n": 1
+  },
+  {
+   "item": "classic hamburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 5.89,
+   "n": 1
+  },
+  {
+   "item": "classic hamburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 6.09,
+   "n": 1
+  },
+  {
+   "item": "classic hamburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "classic hamburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.79,
+   "n": 1
+  },
+  {
+   "item": "classic hamburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.89,
+   "n": 1
+  },
+  {
    "item": "classic mimosa",
    "size": null,
    "place": "Farmstead at Long Meadow Ranch",
@@ -13552,6 +14422,66 @@
   },
   {
    "item": "coffee",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.5,
+   "n": 1
+  },
+  {
+   "item": "coffee",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.5,
+   "n": 1
+  },
+  {
+   "item": "coffee",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.5,
+   "n": 1
+  },
+  {
+   "item": "coffee",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.25,
+   "n": 1
+  },
+  {
+   "item": "coffee",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.25,
+   "n": 1
+  },
+  {
+   "item": "coffee",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.25,
+   "n": 1
+  },
+  {
+   "item": "coffee",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
    "place_id": "ChIJ9d28TjZ6xVQRu5S2LTK1J6U",
@@ -13808,6 +14738,76 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 6.49,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 6.49,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 6.59,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "colossal cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.09,
    "n": 1
   },
   {
@@ -14858,6 +15858,46 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 4.79,
+   "n": 2
+  },
+  {
+   "item": "crispy chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.79,
+   "n": 2
+  },
+  {
+   "item": "crispy chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.79,
+   "n": 2
+  },
+  {
+   "item": "crispy chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.94,
+   "n": 2
+  },
+  {
+   "item": "crispy chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.94,
    "n": 2
   },
   {
@@ -16911,6 +17951,16 @@
    "n": 1
   },
   {
+   "item": "double beef cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.99,
+   "n": 1
+  },
+  {
    "item": "double cheeseburger",
    "size": null,
    "place": "Burgerville",
@@ -17558,6 +18608,16 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 1.35,
+   "n": 1
+  },
+  {
+   "item": "drinks 1 milk fat free chocolate milk or soft drink",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
    "n": 1
   },
   {
@@ -18331,6 +19391,16 @@
    "n": 1
   },
   {
+   "item": "english muffin",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.19,
+   "n": 1
+  },
+  {
    "item": "english muffin or bagel",
    "size": null,
    "place": "Burgerville",
@@ -18358,6 +19428,16 @@
    "observed_on": "2010-09-18",
    "date_source": "wayback",
    "median": 2.49,
+   "n": 1
+  },
+  {
+   "item": "english muffin sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.39,
    "n": 1
   },
   {
@@ -19371,6 +20451,16 @@
    "n": 1
   },
   {
+   "item": "fat free chocolate milk",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
    "item": "fat tire amber ale",
    "size": null,
    "place": "Gott's Napa",
@@ -19871,6 +20961,26 @@
    "n": 1
   },
   {
+   "item": "fillet sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "fillet sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.99,
+   "n": 1
+  },
+  {
    "item": "firelit coffee liqueur",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -20222,6 +21332,46 @@
   },
   {
    "item": "fish chips",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 11.49,
+   "n": 2
+  },
+  {
+   "item": "fish chips",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 11.49,
+   "n": 2
+  },
+  {
+   "item": "fish chips",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 11.49,
+   "n": 2
+  },
+  {
+   "item": "fish chips",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 11.49,
+   "n": 2
+  },
+  {
+   "item": "fish chips",
    "size": "2 Pieces",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -20348,6 +21498,26 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "fish fillet sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "fish fillet sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 5.09,
    "n": 1
   },
   {
@@ -21632,6 +22802,16 @@
   },
   {
    "item": "french fries",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "french fries",
    "size": "Large",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -21692,6 +22872,46 @@
   },
   {
    "item": "french fries",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.25,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.25,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.25,
+   "n": 1
+  },
+  {
+   "item": "french fries",
    "size": "Regular",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -21748,6 +22968,46 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.85,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.85,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.85,
    "n": 1
   },
   {
@@ -21767,6 +23027,36 @@
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2012-11-15",
    "date_source": "wayback",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "french fries",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
    "median": 1.45,
    "n": 1
   },
@@ -22171,6 +23461,46 @@
    "n": 1
   },
   {
+   "item": "fresh baked cookies",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 0.89,
+   "n": 1
+  },
+  {
+   "item": "fresh baked cookies",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 0.89,
+   "n": 1
+  },
+  {
+   "item": "fresh baked cookies",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 0.89,
+   "n": 1
+  },
+  {
+   "item": "fresh baked cookies",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 0.89,
+   "n": 1
+  },
+  {
    "item": "fresh brewed iced tea",
    "size": null,
    "place": "Burgerville",
@@ -22232,6 +23562,46 @@
   },
   {
    "item": "fresh brewed iced tea",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.15,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.15,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.15,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
    "size": "Regular",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -22268,6 +23638,46 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 1.85,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "fresh brewed iced tea",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.75,
    "n": 1
   },
   {
@@ -24061,6 +25471,36 @@
    "n": 1
   },
   {
+   "item": "gluten free bun substitute",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "gluten free bun substitute",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.0,
+   "n": 1
+  },
+  {
+   "item": "gluten free bun substitute",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.0,
+   "n": 1
+  },
+  {
    "item": "gnocchetti",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -25352,6 +26792,46 @@
   },
   {
    "item": "grilled chicken club salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 6.99,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
    "size": "Half",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -25402,6 +26882,46 @@
   },
   {
    "item": "grilled chicken club salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.19,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.19,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.19,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.19,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken club salad",
    "size": "Half size",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -25418,6 +26938,36 @@
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 3.89,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 5.19,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 5.19,
+   "n": 1
+  },
+  {
+   "item": "grilled chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 5.19,
    "n": 1
   },
   {
@@ -26041,6 +27591,26 @@
    "n": 1
   },
   {
+   "item": "half pound colossal cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 6.29,
+   "n": 1
+  },
+  {
+   "item": "half pound tillamook cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 6.09,
+   "n": 1
+  },
+  {
    "item": "half roasted chicken",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -26128,6 +27698,26 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 7.89,
+   "n": 1
+  },
+  {
+   "item": "halibut fish chips meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "halibut fish chips meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 7.99,
    "n": 1
   },
   {
@@ -26853,6 +28443,76 @@
   {
    "item": "hash browns",
    "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 0.75,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 0.75,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 0.75,
+   "n": 1
+  },
+  {
+   "item": "hash browns",
+   "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
    "observed_on": "2013-04-02",
@@ -27518,6 +29178,46 @@
    "observed_on": "2012-04-16",
    "date_source": "wayback",
    "median": 3.75,
+   "n": 1
+  },
+  {
+   "item": "hot chocolate",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.75,
+   "n": 1
+  },
+  {
+   "item": "hot chocolate",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "hot chocolate",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "hot chocolate",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.95,
    "n": 1
   },
   {
@@ -30471,6 +32171,26 @@
    "n": 1
   },
   {
+   "item": "kids drink",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "kids drink",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
    "item": "kids grilled cheese",
    "size": null,
    "place": "Gott's Napa",
@@ -30596,6 +32316,26 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2013-07-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "kids sides",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "kids sides",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
    "date_source": "pdf",
    "median": 1.45,
    "n": 1
@@ -31842,12 +33582,102 @@
   },
   {
    "item": "lemonade",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
    "size": "Large",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "lemonade",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.95,
    "n": 1
   },
   {
@@ -38205,6 +40035,46 @@
    "size": null,
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "orange juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "orange juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "orange juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "orange juice",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 3.79,
@@ -38715,9 +40585,79 @@
    "size": null,
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.09,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "original cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.79,
    "n": 1
   },
   {
@@ -38769,6 +40709,46 @@
    "date_source": "pdf",
    "median": 4.99,
    "n": 1
+  },
+  {
+   "item": "original cheeseburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.74,
+   "n": 2
+  },
+  {
+   "item": "original cheeseburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.74,
+   "n": 2
+  },
+  {
+   "item": "original cheeseburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.74,
+   "n": 2
+  },
+  {
+   "item": "original cheeseburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.89,
+   "n": 2
   },
   {
    "item": "original cheeseburger meal kids",
@@ -38851,6 +40831,76 @@
    "n": 1
   },
   {
+   "item": "original hamburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.55,
+   "n": 1
+  },
+  {
+   "item": "original hamburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.79,
+   "n": 1
+  },
+  {
+   "item": "original hamburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.79,
+   "n": 1
+  },
+  {
+   "item": "original hamburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.89,
+   "n": 1
+  },
+  {
+   "item": "original hamburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.55,
+   "n": 1
+  },
+  {
+   "item": "original hamburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.55,
+   "n": 1
+  },
+  {
+   "item": "original hamburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.59,
+   "n": 1
+  },
+  {
    "item": "original hamburger meal",
    "size": null,
    "place": "Burgerville",
@@ -38899,6 +40949,46 @@
    "date_source": "pdf",
    "median": 4.79,
    "n": 1
+  },
+  {
+   "item": "original hamburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.54,
+   "n": 2
+  },
+  {
+   "item": "original hamburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.54,
+   "n": 2
+  },
+  {
+   "item": "original hamburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.54,
+   "n": 2
+  },
+  {
+   "item": "original hamburger meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 2
   },
   {
    "item": "original impossible nuggets vegetarian",
@@ -40751,6 +42841,76 @@
    "n": 1
   },
   {
+   "item": "pepper bacon cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 5.69,
+   "n": 1
+  },
+  {
+   "item": "pepper bacon cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 7.89,
+   "n": 1
+  },
+  {
+   "item": "pepper bacon cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 7.89,
+   "n": 1
+  },
+  {
+   "item": "pepper bacon cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 8.09,
+   "n": 1
+  },
+  {
+   "item": "pepper bacon cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 5.79,
+   "n": 1
+  },
+  {
+   "item": "pepper bacon cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 5.79,
+   "n": 1
+  },
+  {
+   "item": "pepper bacon cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 5.89,
+   "n": 1
+  },
+  {
    "item": "pepper crusted filet mignon crispy potato galette beef belly en cro te wild mushrooms salsify",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -42352,6 +44512,16 @@
   },
   {
    "item": "portland roasting coffee",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "portland roasting coffee",
    "size": "Regular",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -42396,6 +44566,16 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "portland roasting coffee",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
    "date_source": "pdf",
    "median": 1.45,
    "n": 1
@@ -44916,6 +47096,16 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 5.39,
+   "n": 1
+  },
+  {
+   "item": "rosemary chicken sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
    "date_source": "pdf",
    "median": 5.39,
    "n": 1
@@ -47451,6 +49641,46 @@
    "n": 1
   },
   {
+   "item": "seasoned turkey burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "seasoned turkey burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "seasoned turkey burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.99,
+   "n": 1
+  },
+  {
+   "item": "seasoned turkey burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 5.09,
+   "n": 1
+  },
+  {
    "item": "seattle hazelnut latt frangelico latt",
    "size": null,
    "place": "Cartwright's Taprock Northwest Grill",
@@ -48441,6 +50671,46 @@
    "n": 1
   },
   {
+   "item": "side salad",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.45,
+   "n": 1
+  },
+  {
+   "item": "side salad",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.45,
+   "n": 1
+  },
+  {
+   "item": "side salad",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.45,
+   "n": 1
+  },
+  {
+   "item": "side salad",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.45,
+   "n": 1
+  },
+  {
    "item": "sides apple slices or fries",
    "size": null,
    "place": "Burgerville",
@@ -48921,16 +51191,6 @@
    "n": 1
   },
   {
-   "item": "sliced cheese",
-   "size": null,
-   "place": "Burgerville",
-   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
-   "observed_on": "2012-11-15",
-   "date_source": "wayback",
-   "median": 0.6,
-   "n": 1
-  },
-  {
    "item": "small classic fries",
    "size": "Small",
    "place": "Burgerville",
@@ -48948,26 +51208,6 @@
    "observed_on": "2010-01-17",
    "date_source": "pdf",
    "median": 3.19,
-   "n": 1
-  },
-  {
-   "item": "small seasonal or specialty milkshake or smoothie",
-   "size": "Small",
-   "place": "Burgerville",
-   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
-   "observed_on": "2010-05-15",
-   "date_source": "pdf",
-   "median": 2.69,
-   "n": 2
-  },
-  {
-   "item": "small seasonal or specialty milkshake or smoothie",
-   "size": "Small",
-   "place": "Burgerville",
-   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
-   "observed_on": "2012-11-15",
-   "date_source": "wayback",
-   "median": 2.1,
    "n": 1
   },
   {
@@ -49242,6 +51482,16 @@
   },
   {
    "item": "soft drinks",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
    "size": "Large",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -49292,6 +51542,46 @@
   },
   {
    "item": "soft drinks",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.35,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 2.15,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 2.15,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 2.15,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
    "size": "Regular",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -49328,6 +51618,46 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 1.85,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.75,
+   "n": 1
+  },
+  {
+   "item": "soft drinks",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.75,
    "n": 1
   },
   {
@@ -50201,6 +52531,36 @@
    "n": 1
   },
   {
+   "item": "specialty milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 5.35,
+   "n": 1
+  },
+  {
+   "item": "specialty milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.35,
+   "n": 1
+  },
+  {
+   "item": "specialty milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 3.65,
+   "n": 1
+  },
+  {
    "item": "specialty milkshakes smoothies",
    "size": "Large",
    "place": "Burgerville",
@@ -50302,6 +52662,36 @@
   },
   {
    "item": "specialty or seasonal milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 5.35,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 5.35,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Large",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 5.35,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
    "size": "Regular",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -50342,13 +52732,43 @@
   },
   {
    "item": "specialty or seasonal milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.35,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.35,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Regular",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.35,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
    "size": "Small",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2010-05-15",
    "date_source": "pdf",
    "median": 3.19,
-   "n": 1
+   "n": 2
   },
   {
    "item": "specialty or seasonal milkshake",
@@ -50378,6 +52798,36 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 3.45,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.65,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 3.65,
+   "n": 1
+  },
+  {
+   "item": "specialty or seasonal milkshake",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 3.65,
    "n": 1
   },
   {
@@ -50476,6 +52926,46 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 5.49,
+   "n": 1
+  },
+  {
+   "item": "spicy anasazi bean burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 5.49,
+   "n": 1
+  },
+  {
+   "item": "spicy anasazi bean burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 5.49,
+   "n": 1
+  },
+  {
+   "item": "spicy anasazi bean burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 5.49,
+   "n": 1
+  },
+  {
+   "item": "spicy anasazi bean burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
    "date_source": "pdf",
    "median": 5.49,
    "n": 1
@@ -52413,6 +54903,46 @@
   {
    "item": "sundae",
    "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "sundae",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "sundae",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "sundae",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "sundae",
+   "size": null,
    "place": "McDonald's",
    "place_id": "ChIJkW0xQgUGhYARkqYOdxEIMko",
    "observed_on": "2022-04-16",
@@ -53862,6 +56392,36 @@
   },
   {
    "item": "tillamook cheese",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 0.6,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheese",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 0.6,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheese",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 0.6,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheese",
    "size": "One Slice",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -53938,6 +56498,76 @@
    "observed_on": "2014-01-15",
    "date_source": "pdf",
    "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 3.99,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 6.19,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 6.19,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": "Double",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 6.39,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.09,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.09,
+   "n": 1
+  },
+  {
+   "item": "tillamook cheeseburger",
+   "size": "Single",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.19,
    "n": 1
   },
   {
@@ -54278,6 +56908,16 @@
    "observed_on": "2026-08-05",
    "date_source": "web",
    "median": 17.0,
+   "n": 1
+  },
+  {
+   "item": "traditional bagel",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.59,
    "n": 1
   },
   {
@@ -54851,6 +57491,46 @@
    "n": 1
   },
   {
+   "item": "turkey club sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
+   "item": "turkey club sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
+   "item": "turkey club sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.69,
+   "n": 1
+  },
+  {
+   "item": "turkey club sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 4.89,
+   "n": 1
+  },
+  {
    "item": "turkey double cheeseburger",
    "size": null,
    "place": "Gott's Napa",
@@ -55141,6 +57821,16 @@
    "n": 1
   },
   {
+   "item": "upgrade fries to side salad",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 0.5,
+   "n": 1
+  },
+  {
    "item": "upgrade large drink",
    "size": "Large",
    "place": "Jack in the Box",
@@ -55175,9 +57865,9 @@
    "size": null,
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
-   "observed_on": "2012-11-15",
-   "date_source": "wayback",
-   "median": 2.4,
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.5,
    "n": 1
   },
   {
@@ -55208,6 +57898,46 @@
    "observed_on": "2010-05-15",
    "date_source": "pdf",
    "median": 2.19,
+   "n": 1
+  },
+  {
+   "item": "upgrade soft drink to specialty or seasonal milkshake or smoothie",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2012-11-15",
+   "date_source": "wayback",
+   "median": 2.4,
+   "n": 1
+  },
+  {
+   "item": "upgrade soft drink to specialty or seasonal milkshake or smoothie",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 2.4,
+   "n": 1
+  },
+  {
+   "item": "upgrade soft drink to specialty or seasonal milkshake or smoothie",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2010-05-15",
+   "date_source": "pdf",
+   "median": 2.19,
+   "n": 1
+  },
+  {
+   "item": "upgrade soft drink to specialty or seasonal milkshake or smoothie",
+   "size": "Small",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2012-11-15",
+   "date_source": "wayback",
+   "median": 2.1,
    "n": 1
   },
   {
@@ -55326,6 +58056,46 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "vanilla ice cream cone",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "vanilla ice cream cone",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "vanilla ice cream cone",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "vanilla ice cream cone",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
    "date_source": "pdf",
    "median": 1.45,
    "n": 1
@@ -56761,6 +59531,26 @@
    "n": 1
   },
   {
+   "item": "wild alaskan halibut fish chips meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 7.99,
+   "n": 1
+  },
+  {
+   "item": "wild alaskan halibut fish chips meal",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 7.99,
+   "n": 1
+  },
+  {
    "item": "wild mushroom and fava bean tartine parmesan cheese french fries",
    "size": null,
    "place": "Angele Restaurant & Bar",
@@ -56892,6 +59682,46 @@
   },
   {
    "item": "wild smoked salmon hazelnut salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Full",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
+   "date_source": "pdf",
+   "median": 7.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
    "size": "Half",
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
@@ -56936,6 +59766,46 @@
    "place": "Burgerville",
    "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
    "observed_on": "2014-01-15",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2014-08-15",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-01-30",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-04-20",
+   "date_source": "pdf",
+   "median": 4.49,
+   "n": 1
+  },
+  {
+   "item": "wild smoked salmon hazelnut salad",
+   "size": "Half",
+   "place": "Burgerville",
+   "place_id": "ChIJL3qwyg-hlVQRK3LBcpuq72k",
+   "observed_on": "2015-06-23",
    "date_source": "pdf",
    "median": 4.49,
    "n": 1
@@ -57464,8 +60334,8 @@
   },
   {
    "place": "Burgerville",
-   "items": 540,
-   "median_item_price": 2.95
+   "items": 827,
+   "median_item_price": 2.99
   },
   {
    "place": "McDonald's",
