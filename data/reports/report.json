@@ -39651,6 +39651,26 @@
    "n": 1
   },
   {
+   "item": "mushroom truffle cheeseburger",
+   "size": "1/2LB",
+   "place": "Burgerville",
+   "place_id": "ChIJ0yqCCS6klVQRbfUzvNHW1N8",
+   "observed_on": "2026-01-11",
+   "date_source": "exif",
+   "median": 11.99,
+   "n": 1
+  },
+  {
+   "item": "mushroom truffle cheeseburger",
+   "size": "1/4LB",
+   "place": "Burgerville",
+   "place_id": "ChIJ0yqCCS6klVQRbfUzvNHW1N8",
+   "observed_on": "2026-01-11",
+   "date_source": "exif",
+   "median": 8.99,
+   "n": 1
+  },
+  {
    "item": "mustard",
    "size": null,
    "place": "Five Guys",
@@ -58621,6 +58641,26 @@
    "n": 1
   },
   {
+   "item": "truffle parmesan waffley fries",
+   "size": "LRC",
+   "place": "Burgerville",
+   "place_id": "ChIJ0yqCCS6klVQRbfUzvNHW1N8",
+   "observed_on": "2026-01-11",
+   "date_source": "exif",
+   "median": 5.89,
+   "n": 1
+  },
+  {
+   "item": "truffle parmesan waffley fries",
+   "size": "REG",
+   "place": "Burgerville",
+   "place_id": "ChIJ0yqCCS6klVQRbfUzvNHW1N8",
+   "observed_on": "2026-01-11",
+   "date_source": "exif",
+   "median": 4.69,
+   "n": 1
+  },
+  {
    "item": "trumer pils",
    "size": null,
    "place": "Bistro Don Giovanni",
@@ -61879,8 +61919,8 @@
   },
   {
    "place": "Burgerville",
-   "items": 865,
-   "median_item_price": 2.99
+   "items": 869,
+   "median_item_price": 3.0
   },
   {
    "place": "McDonald's",
