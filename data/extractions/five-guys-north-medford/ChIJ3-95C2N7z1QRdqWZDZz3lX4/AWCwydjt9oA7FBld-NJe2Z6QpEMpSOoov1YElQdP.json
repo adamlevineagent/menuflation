@@ -1,0 +1,17 @@
+{
+ "photo": "places/ChIJ3-95C2N7z1QRdqWZDZz3lX4/photos/AWCwydjt9oA7FBld-NJe2Z6QpEMpSOoov1YElQdP2hBuB0UnbUWXxEiR-U7GmDTXuGtdh8EvIyjXSD4N56kq_zD41kza0z5DUkmN2TG8GuudCUdTZMLCH_rjyhNTeDSRHdsox25Yp3wtfCGpz7e75vSybOpmxUCimziCs7isp1MApY58ae1KRGMVz8iGb-Ccf2IUy8YSFO__vk6P2dPDcC7EyIVy9XfCUgEMyXWT3GiZ6zA4efX9SY-14BvjRmwnbPIa3s7a8A0RY9az8OjLcJMXUgrkmjzPWFN1A_dllNzQDwsQpcnV3RowQ37DTXSI5NQvFA5QHKCgvfjezvYT9lPP-qrS5WJla-PhZ1kG-jJh_u9g1hJIa396-xzIVix4rvKlNkOePowAdyBIjCGp2sOIP0xIxXPf2VlqXkUwMGeKmVCBiQTJ6Ifsj9j0DI3j4mQL",
+ "src": "data\\places\\five-guys-north-medford\\ChIJ3-95C2N7z1QRdqWZDZz3lX4\\AWCwydjt9oA7FBld-NJe2Z6QpEMpSOoov1YElQdP.jpg",
+ "result": {
+  "is_menu": false,
+  "currency_iso": null,
+  "currency_symbol": null,
+  "items": [],
+  "date_hints": [],
+  "restaurant_hint": null,
+  "confidence": 0.0
+ },
+ "cost_usd": 0.000108,
+ "tokens_in": 3071,
+ "tokens_out": 121,
+ "model": "qwen/qwen3.7-flash"
+}

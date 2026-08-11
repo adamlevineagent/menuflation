@@ -1234,11 +1234,21 @@
    "item": "all beef hot dog",
    "size": null,
    "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 6.75,
+   "n": 1
+  },
+  {
+   "item": "all beef hot dog",
+   "size": null,
+   "place": "Five Guys",
    "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.6,
-   "n": 1
+   "n": 2
   },
   {
    "item": "all extras",
@@ -3465,6 +3475,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 10.6,
+   "n": 1
+  },
+  {
+   "item": "bacon burger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 11.3,
@@ -3488,7 +3508,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 10.05,
-   "n": 1
+   "n": 2
   },
   {
    "item": "bacon burger",
@@ -3525,6 +3545,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 8.65,
+   "n": 1
+  },
+  {
+   "item": "bacon cheese dog",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 8.2,
@@ -3548,7 +3578,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 7.15,
-   "n": 1
+   "n": 2
   },
   {
    "item": "bacon cheese dog",
@@ -3585,6 +3615,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 11.85,
+   "n": 1
+  },
+  {
+   "item": "bacon cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 12.3,
@@ -3608,7 +3648,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 10.9,
-   "n": 1
+   "n": 2
   },
   {
    "item": "bacon cheeseburger",
@@ -3775,6 +3815,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 7.7,
+   "n": 1
+  },
+  {
+   "item": "bacon dog",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 7.4,
@@ -3798,7 +3848,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.55,
-   "n": 1
+   "n": 2
   },
   {
    "item": "bacon dog",
@@ -6894,11 +6944,21 @@
    "item": "blt",
    "size": null,
    "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 6.75,
+   "n": 1
+  },
+  {
+   "item": "blt",
+   "size": null,
+   "place": "Five Guys",
    "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.6,
-   "n": 1
+   "n": 2
   },
   {
    "item": "blt sandwich",
@@ -7818,7 +7878,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 3.25,
-   "n": 1
+   "n": 2
   },
   {
    "item": "bouchard p re fils nuits saint georges",
@@ -9871,36 +9931,6 @@
    "n": 1
   },
   {
-   "item": "cajun fries",
-   "size": "Large",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 6.75,
-   "n": 1
-  },
-  {
-   "item": "cajun fries",
-   "size": "Little",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 4.95,
-   "n": 1
-  },
-  {
-   "item": "cajun fries",
-   "size": "Regular",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 5.85,
-   "n": 1
-  },
-  {
    "item": "cajun fries large",
    "size": "Large",
    "place": "Five Guys",
@@ -11515,6 +11545,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 10.6,
+   "n": 1
+  },
+  {
+   "item": "cheese burger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 11.05,
@@ -11538,7 +11578,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 9.9,
-   "n": 1
+   "n": 2
   },
   {
    "item": "cheese burger",
@@ -11745,6 +11785,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 7.7,
+   "n": 1
+  },
+  {
+   "item": "cheese dog",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 6.75,
@@ -11768,7 +11818,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.0,
-   "n": 1
+   "n": 2
   },
   {
    "item": "cheese dog",
@@ -17561,6 +17611,16 @@
    "n": 1
   },
   {
+   "item": "dasani",
+   "size": "16.9 fl oz",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 2.7,
+   "n": 1
+  },
+  {
    "item": "dasani water",
    "size": "16.9 fl oz",
    "place": "Five Guys",
@@ -19298,6 +19358,66 @@
    "observed_on": "2014-08-15",
    "date_source": "pdf",
    "median": 1.45,
+   "n": 1
+  },
+  {
+   "item": "drinks large",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.6,
+   "n": 1
+  },
+  {
+   "item": "drinks large",
+   "size": "32 fl oz",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 3.15,
+   "n": 1
+  },
+  {
+   "item": "drinks large",
+   "size": "Large (32 fl oz)",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 3.15,
+   "n": 1
+  },
+  {
+   "item": "drinks regular",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2026-08-10",
+   "date_source": "web",
+   "median": 3.35,
+   "n": 1
+  },
+  {
+   "item": "drinks regular",
+   "size": "22 fl oz",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 2.99,
+   "n": 1
+  },
+  {
+   "item": "drinks regular",
+   "size": "Regular (22 fl oz)",
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 2.99,
    "n": 1
   },
   {
@@ -22378,7 +22498,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.2,
-   "n": 1
+   "n": 2
   },
   {
    "item": "flat iron steak bites",
@@ -23792,36 +23912,6 @@
   },
   {
    "item": "french fries",
-   "size": "Large",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 6.75,
-   "n": 1
-  },
-  {
-   "item": "french fries",
-   "size": "Little",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 4.95,
-   "n": 1
-  },
-  {
-   "item": "french fries",
-   "size": "Regular",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 5.85,
-   "n": 1
-  },
-  {
-   "item": "french fries",
    "size": null,
    "place": "Gott's Napa",
    "place_id": "ChIJUS-dzWUGhYARysICSZjj8JU",
@@ -24908,7 +24998,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 6.25,
-   "n": 1
+   "n": 2
   },
   {
    "item": "fries large",
@@ -24948,7 +25038,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 4.35,
-   "n": 1
+   "n": 2
   },
   {
    "item": "fries little",
@@ -24988,7 +25078,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.35,
-   "n": 1
+   "n": 2
   },
   {
    "item": "fries regular",
@@ -27394,11 +27484,21 @@
    "item": "grilled cheese",
    "size": null,
    "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 6.25,
+   "n": 1
+  },
+  {
+   "item": "grilled cheese",
+   "size": null,
+   "place": "Five Guys",
    "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.15,
-   "n": 1
+   "n": 2
   },
   {
    "item": "grilled cheese",
@@ -28955,6 +29055,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 9.25,
+   "n": 1
+  },
+  {
+   "item": "hamburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 10.1,
@@ -28978,7 +29088,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 9.05,
-   "n": 1
+   "n": 2
   },
   {
    "item": "hamburger",
@@ -34341,26 +34451,6 @@
    "n": 1
   },
   {
-   "item": "large drink",
-   "size": null,
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 3.6,
-   "n": 1
-  },
-  {
-   "item": "large drink",
-   "size": "32 fl oz",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2023-11-27",
-   "date_source": "exif",
-   "median": 3.15,
-   "n": 1
-  },
-  {
    "item": "lasagna",
    "size": null,
    "place": "Genova Delicatessen",
@@ -35115,6 +35205,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 8.6,
+   "n": 1
+  },
+  {
+   "item": "little bacon burger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 9.35,
@@ -35137,8 +35237,8 @@
    "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
    "observed_on": "2023-11-27",
    "date_source": "exif",
-   "median": 8.3,
-   "n": 1
+   "median": 8.32,
+   "n": 2
   },
   {
    "item": "little bacon burger",
@@ -35148,6 +35248,16 @@
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 9.35,
+   "n": 1
+  },
+  {
+   "item": "little bacon cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 9.85,
    "n": 1
   },
   {
@@ -35178,7 +35288,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 9.05,
-   "n": 1
+   "n": 2
   },
   {
    "item": "little bacon cheeseburger",
@@ -35188,6 +35298,16 @@
    "observed_on": "2026-08-10",
    "date_source": "web",
    "median": 10.2,
+   "n": 1
+  },
+  {
+   "item": "little cheeseburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 8.6,
    "n": 1
   },
   {
@@ -35218,7 +35338,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 8.05,
-   "n": 1
+   "n": 2
   },
   {
    "item": "little cheeseburger",
@@ -35375,6 +35495,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 7.25,
+   "n": 1
+  },
+  {
+   "item": "little hamburger",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 7.95,
@@ -35398,7 +35528,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 7.05,
-   "n": 1
+   "n": 2
   },
   {
    "item": "little hamburger",
@@ -46798,26 +46928,6 @@
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 3.0,
-   "n": 1
-  },
-  {
-   "item": "regular drink",
-   "size": null,
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2026-08-10",
-   "date_source": "web",
-   "median": 3.35,
-   "n": 1
-  },
-  {
-   "item": "regular drink",
-   "size": "22 fl oz",
-   "place": "Five Guys",
-   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
-   "observed_on": "2023-11-27",
-   "date_source": "exif",
-   "median": 2.99,
    "n": 1
   },
   {
@@ -59815,6 +59925,16 @@
    "size": null,
    "place": "Five Guys",
    "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
+   "observed_on": "2025-06-04",
+   "date_source": "exif",
+   "median": 4.75,
+   "n": 1
+  },
+  {
+   "item": "veggie sandwich",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJ3-95C2N7z1QRdqWZDZz3lX4",
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 5.95,
@@ -59838,7 +59958,7 @@
    "observed_on": "2023-11-27",
    "date_source": "exif",
    "median": 5.1,
-   "n": 1
+   "n": 2
   },
   {
    "item": "veggie sandwich",
@@ -59868,6 +59988,16 @@
    "observed_on": "2026-08-11",
    "date_source": "web",
    "median": 6.2,
+   "n": 1
+  },
+  {
+   "item": "veggie sandwich with cheese",
+   "size": null,
+   "place": "Five Guys",
+   "place_id": "ChIJd5LW92p7z1QRvnbaQnf3cmU",
+   "observed_on": "2023-11-27",
+   "date_source": "exif",
+   "median": 5.99,
    "n": 1
   },
   {
@@ -61759,8 +61889,8 @@
   },
   {
    "place": "Five Guys",
-   "items": 155,
-   "median_item_price": 5.85
+   "items": 168,
+   "median_item_price": 5.95
   },
   {
    "place": "Gott's Napa",

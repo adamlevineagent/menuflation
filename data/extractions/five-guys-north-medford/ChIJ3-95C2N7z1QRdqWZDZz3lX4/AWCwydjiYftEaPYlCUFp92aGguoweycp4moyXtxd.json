@@ -1,0 +1,34 @@
+{
+ "photo": "places/ChIJ3-95C2N7z1QRdqWZDZz3lX4/photos/AWCwydjiYftEaPYlCUFp92aGguoweycp4moyXtxdiLQmUovlBSrRBvnsn4un7ykb4VY0Oqvu3TbbmriZzs61neSHf91pu7nWUW2X_-ej2Rs__RmHV1wUj61aopDHEbTgL2S_57bQRVAfdvYRXF-W3XZTI8zUCsC69syGp_treEovez3jipMxYPW8XMKXhaPV-QdtVcqoYsOFVtfQX6R7w10h6u3wBRFUtpRs2gNDj8ms1iEzlNxuiRcH1zHcS_MeedCJy3J_nD6xTHXD9dWxv-6Op5i8iJvtY4hzXzaZ6vl733jRc3MpRsETpbXJNCuUbKkqFQwDqHesFO9EhfYhEctK3KK42AXYl8uJ-ZHnY3A2Hj4PF12HuI9DErrMi_s7SV1Kr2DdKE2eH_k75jZ-QkwzMXoUxwhjno2j63snuwHLebQ",
+ "src": "data\\places\\five-guys-north-medford\\ChIJ3-95C2N7z1QRdqWZDZz3lX4\\AWCwydjiYftEaPYlCUFp92aGguoweycp4moyXtxd.jpg",
+ "result": {
+  "is_menu": true,
+  "currency_iso": "USD",
+  "currency_symbol": "$",
+  "items": [
+   {"name": "Hamburger", "price": 9.25, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Cheeseburger", "price": 10.60, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Bacon Burger", "price": 10.60, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Bacon Cheeseburger", "price": 11.85, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Little Hamburger", "price": 7.25, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Little Cheeseburger", "price": 8.60, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Little Bacon Burger", "price": 8.60, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Little Bacon Cheeseburger", "price": 9.85, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "All Beef Hot Dog", "price": 6.75, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Cheese Dog", "price": 7.70, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Bacon Dog", "price": 7.70, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Bacon Cheese Dog", "price": 8.65, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Veggie Sandwich", "price": 4.75, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "Grilled Cheese", "price": 6.25, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null},
+   {"name": "BLT", "price": 6.75, "old_price": null, "size": null, "qty": null, "unit": null, "notes": null}
+  ],
+  "date_hints": ["2025-06-04"],
+  "restaurant_hint": "Five Guys",
+  "confidence": 0.85
+ },
+ "cost_usd": 0.000311,
+ "tokens_in": 3071,
+ "tokens_out": 1687,
+ "model": "qwen/qwen3.7-flash",
+ "corrected_by": "vision_analyze (aux model) 2026-08-11 — qwen misread prices ~40% low; board is dated 2025-06-04 EXIF"
+}
