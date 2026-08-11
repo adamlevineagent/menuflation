@@ -79,15 +79,22 @@ HERO = [("original cheeseburger", None),
         ("french fries", "Large")]
 if ANCHOR != "ChIJL3qwyg-hlVQRK3LBcpuq72k":
     # Non-anchor store: auto-derive hero canonicals — >=2 pre-capture points
-    # plus a capture point, ranked by pre-capture depth.
+    # plus a capture point, ranked by pre-capture depth. Stores with only ONE
+    # pre-capture observation (Five Guys Medford: 2023 board + 2026 web) can't
+    # meet the >=2 bar, so fall back to >=1 — the E (tier-family) engine still
+    # runs; F (own-rate) just has no pre-capture pairs to draw from.
     cands = []
     for (item, size), pts in by_key.items():
         olds = [p for p in pts if p["observed_on"] < CAPTURE[:4] + "-01-01"]
         caps = [p for p in pts if p["observed_on"] == CAPTURE]
-        if len(olds) >= 2 and caps:
+        if len(olds) >= 1 and caps:
             cands.append((len(olds), item, size))
     cands.sort(reverse=True)
     HERO = [(i, s) for _, i, s in cands[:6]]
+    if not HERO:
+        print("No same-canonical pre-capture+capture items found — "
+              "store has no dated pair to test.")
+        sys.exit(0)
 
 def item_own_rate(pts, cap_date=CAPTURE):
     """Annualized rate from the item's OWN pre-capture pairs (>=1yr gap)."""
