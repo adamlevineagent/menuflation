@@ -135,7 +135,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -1255,7 +1255,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 1.5,
    "n": 1
@@ -3105,7 +3105,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 2.0,
    "n": 1
@@ -4475,7 +4475,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -4485,7 +4485,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -7515,7 +7515,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -7525,7 +7525,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -8138,6 +8138,16 @@
    "observed_on": "2012-11-15",
    "date_source": "wayback",
    "median": 1.95,
+   "n": 1
+  },
+  {
+   "item": "breakfast burger",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJ4domrZjHuFQR6_YAxAazIGM",
+   "observed_on": "2026-05-11",
+   "date_source": "exif",
+   "median": 8.99,
    "n": 1
   },
   {
@@ -9245,7 +9255,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -12215,7 +12225,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -12365,7 +12375,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -12405,7 +12415,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -15685,7 +15695,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -15805,7 +15815,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -16265,7 +16275,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -16275,7 +16285,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -16791,6 +16801,16 @@
    "n": 1
   },
   {
+   "item": "crispy scramble burrito",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJ4domrZjHuFQR6_YAxAazIGM",
+   "observed_on": "2026-05-11",
+   "date_source": "exif",
+   "median": 6.49,
+   "n": 1
+  },
+  {
    "item": "crispy scramble burrito with sausage or bacon",
    "size": null,
    "place": "Burgerville",
@@ -17135,7 +17155,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 2.0,
    "n": 1
@@ -17378,6 +17398,16 @@
    "observed_on": "2012-04-16",
    "date_source": "wayback",
    "median": 8.5,
+   "n": 1
+  },
+  {
+   "item": "crunch breakfast biscuit",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJ4domrZjHuFQR6_YAxAazIGM",
+   "observed_on": "2026-05-11",
+   "date_source": "exif",
+   "median": 5.79,
    "n": 1
   },
   {
@@ -18345,7 +18375,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -19975,7 +20005,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -19985,7 +20015,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -20015,7 +20045,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -24911,6 +24941,16 @@
    "n": 1
   },
   {
+   "item": "fried egg biscuit sandwich",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJ4domrZjHuFQR6_YAxAazIGM",
+   "observed_on": "2026-05-11",
+   "date_source": "exif",
+   "median": 6.99,
+   "n": 1
+  },
+  {
    "item": "fried egg biscuit sandwich with sausage or bacon",
    "size": null,
    "place": "Burgerville",
@@ -25875,7 +25915,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -25885,7 +25925,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -25895,7 +25935,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -29541,6 +29581,16 @@
    "n": 1
   },
   {
+   "item": "hashbrown",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJ4domrZjHuFQR6_YAxAazIGM",
+   "observed_on": "2026-05-11",
+   "date_source": "exif",
+   "median": 1.99,
+   "n": 1
+  },
+  {
    "item": "hashbrowns",
    "size": "LARGE",
    "place": "Burgerville",
@@ -29585,7 +29635,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -30165,7 +30215,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -30555,7 +30605,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -32215,7 +32265,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -34465,7 +34515,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -37605,7 +37655,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -38255,7 +38305,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -39385,7 +39435,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -43735,7 +43785,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -44325,7 +44375,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -44335,7 +44385,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -45385,7 +45435,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -46295,7 +46345,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 16.95,
    "n": 1
@@ -46305,7 +46355,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 17.45,
    "n": 1
@@ -46845,7 +46895,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -47395,7 +47445,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -48555,7 +48605,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -48655,7 +48705,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 15.95,
    "n": 1
@@ -49565,7 +49615,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -49575,7 +49625,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -49835,7 +49885,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -49845,7 +49895,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -52795,7 +52845,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -53385,7 +53435,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -54955,7 +55005,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -56158,6 +56208,16 @@
    "observed_on": "2024-06-19",
    "date_source": "wayback",
    "median": 30.0,
+   "n": 1
+  },
+  {
+   "item": "stumptown cold brew",
+   "size": null,
+   "place": "Burgerville",
+   "place_id": "ChIJ4domrZjHuFQR6_YAxAazIGM",
+   "observed_on": "2026-05-11",
+   "date_source": "exif",
+   "median": 4.49,
    "n": 1
   },
   {
@@ -57585,7 +57645,7 @@
    "size": "1/2 lb",
    "place": "Burgerville",
    "place_id": "ChIJZWdcpVcDwFQRt5-CykNAZ2A",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 7.99,
    "n": 1
@@ -58345,7 +58405,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 14.95,
    "n": 1
@@ -58845,7 +58905,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 12.95,
    "n": 1
@@ -58855,7 +58915,7 @@
    "size": null,
    "place": "Genova Delicatessen",
    "place_id": "ChIJw1ktu90GhYARGR8kh3nHM8U",
-   "observed_on": "2026-08-11",
+   "observed_on": "2026-08-16",
    "date_source": "fallback",
    "median": 13.95,
    "n": 1
@@ -61919,8 +61979,8 @@
   },
   {
    "place": "Burgerville",
-   "items": 869,
-   "median_item_price": 3.0
+   "items": 875,
+   "median_item_price": 3.09
   },
   {
    "place": "McDonald's",

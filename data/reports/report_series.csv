@@ -12,7 +12,7 @@ item,size,place,observed_on,date_source,median,n
 21st amendment black ipa,,Gott's Napa,2013-02-28,wayback,4.5,2
 21st amendment extra pale ale,,Gott's Napa,2013-02-28,wayback,4.5,2
 3 dollar sized pancakes and 1 egg,,Code 4 Taphouse,2025-11-15,exif,7.95,2
-3 way leaf,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+3 way leaf,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 4 bacon,,The Depot Eatery,2026-08-05,web,18.0,1
 4 links or 2 patties,,The Depot Eatery,2026-08-05,web,18.0,1
 4 pc chicken mcnuggets,,McDonald's,2022-04-16,exif,4.42,4
@@ -124,7 +124,7 @@ alambic brandy osocalis,,Angele Restaurant & Bar,2012-10-15,pdf,12.0,1
 alambic brandy osocalis,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
 all beef hot dog,,Five Guys,2025-06-04,exif,6.75,1
 all beef hot dog,,Five Guys,2023-11-27,exif,5.6,2
-all extras,,Genova Delicatessen,2026-08-11,fallback,1.5,1
+all extras,,Genova Delicatessen,2026-08-16,fallback,1.5,1
 all natural lemonade,,Burgerville,2013-07-15,pdf,2.15,2
 all the way,,Five Guys,2023-11-27,exif,1.9,1
 allegash white ale,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,6.0,1
@@ -309,7 +309,7 @@ averna amaro,,Angele Restaurant & Bar,2012-10-15,pdf,10.0,1
 averna amaro,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 averna amaro,,Angele Restaurant & Bar,2015-02-21,wayback,10.0,1
 aviation,,Bistro Don Giovanni,2020-03-27,wayback,14.0,1
-avocado,,Genova Delicatessen,2026-08-11,fallback,2.0,1
+avocado,,Genova Delicatessen,2026-08-16,fallback,2.0,1
 avocado benedict,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.99,1
 avocado benedict veg,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,15.0,1
 avocado chicken,,Barney's Burgers,2024-01-15,dom,8.99,1
@@ -446,8 +446,8 @@ baguette sandwich with mortadella stonefruit arugula parmesan whole grain mustar
 baja fish tacos,,Gott's Napa,2021-01-17,wayback,13.99,1
 baja fish tacos,,Gott's Napa,2026-08-10,web,14.99,1
 baja fish tacos,2 tacos,Gott's Napa,2020-07-02,wayback,13.99,1
-baked ham,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-baked turkey,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+baked ham,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+baked turkey,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 ballast point sculpin ipa,,Gott's Napa,2014-12-22,wayback,6.0,1
 ballast point sculpin ipa,,Gott's Napa,2015-05-13,wayback,6.0,1
 ballast point sculpin ipa,,Gott's Napa,2015-07-24,wayback,6.0,1
@@ -750,8 +750,8 @@ blue moon belgian style wheat ale,Canned Beer/Cider,Gott's Napa,2016-02-07,wayba
 blueberry banana french toast,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,11.49,1
 blueberry banana pancakes,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,8.14,2
 bodegas hidalgo manzanilla palomino fino spain nv,,Bistro Don Giovanni,2025-05-14,pdf,10.0,1
-boiled ham,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-bologna,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+boiled ham,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+bologna,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 bonal aperitif des montaignes,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 bone in chicken wings,10,The Depot Eatery,2026-08-05,web,20.0,1
 bone in chicken wings,6,The Depot Eatery,2026-08-05,web,14.0,1
@@ -813,6 +813,7 @@ braised summer lamb stew ang le garden vegetables,,Angele Restaurant & Bar,2016-
 branca menta milan,,Bistro Don Giovanni,2025-05-14,pdf,11.0,1
 breakfast,,Gott's Napa,2013-02-28,wayback,1750.0,1
 breakfast basket upgrade,,Burgerville,2012-11-15,wayback,1.95,1
+breakfast burger,,Burgerville,2026-05-11,exif,8.99,1
 breakfast burger,,Burgerville,2013-07-15,pdf,3.69,1
 breakfast burger,,Burgerville,2014-01-15,pdf,3.69,1
 breakfast burger,,Burgerville,2014-08-15,pdf,3.69,1
@@ -923,7 +924,7 @@ buehler 10 zinfandel napa valley,Glass,Gott's Napa,2012-06-17,wayback,9.0,1
 buehler vineyards chardonnay,,Gott's Napa,2015-02-13,wayback,18.0,2
 buehler zinfandel,Bottle,Gott's Napa,2012-06-17,wayback,27.0,1
 buehler zinfandel,Glass,Gott's Napa,2012-06-17,wayback,9.0,1
-buffalo chicken,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+buffalo chicken,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 bundaberg blood orange soda,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 bundaberg pink grapefruit soda,,Angele Restaurant & Bar,2015-03-05,wayback,8.0,1
 burger patty,,Barney's Burgers,2024-01-15,dom,8.0,1
@@ -1220,7 +1221,7 @@ chicken club,,Gott's Napa,2011-03-22,wayback,9.99,2
 chicken club,,Gott's Napa,2012-05-15,wayback,10.99,2
 chicken confit salad crispy potatoes shiitake lardons farm egg garden greens red wine vinaigrette,,Angele Restaurant & Bar,2016-10-19,wayback,18.0,1
 chicken drumettes,,Genova Delicatessen,2024-08-31,exif,15.95,1
-chicken drumettes,,Genova Delicatessen,2026-08-11,fallback,15.95,1
+chicken drumettes,,Genova Delicatessen,2026-08-16,fallback,15.95,1
 chicken fettuccini alfredo,,The Depot Eatery,2026-08-05,web,18.0,1
 chicken fried steak,,The Depot Eatery,2026-08-05,web,19.0,1
 chicken house salad,,Gott's Napa,2012-06-17,wayback,10.99,2
@@ -1235,11 +1236,11 @@ chicken parmigiana,,Bistro Don Giovanni,2010-09-22,wayback,19.0,1
 chicken patty,,Barney's Burgers,2024-01-15,dom,8.99,1
 chicken philly,,Barney's Burgers,2026-08-05,web,9.95,1
 chicken queso,,Barney's Burgers,2024-01-15,dom,8.99,1
-chicken salad,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+chicken salad,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 chicken salad sandwich,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
 chicken salad sandwich,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
 chicken salad sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
-chicken salad w cheese,,Genova Delicatessen,2026-08-11,fallback,13.95,1
+chicken salad w cheese,,Genova Delicatessen,2026-08-16,fallback,13.95,1
 chicken sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
 chicken schnitzel,,Gott's Napa,2020-07-02,wayback,13.99,1
 chicken schnitzel,,Gott's Napa,2021-01-17,wayback,13.99,1
@@ -1567,7 +1568,7 @@ cookies cream shake,16oz,Gott's Napa,2021-01-17,wayback,7.99,1
 coors light,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,5.0,1
 coors light,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,5.0,1
 coors light,,Farmstead at Long Meadow Ranch,2024-06-09,wayback,5.0,1
-coppa,,Genova Delicatessen,2026-08-11,fallback,14.95,1
+coppa,,Genova Delicatessen,2026-08-16,fallback,14.95,1
 coq au vin,,Angele Restaurant & Bar,2015-02-21,wayback,28.0,1
 coq au vin red wine braised chicken lardons mushrooms garden carrots baby potatoes,,Angele Restaurant & Bar,2016-03-27,wayback,28.0,1
 coq au vin red wine braised chicken leg and thigh red wine farro thumbelina carrots parsnips bacon,,Angele Restaurant & Bar,2015-03-19,wayback,28.0,1
@@ -1579,7 +1580,7 @@ corn dog,,Barney's Burgers,2026-08-05,web,3.0,1
 corn dog,Jumbo,Barney's Burgers,2025-08-18,exif,3.99,1
 corn dog,Reg,Barney's Burgers,2025-08-18,exif,2.99,1
 corn pancakes,,Code 4 Taphouse,2025-11-15,exif,6.95,2
-corned beef,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+corned beef,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 corned beef hash,,Boon Fly Café,2026-07-04,exif,23.0,1
 corned beef hash,,The Depot Eatery,2026-08-05,web,16.0,1
 corona,,Gott's Napa,2011-03-22,wayback,4.5,2
@@ -1625,8 +1626,8 @@ cowboy fries w chipotle holly sauce bacon cheese,,The Depot Eatery,2026-08-05,we
 cr me brul e cinnamon spice cr me brul e,,Angele Restaurant & Bar,2014-09-20,wayback,10.0,1
 crab cake,,The Depot Eatery,2026-08-05,web,18.0,1
 crab cake w spicy aioli,,The Depot Eatery,2026-08-05,web,11.0,2
-crab salad,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-crab salad w cheese,,Genova Delicatessen,2026-08-11,fallback,13.95,1
+crab salad,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+crab salad w cheese,,Genova Delicatessen,2026-08-16,fallback,13.95,1
 craggy range 14 sauvignon blanc new zealand,,Gott's Napa,2015-11-23,wayback,9.0,1
 craggy range 14 sauvignon blanc new zealand,Bottle,Gott's Napa,2015-11-23,wayback,27.0,1
 craggy range 14 sauvignon blanc new zealand,Bottle,Gott's Napa,2016-02-07,wayback,27.0,1
@@ -1678,6 +1679,7 @@ crispy potatoes with housemade ketchup,,Farmstead at Long Meadow Ranch,2021-08-0
 crispy rabbit stuffed gnocchi veal bolognese,,Angele Restaurant & Bar,2016-03-27,wayback,16.0,2
 crispy rabbit stuffed gnocchi veal bolognese,,Angele Restaurant & Bar,2016-07-05,wayback,28.0,1
 crispy rabbit stuffed gnocchi veal bolognese,,Angele Restaurant & Bar,2016-08-04,wayback,28.0,1
+crispy scramble burrito,,Burgerville,2026-05-11,exif,6.49,1
 crispy scramble burrito with sausage or bacon,,Burgerville,2026-04-26,exif,5.99,2
 crispy skinned salmon winter greens and farro salad heirloom pears gribiche banyuls vinaigrette,,Angele Restaurant & Bar,2015-02-15,pdf,26.0,1
 crispy skinned salmon winter greens and farro salad heirloom pears gribiche banyuls vinaigrette,,Angele Restaurant & Bar,2015-02-25,wayback,26.0,2
@@ -1712,7 +1714,7 @@ crispy veal sweetbreads veal scallopini cauliflower polenta pickled carrots,,Ang
 crispy veal sweetbreads wild mushrooms sunchoke pur e pickled shallots,,Angele Restaurant & Bar,2018-04-17,wayback,19.0,1
 crocker starr,,Bistro Don Giovanni,2020-09-21,wayback,48.0,1
 croissant sandwich,,The Depot Eatery,2026-08-05,web,16.0,1
-croissants,,Genova Delicatessen,2026-08-11,fallback,2.0,1
+croissants,,Genova Delicatessen,2026-08-16,fallback,2.0,1
 croque monsieur,,Angele Restaurant & Bar,2013-04-18,wayback,14.0,1
 croque monsieur,,Angele Restaurant & Bar,2013-06-27,wayback,14.0,1
 croque monsieur,,Angele Restaurant & Bar,2015-02-21,wayback,15.5,4
@@ -1737,6 +1739,7 @@ croque monsieur tartine with parisian ham melted gruy re toasted levain becham l
 croque monsieur tartine with parisian ham melted gruy re toasted levain becham l sauce madame with egg,,Angele Restaurant & Bar,2018-04-17,wayback,18.0,1
 crostini three,,Perez Kitchen & Bar,2026-08-05,pdf,12.0,1
 crown royal canadian whisky,,Bistro Don Giovanni,2012-04-16,wayback,8.5,1
+crunch breakfast biscuit,,Burgerville,2026-05-11,exif,5.79,1
 crunch breakfast biscuit with sausage or bacon,,Burgerville,2026-04-26,exif,5.89,2
 cuban sandwich,,The Depot Eatery,2026-08-05,web,19.0,1
 culatello,,Bistro Don Giovanni,2017-01-10,wayback,20.0,1
@@ -1833,7 +1836,7 @@ domaine ott by ott ros c tes de provence france,,Bistro Don Giovanni,2022-01-20,
 domaine ott by ott ros c tes de provence france,,Bistro Don Giovanni,2023-04-01,wayback,15.0,1
 domaine tempier bandol ros,,Bistro Don Giovanni,2020-09-21,wayback,96.0,1
 domaine william f vre chablis,Half Bottle,Bistro Don Giovanni,2020-09-21,wayback,52.0,1
-domestic prosciutto,,Genova Delicatessen,2026-08-11,fallback,14.95,1
+domestic prosciutto,,Genova Delicatessen,2026-08-16,fallback,14.95,1
 don manhattan,,Bistro Don Giovanni,2019-09-19,wayback,13.0,1
 don manhattan,,Bistro Don Giovanni,2020-03-27,wayback,13.0,1
 don manhattan,,Bistro Don Giovanni,2020-09-21,wayback,14.0,2
@@ -1996,11 +1999,11 @@ edel gray whale gin,,Bistro Don Giovanni,2025-07-23,pdf,16.0,1
 edizione pennino by francis ford coppola,,Bistro Don Giovanni,2020-09-21,wayback,110.0,1
 edl,,Bistro Don Giovanni,2022-05-27,wayback,16.0,1
 egg and cheese,,Code 4 Taphouse,2025-11-15,exif,15.95,1
-egg salad,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-egg salad w cheese,,Genova Delicatessen,2026-08-11,fallback,13.95,1
+egg salad,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+egg salad w cheese,,Genova Delicatessen,2026-08-16,fallback,13.95,1
 egg white omelet,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
 eggplant,,Genova Delicatessen,2024-08-31,exif,15.95,1
-eggplant,,Genova Delicatessen,2026-08-11,fallback,15.95,1
+eggplant,,Genova Delicatessen,2026-08-16,fallback,15.95,1
 eggs benedict parisian ham model bakery english mu n hollandaise saut ed greens,,Angele Restaurant & Bar,2016-05-08,wayback,22.0,1
 egyptian chamomile select botanical caffeine free,,Angele Restaurant & Bar,2012-10-15,pdf,4.0,1
 egyptian chamomile select botanical caffeine free,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
@@ -2490,6 +2493,7 @@ fried deviled eggs cr me fra che mousse pomegranates pickled jalapen s,,Angele R
 fried deviled eggs herbes de provence cr me fra che pickled shallots,,Angele Restaurant & Bar,2017-06-11,wayback,12.0,1
 fried deviled eggs herbes de provence cr me fra che pickled shallots,,Angele Restaurant & Bar,2018-04-17,wayback,14.0,1
 fried deviled eggs herbes de provence cr me fra che pickled shallots,,Angele Restaurant & Bar,2018-06-19,wayback,14.0,1
+fried egg biscuit sandwich,,Burgerville,2026-05-11,exif,6.99,1
 fried egg biscuit sandwich with sausage or bacon,,Burgerville,2026-04-26,exif,3.99,1
 fried egg tartine herb butter shaved garden radishes toasted levain,,Angele Restaurant & Bar,2017-06-11,wayback,16.0,1
 fried green tomatoes,,Gott's Napa,2026-08-10,web,7.99,1
@@ -2586,9 +2590,9 @@ gazpacho,,Bistro Don Giovanni,2020-09-21,wayback,12.0,2
 gazpacho,,Bistro Don Giovanni,2025-07-23,pdf,16.0,1
 gelato e sorbetto,,Bistro Don Giovanni,2012-04-16,wayback,6.0,1
 gelato e sorbetto,,Bistro Don Giovanni,2025-05-14,pdf,10.0,1
-genitina,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-genoa salami,,Genova Delicatessen,2026-08-11,fallback,14.95,1
-genova vegi,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+genitina,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+genoa salami,,Genova Delicatessen,2026-08-16,fallback,14.95,1
+genova vegi,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 germain robin xo brandy,,Angele Restaurant & Bar,2012-10-15,pdf,22.0,1
 germain robin xo brandy,,Angele Restaurant & Bar,2014-09-20,wayback,22.0,1
 germain robin xo brandy,,Angele Restaurant & Bar,2015-02-21,wayback,22.0,1
@@ -2953,11 +2957,12 @@ hash browns,Regular,Burgerville,2015-06-23,pdf,0.75,1
 hash browns,,Gott's Napa,2013-04-02,wayback,1.99,1
 hash browns 2,,Burgerville,2010-01-17,pdf,1.29,1
 hash browns 2,,Burgerville,2010-05-15,pdf,1.29,1
+hashbrown,,Burgerville,2026-05-11,exif,1.99,1
 hashbrowns,LARGE,Burgerville,2026-04-26,exif,3.19,1
 hashbrowns,SMALL,Burgerville,2026-04-26,exif,1.89,1
 hawaiian,,Barney's Burgers,2024-01-15,dom,10.99,1
 hawaiian,,Barney's Burgers,2026-08-05,web,9.45,1
-headcheese,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+headcheese,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 hearty nw oatmeal,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,5.49,1
 heirloom roasted peppers,,Bistro Don Giovanni,2023-12-05,wayback,16.0,1
 heirloom tomatoes,,Bistro Don Giovanni,2020-09-21,wayback,18.0,1
@@ -3015,7 +3020,7 @@ honey cured ham,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,6.64,2
 honey mustard,,Burgerville,2026-08-10,web,0.5,1
 honey mustard,,Burgerville,2026-08-10,web,0.5,1
 honey mustard,,Gott's Napa,2026-08-10,web,4.99,1
-honey turkey,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+honey turkey,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 honig,,Bistro Don Giovanni,2020-09-21,wayback,36.0,1
 hot chocolate,,Bistro Don Giovanni,2012-04-16,wayback,3.75,1
 hot chocolate,,Burgerville,2014-08-15,pdf,2.75,1
@@ -3054,7 +3059,7 @@ hot italian,,Bistro Don Giovanni,2021-01-27,wayback,23.0,1
 hot italian,,Bistro Don Giovanni,2023-04-01,wayback,26.0,1
 hot italian,,Bistro Don Giovanni,2023-12-05,wayback,26.0,1
 hot italian,,Bistro Don Giovanni,2025-07-23,pdf,28.0,1
-hot salami,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+hot salami,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 hot sauce,,Five Guys,2023-11-27,exif,0.05,1
 hot sicilian,,Bistro Don Giovanni,2022-01-20,wayback,24.0,1
 hot sicilian sausage,,Bistro Don Giovanni,2020-09-21,wayback,23.0,1
@@ -3220,7 +3225,7 @@ isole e olena chianti classico,Half Bottle,Bistro Don Giovanni,2020-09-21,waybac
 italian blood orange caffeine free,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
 italian blood orange caffeine free,,Angele Restaurant & Bar,2015-02-21,wayback,4.0,1
 italian breakfast sandwich,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
-italian combo,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+italian combo,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 italian greyhound,,Bistro Don Giovanni,2017-01-10,wayback,11.0,1
 italian greyhound,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
 italian greyhound,,Bistro Don Giovanni,2020-03-27,wayback,12.0,1
@@ -3445,7 +3450,7 @@ large classic fries,Large,Burgerville,2026-08-10,web,4.89,1
 large drink,,Five Guys,2026-08-11,web,3.6,1
 large drink,,Five Guys,2026-08-11,web,3.2,1
 lasagna,,Genova Delicatessen,2024-08-31,exif,15.95,1
-lasagna,,Genova Delicatessen,2026-08-11,fallback,15.95,1
+lasagna,,Genova Delicatessen,2026-08-16,fallback,15.95,1
 lasagna bolognese,,Bistro Don Giovanni,2021-01-27,wayback,26.0,1
 lasagna bolognese,,Bistro Don Giovanni,2022-01-20,wayback,29.0,1
 latt,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,3.29,1
@@ -3759,7 +3764,7 @@ mayo packets,,Burgerville,2026-08-10,web,0.5,1
 mayo packets,,Burgerville,2026-08-10,web,0.5,1
 mazzei fonterutoli chianti classico,,Bistro Don Giovanni,2023-12-05,wayback,17.0,1
 mcflurry,,McDonald's,2022-04-16,exif,3.99,1
-meat ball or sausage,,Genova Delicatessen,2026-08-11,fallback,13.95,1
+meat ball or sausage,,Genova Delicatessen,2026-08-16,fallback,13.95,1
 meat ball or sausage sandwich w sauted onions peppers,,Genova Delicatessen,2024-08-31,exif,13.95,1
 meat lovers,,The Depot Eatery,2026-08-05,web,18.0,1
 meat n eggs,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,10.0,2
@@ -3824,7 +3829,7 @@ mighty leaf hot teas,,Bistro Don Giovanni,2022-05-27,wayback,4.0,1
 mighty leaf hot teas,,Bistro Don Giovanni,2023-04-01,wayback,4.0,1
 mighty leaf hot teas,,Bistro Don Giovanni,2023-12-05,wayback,4.0,2
 mike s cowboy burger,,The Depot Eatery,2026-08-05,web,19.0,1
-mild cheese,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+mild cheese,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 milk,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,2.19,1
 milk,,In-N-Out Burger,2026-06-25,exif,1.25,4
 milk,,In-N-Out Burger,2025-02-25,exif,0.95,1
@@ -3937,7 +3942,7 @@ monticelli brothers rolando rosso red blend,,Bistro Don Giovanni,2023-12-05,wayb
 moroccan mint green tea low caffeine,,Angele Restaurant & Bar,2012-10-15,pdf,4.0,1
 moroccan mint green tea low caffeine,,Angele Restaurant & Bar,2014-09-20,wayback,4.0,1
 moroccan mint green tea low caffeine,,Angele Restaurant & Bar,2015-02-21,wayback,4.0,1
-mortadella,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+mortadella,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 moscato dindarello maculan estate veneto 2008,,Bistro Don Giovanni,2012-04-16,wayback,13.0,1
 moscow mule,,Bistro Don Giovanni,2017-01-10,wayback,12.0,1
 moscow mule,,Bistro Don Giovanni,2019-09-19,wayback,12.0,1
@@ -4372,7 +4377,7 @@ pasticcini,,Bistro Don Giovanni,2012-04-16,wayback,7.0,1
 pasticcini,,Bistro Don Giovanni,2025-05-14,pdf,12.0,1
 pastis,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
 pastis mauresque tomate perroquet,,Angele Restaurant & Bar,2015-03-05,wayback,10.0,1
-pastrami,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+pastrami,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 pat maison,,Angele Restaurant & Bar,2015-02-21,wayback,16.0,3
 patty melt,,Barney's Burgers,2024-01-15,dom,10.99,1
 patty melt,,Barney's Burgers,2026-08-05,web,9.45,1
@@ -4431,8 +4436,8 @@ pepper bacon cheeseburger,Single,Burgerville,2015-01-30,pdf,5.79,1
 pepper bacon cheeseburger,Single,Burgerville,2015-04-20,pdf,5.79,1
 pepper bacon cheeseburger,Single,Burgerville,2015-06-23,pdf,5.89,1
 pepper crusted filet mignon crispy potato galette beef belly en cro te wild mushrooms salsify,,Angele Restaurant & Bar,2015-03-19,wayback,38.0,1
-pepper salami,,Genova Delicatessen,2026-08-11,fallback,14.95,1
-pepper turkey,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+pepper salami,,Genova Delicatessen,2026-08-16,fallback,14.95,1
+pepper turkey,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 peppercorn chicken caesar wrap,,Perez Kitchen & Bar,2026-08-05,pdf,17.0,1
 perez club,,Perez Kitchen & Bar,2026-08-05,pdf,20.0,1
 pernod,,Bistro Don Giovanni,2017-01-10,wayback,8.5,1
@@ -4537,7 +4542,7 @@ poisson frites,,Angele Restaurant & Bar,2015-02-21,wayback,18.0,2
 poisson frites fish and chips beer battered petrale sole caper remoulade charred citrus french fries,,Angele Restaurant & Bar,2014-01-24,wayback,18.0,1
 poitrine de veau farci,,Angele Restaurant & Bar,2012-10-21,wayback,29.0,1
 polenta,,Genova Delicatessen,2024-08-31,exif,15.95,1
-polenta,,Genova Delicatessen,2026-08-11,fallback,15.95,1
+polenta,,Genova Delicatessen,2026-08-16,fallback,15.95,1
 pollo alla diavola,,Bistro Don Giovanni,2017-01-10,wayback,27.0,1
 pollo alla diavola,,Bistro Don Giovanni,2019-09-19,wayback,28.0,1
 pollo alla diavola,,Bistro Don Giovanni,2020-03-27,wayback,28.0,1
@@ -4628,8 +4633,8 @@ profiteroles vanilla bean ice cream chocolate sauce,,Angele Restaurant & Bar,201
 prosciutto and kale wrapped monkfish forbidden black rice apple velout charred leeks,,Angele Restaurant & Bar,2015-03-19,wayback,28.0,1
 prosciutto di parma,,Bistro Don Giovanni,2020-03-27,wayback,18.0,1
 prosciutto di parma,,Bistro Don Giovanni,2022-05-27,wayback,24.0,1
-prosciutto diparma,,Genova Delicatessen,2026-08-11,fallback,16.95,1
-prosciutto diparma w cheese,,Genova Delicatessen,2026-08-11,fallback,17.45,1
+prosciutto diparma,,Genova Delicatessen,2026-08-16,fallback,16.95,1
+prosciutto diparma w cheese,,Genova Delicatessen,2026-08-16,fallback,17.45,1
 prosciutto e melone,,Bistro Don Giovanni,2010-09-22,wayback,12.0,1
 prosciutto fig sandwich,,Farmstead at Long Meadow Ranch,2021-05-06,wayback,25.0,1
 prosciutto fig sandwich,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,25.0,1
@@ -4683,7 +4688,7 @@ ravioli,,Bistro Don Giovanni,2023-12-05,wayback,31.0,2
 ravioli,,Bistro Don Giovanni,2025-07-23,pdf,34.0,1
 ravioli di zucca,,Bistro Don Giovanni,2017-01-10,wayback,18.0,1
 ravioli tortellini,,Genova Delicatessen,2024-08-31,exif,15.95,1
-ravioli tortellini,,Genova Delicatessen,2026-08-11,fallback,15.95,1
+ravioli tortellini,,Genova Delicatessen,2026-08-16,fallback,15.95,1
 raw scallop garden cucumbers avocado mousse lime sea greens,,Angele Restaurant & Bar,2016-08-04,wayback,18.0,1
 raw scallop garden cucumbers avocado mousse lime sea greens,,Angele Restaurant & Bar,2016-08-06,wayback,18.0,1
 raw scallop garden cucumbers avocado mousse lime sea greens,,Angele Restaurant & Bar,2016-09-10,wayback,18.0,1
@@ -4738,7 +4743,7 @@ risotto with parmigiano reggiano with shaved black truffles from perigord,,Angel
 risotto with parmigiano reggiano with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-02-25,wayback,38.0,1
 risotto with parmigiano reggiano with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-03-05,wayback,38.0,1
 risotto with parmigiano reggiano with shaved black truffles from perigord,,Angele Restaurant & Bar,2015-03-19,wayback,38.0,1
-roast beef,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+roast beef,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 roasted baby beet salad goat cheese candied walnuts sherry vinaigrette,,Angele Restaurant & Bar,2018-04-17,wayback,16.0,1
 roasted beets buckwheat cracker caraway goat cheese citrus red watercress,,Angele Restaurant & Bar,2015-02-15,pdf,16.0,1
 roasted beets buckwheat cracker caraway goat cheese citrus red watercress,,Angele Restaurant & Bar,2015-02-25,wayback,16.0,2
@@ -4854,7 +4859,7 @@ rosemary chicken sandwich,,Burgerville,2012-11-15,wayback,5.29,1
 rosemary chicken sandwich,,Burgerville,2013-07-15,pdf,5.39,1
 rosemary chicken sandwich,,Burgerville,2014-01-15,pdf,5.39,1
 rosemary chicken sandwich,,Burgerville,2014-08-15,pdf,5.39,1
-rosemary ham,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+rosemary ham,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 rosemary potato pancakes eggs,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,9.99,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2017-01-10,wayback,7.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2019-09-19,wayback,8.0,1
@@ -4864,7 +4869,7 @@ rosemary roasted potatoes,,Bistro Don Giovanni,2021-01-27,wayback,8.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2022-01-20,wayback,8.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2022-05-27,wayback,8.0,1
 rosemary roasted potatoes,,Bistro Don Giovanni,2023-04-01,wayback,8.0,1
-rotisserie chicken,,Genova Delicatessen,2026-08-11,fallback,15.95,1
+rotisserie chicken,,Genova Delicatessen,2026-08-16,fallback,15.95,1
 rotisserie chicken,1/2,Genova Delicatessen,2024-08-31,exif,15.95,1
 roulade de saumon,,Angele Restaurant & Bar,2012-04-09,wayback,27.0,1
 roulade de saumon,,Angele Restaurant & Bar,2012-04-15,pdf,27.0,1
@@ -4955,8 +4960,8 @@ salade verte,,Angele Restaurant & Bar,2012-01-05,wayback,9.0,1
 salade verte,,Angele Restaurant & Bar,2012-01-31,wayback,9.0,1
 salame toscano,,Bistro Don Giovanni,2020-03-27,wayback,23.0,1
 salami,,Bistro Don Giovanni,2017-01-10,wayback,19.0,1
-salami,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-salami cotto,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+salami,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+salami cotto,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 salanova lettuce,,Boon Fly Café,2026-07-04,exif,18.0,1
 salmon chowder,,Bistro Don Giovanni,2017-01-10,wayback,10.0,1
 salsa macha shrimp,,Perez Kitchen & Bar,2026-08-05,pdf,15.0,1
@@ -4982,8 +4987,8 @@ san pellegrino sparkling water,500ml,Bistro Don Giovanni,2020-09-21,wayback,4.0,
 san pellegrino sparkling water,500ml,Bistro Don Giovanni,2021-01-27,wayback,5.0,1
 sandra,,Perez Kitchen & Bar,2026-08-05,pdf,22.0,1
 sandwich,,Code 4 Taphouse,2025-11-15,exif,14.75,1
-sandwich reg,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-sandwich w cheese,,Genova Delicatessen,2026-08-11,fallback,13.95,1
+sandwich reg,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+sandwich w cheese,,Genova Delicatessen,2026-08-16,fallback,13.95,1
 santa margherita pinot grigio,,Bistro Don Giovanni,2020-03-27,wayback,13.0,1
 santa margherita pinot grigio,,Bistro Don Giovanni,2020-09-21,wayback,14.0,3
 santa margherita pinot grigio,,Bistro Don Giovanni,2021-01-27,wayback,14.0,1
@@ -5278,7 +5283,7 @@ smoked chicken egg,,Gott's Napa,2013-04-02,wayback,4.99,1
 smoked chicken po boy,,Gott's Napa,2012-05-15,wayback,10.99,2
 smoked chicken wings,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,19.0,1
 smoked pork hash,,Farmstead at Long Meadow Ranch,2026-06-15,pdf,38.0,1
-smoked turkey,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+smoked turkey,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 smoky bacon bloody mary,,Cartwright's Taprock Northwest Grill,2023-06-10,wayback,10.0,1
 snack size milkshake add on,,Burgerville,2013-07-15,pdf,1.85,2
 snack size milkshake add on,,Burgerville,2014-01-15,pdf,1.5,1
@@ -5337,7 +5342,7 @@ sonoma duck breast guanciale roulade jasmine rice with duck confit crispy spinac
 sonoma duck leg con t roasted baby potatoes fall pears,,Angele Restaurant & Bar,2015-11-06,wayback,34.0,1
 sonoma duck leg confit french lentil gooseberries watercress puree,,Angele Restaurant & Bar,2016-03-27,wayback,29.0,1
 soppressata,,Bistro Don Giovanni,2022-05-27,wayback,24.0,1
-sopressata,,Genova Delicatessen,2026-08-11,fallback,14.95,1
+sopressata,,Genova Delicatessen,2026-08-16,fallback,14.95,1
 sorbet du jour housemade sorbet,,Angele Restaurant & Bar,2014-09-20,wayback,7.0,1
 sorbet du jour housemade sorbet,,Angele Restaurant & Bar,2015-02-21,wayback,8.0,1
 soup of the day,,Bistro Don Giovanni,2010-09-22,wayback,9.0,1
@@ -5494,7 +5499,7 @@ springbank 10 yr,,Angele Restaurant & Bar,2012-10-15,pdf,13.0,1
 springbank 10 yr,,Angele Restaurant & Bar,2014-09-20,wayback,13.0,1
 springbank 10 yr,,Angele Restaurant & Bar,2015-02-21,wayback,13.0,1
 sprite,,Gott's Napa,2026-08-10,web,2.99,1
-sriracha chicken,,Genova Delicatessen,2026-08-11,fallback,12.95,1
+sriracha chicken,,Genova Delicatessen,2026-08-16,fallback,12.95,1
 st germaine,,Bistro Don Giovanni,2017-01-10,wayback,9.0,1
 st germaine,,Bistro Don Giovanni,2019-09-19,wayback,9.0,1
 st germaine,,Bistro Don Giovanni,2020-03-27,wayback,9.0,1
@@ -5615,6 +5620,7 @@ stumptown coffee,,Burgerville,2026-08-10,web,2.99,1
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-05-11,wayback,30.0,1
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2021-08-02,wayback,30.0,1
 stumptown coffee carrier,,Farmstead at Long Meadow Ranch,2024-06-19,wayback,30.0,1
+stumptown cold brew,,Burgerville,2026-05-11,exif,4.49,1
 stumptown cold brew,,Burgerville,2026-08-10,web,2.99,1
 stumptown cold brew with cold foam,,Burgerville,2026-08-10,web,2.99,1
 substitute beverage with small milkshake or smoothie,Small,Burgerville,2010-09-18,wayback,1.0,1
@@ -5757,7 +5763,7 @@ the bradford,,Bistro Don Giovanni,2025-07-23,pdf,16.0,1
 the bradford beefeater gin tonic lime,,Bistro Don Giovanni,2023-04-01,wayback,14.0,1
 the brunch burger,,The Depot Eatery,2026-08-05,web,17.0,1
 the chili,,The Depot Eatery,2026-08-05,web,17.0,1
-the colossal burger,1/2 lb,Burgerville,2026-08-11,fallback,7.99,1
+the colossal burger,1/2 lb,Burgerville,2026-08-16,fallback,7.99,1
 the don manhattan,,Bistro Don Giovanni,2017-01-10,wayback,13.0,1
 the grand lodge,,Cartwright's Taprock Northwest Grill,2014-08-01,wayback,10.69,1
 the last straw,,Angele Restaurant & Bar,2014-09-20,wayback,12.0,1
@@ -5833,7 +5839,7 @@ toppings,Small,Gott's Napa,2016-01-08,wayback,3.79,1
 torcolato maculan estate veneto 2006,,Bistro Don Giovanni,2012-04-16,wayback,18.0,1
 tormaresca rosato calafuria by antinori,,Bistro Don Giovanni,2020-09-21,wayback,36.0,1
 tortellini,,Angele Restaurant & Bar,2013-11-02,wayback,23.0,1
-toscano salami,,Genova Delicatessen,2026-08-11,fallback,14.95,1
+toscano salami,,Genova Delicatessen,2026-08-16,fallback,14.95,1
 tossed cobb salad,,Gott's Napa,2011-03-22,wayback,10.99,2
 tossed cobb salad,,Gott's Napa,2012-05-15,wayback,11.99,2
 tossed cobb salad,,Gott's Napa,2012-06-17,wayback,11.99,2
@@ -5883,8 +5889,8 @@ trumer pilsner draft,16oz,Gott's Napa,2014-08-11,wayback,6.0,1
 tuaca,,Angele Restaurant & Bar,2012-10-15,pdf,9.0,1
 tuaca,,Angele Restaurant & Bar,2014-09-20,wayback,9.0,1
 tuaca,,Angele Restaurant & Bar,2015-02-21,wayback,9.0,1
-tuna albacore,,Genova Delicatessen,2026-08-11,fallback,12.95,1
-tuna albacore w cheese,,Genova Delicatessen,2026-08-11,fallback,13.95,1
+tuna albacore,,Genova Delicatessen,2026-08-16,fallback,12.95,1
+tuna albacore w cheese,,Genova Delicatessen,2026-08-16,fallback,13.95,1
 tuna melt,,The Depot Eatery,2026-08-05,web,17.0,1
 turkey blt a sandwich,,The Depot Eatery,2026-08-05,web,18.0,1
 turkey burger,,Gott's Napa,2011-03-22,wayback,9.99,2
